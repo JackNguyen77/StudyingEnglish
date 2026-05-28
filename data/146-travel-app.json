@@ -15,38 +15,38 @@
       "pronunciation": "ai sêivd đờ bo(r)-ding pas in mai phôn bi-fo li-ving fo đờ e(r)-po(r)t.",
       "vi": "Tôi lưu thẻ lên máy bay trong điện thoại trước khi ra sân bay.",
       "start": 0.02,
-      "end": 4.69
+      "end": 4.78
     },
     {
       "index": 2,
       "text": "Mobile check-in saved time because the line was very long.",
       "pronunciation": "mô-bồ chék-in sêivd taim bi-kóz đờ lain wờz veri long.",
       "vi": "Check-in trên điện thoại tiết kiệm thời gian vì hàng rất dài.",
-      "start": 4.85,
-      "end": 9.4
+      "start": 4.94,
+      "end": 8.89
     },
     {
       "index": 3,
       "text": "A gate change appeared while I was buying coffee.",
       "pronunciation": "ờ gêit chênj ờ-piờrd quai ai wờz bai-ing ko-fi.",
       "vi": "Một thông báo đổi cổng hiện ra khi tôi đang mua cà phê.",
-      "start": 9.56,
-      "end": 12.72
+      "start": 9.05,
+      "end": 12.25
     },
     {
       "index": 4,
       "text": "The travel alert told me to walk to the other side of the terminal.",
       "pronunciation": "đờ tra-vồ ờ-lơrt tâu mi tu walk tu đờ other said ờv đờ tơr-mờ-nồ.",
       "vi": "Cảnh báo chuyến đi bảo tôi đi sang phía bên kia nhà ga.",
-      "start": 12.88,
-      "end": 17.01
+      "start": 12.41,
+      "end": 17.48
     },
     {
       "index": 5,
       "text": "I used offline mode because the airport Wi-Fi was weak.",
       "pronunciation": "ai yuzd of-lain mâu bi-kóz đờ e(r)-po(r)t quai-phai wờz wik.",
       "vi": "Tôi dùng chế độ offline vì Wi-Fi sân bay yếu.",
-      "start": 17.17,
+      "start": 17.64,
       "end": 21.59
     },
     {
@@ -55,14 +55,14 @@
       "pronunciation": "at đờ gêit, ai skannt đờ kode en quókt thru quík-li.",
       "vi": "Ở cổng, tôi quét mã và đi qua nhanh.",
       "start": 21.75,
-      "end": 25.32
+      "end": 25.7
     },
     {
       "index": 7,
       "text": "That quick check made the trip feel smoother and less stressful.",
       "pronunciation": "đat quík chék mêid đờ trip phiu smu-đờr en les stres-phồ.",
       "vi": "Lần kiểm tra nhanh đó làm chuyến đi mượt hơn và bớt căng thẳng.",
-      "start": 25.48,
+      "start": 25.86,
       "end": 29.8
     }
   ],
@@ -115,14 +115,14 @@
       "pronunciation": "at đờ gêit, ai skannt đờ kode en quókt thru quík-li.",
       "vi": "Ở cổng, tôi quét mã và đi qua nhanh.",
       "start": 24.65,
-      "end": 29.6
+      "end": 29.01
     },
     {
       "index": 7,
       "text": "That quick check made the trip feel smoother and less stressful.",
       "pronunciation": "đat quík chék mêid đờ trip phiu smu-đờr en les stres-phồ.",
       "vi": "Lần kiểm tra nhanh đó làm chuyến đi mượt hơn và bớt căng thẳng.",
-      "start": 29.76,
+      "start": 29.17,
       "end": 34.37
     }
   ],

@@ -15,14 +15,14 @@
       "pronunciation": "ai wờz sờ-pâuzd tu mit mai phren áp-tờ quớrk, bớt săm-thinh kêim ấp.",
       "vi": "Tôi đáng lẽ sẽ gặp bạn sau giờ làm, nhưng có chuyện phát sinh.",
       "start": 0.02,
-      "end": 4.25
+      "end": 4.84
     },
     {
       "index": 2,
       "text": "She sent me a message and asked if we could push it back a little.",
       "pronunciation": "shi sent mi ờ mé-sij en áskt if quy kud pu-shịt béc ờ li-đồ.",
       "vi": "Cô ấy nhắn cho tôi và hỏi liệu chúng tôi có thể dời lại một chút không.",
-      "start": 4.41,
+      "start": 5,
       "end": 8.97
     },
     {
@@ -75,14 +75,14 @@
       "pronunciation": "shi sent mi ờ mé-sij en áskt if quy kud pu-shịt béc ờ li-đồ.",
       "vi": "Cô ấy nhắn cho tôi và hỏi liệu chúng tôi có thể dời lại một chút không.",
       "start": 5.51,
-      "end": 10.99
+      "end": 9.83
     },
     {
       "index": 3,
       "text": "At first, I was a bit annoyed because I had already left home.",
       "pronunciation": "at phớrst, ai wờz ờ bít ờ-noid bi-kóz ai had ol-re-đi left hôm.",
       "vi": "Lúc đầu, tôi hơi bực vì tôi đã ra khỏi nhà rồi.",
-      "start": 11.15,
+      "start": 9.99,
       "end": 14.66
     },
     {
@@ -99,14 +99,14 @@
       "pronunciation": "ai tâu hờr ịt wờz nâu big điêu en phao ờ quai-ịt plêis tu quây.",
       "vi": "Tôi nói không sao đâu và tìm một chỗ yên tĩnh để đợi.",
       "start": 18.41,
-      "end": 26.33
+      "end": 23.52
     },
     {
       "index": 6,
       "text": "We ended up meeting thirty minutes later, and everything worked out fine.",
       "pronunciation": "quy en-đập mi-ting thơ-ti mi-nits lêi-tờ, en ev-ri-thinh quớrkt ao phain.",
       "vi": "Cuối cùng chúng tôi gặp nhau muộn hơn ba mươi phút, và mọi chuyện vẫn ổn.",
-      "start": 26.49,
+      "start": 23.68,
       "end": 29.92
     }
   ],
@@ -125,14 +125,14 @@
       "pronunciation": "shi sent mi ờ mé-sij en áskt if quy kud pu-shịt béc ờ li-đồ.",
       "vi": "Cô ấy nhắn cho tôi và hỏi liệu chúng tôi có thể dời lại một chút không.",
       "start": 4.07,
-      "end": 8.53
+      "end": 7.47
     },
     {
       "index": 3,
       "text": "At first, I was a bit annoyed because I had already left home.",
       "pronunciation": "at phớrst, ai wờz ờ bít ờ-noid bi-kóz ai had ol-re-đi left hôm.",
       "vi": "Lúc đầu, tôi hơi bực vì tôi đã ra khỏi nhà rồi.",
-      "start": 8.69,
+      "start": 7.63,
       "end": 11.65
     },
     {

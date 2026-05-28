@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-28T02:51:30.787Z",
+  "generatedAt": "2026-05-28T06:53:29.947Z",
   "lessonCount": 300,
   "lessons": [
     {
@@ -18,8 +18,8 @@
       "files": [
         {
           "path": "data/001-short-video.json",
-          "bytes": 5036,
-          "sha256": "9b17ceb619881511652a5018d2d42ed4ccc0575bdbf060101c59d1a387d599a4"
+          "bytes": 5032,
+          "sha256": "5dee6d49d0dde4edd458e278e996080cf1c78bdea7223c95789b520bb06c914b"
         },
         {
           "path": "stories/001-short-video.md",
@@ -58,8 +58,8 @@
       "files": [
         {
           "path": "data/002-keep-watching.json",
-          "bytes": 5553,
-          "sha256": "488d6ed414bbdc475f9106d1cb4743c496b3422c3b9f6a2d3533d6651ab6dee2"
+          "bytes": 5552,
+          "sha256": "f406c39ac3b2f54a19e06081334a98a93cdbf13ae534e66f84731227d0cf7956"
         },
         {
           "path": "stories/002-keep-watching.md",
@@ -178,8 +178,8 @@
       "files": [
         {
           "path": "data/005-order-coffee.json",
-          "bytes": 5338,
-          "sha256": "0b83944914bb3ecf3b015ff6c10e584fc8e41ad2da33b742e96eee4e6689a87e"
+          "bytes": 5339,
+          "sha256": "a55a48c75ad5639b87434a7c388f86d06588c7ee016476249f38a11d498ed49e"
         },
         {
           "path": "stories/005-order-coffee.md",
@@ -218,8 +218,8 @@
       "files": [
         {
           "path": "data/006-try-a-recipe.json",
-          "bytes": 5221,
-          "sha256": "40714e6f48a0c98d243fe618685b2710193b2faf70178964d017ff7e0ffc6b8d"
+          "bytes": 5222,
+          "sha256": "7ce41caca8bbf767d11e0d8694dca4ae2c12a23eb9fda0213a98a43dac451afa"
         },
         {
           "path": "stories/006-try-a-recipe.md",
@@ -258,8 +258,8 @@
       "files": [
         {
           "path": "data/007-comment-section.json",
-          "bytes": 5318,
-          "sha256": "f2d7652eea8392784a65a4a2e6ff1c1d941f05c8ff6e798f850b15eba1b16b44"
+          "bytes": 5317,
+          "sha256": "50c977541141ec37030df78bdc19d10910bb62a3a3e6783a3bbd31c946d6fa77"
         },
         {
           "path": "stories/007-comment-section.md",
@@ -298,8 +298,8 @@
       "files": [
         {
           "path": "data/008-clean-up-room.json",
-          "bytes": 6062,
-          "sha256": "770723d4c08c77148ad9b8f481039e6f6d8c6c0d5f59ae275d1c6c77bdd14d0a"
+          "bytes": 6060,
+          "sha256": "7822fea7e8c6aee3fcec5d23dd68903bcb8c442b4304969ede7252175fb6c513"
         },
         {
           "path": "stories/008-clean-up-room.md",
@@ -339,7 +339,7 @@
         {
           "path": "data/009-ask-for-help.json",
           "bytes": 6275,
-          "sha256": "0e674c6b285dad0e483263075f20754f4b746e61596e6dba424dfd4bebee7b0f"
+          "sha256": "3cb5de398ae05d58380eb06ded4d089f2b802a394ba0f63e4ae0d09ebb172d73"
         },
         {
           "path": "stories/009-ask-for-help.md",
@@ -419,7 +419,7 @@
         {
           "path": "data/011-check-the-weather.json",
           "bytes": 6007,
-          "sha256": "515d4debd06a7f4f2570afdf19d1a7109c3bde838bb3f6b3cc7852db62d301cd"
+          "sha256": "c70cca5fe731503ba950dcdfbd2be9ffd864a06f04b8e20fd4f40b05b1a22b14"
         },
         {
           "path": "stories/011-check-the-weather.md",
@@ -458,8 +458,8 @@
       "files": [
         {
           "path": "data/012-send-a-message.json",
-          "bytes": 6104,
-          "sha256": "b5467d8fe778cabcd081bf790d7b6d79497d43dee5e044a8bdbabde662e08b20"
+          "bytes": 6103,
+          "sha256": "f09b83820babb0f8c02107e3ab0e19a4b92a3a04619956b4bb3ebae75d7c93f6"
         },
         {
           "path": "stories/012-send-a-message.md",
@@ -499,7 +499,7 @@
         {
           "path": "data/013-watch-a-tutorial.json",
           "bytes": 6397,
-          "sha256": "969788335efb63e0ff34247815441ef1e93fca82e67b5c5a1579622f81146231"
+          "sha256": "81d3c3b20619794c05fc5ea56be85307c521e70c40e20b66802d8f375def9a0c"
         },
         {
           "path": "stories/013-watch-a-tutorial.md",
@@ -539,7 +539,7 @@
         {
           "path": "data/014-buy-something-online.json",
           "bytes": 6321,
-          "sha256": "719355ffe94853967f3ec12adf3d805ea757c17b20e98b9bce87b5b14c296c7e"
+          "sha256": "1fd913ed2e0d25d90d28a44a73edafccb8c9f3a0670a9d49d5ef85e53136d0e6"
         },
         {
           "path": "stories/014-buy-something-online.md",
@@ -578,8 +578,8 @@
       "files": [
         {
           "path": "data/015-share-progress.json",
-          "bytes": 6381,
-          "sha256": "90b0cf1448fdf9ed0868cb753ba8df754bfee0de9bc42bb16623153fe6a84da5"
+          "bytes": 6386,
+          "sha256": "2484a2601309433723616345b75117323c4d94dd84668291abace9566422fbb1"
         },
         {
           "path": "stories/015-share-progress.md",
@@ -618,8 +618,8 @@
       "files": [
         {
           "path": "data/016-change-plans.json",
-          "bytes": 6834,
-          "sha256": "c3201e23a41eccebef2caea36e8082f20bca68f1643bfd1976b30e4f39e09212"
+          "bytes": 6829,
+          "sha256": "f7fb1641d0724734a63234d626c4d2b52fef8d6d76a78b5916a5d642c3fcaf0b"
         },
         {
           "path": "stories/016-change-plans.md",
@@ -659,7 +659,7 @@
         {
           "path": "data/017-miss-the-bus.json",
           "bytes": 6323,
-          "sha256": "0e8869250504a6331ec74c04b7f8019e9d633c3acca32caea410840a288ab3f9"
+          "sha256": "44033df34481bf15bc886ca64f6530c4fa57bec5b5ebd2d702c5578172916ba4"
         },
         {
           "path": "stories/017-miss-the-bus.md",
@@ -698,8 +698,8 @@
       "files": [
         {
           "path": "data/018-grocery-shopping.json",
-          "bytes": 6261,
-          "sha256": "c27de9bed7f91f3f23da3c8556d730e974b5a3a0bf1baec1142c2519f3cf84e2"
+          "bytes": 6258,
+          "sha256": "c5864c873c4b91c54123f2a313af1a4c6fbff4aa4d429082da62a09f1d00aa9d"
         },
         {
           "path": "stories/018-grocery-shopping.md",
@@ -739,7 +739,7 @@
         {
           "path": "data/019-low-battery.json",
           "bytes": 6115,
-          "sha256": "5d7a7a7a0e9fbe4245a6eb55ff8a451b5de89c96a213030a4c597154a02aac62"
+          "sha256": "ffe0a062e3ab6d5cbcfbdb148c29c9fa4e63fb4a30218e04ca3d4ef926a8bfec"
         },
         {
           "path": "stories/019-low-battery.md",
@@ -859,7 +859,7 @@
         {
           "path": "data/022-try-a-new-app.json",
           "bytes": 6013,
-          "sha256": "9be878f74cb6dc5d320a3b53d9ea72f568c83df515d74377dffb0006e6330da2"
+          "sha256": "322d69b212666cca96c562d5d1d4b6622d95b06fe257df62873fd5071e615b43"
         },
         {
           "path": "stories/022-try-a-new-app.md",
@@ -978,8 +978,8 @@
       "files": [
         {
           "path": "data/025-watch-a-movie.json",
-          "bytes": 6029,
-          "sha256": "4ad157a3bfb9d5a975f37a7f21a1e3675b44da335c5dfd58b9887fb55d24fec7"
+          "bytes": 6031,
+          "sha256": "ff92c43c3474615f60c4cf98946f79e98e7ba1aeed456d882775f54e61154715"
         },
         {
           "path": "stories/025-watch-a-movie.md",
@@ -1018,8 +1018,8 @@
       "files": [
         {
           "path": "data/026-lost-wallet.json",
-          "bytes": 5789,
-          "sha256": "48019f32925abefe7947a0ab55479055d54e5fcbbf2db5999f611f35af1b573e"
+          "bytes": 5790,
+          "sha256": "a3c32323ef8db87773f88b06c27cdc9ff3413e18b06a9d4e04567d6ab0eda3e0"
         },
         {
           "path": "stories/026-lost-wallet.md",
@@ -1058,8 +1058,8 @@
       "files": [
         {
           "path": "data/027-save-money.json",
-          "bytes": 5895,
-          "sha256": "5b4af99720eaa59b0e64df5ce29138283d6db9db2e395d71474cb4999661d349"
+          "bytes": 5892,
+          "sha256": "8c6e4fc314922b44d22800ecde5852ab1e5ccd4660dfa06dc2efeac025395c62"
         },
         {
           "path": "stories/027-save-money.md",
@@ -1098,8 +1098,8 @@
       "files": [
         {
           "path": "data/028-bad-sleep.json",
-          "bytes": 5702,
-          "sha256": "d924b16116d39efae33b8205f5bca28d28523eb29d573c8b8e9a2454964aa1ee"
+          "bytes": 5703,
+          "sha256": "c21ec63aa2d7de268a218d6e9ec09211855c57c4292bf32e669176db1b314cce"
         },
         {
           "path": "stories/028-bad-sleep.md",
@@ -1298,8 +1298,8 @@
       "files": [
         {
           "path": "data/033-define-the-scope.json",
-          "bytes": 6613,
-          "sha256": "522aba1b44838143c48dc04859b1a3431b5eb3fbf84ce14aa6ff18a75ce84940"
+          "bytes": 6614,
+          "sha256": "e66cce68ea755fe0986fa2baed8394d86178980688f79536ac588d2ac43c4fce"
         },
         {
           "path": "stories/033-define-the-scope.md",
@@ -1338,8 +1338,8 @@
       "files": [
         {
           "path": "data/034-share-a-status-update.json",
-          "bytes": 6614,
-          "sha256": "b490f71dafab1f19f675399a0403583b1e078255cbc50e1e5d6f335dcc07cd1b"
+          "bytes": 6615,
+          "sha256": "4f1db7d731f268515a20233d946170a7019b3ace4e73cef73e51669ea5c0c040"
         },
         {
           "path": "stories/034-share-a-status-update.md",
@@ -1458,8 +1458,8 @@
       "files": [
         {
           "path": "data/037-reschedule-a-meeting.json",
-          "bytes": 6391,
-          "sha256": "b448e805f75dec03560a3c86a959dc91e9b6cad0c3ff05ee6cb42993cc7c919e"
+          "bytes": 6392,
+          "sha256": "f5c56b72d9ece22932f081d75cd268c37aadd282aaf7e2534613e31eaf9d1757"
         },
         {
           "path": "stories/037-reschedule-a-meeting.md",
@@ -1538,8 +1538,8 @@
       "files": [
         {
           "path": "data/039-meeting-notes.json",
-          "bytes": 5936,
-          "sha256": "6d2a30f02a13167582dc70f6160d3d55a8e44901258e3aaffb1b73a2d9f4bd48"
+          "bytes": 5932,
+          "sha256": "67eafcb7353c5e7f3ee0fe867db18277238ae673b976715cf87d780a9bf4fae6"
         },
         {
           "path": "stories/039-meeting-notes.md",
@@ -1578,8 +1578,8 @@
       "files": [
         {
           "path": "data/040-close-the-loop.json",
-          "bytes": 6004,
-          "sha256": "cd1267085325515052f9f349cb3ea84687913af5cf39a4bd0057f812f141eec0"
+          "bytes": 6005,
+          "sha256": "5e7dd1b74b862d28d4a3ebc10e0627088dd7f7991137049dc31e33c42f7f1f74"
         },
         {
           "path": "stories/040-close-the-loop.md",
@@ -1618,8 +1618,8 @@
       "files": [
         {
           "path": "data/041-set-expectations.json",
-          "bytes": 7958,
-          "sha256": "5dbd2ebf26b0710ccf7812089c41782764351b21e301d41667936c8c0d3aad3d"
+          "bytes": 7954,
+          "sha256": "c654e16b8710c239ee33a5d06cca858cd2a4e49fd41442a105f7ab50e131bbe4"
         },
         {
           "path": "stories/041-set-expectations.md",
@@ -1659,7 +1659,7 @@
         {
           "path": "data/042-project-timeline.json",
           "bytes": 8141,
-          "sha256": "ba559cb55382f35485d017fee0079f09a049570a5423d7bc1531dd8aa506ced6"
+          "sha256": "b2de4f0e1aef3148f254fbc9ec0cb1567d988d7a6bcadd943e7ba4b9b177e22a"
         },
         {
           "path": "stories/042-project-timeline.md",
@@ -1698,8 +1698,8 @@
       "files": [
         {
           "path": "data/043-task-owner.json",
-          "bytes": 7872,
-          "sha256": "1daee88e9066766663506aaccbe6775c6554ef0b298cb59edf82e3c0ef24fa2b"
+          "bytes": 7871,
+          "sha256": "bcb35b66e219169aa78216623b0cb21821b2d0acc9206040fffb445ecf44695a"
         },
         {
           "path": "stories/043-task-owner.md",
@@ -1738,8 +1738,8 @@
       "files": [
         {
           "path": "data/044-meeting-agenda.json",
-          "bytes": 7883,
-          "sha256": "e93ed5c3732089a17045afc4e0993743e085794495cf2c4f60b85a11d2bced7b"
+          "bytes": 7884,
+          "sha256": "bd06e5b56300cde485dda160e7cf3bc1e3c14ea8c0fbf5be135db7a563085653"
         },
         {
           "path": "stories/044-meeting-agenda.md",
@@ -1818,8 +1818,8 @@
       "files": [
         {
           "path": "data/046-time-estimate.json",
-          "bytes": 7952,
-          "sha256": "c096be2795ac3f5a68ca125d12de148464b9a16f6137259162d30e3b64cf8604"
+          "bytes": 7953,
+          "sha256": "eec66a236643150e5792aa4622bcc999309749ec2ee87e5caad8154a98d36bd9"
         },
         {
           "path": "stories/046-time-estimate.md",
@@ -1898,8 +1898,8 @@
       "files": [
         {
           "path": "data/048-dependency.json",
-          "bytes": 7262,
-          "sha256": "62305277311dbfe33f052472efb6362e2764ed0de691c418f393376bb4651832"
+          "bytes": 7263,
+          "sha256": "f2012f88354d08c57415037ef7f679ffc8d44433a73f5b64084e0f13e7ad8be7"
         },
         {
           "path": "stories/048-dependency.md",
@@ -1939,7 +1939,7 @@
         {
           "path": "data/049-approval.json",
           "bytes": 7273,
-          "sha256": "eb0daa0577bd7ec83254f106e2c67e1559db24345e7a6e2a98e9fa6429c64f64"
+          "sha256": "b690c70234c7600105cf3b34a4d1fcf0a19f146e79f62026df9688d8242df7b5"
         },
         {
           "path": "stories/049-approval.md",
@@ -2019,7 +2019,7 @@
         {
           "path": "data/051-release-plan.json",
           "bytes": 7257,
-          "sha256": "242857165d166ffe65ab62d44b7cf925a7bbd7bde095a5e7951341804bf8b799"
+          "sha256": "f991bb704dbf3d9bcd9345fd78e012a840b7d01f9dfecfc7099cf11f9dd52419"
         },
         {
           "path": "stories/051-release-plan.md",
@@ -2058,8 +2058,8 @@
       "files": [
         {
           "path": "data/052-documentation.json",
-          "bytes": 7285,
-          "sha256": "2335b08c9675f523ef1ad5daba9a84dd417d2b95dd84a1700a3e23f177ae3218"
+          "bytes": 7284,
+          "sha256": "5b4d7c95368b4f54a5910d22b94164b26231ecfe98861e569f002096660203cc"
         },
         {
           "path": "stories/052-documentation.md",
@@ -2178,8 +2178,8 @@
       "files": [
         {
           "path": "data/055-small-fix.json",
-          "bytes": 6916,
-          "sha256": "bb8ed9972b2f2b03a9572b3b0892def41a43070f064b54d60feb2ae5587796a1"
+          "bytes": 6914,
+          "sha256": "2ab47955fbc354a537176dcdb1167659edf94c61e49b6d5bb4e332fc143d2847"
         },
         {
           "path": "stories/055-small-fix.md",
@@ -2339,7 +2339,7 @@
         {
           "path": "data/059-handover-note.json",
           "bytes": 7344,
-          "sha256": "d73444db2c77617efad0abd675db35cff0d353cd399b7e6b1c337e604d1b0198"
+          "sha256": "8f3df9ffde279c32317131674d7f498d627af520466405020f5bd1a605289ac6"
         },
         {
           "path": "stories/059-handover-note.md",
@@ -2379,7 +2379,7 @@
         {
           "path": "data/060-weekly-plan.json",
           "bytes": 7124,
-          "sha256": "5c53617998744458cb0c32b0bc265f767bc0973e2368b3dfb257967b73e8ba74"
+          "sha256": "d9aa874d877066848a6ead5bdc05aa5be17511ca9fa94dfc88c30225d6891f1c"
         },
         {
           "path": "stories/060-weekly-plan.md",
@@ -2419,7 +2419,7 @@
         {
           "path": "data/061-requirement.json",
           "bytes": 8096,
-          "sha256": "ce6e68ea69a8136d38fbfbd261eedf3211edfa193ab16659d2ec19853bb2bbb7"
+          "sha256": "0df13b285d8263f3f300330b1cd2215ec2672a369e08a15a1ee796b3651ad026"
         },
         {
           "path": "stories/061-requirement.md",
@@ -2458,8 +2458,8 @@
       "files": [
         {
           "path": "data/062-pain-point.json",
-          "bytes": 8188,
-          "sha256": "d54809387b4b741558939630cb46fdd41f15d1fd01046cd9e047041566b0219b"
+          "bytes": 8182,
+          "sha256": "b530ae52664773c4117acdebec7a9279376b5e2d41868a4e4ae5364a7b9dec1f"
         },
         {
           "path": "stories/062-pain-point.md",
@@ -2539,7 +2539,7 @@
         {
           "path": "data/064-edge-case.json",
           "bytes": 8134,
-          "sha256": "f64aaabab12bf12ce72cf8e49c8863e6c620c3ede5dda68e6b986f8dc3f5e40c"
+          "sha256": "e2caf2f8d0d49239dd6ef1475f62abf50e8f18fb34d92a52a71d6755b119216a"
         },
         {
           "path": "stories/064-edge-case.md",
@@ -2578,8 +2578,8 @@
       "files": [
         {
           "path": "data/065-workaround.json",
-          "bytes": 8264,
-          "sha256": "f00fdca3e0cd043bc33fb083179838c25e92751c17fbdd52c47bccb6831c0984"
+          "bytes": 8260,
+          "sha256": "23bc9450328ebc882b4584e473fe31ecefcdfef87fc9acf3b2eb98da91b6bdf5"
         },
         {
           "path": "stories/065-workaround.md",
@@ -2658,8 +2658,8 @@
       "files": [
         {
           "path": "data/067-realistic-timeline.json",
-          "bytes": 8239,
-          "sha256": "ea8941d0b511003948a949f33594c22f332269937a47e78d4b83cad2c4fd17c6"
+          "bytes": 8240,
+          "sha256": "b08df98ad4cbdf4bb8b98d0e231d6cfddba767809df68d02607c101c25b1e3fb"
         },
         {
           "path": "stories/067-realistic-timeline.md",
@@ -2738,8 +2738,8 @@
       "files": [
         {
           "path": "data/069-user-feedback.json",
-          "bytes": 8241,
-          "sha256": "1f8d0b7ae5f472ae35f2f8c6cad49a53678b5b7107ef07cafe433180bf925ef0"
+          "bytes": 8238,
+          "sha256": "440af69fe1a7ae275d1774053ce567dae4b3a00e9f48dd68ddf5644fa6a76a04"
         },
         {
           "path": "stories/069-user-feedback.md",
@@ -2779,7 +2779,7 @@
         {
           "path": "data/070-data-import.json",
           "bytes": 8111,
-          "sha256": "e7eaa69ffa5b8909c6657fac1e1c686341e6c6688a15a5dbfb9104873b040f8f"
+          "sha256": "d4c4811c63d6b4057eac01c4c0baa05f87ae11172dd521945e7d34beab0d9675"
         },
         {
           "path": "stories/070-data-import.md",
@@ -2818,8 +2818,8 @@
       "files": [
         {
           "path": "data/071-report-layout.json",
-          "bytes": 8188,
-          "sha256": "4ee22b52b56f616358351820109c0c91f2e2b6be6fb66a6e6597121d26845795"
+          "bytes": 8187,
+          "sha256": "67f2cb2cbae8872d9b48d08c5d17a7d7a68ce805ec20326f1fe5827934c1eea1"
         },
         {
           "path": "stories/071-report-layout.md",
@@ -2858,8 +2858,8 @@
       "files": [
         {
           "path": "data/072-access-issue.json",
-          "bytes": 8168,
-          "sha256": "992d9da260e1005194699f1f1bac4bd9fda68a6c978f936f55f5dc81996abdb8"
+          "bytes": 8165,
+          "sha256": "ce1da5a15c26bd6cc7e4d360abd1cad1827d5bbe506139deb861e3dabcd0509d"
         },
         {
           "path": "stories/072-access-issue.md",
@@ -2899,7 +2899,7 @@
         {
           "path": "data/073-approval-flow.json",
           "bytes": 8159,
-          "sha256": "5bd869869cba94d587a304f37928f05d726ae1ae41d56e89b8df89c5fd799c73"
+          "sha256": "309ed44d63556d8aeea32499528b1fa34d607a1ef87c228742954e6d3a2f1be7"
         },
         {
           "path": "stories/073-approval-flow.md",
@@ -2939,7 +2939,7 @@
         {
           "path": "data/074-training-plan.json",
           "bytes": 8319,
-          "sha256": "0132f96c7efce9a874d8afe3e470254e4924b8638b01f65dd817111ca182fd67"
+          "sha256": "0b765c68c9eb3b653f64fa0999ecd9f8c8dd13a64f113da46307e1ef04f986f4"
         },
         {
           "path": "stories/074-training-plan.md",
@@ -2978,8 +2978,8 @@
       "files": [
         {
           "path": "data/075-rollout-plan.json",
-          "bytes": 8105,
-          "sha256": "64720b992ed476cc397573c9ac11c9a250f7a499068020df6ec9f735e0353961"
+          "bytes": 8104,
+          "sha256": "e8f8d5799a7e582b01a5aaa84ea9ff6bd459888a95310bdc0545edbff49079d4"
         },
         {
           "path": "stories/075-rollout-plan.md",
@@ -3018,8 +3018,8 @@
       "files": [
         {
           "path": "data/076-migration-plan.json",
-          "bytes": 8126,
-          "sha256": "348e797019ecbadf4f43dbac7acb3ca075a462277bef5dca4bdf5354f8ad99ab"
+          "bytes": 8128,
+          "sha256": "4998a9f49aa2a6d3c1e0e5754aaec259946f5b712370ccaaf7ce1a76a7f037cc"
         },
         {
           "path": "stories/076-migration-plan.md",
@@ -3058,8 +3058,8 @@
       "files": [
         {
           "path": "data/077-invoice-flow.json",
-          "bytes": 8139,
-          "sha256": "7d4680729adf6f6130d4da285bf49fafaede3c66bfe81e4a759a9253c1544298"
+          "bytes": 8143,
+          "sha256": "51f6e7f2ee116cb324d6dcbaf6d9a4b1cff65e2f71c67ebce5700cc810d04caf"
         },
         {
           "path": "stories/077-invoice-flow.md",
@@ -3098,8 +3098,8 @@
       "files": [
         {
           "path": "data/078-user-role.json",
-          "bytes": 8191,
-          "sha256": "1dab21d2507e60f94f6a79b6e5a6c9be650e5427b62fc7dfd7a8816c0403755c"
+          "bytes": 8193,
+          "sha256": "9ad372e6b04934638204cde6eeb13e2298a178ddcb8c374dbc34d88877bab57c"
         },
         {
           "path": "stories/078-user-role.md",
@@ -3139,7 +3139,7 @@
         {
           "path": "data/079-dashboard-view.json",
           "bytes": 8141,
-          "sha256": "1808b54d6620c413a293730d964caf3bc5b60909f038b818986a515801bc399f"
+          "sha256": "e73a40e94f198749b9d2500d106648393f7f4fd678e7d798b04f3a0f5dff0f9e"
         },
         {
           "path": "stories/079-dashboard-view.md",
@@ -3178,8 +3178,8 @@
       "files": [
         {
           "path": "data/080-configuration.json",
-          "bytes": 8229,
-          "sha256": "6b42c3ff6f2a164da336ebbfe194f3b10b3265fc1c0efb838ac909489d067586"
+          "bytes": 8230,
+          "sha256": "adfad590b9787454ab736f676e78b9b6687354a182a5a121cb0cbdccf98186b9"
         },
         {
           "path": "stories/080-configuration.md",
@@ -3218,8 +3218,8 @@
       "files": [
         {
           "path": "data/081-custom-field.json",
-          "bytes": 8247,
-          "sha256": "53810a8fd063d4c21ab662fbe831494eb3584db42ad31619b471e00f2587a342"
+          "bytes": 8249,
+          "sha256": "a5c655fb62072d42f3c077d8520f9d92c01f18ec60820ae089bd9a19535b625c"
         },
         {
           "path": "stories/081-custom-field.md",
@@ -3258,8 +3258,8 @@
       "files": [
         {
           "path": "data/082-integration.json",
-          "bytes": 8143,
-          "sha256": "1b50495654032c253d4d07cdfe2485310b53e1bd38eb381b8b83808edd15e66a"
+          "bytes": 8146,
+          "sha256": "4c0630890e703fa30e84d92bdf4e9c2c6c4792458bb76a4d62603c4b68897fed"
         },
         {
           "path": "stories/082-integration.md",
@@ -3298,8 +3298,8 @@
       "files": [
         {
           "path": "data/083-data-quality.json",
-          "bytes": 8295,
-          "sha256": "7936220a673550bfd66b6017ee5298648cb10e90da1782ec2e604f1f6f185893"
+          "bytes": 8294,
+          "sha256": "d7b2762609f4afe968bc142d209b27da925b4ceb33c0dbe48856b2b471aab656"
         },
         {
           "path": "stories/083-data-quality.md",
@@ -3378,8 +3378,8 @@
       "files": [
         {
           "path": "data/085-priority-list.json",
-          "bytes": 8113,
-          "sha256": "3ea1a493bde83a715ed1b93a649c2cd8ac14cea6131e5bc6c02cc444c77a54c4"
+          "bytes": 8116,
+          "sha256": "abee7bf85ba390c71d2569ba9db292ceb5ccbd4a3004b566a924067a234cf071"
         },
         {
           "path": "stories/085-priority-list.md",
@@ -3418,8 +3418,8 @@
       "files": [
         {
           "path": "data/086-acceptance-criteria.json",
-          "bytes": 8329,
-          "sha256": "1ee2da955d170ac24080055714471f6e7f0716ffa6019d824bb2f80519deba0d"
+          "bytes": 8332,
+          "sha256": "01e8f0f1c5fada31266469d5035a1a6964cb6760770a93a5f45971ca5598e4e1"
         },
         {
           "path": "stories/086-acceptance-criteria.md",
@@ -3459,7 +3459,7 @@
         {
           "path": "data/087-test-scenario.json",
           "bytes": 8023,
-          "sha256": "66adf573fa285fc7b994cbb53d301b083f25a0aea6d5770c919331972f8e6e32"
+          "sha256": "88e0ca3478495e5dd96b0d6805b2661e58582931bdecb121ff913bbd6d51b156"
         },
         {
           "path": "stories/087-test-scenario.md",
@@ -3498,8 +3498,8 @@
       "files": [
         {
           "path": "data/088-support-request.json",
-          "bytes": 8130,
-          "sha256": "30ef5a941b88aee9678f815cfa5f51109446371d31e87ffbd084c7b3337f1353"
+          "bytes": 8129,
+          "sha256": "5e258f3b35ecd28845a30607554e87d8211decff39a9d810d26f30197f4daeb7"
         },
         {
           "path": "stories/088-support-request.md",
@@ -3538,8 +3538,8 @@
       "files": [
         {
           "path": "data/089-final-decision.json",
-          "bytes": 8287,
-          "sha256": "3b6071f95ff9ac5089c29713069d61fc698c9053005439bcfdb6e5cdf5167d93"
+          "bytes": 8284,
+          "sha256": "6ae5ce2c4be3b26cb3b73bac52d4ee6865f4778a533b1cf08bad4b686e1bba41"
         },
         {
           "path": "stories/089-final-decision.md",
@@ -3578,8 +3578,8 @@
       "files": [
         {
           "path": "data/090-success-measure.json",
-          "bytes": 8290,
-          "sha256": "9e72833d088920b0d2140462796334882b58ba6accdc0f4dc67b94c685a2ff38"
+          "bytes": 8287,
+          "sha256": "6026b34a9eee91ac01c43882cb2fbf23bfce548666cb67d12f590086272d4cc4"
         },
         {
           "path": "stories/090-success-measure.md",
@@ -3658,8 +3658,8 @@
       "files": [
         {
           "path": "data/092-recent-change.json",
-          "bytes": 7675,
-          "sha256": "4a70376af7a498a7f0fdb14f28b0e9a43ef46d880938f3dc1a55568629a0ae1f"
+          "bytes": 7678,
+          "sha256": "1d7a7631b7f16d5843f32e29637232e6b973e1a6b9f1666401b87d7fba359499"
         },
         {
           "path": "stories/092-recent-change.md",
@@ -3699,7 +3699,7 @@
         {
           "path": "data/093-public-concern.json",
           "bytes": 7716,
-          "sha256": "c7e525b42ce92cf0a1c7b4315894bb13e358c603b6b64b55cc88313b2c225908"
+          "sha256": "28154edbbd2e001287e2d2a79873723f98ea85a5e6e5ef98b1293ec7eabccd9e"
         },
         {
           "path": "stories/093-public-concern.md",
@@ -3738,8 +3738,8 @@
       "files": [
         {
           "path": "data/094-local-impact.json",
-          "bytes": 7558,
-          "sha256": "cab70ca69a682ba4c178769bda51d41b625f6cc3e87f4000edafcf77de145feb"
+          "bytes": 7557,
+          "sha256": "1a4da607064301e48935cbec5dd04cf1caa76d34dca28893750c6cf951adecd1"
         },
         {
           "path": "stories/094-local-impact.md",
@@ -3818,8 +3818,8 @@
       "files": [
         {
           "path": "data/096-short-term-solution.json",
-          "bytes": 7714,
-          "sha256": "e149d87bb9395ee943cc66b720e9593af408842248ae419866e5e14bc30c9272"
+          "bytes": 7713,
+          "sha256": "d3d070b625a0dfaa10b5b3df24189bee094536e814070e25783657eca5b5eb41"
         },
         {
           "path": "stories/096-short-term-solution.md",
@@ -3858,8 +3858,8 @@
       "files": [
         {
           "path": "data/097-economic-pressure.json",
-          "bytes": 7686,
-          "sha256": "28c772fa0d277af33a7258806651d715abbda1402c75815e56f663eb61efbec4"
+          "bytes": 7688,
+          "sha256": "748c4419e2a1f5647fb9f10a829695a2a11695985bdc512cbcc54f87c9e9569b"
         },
         {
           "path": "stories/097-economic-pressure.md",
@@ -4018,8 +4018,8 @@
       "files": [
         {
           "path": "data/101-market-trend.json",
-          "bytes": 7558,
-          "sha256": "b693eca6ae7b197f01fb2e39d7748cc88c7197dbcd27b9c3c6977ada6b0e3286"
+          "bytes": 7556,
+          "sha256": "6eecece9bba3bddeb46508bafe3038aafc77d9375bff0460e3e4f0eb13facbfe"
         },
         {
           "path": "stories/101-market-trend.md",
@@ -4059,7 +4059,7 @@
         {
           "path": "data/102-supply-issue.json",
           "bytes": 7628,
-          "sha256": "6bc77d5355d746dd8f5dc1b9b8e82958012f651680f03f779ae593b46822f987"
+          "sha256": "b50b4436ed29bc7a9cbfdca99c516be41bcf2c1af859fa8edc44bfe2d978f445"
         },
         {
           "path": "stories/102-supply-issue.md",
@@ -4099,7 +4099,7 @@
         {
           "path": "data/103-demand-change.json",
           "bytes": 7731,
-          "sha256": "552ada8a3a9343417ee6e7ae19b6b91cb634c5371bfa19e87eef0d894eba5144"
+          "sha256": "9c479b5bc2814f25675e1081e2c19e6f0c72f31d6053e6be7dd2fd7036ee18ac"
         },
         {
           "path": "stories/103-demand-change.md",
@@ -4138,8 +4138,8 @@
       "files": [
         {
           "path": "data/104-budget-plan.json",
-          "bytes": 7591,
-          "sha256": "cafc893b6746f4de3113d7f1caf5b873d634a02e67f507b099339eea20eab890"
+          "bytes": 7590,
+          "sha256": "e8bb8a2a36830a2dd403fe2fa3ced9180c1deacaf594e473e198a5d7b23a07a6"
         },
         {
           "path": "stories/104-budget-plan.md",
@@ -4179,7 +4179,7 @@
         {
           "path": "data/105-environmental-impact.json",
           "bytes": 7827,
-          "sha256": "0007f283b383b245bb05cee5b9998a1a5739087e42edfb95061db1450b6fff6a"
+          "sha256": "c2421b78d5e41c6f1ca07c823abcf1bc747430e1f3a4b3f32bf82763624a6392"
         },
         {
           "path": "stories/105-environmental-impact.md",
@@ -4258,8 +4258,8 @@
       "files": [
         {
           "path": "data/107-health-service.json",
-          "bytes": 7671,
-          "sha256": "dc6ce7a46170c8193123d3ac9cc8930dd46f9f3be5d76351654d224344271a1e"
+          "bytes": 7670,
+          "sha256": "dcd74216bb67fea3deb13df7a2b35acadb052554dfe582733175d329618c02fc"
         },
         {
           "path": "stories/107-health-service.md",
@@ -4298,8 +4298,8 @@
       "files": [
         {
           "path": "data/108-education-plan.json",
-          "bytes": 7659,
-          "sha256": "08b801026f76f11e43dba3b7fd05c384340a818c9b00e7aadedbfa6dd818151f"
+          "bytes": 7662,
+          "sha256": "d1573ca7cf2fe96aba04173fd9a587c947ccd8c4864bfa71be4214711bcfd6d5"
         },
         {
           "path": "stories/108-education-plan.md",
@@ -4339,7 +4339,7 @@
         {
           "path": "data/109-transport-problem.json",
           "bytes": 7610,
-          "sha256": "d5d310f2e4403fce1011caca0ae007f73f5e003082e2e042a2bfc9f76a8696cb"
+          "sha256": "d9546df1dbc481766949db2f260847567ba947f44d4f78ffe03d663c6281bb4e"
         },
         {
           "path": "stories/109-transport-problem.md",
@@ -4499,7 +4499,7 @@
         {
           "path": "data/113-job-market.json",
           "bytes": 7603,
-          "sha256": "3f081b1b6d25f841ec6dc4d56a6f2d123456c0b6a0d3b6a981bb934f665a84de"
+          "sha256": "2a413b36231e91a81dff44dd40c75be83a8383e71348f38a5544ca55e006d083"
         },
         {
           "path": "stories/113-job-market.md",
@@ -4538,8 +4538,8 @@
       "files": [
         {
           "path": "data/114-technology-shift.json",
-          "bytes": 7618,
-          "sha256": "1aa170f76b3b3b29861873f69873499b8e12bc0282f7d93000c791efb8740213"
+          "bytes": 7619,
+          "sha256": "83bd30867a13fb6cb4b27941dd7bb8d2c98621c32281624b5219445c610d27a6"
         },
         {
           "path": "stories/114-technology-shift.md",
@@ -4618,8 +4618,8 @@
       "files": [
         {
           "path": "data/116-global-event.json",
-          "bytes": 7710,
-          "sha256": "6eb9bc0050c5d299bea077d1a4614a6062dde198ac8b929103397d575c4b202b"
+          "bytes": 7707,
+          "sha256": "da26dd33e14dcf829e306e2fd61d4868fc164b7d3fa143a81f7fc9edcc0b3933"
         },
         {
           "path": "stories/116-global-event.md",
@@ -4738,8 +4738,8 @@
       "files": [
         {
           "path": "data/119-public-service.json",
-          "bytes": 7718,
-          "sha256": "f89418d22cae7038024e1776429f5c433ffb270ac991d44a12eec47f2866013b"
+          "bytes": 7719,
+          "sha256": "164f39edec4260993ed97b04d313963c2cf86fe258020afd4ec4b6ed7f361100"
         },
         {
           "path": "stories/119-public-service.md",
@@ -4779,7 +4779,7 @@
         {
           "path": "data/120-future-plan.json",
           "bytes": 7605,
-          "sha256": "4c4f7152fc44829bb33e79a677b176750f545903fc3d13e05676fc7e8cffa03b"
+          "sha256": "bc89bbd4c329ea9d09373d09a41634b32c2e2fc9aba5b40d9f2bad1ae146bebf"
         },
         {
           "path": "stories/120-future-plan.md",
@@ -4819,7 +4819,7 @@
         {
           "path": "data/121-notification-settings.json",
           "bytes": 8141,
-          "sha256": "225c2ef5ecc095a68993e044212e50392727ec64a5bbba68d47f6190f57c884e"
+          "sha256": "994b1f897e3eb8d8b578e7c7995d9d217322b4ea7df552bfaa8443576865e25f"
         },
         {
           "path": "stories/121-notification-settings.md",
@@ -4898,8 +4898,8 @@
       "files": [
         {
           "path": "data/123-two-factor-login.json",
-          "bytes": 8140,
-          "sha256": "45e68afaa176261044b2f7a13e3e9c7deea491946e5e21b425a877f6c1752d7d"
+          "bytes": 8137,
+          "sha256": "00332718a2e5900260c4562f3de59299982da2867a54b576b8d31f466d16f109"
         },
         {
           "path": "stories/123-two-factor-login.md",
@@ -4938,8 +4938,8 @@
       "files": [
         {
           "path": "data/124-app-permissions.json",
-          "bytes": 7852,
-          "sha256": "e924d41e0f6e2c0e15457175b5fb89276c1e66617966de21e725b16cb4010173"
+          "bytes": 7851,
+          "sha256": "73b7ec9e7983eef0763dd88d5f3bacd3802d9caa1699ef2f1a57e521ee72952a"
         },
         {
           "path": "stories/124-app-permissions.md",
@@ -5019,7 +5019,7 @@
         {
           "path": "data/126-subscription-renewal.json",
           "bytes": 8004,
-          "sha256": "130242abafa4751b0e03c70af9ee9e56b42c34d101a8a711f209792969f16c48"
+          "sha256": "f4d8c7fc07993ae1d4776d1172ad0c14bd0a949629c10164f70ad83fbc07c0fd"
         },
         {
           "path": "stories/126-subscription-renewal.md",
@@ -5138,8 +5138,8 @@
       "files": [
         {
           "path": "data/129-video-call-issue.json",
-          "bytes": 7442,
-          "sha256": "c433daec2e0c9098e797ea09c3facbb262f8772f800b9a941f6b695f137bd4cf"
+          "bytes": 7447,
+          "sha256": "8989528ccbefe7372eb9ec429ced687f4a173e635eea1194c5e66b3253340092"
         },
         {
           "path": "stories/129-video-call-issue.md",
@@ -5178,8 +5178,8 @@
       "files": [
         {
           "path": "data/130-device-setup.json",
-          "bytes": 7591,
-          "sha256": "75a9bc4d99dca75a2ae3cc2d17d95eb11f7040ae85118fd27015f917c80384cd"
+          "bytes": 7588,
+          "sha256": "e3f3052bc342cef809ada0eac5ef743e88efba73b500690c560dcff20deaf820"
         },
         {
           "path": "stories/130-device-setup.md",
@@ -5258,8 +5258,8 @@
       "files": [
         {
           "path": "data/132-summarize-long-text.json",
-          "bytes": 7526,
-          "sha256": "ba99d911fa678f0e2a680a45f2483e3ca632e9220b04255b1402d950e4532758"
+          "bytes": 7529,
+          "sha256": "05cb1625a42dcf75e51d965eee7fbce6f4f01af081f21cb0305154fc0e64f64e"
         },
         {
           "path": "stories/132-summarize-long-text.md",
@@ -5298,8 +5298,8 @@
       "files": [
         {
           "path": "data/133-voice-note-transcript.json",
-          "bytes": 7568,
-          "sha256": "10ab0609a389a99f5123c1a3fcbc3277f8270053ca00a1c0a159ec6a529abe84"
+          "bytes": 7570,
+          "sha256": "2569a2e83b1064d9d80f30b9255dfba8a825b07d50336efaaf81184c8f780773"
         },
         {
           "path": "stories/133-voice-note-transcript.md",
@@ -5339,7 +5339,7 @@
         {
           "path": "data/134-smart-reminder.json",
           "bytes": 7464,
-          "sha256": "09b3f3ae6153f271473b3ad54b76312074783b969820947392ddded560146088"
+          "sha256": "1e0212a60340fff0fcbfcf54c1c97b69392624945308a376dd11230a694074b2"
         },
         {
           "path": "stories/134-smart-reminder.md",
@@ -5499,7 +5499,7 @@
         {
           "path": "data/138-file-sharing.json",
           "bytes": 7455,
-          "sha256": "5c993364acab251d03cb6258e0883aabcd0e499329b7fc1c22d7f9325711c94e"
+          "sha256": "065a7daf7f392957f574ece83166891f3c3344d39e73532c9c69745a18959c22"
         },
         {
           "path": "stories/138-file-sharing.md",
@@ -5578,8 +5578,8 @@
       "files": [
         {
           "path": "data/140-digital-habit.json",
-          "bytes": 7835,
-          "sha256": "2f505aff411768f598f349b6cf61325e813b9a0bc85037b7bc1636d9f9bb58ec"
+          "bytes": 7834,
+          "sha256": "7e7403d1e3d8b953c7125db91ed50095ef2c4e6323af06422d0db107838c1893"
         },
         {
           "path": "stories/140-digital-habit.md",
@@ -5738,8 +5738,8 @@
       "files": [
         {
           "path": "data/144-software-update.json",
-          "bytes": 7679,
-          "sha256": "2d182a15dcdd93d0b4eee665fb951cf378470537b05d27f0470e1645557ba23b"
+          "bytes": 7680,
+          "sha256": "923793d882102a376e89c57ca7c0d1acfd0d9a9f8791a7a9ecb948c944fb6e1e"
         },
         {
           "path": "stories/144-software-update.md",
@@ -5778,8 +5778,8 @@
       "files": [
         {
           "path": "data/145-smart-home-device.json",
-          "bytes": 7489,
-          "sha256": "d687790fefcf4d54d00b57eee7b1e7251fbb60295dc2aff9d1bf64d55736fb61"
+          "bytes": 7488,
+          "sha256": "cb574bd72865e29b014ef9e6c44ea4d0c9a5718f0c5548a88d7b113a54f7f03a"
         },
         {
           "path": "stories/145-smart-home-device.md",
@@ -5818,8 +5818,8 @@
       "files": [
         {
           "path": "data/146-travel-app.json",
-          "bytes": 7384,
-          "sha256": "df4da00f7d3e8f5d168027a507822163b51272b0677f795ee7cd1108dd287b01"
+          "bytes": 7385,
+          "sha256": "911faae1680d9ecf2ef6f2e61ecc7b5f7ba56a3420c3fae0e2bc505900eb4abb"
         },
         {
           "path": "stories/146-travel-app.md",
@@ -5858,8 +5858,8 @@
       "files": [
         {
           "path": "data/147-map-navigation.json",
-          "bytes": 7209,
-          "sha256": "2d74a42174b567d794d8934c4150cfe78237c0f9d9ed8c37acfc469b46287880"
+          "bytes": 7204,
+          "sha256": "5b3229aa080eaf6bab633e8ab3cf2322395bf2602c7cc61a67bc0eed5b5855d2"
         },
         {
           "path": "stories/147-map-navigation.md",
@@ -5938,8 +5938,8 @@
       "files": [
         {
           "path": "data/149-online-community.json",
-          "bytes": 7882,
-          "sha256": "b84b88ab7b99d93206f2dbe4dbb64b11a1b98e54da0d33ab73318c8fd15fd5d4"
+          "bytes": 7883,
+          "sha256": "65b6eb53aa8726c8b8b5bd48a092dc92ecb010507f3d12d598efb5c30cd100e8"
         },
         {
           "path": "stories/149-online-community.md",
@@ -5978,8 +5978,8 @@
       "files": [
         {
           "path": "data/150-digital-wellbeing.json",
-          "bytes": 7805,
-          "sha256": "ab83091b8f51e556a5390268a0698bc74e9ae8167e6d6c7b892f9a8a76f618f2"
+          "bytes": 7807,
+          "sha256": "c091ed741ab942b30ed93bd7dadab28a36492f87ccd5066ab32cb7038902565a"
         },
         {
           "path": "stories/150-digital-wellbeing.md",
@@ -6059,7 +6059,7 @@
         {
           "path": "data/152-water-leak.json",
           "bytes": 7490,
-          "sha256": "83be4815c5115ef2e125144ca404f4706e6ef6fa0b8294d9804561c33a852433"
+          "sha256": "ef3773641bf4bad5dc842a7819e0c6823b6094e82f8b961646c21ee4418b03e8"
         },
         {
           "path": "stories/152-water-leak.md",
@@ -6098,8 +6098,8 @@
       "files": [
         {
           "path": "data/153-repair-service.json",
-          "bytes": 7811,
-          "sha256": "a52d70a95621e6f66252325ff518b8adcecb2e7610001c1fd225a3e8948a1c9e"
+          "bytes": 7810,
+          "sha256": "0dc410389a94bbdb9aca9f2b776ea147e7352d71996f50ac64bae3d1ac81e6ea"
         },
         {
           "path": "stories/153-repair-service.md",
@@ -6139,7 +6139,7 @@
         {
           "path": "data/154-send-a-package.json",
           "bytes": 7638,
-          "sha256": "9332b0f8bb9a91618e0c28c654800f71c28d078418fee337635fc269590ef7d2"
+          "sha256": "3767108dafe617dbc75246a7431555b2e165789ee83c99370282cecab6e14291"
         },
         {
           "path": "stories/154-send-a-package.md",
@@ -6179,7 +6179,7 @@
         {
           "path": "data/155-return-an-item.json",
           "bytes": 7678,
-          "sha256": "24b3c30806520ed6e11805662c36aab26adff0158c977a8c55f684b6ffa525ed"
+          "sha256": "f123dabebaab99b9769b09d27290c269bd314755382de83ad385e0612b9196a0"
         },
         {
           "path": "stories/155-return-an-item.md",
@@ -6219,7 +6219,7 @@
         {
           "path": "data/156-hotel-check-in.json",
           "bytes": 7700,
-          "sha256": "c24e3db5bf10ac0c06585331f42e189e94a8b83d71ffc1673595e5759ed0136c"
+          "sha256": "8352d0f107b4087bde2655a8bbb926cff01a486e3d006d49c0c4fa079e729be1"
         },
         {
           "path": "stories/156-hotel-check-in.md",
@@ -6259,7 +6259,7 @@
         {
           "path": "data/157-ask-for-directions.json",
           "bytes": 7677,
-          "sha256": "33d64ff27ae89d986091506a109f2171dae01fbe1396804edb1a0a0842245211"
+          "sha256": "3695a8a373a2ee7ffdcfa237b323713ea02d2a716fac06a505347995f0766138"
         },
         {
           "path": "stories/157-ask-for-directions.md",
@@ -6419,7 +6419,7 @@
         {
           "path": "data/161-renew-passport.json",
           "bytes": 7720,
-          "sha256": "239d7a6abb19fc26a0bad18242a31d88f3a72c3235481899dc5aa2ebf5aa8dc5"
+          "sha256": "b34056be6e875e2ccac17888d95e2679fb8a9332d1d6f65764aa33b3129d0d8c"
         },
         {
           "path": "stories/161-renew-passport.md",
@@ -6539,7 +6539,7 @@
         {
           "path": "data/164-weekend-trip.json",
           "bytes": 7599,
-          "sha256": "3352d9f4d3285b9c5c4809b6e633e66349596495157ca31d1457b3e4e601af0d"
+          "sha256": "1a60a0f090678a6092dba3353fed4b676d7b66547794a33780fa87bde034b799"
         },
         {
           "path": "stories/164-weekend-trip.md",
@@ -6618,8 +6618,8 @@
       "files": [
         {
           "path": "data/166-order-delivery.json",
-          "bytes": 7610,
-          "sha256": "e436e62f344c9a9dabb28cb53ff4ab94935b5fcd4eaccdcce6b9ed33111c9b38"
+          "bytes": 7612,
+          "sha256": "2017f8a5f2d1f09f726527b7cde15f23760c3ab788d0b6beafa7e76149dba459"
         },
         {
           "path": "stories/166-order-delivery.md",
@@ -6699,7 +6699,7 @@
         {
           "path": "data/168-change-flight.json",
           "bytes": 7789,
-          "sha256": "bfc9f0cf786712e763bed92f46cd28ab7312c6d00281baa56213b4804b66b1f7"
+          "sha256": "103523c3318e8e1aec5bdeac246a91632401838591a3be555fc7cd2322077f21"
         },
         {
           "path": "stories/168-change-flight.md",
@@ -6778,8 +6778,8 @@
       "files": [
         {
           "path": "data/170-fitness-class.json",
-          "bytes": 7655,
-          "sha256": "8b382257ed3630f0066474d2ea365d0bc114736dc399d77f1007b2845e4a9ab7"
+          "bytes": 7658,
+          "sha256": "b50de6ed80f444cfbf3028b3c76f62490166a8aed2f529603bc854d66256ed5d"
         },
         {
           "path": "stories/170-fitness-class.md",
@@ -6858,8 +6858,8 @@
       "files": [
         {
           "path": "data/172-split-the-bill.json",
-          "bytes": 7542,
-          "sha256": "282f7ee0e8e4312caf95a4b299b9167befb7353d8ca8095f18b52ddcf482522f"
+          "bytes": 7543,
+          "sha256": "9cc494f3687c9e1c9c766928bb85499097658834d32c962a9f8142a449cd1a87"
         },
         {
           "path": "stories/172-split-the-bill.md",
@@ -6898,8 +6898,8 @@
       "files": [
         {
           "path": "data/173-invite-neighbor.json",
-          "bytes": 7795,
-          "sha256": "a7277fbc3ea55f8359e05fffa651da336199783f513e734ea78842722624a57a"
+          "bytes": 7798,
+          "sha256": "a6b6570d167062ffd1ef2b5f7ac3dc16da832c4e2ad25e30be3a674f4ac04eb6"
         },
         {
           "path": "stories/173-invite-neighbor.md",
@@ -6939,7 +6939,7 @@
         {
           "path": "data/174-noisy-apartment.json",
           "bytes": 7649,
-          "sha256": "7f654cce0e1c982f78b4192fc40e79cd3e7b2b3a6bdefbb812751abbe909a689"
+          "sha256": "c744a8d17995c606182406fbd579229ef51171cb5bfbcd9b726c02336dcc07bb"
         },
         {
           "path": "stories/174-noisy-apartment.md",
@@ -6978,8 +6978,8 @@
       "files": [
         {
           "path": "data/175-arrange-childcare.json",
-          "bytes": 7823,
-          "sha256": "9e365807c3ace910bbcbfec3cbcf03979cd5be4232565f6a7621519a106845d7"
+          "bytes": 7824,
+          "sha256": "d9dc90fbf24b589484060071f4aada75101384d0359db45fad9d6a2dbd415338"
         },
         {
           "path": "stories/175-arrange-childcare.md",
@@ -7018,8 +7018,8 @@
       "files": [
         {
           "path": "data/176-family-care.json",
-          "bytes": 7496,
-          "sha256": "8454d337baf6e992e26bdbc6a202f5aa4d665f00e8ae1be39d31318d693d46d6"
+          "bytes": 7495,
+          "sha256": "f0f0dad28d9034fd2d3dbeafa6fb12e67f6156631b758c2e7feececcb60dd24b"
         },
         {
           "path": "stories/176-family-care.md",
@@ -7059,7 +7059,7 @@
         {
           "path": "data/177-home-budget.json",
           "bytes": 7656,
-          "sha256": "dc29a010f9d2b0ae507169704db84aecf991b502b6a5cddfc0839b3c2e52eb97"
+          "sha256": "e1d64380f2e183fe4b62ae8148094e78cfd35d82401fdb0d557eb2b9c0776d09"
         },
         {
           "path": "stories/177-home-budget.md",
@@ -7098,8 +7098,8 @@
       "files": [
         {
           "path": "data/178-sell-old-laptop.json",
-          "bytes": 7613,
-          "sha256": "48926b0df3148129f361f47ebffc59cdfdbddf73ad219a1303fe5a88fbf8e0ed"
+          "bytes": 7612,
+          "sha256": "446ff0c0510d3c440276b07b70a36b011ef71bef4130a592ee985627a61ccd9d"
         },
         {
           "path": "stories/178-sell-old-laptop.md",
@@ -7259,7 +7259,7 @@
         {
           "path": "data/182-requirement-gap.json",
           "bytes": 7708,
-          "sha256": "0115d0ad02e72953bfd1d5f811c1e15f4d93618cb05e6c12b90db4e972bece1b"
+          "sha256": "0b989f9100ba8993d631249336b7a104e0df908bb007aea7fb0387f6282360e1"
         },
         {
           "path": "stories/182-requirement-gap.md",
@@ -7298,8 +7298,8 @@
       "files": [
         {
           "path": "data/183-decision-maker.json",
-          "bytes": 7683,
-          "sha256": "02d91c3d734e250de9afd6dda57f983becde33de4d3d44763c60bff052afba4b"
+          "bytes": 7685,
+          "sha256": "087e08b9aaeb479d8e7b8dc009b7be9aae8a2b1795ba75617e0b3b86b67b7b24"
         },
         {
           "path": "stories/183-decision-maker.md",
@@ -7339,7 +7339,7 @@
         {
           "path": "data/184-migration-effort.json",
           "bytes": 7801,
-          "sha256": "ef2a7dc74f444dcc105d3ece539094a651192ebebadbb286d3455000e146806c"
+          "sha256": "5db96db6331a5c22e6e15dd9e00704f4a2687815ef3dd13c9af83f447addb8f8"
         },
         {
           "path": "stories/184-migration-effort.md",
@@ -7379,7 +7379,7 @@
         {
           "path": "data/185-demo-script.json",
           "bytes": 7627,
-          "sha256": "c4fdca063f52badff60543265d9bc39f6f7c72f70d98e2ef56500dc73b2fe985"
+          "sha256": "7cc2d3a65de1c650e1f8aed2be7d8693f0140a728ce8ebad479f1906d82df482"
         },
         {
           "path": "stories/185-demo-script.md",
@@ -7418,8 +7418,8 @@
       "files": [
         {
           "path": "data/186-scope-creep.json",
-          "bytes": 7624,
-          "sha256": "2cba27b2e4477b8dd1484376ec4acb34b7582bbc5eaa00a929540f740024e98a"
+          "bytes": 7625,
+          "sha256": "b88cf48835f4446e0beb056539f95ee2cadfc6d19c99d4a8d12e38f184acf837"
         },
         {
           "path": "stories/186-scope-creep.md",
@@ -7498,8 +7498,8 @@
       "files": [
         {
           "path": "data/188-support-ticket-review.json",
-          "bytes": 7707,
-          "sha256": "cc75e80e75d99672dc413d557083397ebfec452ed076d8462bd6d359b1f285e1"
+          "bytes": 7706,
+          "sha256": "aabb2342f1e51c5841ace9642f41db0b61092423211b7cbe17bb86f19ade1663"
         },
         {
           "path": "stories/188-support-ticket-review.md",
@@ -7659,7 +7659,7 @@
         {
           "path": "data/192-release-note.json",
           "bytes": 7746,
-          "sha256": "037e050b7f7aa375866f2dc25c8f4fc9fc5fa6cb79c041e285c7bc76782179ce"
+          "sha256": "ad4fd8b16768b63dae332597bf3e46365ad65d099a37317f6f64bda292eda2ee"
         },
         {
           "path": "stories/192-release-note.md",
@@ -7858,8 +7858,8 @@
       "files": [
         {
           "path": "data/197-change-request.json",
-          "bytes": 7743,
-          "sha256": "1919c0cf9b538a846e961fd19dda04e3befe95631374ec71c050b2f1d7a7a725"
+          "bytes": 7742,
+          "sha256": "392b270a1e446e3f011c27de783dd4bf92fb0f5dae88c4d5974cfcfffb2681c2"
         },
         {
           "path": "stories/197-change-request.md",
@@ -7898,8 +7898,8 @@
       "files": [
         {
           "path": "data/198-manual-workflow.json",
-          "bytes": 7727,
-          "sha256": "57177f861170ce70318b78706fb786284b570c13dbc02e2d385ab75f80f7f074"
+          "bytes": 7725,
+          "sha256": "6374bfda474b657b48cfdccf40725481260f0d07ee5c86779b4d073c1bbc23c1"
         },
         {
           "path": "stories/198-manual-workflow.md",
@@ -7938,8 +7938,8 @@
       "files": [
         {
           "path": "data/199-approval-matrix.json",
-          "bytes": 7792,
-          "sha256": "bf0ea73f069b910afb67e3070da606d7666b0cfaa7f88209a2d629ce1f9a228d"
+          "bytes": 7794,
+          "sha256": "2ae6b5658f11309f652ffb9856f8f279d041dffde0bd14274d3b946d6e97f17a"
         },
         {
           "path": "stories/199-approval-matrix.md",
@@ -8019,7 +8019,7 @@
         {
           "path": "data/201-onboarding-flow.json",
           "bytes": 7746,
-          "sha256": "d17dcd7806f3ed4e753ca3c45efe15e7da7de195f9ee1a02094e80f9d81892cb"
+          "sha256": "9dc5758376e71d401b7c686c9d01020c43024799dfea582fc7a30284b92db0e7"
         },
         {
           "path": "stories/201-onboarding-flow.md",
@@ -8058,8 +8058,8 @@
       "files": [
         {
           "path": "data/202-adoption-rate.json",
-          "bytes": 7789,
-          "sha256": "852fd891c1d2a4ce3bfca48a4e4d1b98615a63ac92c986f0c87d922ac8a27613"
+          "bytes": 7786,
+          "sha256": "87b2522b0d8c7fd222435322365647d17eaacf75457012ce423e292ae663550a"
         },
         {
           "path": "stories/202-adoption-rate.md",
@@ -8178,8 +8178,8 @@
       "files": [
         {
           "path": "data/205-go-live-issue.json",
-          "bytes": 7568,
-          "sha256": "376db6b351cc9e00ecd23890f8575fc3da5acec82bab07d59c3b4159ce7c2ba2"
+          "bytes": 7565,
+          "sha256": "10f67cc842ec8840bfc09c7a7552d9503fff06f09e7ca6a52fc2f1d38c7fa29c"
         },
         {
           "path": "stories/205-go-live-issue.md",
@@ -8218,8 +8218,8 @@
       "files": [
         {
           "path": "data/206-system-health.json",
-          "bytes": 7641,
-          "sha256": "37c49453b9e4a1c6dd3926f5b3d61326adca63b30e9d136ee098e8a08cb90d7a"
+          "bytes": 7635,
+          "sha256": "da12286c7edf34babb58b59314d324f61a9eb9dfcfa791775da251888367f4d8"
         },
         {
           "path": "stories/206-system-health.md",
@@ -8259,7 +8259,7 @@
         {
           "path": "data/207-known-limitation.json",
           "bytes": 7979,
-          "sha256": "e9a9b2bed2dffeca2ce26f38efe0c069921164d33e7fe3217a6b31bbcc34ddf8"
+          "sha256": "b5e02ce833656c974d737b988c3987e8d7ac5d0572d2de1990f2c41377705eb3"
         },
         {
           "path": "stories/207-known-limitation.md",
@@ -8379,7 +8379,7 @@
         {
           "path": "data/210-implementation-closeout.json",
           "bytes": 7880,
-          "sha256": "7fc4a63a57c2613ff0e8fb3f12831f858bd01344b128603435c73249e0ba2b52"
+          "sha256": "392dac4c5b745380d119f16af872b5149eccd5806d20bd442f8b0a6f19362eec"
         },
         {
           "path": "stories/210-implementation-closeout.md",
@@ -8458,8 +8458,8 @@
       "files": [
         {
           "path": "data/212-transport-strike.json",
-          "bytes": 7816,
-          "sha256": "b8776f28ee11eae649365dc55c3e2bf801c32b1dde4b63972904a236fca0d0fd"
+          "bytes": 7814,
+          "sha256": "f057b8171cfc095b18d5bcc8b47004d763fcab84039f7a95e55dcdd4cafdecc4"
         },
         {
           "path": "stories/212-transport-strike.md",
@@ -8538,8 +8538,8 @@
       "files": [
         {
           "path": "data/214-healthcare-waiting-list.json",
-          "bytes": 7973,
-          "sha256": "8f61e8fd5842d66106667568bfad9983a8167ef893386b07d235f652f0a179f1"
+          "bytes": 7969,
+          "sha256": "155b9690be70891f50da9093e3c9345e53b4d4b0ff6ac1f4acc002e1402e62df"
         },
         {
           "path": "stories/214-healthcare-waiting-list.md",
@@ -8658,8 +8658,8 @@
       "files": [
         {
           "path": "data/217-water-shortage.json",
-          "bytes": 7617,
-          "sha256": "7a3cbe799fce29af9e2a2f3cfe862865fd29f16daeb58f23c5340aa1e483d575"
+          "bytes": 7615,
+          "sha256": "8b72e3bc9385a444d365c5d8bf718b883e486497d86ad3a6d2b0112f3f0379fa"
         },
         {
           "path": "stories/217-water-shortage.md",
@@ -8738,8 +8738,8 @@
       "files": [
         {
           "path": "data/219-small-business-grant.json",
-          "bytes": 7785,
-          "sha256": "49cd1ca4616e613535b6b026abb8b00750fae7d97858476023bc0f59477c5dea"
+          "bytes": 7787,
+          "sha256": "d87aee784205be583720d2dbaad3bbd5492c43365dbcac40b0f3b6dceca472f8"
         },
         {
           "path": "stories/219-small-business-grant.md",
@@ -8818,8 +8818,8 @@
       "files": [
         {
           "path": "data/221-online-safety-campaign.json",
-          "bytes": 7921,
-          "sha256": "f2e22e732a9913e627b9d6dfc524fb61e8720dae155fa0d319bfb31ef4138042"
+          "bytes": 7920,
+          "sha256": "caa293c560e858f27d3ce9d4659df385c0ea5ba67a0b63b774569c85e2e75573"
         },
         {
           "path": "stories/221-online-safety-campaign.md",
@@ -8938,8 +8938,8 @@
       "files": [
         {
           "path": "data/224-remote-work-policy.json",
-          "bytes": 7775,
-          "sha256": "351d8008376c7a33ae3e7bcfc11a7af0b3a8a4e71fecb886c7cae58d82a8b4e2"
+          "bytes": 7776,
+          "sha256": "63bb4fb5f17106ec72a33b82a615634a24054084a6fbff2816a528cfb7b797b7"
         },
         {
           "path": "stories/224-remote-work-policy.md",
@@ -8978,8 +8978,8 @@
       "files": [
         {
           "path": "data/225-manufacturing-slowdown.json",
-          "bytes": 7866,
-          "sha256": "2b816eeecf596e2956d1c55ef730a8abeb9e0349df490e70f74d95938ca0d370"
+          "bytes": 7867,
+          "sha256": "cee5423851863011e1d5abdc7cb04c3c2a182c33cf3e545b474b00806f9e98cf"
         },
         {
           "path": "stories/225-manufacturing-slowdown.md",
@@ -9018,8 +9018,8 @@
       "files": [
         {
           "path": "data/226-export-demand.json",
-          "bytes": 7758,
-          "sha256": "1e5161976bf2ecb8c9c08173c2d8c02c20aaabc1587031f2f67ccfd64250cda5"
+          "bytes": 7760,
+          "sha256": "635416ec5d3ae89e17bba81c18fb47ffefd1d434d09e1f1ff65c9825419dea29"
         },
         {
           "path": "stories/226-export-demand.md",
@@ -9058,8 +9058,8 @@
       "files": [
         {
           "path": "data/227-currency-movement.json",
-          "bytes": 7827,
-          "sha256": "41de6ef18ac4bf8d794c032c171e653a53a46b7239b01815ac08c01c022c8280"
+          "bytes": 7829,
+          "sha256": "b90f5d92c3f68280e280dc11a32a918db404ce7f9a5903937a5b16f08e8ccdaa"
         },
         {
           "path": "stories/227-currency-movement.md",
@@ -9098,8 +9098,8 @@
       "files": [
         {
           "path": "data/228-interest-rate-decision.json",
-          "bytes": 7893,
-          "sha256": "c0ff5b8fc00362ca34a2d5867516b4b916605de5f5cbdb5a835058082402920d"
+          "bytes": 7891,
+          "sha256": "07fcf895d83af00b63e787008a23c48d636ddce701d659b8ae05d55f59d55348"
         },
         {
           "path": "stories/228-interest-rate-decision.md",
@@ -9219,7 +9219,7 @@
         {
           "path": "data/231-urban-planning-debate.json",
           "bytes": 7899,
-          "sha256": "a2c837c58e12696749e73385188b3cf44acfbad4f43ad935f427b95926ba4ae6"
+          "sha256": "7e744aaebfae022399cda0346de2fad977249d9dd64c5cf8530a0becdbed7453"
         },
         {
           "path": "stories/231-urban-planning-debate.md",
@@ -9299,7 +9299,7 @@
         {
           "path": "data/233-technology-regulation.json",
           "bytes": 7917,
-          "sha256": "8550bcf192b5dda01b00701d0b4715d6a4f32d64e5b74428042243a7053b99d0"
+          "sha256": "ecb704aad3b717851cc5e465ae72e0c460d37cf5c4a1ee47856a607d19910a38"
         },
         {
           "path": "stories/233-technology-regulation.md",
@@ -9458,8 +9458,8 @@
       "files": [
         {
           "path": "data/237-climate-adaptation-plan.json",
-          "bytes": 7813,
-          "sha256": "f5b4c33ae28b8b404944ef9f0e9d8ba8580d37a79ed9909ba9dbe4cb6c6ac97a"
+          "bytes": 7812,
+          "sha256": "5c02281d1d582f936fb6d34db4841e88d62029a99a134f1d7ecca5e5640df845"
         },
         {
           "path": "stories/237-climate-adaptation-plan.md",
@@ -9498,8 +9498,8 @@
       "files": [
         {
           "path": "data/238-supply-chain-disruption.json",
-          "bytes": 7846,
-          "sha256": "cd28e4f8ea88632f4c13a520677be13eca15fda0a2dc526eabfc4f3dfd195bbf"
+          "bytes": 7845,
+          "sha256": "7e6238c61719578ee57a532f3ddda0452f95b6c9794ccd83cc462a7001f5b1ce"
         },
         {
           "path": "stories/238-supply-chain-disruption.md",
@@ -9578,8 +9578,8 @@
       "files": [
         {
           "path": "data/240-infrastructure-plan.json",
-          "bytes": 7825,
-          "sha256": "b21559b346b1f1048a03786f1dcb6d134e55991ab196c4e9382f990e5034faca"
+          "bytes": 7823,
+          "sha256": "9f2703360f0a73076b61faf1b548687ba2440c092e7bd8fde635562e17da1b69"
         },
         {
           "path": "stories/240-infrastructure-plan.md",
@@ -9658,8 +9658,8 @@
       "files": [
         {
           "path": "data/242-factory-safety-audit.json",
-          "bytes": 8012,
-          "sha256": "9bbf837245f87a71516347db0bb29a964f80d835eac88a96d12a2b70dcc847e2"
+          "bytes": 8011,
+          "sha256": "5b0f793bc94092e4bcba8fd89a9166b4cd8d40a7bfc69fc3285aac599befa46c"
         },
         {
           "path": "stories/242-factory-safety-audit.md",
@@ -9698,8 +9698,8 @@
       "files": [
         {
           "path": "data/243-hospital-capacity-plan.json",
-          "bytes": 7978,
-          "sha256": "e4f89ec924b7659067e3daa37a334c46bd1142d18d740feee5058bac017e4511"
+          "bytes": 7977,
+          "sha256": "cd74f291446fc9f481baf3cef667180a39b3d4e1de5256d77556cd7d99599553"
         },
         {
           "path": "stories/243-hospital-capacity-plan.md",
@@ -9738,8 +9738,8 @@
       "files": [
         {
           "path": "data/244-regional-trade-deal.json",
-          "bytes": 7923,
-          "sha256": "b2d8f5273bc0354e58db3f2c7beffc4826f0b69a7c67f4cd5fdcfde5fef38fc2"
+          "bytes": 7922,
+          "sha256": "d0b3508f152b09d267d9f07b88b46a4a6d80623c2e9888dd38bf7d709db22eeb"
         },
         {
           "path": "stories/244-regional-trade-deal.md",
@@ -9819,7 +9819,7 @@
         {
           "path": "data/246-rent-control-debate.json",
           "bytes": 8027,
-          "sha256": "84e11953352770906d5d4bc399fe0d9c7dc4e2da6edcb5814d21eff8fc6d0cc1"
+          "sha256": "a8ed9aad99ee620f1fb84431407e3e470b7f0f2e654d6e32385e58528050accf"
         },
         {
           "path": "stories/246-rent-control-debate.md",
@@ -9858,8 +9858,8 @@
       "files": [
         {
           "path": "data/247-public-transport-expansion.json",
-          "bytes": 8099,
-          "sha256": "c4a3814b48d1c9f7ef16896c27fae112561f11f5961cd65acc85be84959a73a1"
+          "bytes": 8096,
+          "sha256": "a6307ac057fe22646b6ca98093e780ee5dbc525cbb66d7b91676f05cc49f5684"
         },
         {
           "path": "stories/247-public-transport-expansion.md",
@@ -9898,8 +9898,8 @@
       "files": [
         {
           "path": "data/248-online-fraud-warning.json",
-          "bytes": 7929,
-          "sha256": "3bb29cc39355d925f6b8fe1a0b3b99f85dd9b3d4eae9ac17ceb41cb15ed19d41"
+          "bytes": 7932,
+          "sha256": "35b5458ba34461c39b6f9399f765ae964f97adea446136256b2cef38c9e79463"
         },
         {
           "path": "stories/248-online-fraud-warning.md",
@@ -9939,7 +9939,7 @@
         {
           "path": "data/249-water-quality-report.json",
           "bytes": 7990,
-          "sha256": "79597e83bec4a95a44af9fb0b8eaee1f1a5b2f0bdbb18b4d7d3bd497b1a29904"
+          "sha256": "fe2e3fa172f16752f0e7e9e6d2adb4814ccb6aca803098fa68edb053b6003777"
         },
         {
           "path": "stories/249-water-quality-report.md",
@@ -10019,7 +10019,7 @@
         {
           "path": "data/251-company-earnings-call.json",
           "bytes": 7939,
-          "sha256": "2f386b8a731b8f22cc7650ebc912261e8298c4eac4da195fe1512a8b413b3e17"
+          "sha256": "95b68992a9598918d353cb8b8a4644b0cb8e5005f8097fdc92aec3a454c513be"
         },
         {
           "path": "stories/251-company-earnings-call.md",
@@ -10058,8 +10058,8 @@
       "files": [
         {
           "path": "data/252-consumer-spending-trend.json",
-          "bytes": 7990,
-          "sha256": "ded360bc8676b57777483cef82d325f46b9cf499a4df69ada6cb7a0c4d06b679"
+          "bytes": 7991,
+          "sha256": "54705547f600d2e415bf8ba24e69ad76c65de82f6af7430f33aea5dcaef21a08"
         },
         {
           "path": "stories/252-consumer-spending-trend.md",
@@ -10098,8 +10098,8 @@
       "files": [
         {
           "path": "data/253-digital-id-rollout.json",
-          "bytes": 8071,
-          "sha256": "c96a6afb08f2261f385128d66466e3dd3ea5871fc3dcb7053c0fe17ad59da696"
+          "bytes": 8069,
+          "sha256": "8faf701337c719e2f620c890d6fbcd6c0fa0c97e94b7cc60b5656d10cca448b9"
         },
         {
           "path": "stories/253-digital-id-rollout.md",
@@ -10178,8 +10178,8 @@
       "files": [
         {
           "path": "data/255-airport-delay-update.json",
-          "bytes": 7943,
-          "sha256": "a9088b2bb4ffe8ed99c5a9597be0394479b70ef8100666c4736c0e601c63377f"
+          "bytes": 7940,
+          "sha256": "413580d560449d8579312cf4cfd07c29dfc6fe1a25ddfb9cc873de0051b57502"
         },
         {
           "path": "stories/255-airport-delay-update.md",
@@ -10259,7 +10259,7 @@
         {
           "path": "data/257-public-housing-project.json",
           "bytes": 8065,
-          "sha256": "8ee1ac52949c4b71df75c16c8a1292d14efde190e38a7893915085501930ef94"
+          "sha256": "4e21632c90a6c7b1bf36de86e843fea345641a074ead08f2baccbafd69053acd"
         },
         {
           "path": "stories/257-public-housing-project.md",
@@ -10298,8 +10298,8 @@
       "files": [
         {
           "path": "data/258-insurance-claim-review.json",
-          "bytes": 7991,
-          "sha256": "65fc0721e37acbcf0216bb1ea78de783567fec155f3ed3843ffa394f2d447a3c"
+          "bytes": 7990,
+          "sha256": "aab6c669d579afaef8b71518f2e61c139bba438f86c837f4e00433b79c124157"
         },
         {
           "path": "stories/258-insurance-claim-review.md",
@@ -10339,7 +10339,7 @@
         {
           "path": "data/259-childcare-policy-change.json",
           "bytes": 7968,
-          "sha256": "9184471e353b5b775b4ea5ed1ae395bf2dd8bc87f841dfc50c07925ab4140fc5"
+          "sha256": "2698ac1eac652348c2c99b9b19d27934b68c2be82ed0c4c54ff9ad37867adfbc"
         },
         {
           "path": "stories/259-childcare-policy-change.md",
@@ -10419,7 +10419,7 @@
         {
           "path": "data/261-job-training-program.json",
           "bytes": 7984,
-          "sha256": "ccbb60f46ab05b087ca207ed0f0e9ed71590499e4835a51bfd35a022521aba2a"
+          "sha256": "0e833dacc3ad443b25b666170260320934e56f629771f2ffb28d44e1e53b2f62"
         },
         {
           "path": "stories/261-job-training-program.md",
@@ -10458,8 +10458,8 @@
       "files": [
         {
           "path": "data/262-local-tax-proposal.json",
-          "bytes": 7907,
-          "sha256": "56d2085112df5c6d3e8c9bca15dba7c3ff50825ef733e5d26868806ef3eabb52"
+          "bytes": 7909,
+          "sha256": "b4513a3b63757bc8d88ecc3239b4e1c7f9d29846b86e88f8e634edfeebc09025"
         },
         {
           "path": "stories/262-local-tax-proposal.md",
@@ -10499,7 +10499,7 @@
         {
           "path": "data/263-shipping-cost-increase.json",
           "bytes": 7912,
-          "sha256": "99536b7814538833c159cfbdf9a256325896dc475994c358123cc17d68d2776a"
+          "sha256": "56d01f216745921531a42d66c224023bccd8cbdf0475977b2531131bedd899d5"
         },
         {
           "path": "stories/263-shipping-cost-increase.md",
@@ -10538,8 +10538,8 @@
       "files": [
         {
           "path": "data/264-mental-health-service.json",
-          "bytes": 7989,
-          "sha256": "01fdb58a09911d92908256122750db5b1aef53b1b55e49f7af4b63cc36c5e047"
+          "bytes": 7987,
+          "sha256": "d4ef88941ceef2096a2aea51986f257497cd301eb37447173804b2b8d6c945d1"
         },
         {
           "path": "stories/264-mental-health-service.md",
@@ -10578,8 +10578,8 @@
       "files": [
         {
           "path": "data/265-electric-vehicle-policy.json",
-          "bytes": 7840,
-          "sha256": "5a86c7f0fc1ec7106a14796309fbcec11377bc1d8d1172f80270e5258236a061"
+          "bytes": 7841,
+          "sha256": "9e226d86079a16b02d1c74e3020fb777916f342c216aac8ae47644bf3d206739"
         },
         {
           "path": "stories/265-electric-vehicle-policy.md",
@@ -10659,7 +10659,7 @@
         {
           "path": "data/267-cross-border-payment.json",
           "bytes": 7912,
-          "sha256": "6978a76a3a6ec8ed076d00cd9ea22aeec80091f6d180949ad50d92c4f959f48f"
+          "sha256": "dd003f4fb5923bc501aa37e2e26e1ca2b3535b574c7b64ce3b7d6a8f1e2b1a46"
         },
         {
           "path": "stories/267-cross-border-payment.md",
@@ -10698,8 +10698,8 @@
       "files": [
         {
           "path": "data/268-farm-subsidy-plan.json",
-          "bytes": 7922,
-          "sha256": "bcac231d543f6969089a4ec6556fa6eed28840bb5bd9ba60267c62e84ddab938"
+          "bytes": 7923,
+          "sha256": "08cbb19f6bf7159164cde374e0fe082f074e94e35f9df3b995e11f3f04720240"
         },
         {
           "path": "stories/268-farm-subsidy-plan.md",
@@ -10818,8 +10818,8 @@
       "files": [
         {
           "path": "data/271-board-decision-brief.json",
-          "bytes": 7914,
-          "sha256": "ff6751fbd9b39c2c532ba83ec58e64a9224c205b721a93740e380ff43ced22bd"
+          "bytes": 7918,
+          "sha256": "5816b911edb1eb3fb8cbbd81da5e79e42811051d6a0be19708a9adcc73c4db7d"
         },
         {
           "path": "stories/271-board-decision-brief.md",
@@ -10858,8 +10858,8 @@
       "files": [
         {
           "path": "data/272-vendor-risk-assessment.json",
-          "bytes": 7949,
-          "sha256": "c21d10c26db4ca0acfd313ece25bdbacc2f82ece2e5e9acc228708721534ef8e"
+          "bytes": 7948,
+          "sha256": "ef57a50ca8f6aa452c9a327a192c31ed512686462b8160e31fd6e91fb4fcd8bf"
         },
         {
           "path": "stories/272-vendor-risk-assessment.md",
@@ -10899,7 +10899,7 @@
         {
           "path": "data/273-market-entry-strategy.json",
           "bytes": 8000,
-          "sha256": "07ee1baf8cd9afc167ffc60ec1f958000a4965d3c9d10af072492f649871b604"
+          "sha256": "167cc054d11095243af7c87c6a380a248dfbb5fd634fd0120599257b5f8b4250"
         },
         {
           "path": "stories/273-market-entry-strategy.md",
@@ -10938,8 +10938,8 @@
       "files": [
         {
           "path": "data/274-customer-renewal-risk.json",
-          "bytes": 7933,
-          "sha256": "5927b53a0b2a4a31752897891b7836776812039e12eb8cfbcd8821f121d3fbde"
+          "bytes": 7932,
+          "sha256": "f2c4a47b6016523f0b6e982d93dcdc3a06237ec71b7829a1f38b62807b6803a3"
         },
         {
           "path": "stories/274-customer-renewal-risk.md",
@@ -10978,8 +10978,8 @@
       "files": [
         {
           "path": "data/275-product-pricing-review.json",
-          "bytes": 7802,
-          "sha256": "af91caeebdba506387e0d705d3e6c2506d4dfbbf67b5f847dc95cf3ae99c076d"
+          "bytes": 7801,
+          "sha256": "ef958a69c923c937235dacef0b2a030e0c5eb3e45998bc237d807628f25e0a86"
         },
         {
           "path": "stories/275-product-pricing-review.md",
@@ -11018,8 +11018,8 @@
       "files": [
         {
           "path": "data/276-data-governance-policy.json",
-          "bytes": 7759,
-          "sha256": "c4cccd77f65fa1640f87dd84a04ee56c03f322e7a868b362fc72b5d62213d3d6"
+          "bytes": 7765,
+          "sha256": "2f154edc222e6d1327c603252ae7cb67ab2f485c590f6cba346cd670dabd8ca9"
         },
         {
           "path": "stories/276-data-governance-policy.md",
@@ -11059,7 +11059,7 @@
         {
           "path": "data/277-crisis-communication-plan.json",
           "bytes": 8153,
-          "sha256": "05f30c1505b0a0070c99c820f958d53798a0c67babd5440dfa7e61cb265c39eb"
+          "sha256": "9f8aad60ac8b6d9716c7e242a0d77ea091e4985f27b645df6949c7c2288d4f2e"
         },
         {
           "path": "stories/277-crisis-communication-plan.md",
@@ -11139,7 +11139,7 @@
         {
           "path": "data/279-enterprise-security-review.json",
           "bytes": 7890,
-          "sha256": "7046e124ad713730235270fbde43741871ecf4c2abe96fa8b5a85e749bbb08a9"
+          "sha256": "5a4cd31d1ea62002fa578a9dfceeb3c01c5c9e7c9adf5c4af56497b0e01a5d95"
         },
         {
           "path": "stories/279-enterprise-security-review.md",
@@ -11178,8 +11178,8 @@
       "files": [
         {
           "path": "data/280-supply-forecast-meeting.json",
-          "bytes": 7911,
-          "sha256": "053d4893808e40675013cfe94cc36e3f54f30cd8ee138d2986c1ebd630b52e80"
+          "bytes": 7910,
+          "sha256": "073cac6f560507a474d641de7ab4e9ebb097ff209ca863a38cc8b235f58b5eaa"
         },
         {
           "path": "stories/280-supply-forecast-meeting.md",
@@ -11219,7 +11219,7 @@
         {
           "path": "data/281-regional-sales-pipeline.json",
           "bytes": 7856,
-          "sha256": "6a27e787d3ef21ce85cb6a72881387e326bb45c25beb1d7cf7185c6633804f4c"
+          "sha256": "a0767f65826b7cb118b39cefb20f5ad90196dc50341813e72c311abd2c668e51"
         },
         {
           "path": "stories/281-regional-sales-pipeline.md",
@@ -11298,8 +11298,8 @@
       "files": [
         {
           "path": "data/283-annual-compliance-report.json",
-          "bytes": 7995,
-          "sha256": "88b7bfdd3027129b788c13eee7ddfbf9f83f1e311482291b42aff0173507b1c5"
+          "bytes": 7994,
+          "sha256": "34b9d15ca47314f7a843e3dc896e21d94e92c452f6ce5834c1a245f2fa96e3dc"
         },
         {
           "path": "stories/283-annual-compliance-report.md",
@@ -11339,7 +11339,7 @@
         {
           "path": "data/284-capital-investment-case.json",
           "bytes": 7777,
-          "sha256": "ed37ec8784176d9df1a2f14434d810bb7d0228345304af47cda3268328158765"
+          "sha256": "182942fd67b5963973e49b4e238892541053f742f1584f93ba98fd70e004262d"
         },
         {
           "path": "stories/284-capital-investment-case.md",
@@ -11379,7 +11379,7 @@
         {
           "path": "data/285-executive-hiring-plan.json",
           "bytes": 7775,
-          "sha256": "696996e1d6b027aa9a2baad34972ec603ec437927e67dd16be3b110c2f1f3975"
+          "sha256": "41aeb602d4282a6a19c11b4e22d4e1c99f7d5da4af0675828ca107311d388144"
         },
         {
           "path": "stories/285-executive-hiring-plan.md",
@@ -11419,7 +11419,7 @@
         {
           "path": "data/286-platform-migration-risk.json",
           "bytes": 8000,
-          "sha256": "d93665afbc0861bb8a01ed7586db0cb378fd565fef5e192ea28399df398c1325"
+          "sha256": "5452636cf3ef32e0f63f7445f325827c35a753421dbb685924e2c8339748b8fd"
         },
         {
           "path": "stories/286-platform-migration-risk.md",
@@ -11499,7 +11499,7 @@
         {
           "path": "data/288-customer-advisory-board.json",
           "bytes": 7849,
-          "sha256": "d9003e4c1d6c5c1efcc4d25dcb59da6e1a059211a1d82ce422b3abda89acaeaa"
+          "sha256": "460320298fe3da0a6e07f61fde1f3d5e147696abdc215f98169b95aee14d3647"
         },
         {
           "path": "stories/288-customer-advisory-board.md",
@@ -11538,8 +11538,8 @@
       "files": [
         {
           "path": "data/289-quarterly-business-review.json",
-          "bytes": 7880,
-          "sha256": "7f4ec548c7df32f4334f8429fcd7a67c8dcabb3a9cf029dabc2d91adffab40a5"
+          "bytes": 7877,
+          "sha256": "851a4bc7572e864b7c905992cc70ad6741af5b4a71de01402ff10d446d7f23b1"
         },
         {
           "path": "stories/289-quarterly-business-review.md",
@@ -11579,7 +11579,7 @@
         {
           "path": "data/290-contract-renegotiation.json",
           "bytes": 7806,
-          "sha256": "d5b5124d9820883725dfcaf2ca743c9b77039ca7552e9facdc4bfec3871dad8c"
+          "sha256": "a5c67677086d90fba3bb6522dbe8a586250d891d90c9c241e32684bf8d9fe4cf"
         },
         {
           "path": "stories/290-contract-renegotiation.md",
@@ -11618,8 +11618,8 @@
       "files": [
         {
           "path": "data/291-brand-reputation-issue.json",
-          "bytes": 7938,
-          "sha256": "c0e4fa34f4f669df0cc24e110bedfbef60c4fb8512747efca47c818222efe830"
+          "bytes": 7936,
+          "sha256": "3dd7305167ca4a94105c06117622e92b777ffcd13338dc53fd54059c49fbc434"
         },
         {
           "path": "stories/291-brand-reputation-issue.md",
@@ -11658,8 +11658,8 @@
       "files": [
         {
           "path": "data/292-analytics-dashboard-redesign.json",
-          "bytes": 7912,
-          "sha256": "3cde28b68a265ea56ad9b1374fdc5cbd0eed50b0ca5b311dc4b9d32b161c469d"
+          "bytes": 7911,
+          "sha256": "ba32cc144b0e55f94b07a869b5044a95e1d16b4dda5fd7d9c06f9549ecb0c460"
         },
         {
           "path": "stories/292-analytics-dashboard-redesign.md",
@@ -11698,8 +11698,8 @@
       "files": [
         {
           "path": "data/293-enterprise-onboarding-delay.json",
-          "bytes": 8002,
-          "sha256": "6512212dc8f1da58602ae0a30776982f78d6c0e05cb31144b68a8209ad5e3be4"
+          "bytes": 7999,
+          "sha256": "23727d10d289d963be63d367fa2d9d70b25a655b6d129496c2a097767b3610e2"
         },
         {
           "path": "stories/293-enterprise-onboarding-delay.md",
@@ -11739,7 +11739,7 @@
         {
           "path": "data/294-product-roadmap-shift.json",
           "bytes": 7945,
-          "sha256": "b354182d9e9c10e127214e80d82c170bed57181e96efc24e47a127cb7664a05e"
+          "sha256": "ba9d7241d517b928c3ea0a24377bcbf15f612696d87242165159b37c14b6ec3e"
         },
         {
           "path": "stories/294-product-roadmap-shift.md",
@@ -11779,7 +11779,7 @@
         {
           "path": "data/295-legal-risk-review.json",
           "bytes": 7784,
-          "sha256": "98faea6570c224ec34a0962970d3c60be3916145ec1299fb55966a3c593301db"
+          "sha256": "3441fac2d111f1dfe10b4aecdbd034a75f57f0adfb1c20f43f1250702e491b0e"
         },
         {
           "path": "stories/295-legal-risk-review.md",
@@ -11818,8 +11818,8 @@
       "files": [
         {
           "path": "data/296-operations-cost-review.json",
-          "bytes": 7795,
-          "sha256": "915404511bfa164e8891c87cb3f7da9180dc885855813a6f256fcfc43201fbb7"
+          "bytes": 7796,
+          "sha256": "a4249b3ddab71ba8ddc4df08b3775e62d1c6b67b5388e66e983acdb20d8cec51"
         },
         {
           "path": "stories/296-operations-cost-review.md",
@@ -11858,8 +11858,8 @@
       "files": [
         {
           "path": "data/297-partner-channel-strategy.json",
-          "bytes": 7764,
-          "sha256": "34dd19512b7f6d34e2925f4626c16f1c06c75d5cf04e06c95fe48752abd2ff3f"
+          "bytes": 7768,
+          "sha256": "3ec103d6b28cf38be38bdf8114562018be09684a4dd095d75cc6cbbf7e3deb64"
         },
         {
           "path": "stories/297-partner-channel-strategy.md",
@@ -11899,7 +11899,7 @@
         {
           "path": "data/298-product-quality-escalation.json",
           "bytes": 8063,
-          "sha256": "63c8da673cd9af35316450aade28d6e93e343148b4d3bd73e88fdd82f32ae144"
+          "sha256": "6a082a3ddc8c6f35c7c797ea990d34572da585e92b66603d26dbe1424c984525"
         },
         {
           "path": "stories/298-product-quality-escalation.md",
@@ -11938,8 +11938,8 @@
       "files": [
         {
           "path": "data/299-enterprise-renewal-negotiation.json",
-          "bytes": 8029,
-          "sha256": "60f92108cc5d75eb831958732f410bb0c1070482cb19ad4d1bdb93166309928d"
+          "bytes": 8031,
+          "sha256": "ef79aac68f58c896ce35a7ffdf0d3b21003905e6ece2b1fe932ec5bc8565e765"
         },
         {
           "path": "stories/299-enterprise-renewal-negotiation.md",
@@ -11978,8 +11978,8 @@
       "files": [
         {
           "path": "data/300-year-end-learning-review.json",
-          "bytes": 7906,
-          "sha256": "008584a224549d7aeaaf204688b9fe007b1f09fb28d583422ef4443a847961d4"
+          "bytes": 7903,
+          "sha256": "95883a910b9aecd626f50e73937ec25a05ddb1494e091ca9ba9c8b81fdc3919b"
         },
         {
           "path": "stories/300-year-end-learning-review.md",

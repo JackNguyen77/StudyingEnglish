@@ -133,54 +133,54 @@
       "pronunciation": "ai chékt đờ ma-nyu-ồ quớrk-flâu bi-fo ai mêid ờ phai-nồ chois.",
       "vi": "Tôi kiểm tra workflow thủ công trước khi chốt lựa chọn cuối.",
       "start": 0.02,
-      "end": 5.31
+      "end": 4.94
     },
     {
       "index": 2,
       "text": "One repeated step made the situation less simple than it looked.",
       "pronunciation": "quăn ri-pi-tịt step mêid đờ situashần les sim-pồ đen ịt lúkt.",
       "vi": "Bước lặp lại làm tình huống kém đơn giản hơn vẻ ban đầu.",
-      "start": 5.47,
-      "end": 10.52
+      "start": 5.1,
+      "end": 9.95
     },
     {
       "index": 3,
       "text": "I decided to automate the task before I moved forward.",
       "pronunciation": "ai đi-sai-địt tu automate đờ tát-sờk bi-fo ai muvd pho-quờrd.",
       "vi": "Tôi quyết định tự động hóa task trước khi tiếp tục.",
-      "start": 10.68,
-      "end": 15.18
+      "start": 10.11,
+      "end": 14.51
     },
     {
       "index": 4,
       "text": "Then I wrote a short workflow note so the other person understood me.",
       "pronunciation": "đen ai râu ờ soọt quớrk-flâu note sâu đờ other pơ-sần ăn-đờ-stud mi.",
       "vi": "Sau đó tôi viết một ghi chú workflow ngắn để người kia hiểu tôi.",
-      "start": 15.34,
-      "end": 20.85
+      "start": 14.67,
+      "end": 20.44
     },
     {
       "index": 5,
       "text": "I also needed to check the exception case instead of guessing.",
       "pronunciation": "ai ol-sâu ni-địt tu chék đờ ekssepshần kêis in-sted ờv guessing.",
       "vi": "Tôi cũng cần kiểm tra case ngoại lệ thay vì đoán.",
-      "start": 21.01,
-      "end": 25.34
+      "start": 20.6,
+      "end": 25.46
     },
     {
       "index": 6,
       "text": "That helped me save team time without adding extra stress.",
       "pronunciation": "đat heo mi sêiv tim taim quì-thao adding ek-strờ stres.",
       "vi": "Việc đó giúp tôi tiết kiệm thời gian team mà không thêm căng thẳng.",
-      "start": 25.5,
-      "end": 30.06
+      "start": 25.62,
+      "end": 30.02
     },
     {
       "index": 7,
       "text": "By the end, the whole situation felt calmer and easier to handle.",
       "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
       "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
-      "start": 30.22,
+      "start": 30.18,
       "end": 35.49
     }
   ]

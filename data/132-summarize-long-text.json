@@ -75,54 +75,54 @@
       "pronunciation": "ai pastt ờ long ar-ti-kồ in-tu đờ tul bi-kóz ai felt lost.",
       "vi": "Tôi dán một bài viết dài vào công cụ vì thấy bị lạc.",
       "start": 0.02,
-      "end": 5.46
+      "end": 5.55
     },
     {
       "index": 2,
       "text": "The summary showed the key points in a few short lines.",
       "pronunciation": "đờ săm-mờ-ri sâud đờ ki poin in ờ phiu soọt lainz.",
       "vi": "Bản tóm tắt hiển thị ý chính trong vài dòng ngắn.",
-      "start": 5.62,
-      "end": 10.53
+      "start": 5.71,
+      "end": 10.7
     },
     {
       "index": 3,
       "text": "I saved the summary note so I could review it later.",
       "pronunciation": "ai sêivd đờ săm-mờ-ri nout sâu ai kud ri-viu ịt lêi-tờ.",
       "vi": "Tôi lưu ghi chú tóm tắt để có thể xem lại sau.",
-      "start": 10.69,
-      "end": 16.7
+      "start": 10.86,
+      "end": 15.86
     },
     {
       "index": 4,
       "text": "One missing detail changed the meaning of the whole paragraph.",
       "pronunciation": "quăn mis-sing đi-têu chênjd đờ mi-ning ờv đờ hâu paragraph.",
       "vi": "Một chi tiết bị thiếu làm đổi nghĩa cả đoạn.",
-      "start": 16.86,
-      "end": 20.75
+      "start": 16.02,
+      "end": 20.55
     },
     {
       "index": 5,
       "text": "I still needed to double-check facts before I trusted the result.",
       "pronunciation": "ai stil ni-địt tu đớ-bồ chék fakts bi-fo ai trớs-tịt đờ ri-zờlt.",
       "vi": "Tôi vẫn cần kiểm tra lại sự thật trước khi tin kết quả.",
-      "start": 20.91,
-      "end": 26
+      "start": 20.71,
+      "end": 26.18
     },
     {
       "index": 6,
       "text": "After fixing it, I saved the summary in my study folder.",
       "pronunciation": "áp-tờ fiksing ịt, ai sêivd đờ săm-mờ-ri in mai sta-đi folder.",
       "vi": "Sau khi sửa, tôi lưu bản tóm tắt vào thư mục học.",
-      "start": 26.16,
-      "end": 31.35
+      "start": 26.34,
+      "end": 31.33
     },
     {
       "index": 7,
       "text": "That small habit made the tool feel useful without taking over my thinking.",
       "pronunciation": "đat smol ha-bit mêid đờ tul phiu yus-phồ quì-thao têi-king âu-vờ mai thing-king.",
       "vi": "Thói quen nhỏ đó làm công cụ hữu ích mà không thay tôi suy nghĩ.",
-      "start": 31.51,
+      "start": 31.49,
       "end": 37.43
     }
   ],

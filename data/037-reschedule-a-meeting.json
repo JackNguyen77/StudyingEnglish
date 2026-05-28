@@ -15,46 +15,46 @@
       "pronunciation": "đis mo-ning, săm-thinh ơ-jần kêim ấp fo đờ klai-ờnt.",
       "vi": "Sáng nay, khách hàng có việc gấp phát sinh.",
       "start": 0.02,
-      "end": 3.3
+      "end": 3.46
     },
     {
       "index": 2,
       "text": "They asked if we could reschedule the meeting.",
       "pronunciation": "đây áskt if quy kud ri-ske-jul đờ mi-ting.",
       "vi": "Họ hỏi liệu chúng tôi có thể dời lại cuộc họp không.",
-      "start": 3.46,
-      "end": 6.41
+      "start": 3.62,
+      "end": 6.61
     },
     {
       "index": 3,
       "text": "I checked my availability before I replied.",
       "pronunciation": "ai chékt mai ờ-vei-lờ-bi-lờ-ti bi-fo ai ri-plaid.",
       "vi": "Tôi kiểm tra lịch rảnh của mình trước khi trả lời.",
-      "start": 6.57,
-      "end": 9.39
+      "start": 6.77,
+      "end": 9.37
     },
     {
       "index": 4,
       "text": "Then I proposed another time that might work for everyone.",
       "pronunciation": "đen ai prờ-pâuzd ờ-nớ-đờ taim đat mait quớrk fo ev-ri-quan.",
       "vi": "Sau đó, tôi đề xuất một thời gian khác có thể phù hợp với mọi người.",
-      "start": 9.55,
-      "end": 13.36
+      "start": 9.53,
+      "end": 13.3
     },
     {
       "index": 5,
       "text": "The client confirmed the new time, so I sent an invite.",
       "pronunciation": "đờ klai-ờnt kờn-phơrmd đờ niu taim, sâu ai sent ờn in-vait.",
       "vi": "Khách hàng xác nhận thời gian mới, nên tôi gửi lời mời họp.",
-      "start": 13.52,
-      "end": 17.74
+      "start": 13.46,
+      "end": 17.63
     },
     {
       "index": 6,
       "text": "I was glad we fixed the schedule without making it complicated.",
       "pronunciation": "ai wờz glad quy phikst đờ ske-jul quì-thao mêi-king ịt kóm-plờ-kêi-tịt.",
       "vi": "Tôi mừng vì chúng tôi sửa được lịch mà không làm nó phức tạp.",
-      "start": 17.9,
+      "start": 17.79,
       "end": 21.97
     }
   ],
@@ -99,14 +99,14 @@
       "pronunciation": "đờ klai-ờnt kờn-phơrmd đờ niu taim, sâu ai sent ờn in-vait.",
       "vi": "Khách hàng xác nhận thời gian mới, nên tôi gửi lời mời họp.",
       "start": 15.36,
-      "end": 20.81
+      "end": 19.95
     },
     {
       "index": 6,
       "text": "I was glad we fixed the schedule without making it complicated.",
       "pronunciation": "ai wờz glad quy phikst đờ ske-jul quì-thao mêi-king ịt kóm-plờ-kêi-tịt.",
       "vi": "Tôi mừng vì chúng tôi sửa được lịch mà không làm nó phức tạp.",
-      "start": 20.97,
+      "start": 20.11,
       "end": 26.41
     }
   ],
@@ -117,46 +117,46 @@
       "pronunciation": "đis mo-ning, săm-thinh ơ-jần kêim ấp fo đờ klai-ờnt.",
       "vi": "Sáng nay, khách hàng có việc gấp phát sinh.",
       "start": 0.02,
-      "end": 3.32
+      "end": 3.35
     },
     {
       "index": 2,
       "text": "They asked if we could reschedule the meeting.",
       "pronunciation": "đây áskt if quy kud ri-ske-jul đờ mi-ting.",
       "vi": "Họ hỏi liệu chúng tôi có thể dời lại cuộc họp không.",
-      "start": 3.48,
-      "end": 6.05
+      "start": 3.51,
+      "end": 6.41
     },
     {
       "index": 3,
       "text": "I checked my availability before I replied.",
       "pronunciation": "ai chékt mai ờ-vei-lờ-bi-lờ-ti bi-fo ai ri-plaid.",
       "vi": "Tôi kiểm tra lịch rảnh của mình trước khi trả lời.",
-      "start": 6.21,
-      "end": 9.15
+      "start": 6.57,
+      "end": 9.08
     },
     {
       "index": 4,
       "text": "Then I proposed another time that might work for everyone.",
       "pronunciation": "đen ai prờ-pâuzd ờ-nớ-đờ taim đat mait quớrk fo ev-ri-quan.",
       "vi": "Sau đó, tôi đề xuất một thời gian khác có thể phù hợp với mọi người.",
-      "start": 9.31,
-      "end": 13.07
+      "start": 9.24,
+      "end": 12.89
     },
     {
       "index": 5,
       "text": "The client confirmed the new time, so I sent an invite.",
       "pronunciation": "đờ klai-ờnt kờn-phơrmd đờ niu taim, sâu ai sent ờn in-vait.",
       "vi": "Khách hàng xác nhận thời gian mới, nên tôi gửi lời mời họp.",
-      "start": 13.23,
-      "end": 17.26
+      "start": 13.05,
+      "end": 17.09
     },
     {
       "index": 6,
       "text": "I was glad we fixed the schedule without making it complicated.",
       "pronunciation": "ai wờz glad quy phikst đờ ske-jul quì-thao mêi-king ịt kóm-plờ-kêi-tịt.",
       "vi": "Tôi mừng vì chúng tôi sửa được lịch mà không làm nó phức tạp.",
-      "start": 17.42,
+      "start": 17.25,
       "end": 21.29
     }
   ]

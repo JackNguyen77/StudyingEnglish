@@ -133,54 +133,54 @@
       "pronunciation": "ai chékt đờ phai-nồ hen-đâu-vờr bi-fo ai mêid ờ phai-nồ chois.",
       "vi": "Tôi kiểm tra bàn giao cuối trước khi chốt lựa chọn cuối.",
       "start": 0.02,
-      "end": 4.41
+      "end": 4.52
     },
     {
       "index": 2,
       "text": "One remaining risk made the situation less simple than it looked.",
       "pronunciation": "quăn ri-mây-ning rít-sờk mêid đờ situashần les sim-pồ đen ịt lúkt.",
       "vi": "Rủi ro còn lại làm tình huống kém đơn giản hơn vẻ ban đầu.",
-      "start": 4.57,
-      "end": 8.81
+      "start": 4.68,
+      "end": 9.12
     },
     {
       "index": 3,
       "text": "I decided to close the phase before I moved forward.",
       "pronunciation": "ai đi-sai-địt tu klose đờ phase bi-fo ai muvd pho-quờrd.",
       "vi": "Tôi quyết định chốt phase trước khi tiếp tục.",
-      "start": 8.97,
-      "end": 13.04
+      "start": 9.28,
+      "end": 13.3
     },
     {
       "index": 4,
       "text": "Then I wrote a short completion note so the other person understood me.",
       "pronunciation": "đen ai râu ờ soọt kompleshần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
       "vi": "Sau đó tôi viết một ghi chú hoàn tất ngắn để người kia hiểu tôi.",
-      "start": 13.2,
-      "end": 17.75
+      "start": 13.46,
+      "end": 18.73
     },
     {
       "index": 5,
       "text": "I also needed to confirm the support owner instead of guessing.",
       "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ sờ-po(r)t aoner in-sted ờv guessing.",
       "vi": "Tôi cũng cần xác nhận support owner thay vì đoán.",
-      "start": 17.91,
-      "end": 22.79
+      "start": 18.89,
+      "end": 23.33
     },
     {
       "index": 6,
       "text": "That helped me finish implementation cleanly without adding extra stress.",
       "pronunciation": "đat heo mi phi-nish im-plờ-men-tây-shần klinli quì-thao adding ek-strờ stres.",
       "vi": "Việc đó giúp tôi kết thúc implementation sạch mà không thêm căng thẳng.",
-      "start": 22.95,
-      "end": 27.65
+      "start": 23.49,
+      "end": 27.51
     },
     {
       "index": 7,
       "text": "By the end, the whole situation felt calmer and easier to handle.",
       "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
       "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
-      "start": 27.81,
+      "start": 27.67,
       "end": 32.52
     }
   ]

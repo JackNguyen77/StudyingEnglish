@@ -15,46 +15,46 @@
       "pronunciation": "ai quăn-tịt tu sta-đi ing-glish, bớt mai rum wờz ờ mes.",
       "vi": "Tôi muốn học tiếng Anh, nhưng phòng tôi bừa bộn.",
       "start": 0.02,
-      "end": 3.42
+      "end": 3.71
     },
     {
       "index": 2,
       "text": "I decided to clean up a little before I started.",
       "pronunciation": "ai đi-sai-địt tu kli-nấp ờ li-đồ bi-fo ai star-tịt.",
       "vi": "Tôi quyết định dọn dẹp một chút trước khi bắt đầu.",
-      "start": 3.58,
-      "end": 6.49
+      "start": 3.87,
+      "end": 7.15
     },
     {
       "index": 3,
       "text": "I threw away some old papers and put my books back on the shelf.",
       "pronunciation": "ai thru ờ-quây săm âu pây-pờrz en put mai buks béc on đờ shelf.",
       "vi": "Tôi vứt vài tờ giấy cũ và cất sách lại lên kệ.",
-      "start": 6.65,
-      "end": 11.05
+      "start": 7.31,
+      "end": 11.96
     },
     {
       "index": 4,
       "text": "Then I wiped down my desk and set up my laptop.",
       "pronunciation": "đen ai quaipt daun mai desk en se-tấp mai láp-top.",
       "vi": "Rồi tôi lau bàn và chuẩn bị laptop.",
-      "start": 11.21,
-      "end": 14.8
+      "start": 12.12,
+      "end": 15.75
     },
     {
       "index": 5,
       "text": "Once everything was in place, I felt more focused.",
       "pronunciation": "quănss ev-ri-thinh wờz in plêis, ai felt mo phâu-kớst.",
       "vi": "Khi mọi thứ đã đâu vào đó, tôi thấy tập trung hơn.",
-      "start": 14.96,
-      "end": 18.38
+      "start": 15.91,
+      "end": 18.85
     },
     {
       "index": 6,
       "text": "I sat down, opened my notes, and got into study mode.",
       "pronunciation": "ai sat daun, âu-pần mai nouts, en gat in-tu sta-đi mâu.",
       "vi": "Tôi ngồi xuống, mở ghi chú ra và vào chế độ học.",
-      "start": 18.54,
+      "start": 19.01,
       "end": 22.63
     }
   ],
@@ -99,14 +99,14 @@
       "pronunciation": "quănss ev-ri-thinh wờz in plêis, ai felt mo phâu-kớst.",
       "vi": "Khi mọi thứ đã đâu vào đó, tôi thấy tập trung hơn.",
       "start": 16.37,
-      "end": 20.36
+      "end": 18.53
     },
     {
       "index": 6,
       "text": "I sat down, opened my notes, and got into study mode.",
       "pronunciation": "ai sat daun, âu-pần mai nouts, en gat in-tu sta-đi mâu.",
       "vi": "Tôi ngồi xuống, mở ghi chú ra và vào chế độ học.",
-      "start": 20.52,
+      "start": 18.69,
       "end": 25.14
     }
   ],
@@ -133,30 +133,30 @@
       "pronunciation": "ai thru ờ-quây săm âu pây-pờrz en put mai buks béc on đờ shelf.",
       "vi": "Tôi vứt vài tờ giấy cũ và cất sách lại lên kệ.",
       "start": 6.49,
-      "end": 12.63
+      "end": 10.63
     },
     {
       "index": 4,
       "text": "Then I wiped down my desk and set up my laptop.",
       "pronunciation": "đen ai quaipt daun mai desk en se-tấp mai láp-top.",
       "vi": "Rồi tôi lau bàn và chuẩn bị laptop.",
-      "start": 12.79,
-      "end": 16.15
+      "start": 10.79,
+      "end": 14.23
     },
     {
       "index": 5,
       "text": "Once everything was in place, I felt more focused.",
       "pronunciation": "quănss ev-ri-thinh wờz in plêis, ai felt mo phâu-kớst.",
       "vi": "Khi mọi thứ đã đâu vào đó, tôi thấy tập trung hơn.",
-      "start": 16.31,
-      "end": 19.05
+      "start": 14.39,
+      "end": 17.84
     },
     {
       "index": 6,
       "text": "I sat down, opened my notes, and got into study mode.",
       "pronunciation": "ai sat daun, âu-pần mai nouts, en gat in-tu sta-đi mâu.",
       "vi": "Tôi ngồi xuống, mở ghi chú ra và vào chế độ học.",
-      "start": 19.21,
+      "start": 18,
       "end": 22.48
     }
   ]

@@ -15,46 +15,46 @@
       "pronunciation": "ai âu-pần đờ pró-jekt chen-nồ en so đat đờ klai-ờnt quăn-tịt đờ ri-po(r)t bi-fo đờ mănth-li ri-viu.",
       "vi": "Tôi mở channel dự án và thấy rằng khách hàng muốn có báo cáo trước buổi review hằng tháng.",
       "start": 0.02,
-      "end": 5.61
+      "end": 6.12
     },
     {
       "index": 2,
       "text": "Instead of replying too fast, I asked which parts were fixed and which parts could still move.",
       "pronunciation": "in-sted ờv ri-plai-ing tu fast, ai áskt quýtch parts quờr phikst en quýtch parts kud stil muv.",
       "vi": "Thay vì trả lời quá nhanh, tôi hỏi phần nào đã cố định và phần nào vẫn còn có thể dời.",
-      "start": 5.77,
-      "end": 12.43
+      "start": 6.28,
+      "end": 12.33
     },
     {
       "index": 3,
       "text": "The team separated the urgent work from the work that could wait.",
       "pronunciation": "đờ tim se-pờ-rêi-tịt đờ ơ-jần quớrk phrom đờ quớrk đat kud quây.",
       "vi": "Cả nhóm tách phần việc khẩn cấp ra khỏi phần việc có thể chờ.",
-      "start": 12.59,
-      "end": 16.49
+      "start": 12.49,
+      "end": 16.71
     },
     {
       "index": 4,
       "text": "We left room for one delay because the schedule still had a few moving pieces.",
       "pronunciation": "quy left rum fo quăn đi-lây bi-kóz đờ ske-jul stil had ờ phiu mu-ving pi-siz.",
       "vi": "Chúng tôi chừa chỗ cho một lần trễ vì lịch vẫn còn vài phần đang thay đổi.",
-      "start": 16.65,
-      "end": 21.89
+      "start": 16.87,
+      "end": 22.18
     },
     {
       "index": 5,
       "text": "I placed the risky task near the start, then wrote a recap that people could check later.",
       "pronunciation": "ai plêist đờ rís-ki tát-sờk niờ đờ staart, đen râu ờ ri-kap đat pi-pồ kud chék lêi-tờ.",
       "vi": "Tôi đặt việc có rủi ro gần đầu timeline, rồi viết một bản tóm tắt để mọi người có thể xem lại sau.",
-      "start": 22.05,
-      "end": 27.89
+      "start": 22.34,
+      "end": 28.38
     },
     {
       "index": 6,
       "text": "The update made the next meeting shorter and helped everyone stay aligned.",
       "pronunciation": "đờ ấp-đêit mêid đờ nekst mi-ting soọt-tờ en heo ev-ri-quan stây ờ-laind.",
       "vi": "Cập nhật đó làm cuộc họp kế tiếp ngắn hơn và giúp mọi người giữ cùng hướng.",
-      "start": 28.05,
+      "start": 28.54,
       "end": 32.76
     }
   ],

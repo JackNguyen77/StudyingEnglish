@@ -15,46 +15,46 @@
       "pronunciation": "ai răn ao ờv egz, sâu ai stópt bai đờ grâu-sờ-ri sto.",
       "vi": "Tôi hết trứng, nên tôi ghé cửa hàng tạp hóa.",
       "start": 0.02,
-      "end": 4.13
+      "end": 4.32
     },
     {
       "index": 2,
       "text": "I picked out a few things for dinner and looked for something on sale.",
       "pronunciation": "ai pík-kạo ờ phiu thingz fo đi-nờ en lúkt fo săm-thinh on sêil.",
       "vi": "Tôi chọn vài món cho bữa tối và tìm thứ gì đó đang giảm giá.",
-      "start": 4.29,
-      "end": 8.48
+      "start": 4.48,
+      "end": 9.45
     },
     {
       "index": 3,
       "text": "The store was crowded, but the line moved quickly.",
       "pronunciation": "đờ sto wờz krao-địt, bớt đờ lain muvd quík-li.",
       "vi": "Cửa hàng đông, nhưng hàng chờ di chuyển nhanh.",
-      "start": 8.64,
-      "end": 12.52
+      "start": 9.61,
+      "end": 12.74
     },
     {
       "index": 4,
       "text": "At checkout, I realized I had forgotten my reusable bag.",
       "pronunciation": "at chék-ao, ai ri-ờ-laizd ai had fo-got-tần mai ri-yu-zờ-bồ bag.",
       "vi": "Lúc thanh toán, tôi nhận ra mình quên túi tái sử dụng.",
-      "start": 12.68,
-      "end": 16.96
+      "start": 12.9,
+      "end": 16.41
     },
     {
       "index": 5,
       "text": "I paid for everything and carried the groceries home.",
       "pronunciation": "ai pêid fo ev-ri-thinh en ke-rid đờ grâu-sờ-riz hôm.",
       "vi": "Tôi trả tiền mọi thứ và xách đồ ăn về nhà.",
-      "start": 17.12,
-      "end": 20.82
+      "start": 16.57,
+      "end": 19.71
     },
     {
       "index": 6,
       "text": "It was a small errand, but I was glad to get it done.",
       "pronunciation": "ịt wờz ờ smol e-rần, bớt ai wờz glad tu gé-tịt đăn.",
       "vi": "Đó là một việc vặt nhỏ, nhưng tôi mừng vì đã làm xong.",
-      "start": 20.98,
+      "start": 19.87,
       "end": 24.47
     }
   ],
@@ -125,22 +125,22 @@
       "pronunciation": "ai pík-kạo ờ phiu thingz fo đi-nờ en lúkt fo săm-thinh on sêil.",
       "vi": "Tôi chọn vài món cho bữa tối và tìm thứ gì đó đang giảm giá.",
       "start": 3.98,
-      "end": 10.06
+      "end": 8.15
     },
     {
       "index": 3,
       "text": "The store was crowded, but the line moved quickly.",
       "pronunciation": "đờ sto wờz krao-địt, bớt đờ lain muvd quík-li.",
       "vi": "Cửa hàng đông, nhưng hàng chờ di chuyển nhanh.",
-      "start": 10.22,
-      "end": 13.52
+      "start": 8.31,
+      "end": 12.15
     },
     {
       "index": 4,
       "text": "At checkout, I realized I had forgotten my reusable bag.",
       "pronunciation": "at chék-ao, ai ri-ờ-laizd ai had fo-got-tần mai ri-yu-zờ-bồ bag.",
       "vi": "Lúc thanh toán, tôi nhận ra mình quên túi tái sử dụng.",
-      "start": 13.68,
+      "start": 12.31,
       "end": 16.74
     },
     {
