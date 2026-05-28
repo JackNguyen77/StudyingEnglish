@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "119-public-service",
+  "title": "Story 119 - Cải thiện dịch vụ công",
+  "story": "stories/119-public-service.md",
+  "audio": "audio/119-public-service.mp3",
+  "duration": 33.87,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/119-public-service.mp3",
+  "durationMale": 31.11,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the public service in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ pớ-blik sờ-vịt in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả dịch vụ công bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.15
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the service delay, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ sờ-vịt đi-lây, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là độ trễ dịch vụ, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.31,
+      "end": 11.06
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the citizen request because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ sitizen ri-quest bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về yêu cầu của người dân vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.22,
+      "end": 16.33
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the digital form as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ đi-ji-tồ foom as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến form điện tử như một chi tiết quan trọng.",
+      "start": 16.49,
+      "end": 20.8
+    },
+    {
+      "index": 5,
+      "text": "Experts said the service update would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ sờ-vịt ấp-đêit quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói cập nhật dịch vụ sẽ quan trọng trong vài tháng tới.",
+      "start": 20.96,
+      "end": 25.39
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand public access instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan pớ-blik ak-ses in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu khả năng tiếp cận dịch vụ công thay vì chỉ đọc tiêu đề.",
+      "start": 25.55,
+      "end": 31.03
+    }
+  ],
+  "audioMale1": "audio_male_1/119-public-service.mp3",
+  "durationMale1": 34.95,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the public service in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ pớ-blik sờ-vịt in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả dịch vụ công bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.46
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the service delay, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ sờ-vịt đi-lây, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là độ trễ dịch vụ, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.62,
+      "end": 12.05
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the citizen request because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ sitizen ri-quest bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về yêu cầu của người dân vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12.21,
+      "end": 17.82
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the digital form as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ đi-ji-tồ foom as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến form điện tử như một chi tiết quan trọng.",
+      "start": 17.98,
+      "end": 23.15
+    },
+    {
+      "index": 5,
+      "text": "Experts said the service update would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ sờ-vịt ấp-đêit quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói cập nhật dịch vụ sẽ quan trọng trong vài tháng tới.",
+      "start": 23.31,
+      "end": 28.77
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand public access instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan pớ-blik ak-ses in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu khả năng tiếp cận dịch vụ công thay vì chỉ đọc tiêu đề.",
+      "start": 28.93,
+      "end": 34.87
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the public service in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ pớ-blik sờ-vịt in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả dịch vụ công bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.47
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the service delay, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ sờ-vịt đi-lây, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là độ trễ dịch vụ, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.63,
+      "end": 11.69
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the citizen request because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ sitizen ri-quest bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về yêu cầu của người dân vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.85,
+      "end": 18.24
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the digital form as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ đi-ji-tồ foom as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến form điện tử như một chi tiết quan trọng.",
+      "start": 18.4,
+      "end": 22.58
+    },
+    {
+      "index": 5,
+      "text": "Experts said the service update would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ sờ-vịt ấp-đêit quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói cập nhật dịch vụ sẽ quan trọng trong vài tháng tới.",
+      "start": 22.74,
+      "end": 27.68
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand public access instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan pớ-blik ak-ses in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu khả năng tiếp cận dịch vụ công thay vì chỉ đọc tiêu đề.",
+      "start": 27.84,
+      "end": 33.79
+    }
+  ]
+}

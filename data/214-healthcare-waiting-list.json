@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "214-healthcare-waiting-list",
+  "title": "Story 214 - Nghe về danh sách chờ y tế",
+  "story": "stories/214-healthcare-waiting-list.md",
+  "audio": "audio/214-healthcare-waiting-list.mp3",
+  "duration": 32.12,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/214-healthcare-waiting-list.mp3",
+  "durationMale": 29.62,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the waiting list before I made a final choice.",
+      "pronunciation": "ai chékt đờ quây-ting list bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra danh sách chờ trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.53
+    },
+    {
+      "index": 2,
+      "text": "One clinic staff shortage made the situation less simple than it looked.",
+      "pronunciation": "quăn kli-nik staf so-tij mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Thiếu nhân sự phòng khám làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.69,
+      "end": 8.41
+    },
+    {
+      "index": 3,
+      "text": "I decided to review health numbers before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ri-viu helth năm-bờrz bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định xem lại số liệu y tế trước khi tiếp tục.",
+      "start": 8.57,
+      "end": 12.27
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short health service note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt helth sờ-vịt note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú dịch vụ y tế ngắn để người kia hiểu tôi.",
+      "start": 12.43,
+      "end": 16.81
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check patient access instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék pây-shần ak-ses in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra khả năng tiếp cận của bệnh nhân thay vì đoán.",
+      "start": 16.97,
+      "end": 20.88
+    },
+    {
+      "index": 6,
+      "text": "That helped me explain the delay without adding extra stress.",
+      "pronunciation": "đat heo mi eksplâyn đờ đi-lây quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giải thích sự chậm trễ mà không thêm căng thẳng.",
+      "start": 21.04,
+      "end": 25.03
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.19,
+      "end": 29.54
+    }
+  ],
+  "audioMale1": "audio_male_1/214-healthcare-waiting-list.mp3",
+  "durationMale1": 36.9,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the waiting list before I made a final choice.",
+      "pronunciation": "ai chékt đờ quây-ting list bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra danh sách chờ trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.62
+    },
+    {
+      "index": 2,
+      "text": "One clinic staff shortage made the situation less simple than it looked.",
+      "pronunciation": "quăn kli-nik staf so-tij mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Thiếu nhân sự phòng khám làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.78,
+      "end": 10.2
+    },
+    {
+      "index": 3,
+      "text": "I decided to review health numbers before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ri-viu helth năm-bờrz bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định xem lại số liệu y tế trước khi tiếp tục.",
+      "start": 10.36,
+      "end": 15.29
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short health service note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt helth sờ-vịt note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú dịch vụ y tế ngắn để người kia hiểu tôi.",
+      "start": 15.45,
+      "end": 21.22
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check patient access instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék pây-shần ak-ses in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra khả năng tiếp cận của bệnh nhân thay vì đoán.",
+      "start": 21.38,
+      "end": 26.16
+    },
+    {
+      "index": 6,
+      "text": "That helped me explain the delay without adding extra stress.",
+      "pronunciation": "đat heo mi eksplâyn đờ đi-lây quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giải thích sự chậm trễ mà không thêm căng thẳng.",
+      "start": 26.32,
+      "end": 31.11
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 31.27,
+      "end": 36.82
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the waiting list before I made a final choice.",
+      "pronunciation": "ai chékt đờ quây-ting list bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra danh sách chờ trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.9
+    },
+    {
+      "index": 2,
+      "text": "One clinic staff shortage made the situation less simple than it looked.",
+      "pronunciation": "quăn kli-nik staf so-tij mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Thiếu nhân sự phòng khám làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.06,
+      "end": 8.97
+    },
+    {
+      "index": 3,
+      "text": "I decided to review health numbers before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ri-viu helth năm-bờrz bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định xem lại số liệu y tế trước khi tiếp tục.",
+      "start": 9.13,
+      "end": 13.21
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short health service note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt helth sờ-vịt note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú dịch vụ y tế ngắn để người kia hiểu tôi.",
+      "start": 13.37,
+      "end": 18.13
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check patient access instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék pây-shần ak-ses in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra khả năng tiếp cận của bệnh nhân thay vì đoán.",
+      "start": 18.29,
+      "end": 22.56
+    },
+    {
+      "index": 6,
+      "text": "That helped me explain the delay without adding extra stress.",
+      "pronunciation": "đat heo mi eksplâyn đờ đi-lây quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giải thích sự chậm trễ mà không thêm căng thẳng.",
+      "start": 22.72,
+      "end": 27.06
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.22,
+      "end": 32.04
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "259-childcare-policy-change",
+  "title": "Story 259 - Đọc thay đổi policy childcare",
+  "story": "stories/259-childcare-policy-change.md",
+  "audio": "audio/259-childcare-policy-change.mp3",
+  "duration": 33.27,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/259-childcare-policy-change.mp3",
+  "durationMale": 30.84,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I listened to the childcare policy change before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ khildkare po-lờ-si chênj bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe thay đổi policy childcare trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 5.04
+    },
+    {
+      "index": 2,
+      "text": "One fee increase made the update harder to explain.",
+      "pronunciation": "quăn fi inkrise mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một tăng phí làm phần update khó giải thích hơn.",
+      "start": 5.2,
+      "end": 8.92
+    },
+    {
+      "index": 3,
+      "text": "I tried to compare subsidy options instead of reacting too quickly.",
+      "pronunciation": "ai traid tu kompare subsidi áp-shầnz in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố so sánh lựa chọn subsidy thay vì phản ứng quá vội.",
+      "start": 9.08,
+      "end": 13.61
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short childcare policy note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt khildkare po-lờ-si note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú policy childcare ngắn để các facts rõ ràng.",
+      "start": 13.77,
+      "end": 18.22
+    },
+    {
+      "index": 5,
+      "text": "I also had to check family eligibility before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék famili elijibiliti bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra eligibility của gia đình trước khi lặp lại claim đó.",
+      "start": 18.38,
+      "end": 22.65
+    },
+    {
+      "index": 6,
+      "text": "That helped me ease parent pressure without making the conversation tense.",
+      "pronunciation": "đat heo mi ise parent pre-shờr quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giảm áp lực cho phụ huynh mà không làm cuộc trao đổi căng thẳng.",
+      "start": 22.81,
+      "end": 27.3
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 27.46,
+      "end": 30.76
+    }
+  ],
+  "audioMale1": "audio_male_1/259-childcare-policy-change.mp3",
+  "durationMale1": 38.23,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I listened to the childcare policy change before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ khildkare po-lờ-si chênj bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe thay đổi policy childcare trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 5.5
+    },
+    {
+      "index": 2,
+      "text": "One fee increase made the update harder to explain.",
+      "pronunciation": "quăn fi inkrise mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một tăng phí làm phần update khó giải thích hơn.",
+      "start": 5.66,
+      "end": 10.05
+    },
+    {
+      "index": 3,
+      "text": "I tried to compare subsidy options instead of reacting too quickly.",
+      "pronunciation": "ai traid tu kompare subsidi áp-shầnz in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố so sánh lựa chọn subsidy thay vì phản ứng quá vội.",
+      "start": 10.21,
+      "end": 15.67
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short childcare policy note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt khildkare po-lờ-si note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú policy childcare ngắn để các facts rõ ràng.",
+      "start": 15.83,
+      "end": 21.53
+    },
+    {
+      "index": 5,
+      "text": "I also had to check family eligibility before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék famili elijibiliti bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra eligibility của gia đình trước khi lặp lại claim đó.",
+      "start": 21.69,
+      "end": 27.06
+    },
+    {
+      "index": 6,
+      "text": "That helped me ease parent pressure without making the conversation tense.",
+      "pronunciation": "đat heo mi ise parent pre-shờr quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giảm áp lực cho phụ huynh mà không làm cuộc trao đổi căng thẳng.",
+      "start": 27.22,
+      "end": 32.69
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 32.85,
+      "end": 38.15
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I listened to the childcare policy change before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ khildkare po-lờ-si chênj bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe thay đổi policy childcare trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.68
+    },
+    {
+      "index": 2,
+      "text": "One fee increase made the update harder to explain.",
+      "pronunciation": "quăn fi inkrise mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một tăng phí làm phần update khó giải thích hơn.",
+      "start": 4.84,
+      "end": 8.34
+    },
+    {
+      "index": 3,
+      "text": "I tried to compare subsidy options instead of reacting too quickly.",
+      "pronunciation": "ai traid tu kompare subsidi áp-shầnz in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố so sánh lựa chọn subsidy thay vì phản ứng quá vội.",
+      "start": 8.5,
+      "end": 13.55
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short childcare policy note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt khildkare po-lờ-si note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú policy childcare ngắn để các facts rõ ràng.",
+      "start": 13.71,
+      "end": 18.97
+    },
+    {
+      "index": 5,
+      "text": "I also had to check family eligibility before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék famili elijibiliti bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra eligibility của gia đình trước khi lặp lại claim đó.",
+      "start": 19.13,
+      "end": 24.05
+    },
+    {
+      "index": 6,
+      "text": "That helped me ease parent pressure without making the conversation tense.",
+      "pronunciation": "đat heo mi ise parent pre-shờr quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giảm áp lực cho phụ huynh mà không làm cuộc trao đổi căng thẳng.",
+      "start": 24.21,
+      "end": 28.96
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 29.12,
+      "end": 33.19
+    }
+  ]
+}

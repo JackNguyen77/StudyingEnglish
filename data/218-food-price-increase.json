@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "218-food-price-increase",
+  "title": "Story 218 - Theo dõi giá thực phẩm tăng",
+  "story": "stories/218-food-price-increase.md",
+  "audio": "audio/218-food-price-increase.mp3",
+  "duration": 29.88,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/218-food-price-increase.mp3",
+  "durationMale": 30.28,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the food prices before I made a final choice.",
+      "pronunciation": "ai chékt đờ fud prai-siz bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra giá thực phẩm trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.76
+    },
+    {
+      "index": 2,
+      "text": "One supply pressure made the situation less simple than it looked.",
+      "pronunciation": "quăn sờ-plai pre-shờr mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Áp lực nguồn cung làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.92,
+      "end": 7.92
+    },
+    {
+      "index": 3,
+      "text": "I decided to compare basic items before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kompare bây-sik ai-tầmz bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định so sánh món cơ bản trước khi tiếp tục.",
+      "start": 8.08,
+      "end": 11.99
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short shopping note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt shop-ping note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú mua sắm ngắn để người kia hiểu tôi.",
+      "start": 12.15,
+      "end": 16.63
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check household impact instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék haosehold impakt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra impact hộ gia đình thay vì đoán.",
+      "start": 16.79,
+      "end": 20.46
+    },
+    {
+      "index": 6,
+      "text": "That helped me understand daily costs without adding extra stress.",
+      "pronunciation": "đat heo mi ăn-đờ-stan đây-li kosts quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hiểu chi phí hằng ngày mà không thêm căng thẳng.",
+      "start": 20.62,
+      "end": 25.32
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.48,
+      "end": 30.2
+    }
+  ],
+  "audioMale1": "audio_male_1/218-food-price-increase.mp3",
+  "durationMale1": 35.05,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the food prices before I made a final choice.",
+      "pronunciation": "ai chékt đờ fud prai-siz bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra giá thực phẩm trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.14
+    },
+    {
+      "index": 2,
+      "text": "One supply pressure made the situation less simple than it looked.",
+      "pronunciation": "quăn sờ-plai pre-shờr mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Áp lực nguồn cung làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.3,
+      "end": 10.16
+    },
+    {
+      "index": 3,
+      "text": "I decided to compare basic items before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kompare bây-sik ai-tầmz bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định so sánh món cơ bản trước khi tiếp tục.",
+      "start": 10.32,
+      "end": 15.04
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short shopping note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt shop-ping note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú mua sắm ngắn để người kia hiểu tôi.",
+      "start": 15.2,
+      "end": 19.89
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check household impact instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék haosehold impakt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra impact hộ gia đình thay vì đoán.",
+      "start": 20.05,
+      "end": 24.44
+    },
+    {
+      "index": 6,
+      "text": "That helped me understand daily costs without adding extra stress.",
+      "pronunciation": "đat heo mi ăn-đờ-stan đây-li kosts quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hiểu chi phí hằng ngày mà không thêm căng thẳng.",
+      "start": 24.6,
+      "end": 29.69
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 29.85,
+      "end": 34.97
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the food prices before I made a final choice.",
+      "pronunciation": "ai chékt đờ fud prai-siz bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra giá thực phẩm trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.64
+    },
+    {
+      "index": 2,
+      "text": "One supply pressure made the situation less simple than it looked.",
+      "pronunciation": "quăn sờ-plai pre-shờr mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Áp lực nguồn cung làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.8,
+      "end": 7.66
+    },
+    {
+      "index": 3,
+      "text": "I decided to compare basic items before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kompare bây-sik ai-tầmz bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định so sánh món cơ bản trước khi tiếp tục.",
+      "start": 7.82,
+      "end": 11.54
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short shopping note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt shop-ping note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú mua sắm ngắn để người kia hiểu tôi.",
+      "start": 11.7,
+      "end": 15.97
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check household impact instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék haosehold impakt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra impact hộ gia đình thay vì đoán.",
+      "start": 16.13,
+      "end": 20.09
+    },
+    {
+      "index": 6,
+      "text": "That helped me understand daily costs without adding extra stress.",
+      "pronunciation": "đat heo mi ăn-đờ-stan đây-li kosts quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hiểu chi phí hằng ngày mà không thêm căng thẳng.",
+      "start": 20.25,
+      "end": 24.86
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.02,
+      "end": 29.8
+    }
+  ]
+}

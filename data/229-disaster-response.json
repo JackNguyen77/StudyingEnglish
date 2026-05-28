@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "229-disaster-response",
+  "title": "Story 229 - Theo dõi phản ứng sau thiên tai",
+  "story": "stories/229-disaster-response.md",
+  "audio": "audio/229-disaster-response.mp3",
+  "duration": 31.94,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/229-disaster-response.mp3",
+  "durationMale": 32.39,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the disaster response before I made a final choice.",
+      "pronunciation": "ai chékt đờ disaster ri-spons bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra phản ứng sau thiên tai trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.75
+    },
+    {
+      "index": 2,
+      "text": "One damaged road made the situation less simple than it looked.",
+      "pronunciation": "quăn damagt road mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Đường bị hỏng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.91,
+      "end": 9.47
+    },
+    {
+      "index": 3,
+      "text": "I decided to coordinate emergency help before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kurdinate emerjensi heo bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định điều phối hỗ trợ khẩn cấp trước khi tiếp tục.",
+      "start": 9.63,
+      "end": 14.25
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short response note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ri-spons note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú response ngắn để người kia hiểu tôi.",
+      "start": 14.41,
+      "end": 18.67
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check local shelters instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék lâu-kồ shelters in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra nơi trú tạm thay vì đoán.",
+      "start": 18.83,
+      "end": 22.86
+    },
+    {
+      "index": 6,
+      "text": "That helped me restore basic services without adding extra stress.",
+      "pronunciation": "đat heo mi ri-sto bây-sik servises quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi khôi phục dịch vụ cơ bản mà không thêm căng thẳng.",
+      "start": 23.02,
+      "end": 27.73
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.89,
+      "end": 32.31
+    }
+  ],
+  "audioMale1": "audio_male_1/229-disaster-response.mp3",
+  "durationMale1": 36.85,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the disaster response before I made a final choice.",
+      "pronunciation": "ai chékt đờ disaster ri-spons bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra phản ứng sau thiên tai trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.33
+    },
+    {
+      "index": 2,
+      "text": "One damaged road made the situation less simple than it looked.",
+      "pronunciation": "quăn damagt road mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Đường bị hỏng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.49,
+      "end": 10.56
+    },
+    {
+      "index": 3,
+      "text": "I decided to coordinate emergency help before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kurdinate emerjensi heo bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định điều phối hỗ trợ khẩn cấp trước khi tiếp tục.",
+      "start": 10.72,
+      "end": 16
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short response note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ri-spons note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú response ngắn để người kia hiểu tôi.",
+      "start": 16.16,
+      "end": 20.95
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check local shelters instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék lâu-kồ shelters in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra nơi trú tạm thay vì đoán.",
+      "start": 21.11,
+      "end": 25.43
+    },
+    {
+      "index": 6,
+      "text": "That helped me restore basic services without adding extra stress.",
+      "pronunciation": "đat heo mi ri-sto bây-sik servises quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi khôi phục dịch vụ cơ bản mà không thêm căng thẳng.",
+      "start": 25.59,
+      "end": 30.95
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 31.11,
+      "end": 36.77
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the disaster response before I made a final choice.",
+      "pronunciation": "ai chékt đờ disaster ri-spons bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra phản ứng sau thiên tai trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.24
+    },
+    {
+      "index": 2,
+      "text": "One damaged road made the situation less simple than it looked.",
+      "pronunciation": "quăn damagt road mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Đường bị hỏng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.4,
+      "end": 8.5
+    },
+    {
+      "index": 3,
+      "text": "I decided to coordinate emergency help before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kurdinate emerjensi heo bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định điều phối hỗ trợ khẩn cấp trước khi tiếp tục.",
+      "start": 8.66,
+      "end": 13.37
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short response note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ri-spons note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú response ngắn để người kia hiểu tôi.",
+      "start": 13.53,
+      "end": 18.14
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check local shelters instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék lâu-kồ shelters in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra nơi trú tạm thay vì đoán.",
+      "start": 18.3,
+      "end": 22.5
+    },
+    {
+      "index": 6,
+      "text": "That helped me restore basic services without adding extra stress.",
+      "pronunciation": "đat heo mi ri-sto bây-sik servises quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi khôi phục dịch vụ cơ bản mà không thêm căng thẳng.",
+      "start": 22.66,
+      "end": 27.32
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.48,
+      "end": 31.86
+    }
+  ]
+}

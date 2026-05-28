@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "121-notification-settings",
+  "title": "Story 121 - Điều chỉnh thông báo",
+  "story": "stories/121-notification-settings.md",
+  "audio": "audio/121-notification-settings.mp3",
+  "duration": 38.68,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/121-notification-settings.mp3",
+  "durationMale": 33.45,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I opened the notification settings because my phone kept interrupting my study time.",
+      "pronunciation": "ai âu-pần đờ nâu-tờ-fờ-kây-shần se-tingz bi-kóz mai phôn képt in-tờ-rớp-ting mai sta-đi taim.",
+      "vi": "Tôi mở cài đặt thông báo vì điện thoại cứ chen ngang lúc tôi học.",
+      "start": 0.02,
+      "end": 5.44
+    },
+    {
+      "index": 2,
+      "text": "I turned off alerts from apps that were not important during work.",
+      "pronunciation": "ai tơnd of ờ-lơrts phrom áps đat quờr nót im-po-tần đu-ring quớrk.",
+      "vi": "Tôi tắt cảnh báo từ những app không quan trọng trong lúc làm việc.",
+      "start": 5.6,
+      "end": 9.65
+    },
+    {
+      "index": 3,
+      "text": "Too many pop-ups made it hard to focus on one task.",
+      "pronunciation": "tu me-ni páp-ấpz mêid ịt haad tu phâu-kớt on quăn tát-sờk.",
+      "vi": "Quá nhiều popup làm tôi khó tập trung vào một việc.",
+      "start": 9.81,
+      "end": 13.67
+    },
+    {
+      "index": 4,
+      "text": "I used focus mode so only urgent messages could come through.",
+      "pronunciation": "ai yuzd phâu-kớs mâu sâu âu-li ơ-jần mé-sijiz kud kăm thru.",
+      "vi": "Tôi dùng chế độ tập trung để chỉ tin nhắn khẩn mới đi qua được.",
+      "start": 13.83,
+      "end": 18.8
+    },
+    {
+      "index": 5,
+      "text": "I kept important updates on, but I moved everything else to later.",
+      "pronunciation": "ai képt im-po-tần ấp-đêits on, bớt ai muvd ev-ri-thinh els tu lêi-tờ.",
+      "vi": "Tôi vẫn bật cập nhật quan trọng, nhưng để mọi thứ khác xem sau.",
+      "start": 18.96,
+      "end": 23.49
+    },
+    {
+      "index": 6,
+      "text": "By the end, I could check later without feeling pulled all day.",
+      "pronunciation": "bai đi end, ai kud chék lêi-tờ quì-thao phi-ling pullt ol đây.",
+      "vi": "Cuối cùng, tôi có thể kiểm tra sau mà không bị kéo đi cả ngày.",
+      "start": 23.65,
+      "end": 28.78
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 28.94,
+      "end": 33.37
+    }
+  ],
+  "audioMale1": "audio_male_1/121-notification-settings.mp3",
+  "durationMale1": 36.66,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I opened the notification settings because my phone kept interrupting my study time.",
+      "pronunciation": "ai âu-pần đờ nâu-tờ-fờ-kây-shần se-tingz bi-kóz mai phôn képt in-tờ-rớp-ting mai sta-đi taim.",
+      "vi": "Tôi mở cài đặt thông báo vì điện thoại cứ chen ngang lúc tôi học.",
+      "start": 0.02,
+      "end": 4.78
+    },
+    {
+      "index": 2,
+      "text": "I turned off alerts from apps that were not important during work.",
+      "pronunciation": "ai tơnd of ờ-lơrts phrom áps đat quờr nót im-po-tần đu-ring quớrk.",
+      "vi": "Tôi tắt cảnh báo từ những app không quan trọng trong lúc làm việc.",
+      "start": 4.94,
+      "end": 11.26
+    },
+    {
+      "index": 3,
+      "text": "Too many pop-ups made it hard to focus on one task.",
+      "pronunciation": "tu me-ni páp-ấpz mêid ịt haad tu phâu-kớt on quăn tát-sờk.",
+      "vi": "Quá nhiều popup làm tôi khó tập trung vào một việc.",
+      "start": 11.42,
+      "end": 15.62
+    },
+    {
+      "index": 4,
+      "text": "I used focus mode so only urgent messages could come through.",
+      "pronunciation": "ai yuzd phâu-kớs mâu sâu âu-li ơ-jần mé-sijiz kud kăm thru.",
+      "vi": "Tôi dùng chế độ tập trung để chỉ tin nhắn khẩn mới đi qua được.",
+      "start": 15.78,
+      "end": 21.09
+    },
+    {
+      "index": 5,
+      "text": "I kept important updates on, but I moved everything else to later.",
+      "pronunciation": "ai képt im-po-tần ấp-đêits on, bớt ai muvd ev-ri-thinh els tu lêi-tờ.",
+      "vi": "Tôi vẫn bật cập nhật quan trọng, nhưng để mọi thứ khác xem sau.",
+      "start": 21.25,
+      "end": 26.66
+    },
+    {
+      "index": 6,
+      "text": "By the end, I could check later without feeling pulled all day.",
+      "pronunciation": "bai đi end, ai kud chék lêi-tờ quì-thao phi-ling pullt ol đây.",
+      "vi": "Cuối cùng, tôi có thể kiểm tra sau mà không bị kéo đi cả ngày.",
+      "start": 26.82,
+      "end": 31.58
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 31.74,
+      "end": 36.58
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I opened the notification settings because my phone kept interrupting my study time.",
+      "pronunciation": "ai âu-pần đờ nâu-tờ-fờ-kây-shần se-tingz bi-kóz mai phôn képt in-tờ-rớp-ting mai sta-đi taim.",
+      "vi": "Tôi mở cài đặt thông báo vì điện thoại cứ chen ngang lúc tôi học.",
+      "start": 0,
+      "end": 6.26
+    },
+    {
+      "index": 2,
+      "text": "I turned off alerts from apps that were not important during work.",
+      "pronunciation": "ai tơnd of ờ-lơrts phrom áps đat quờr nót im-po-tần đu-ring quớrk.",
+      "vi": "Tôi tắt cảnh báo từ những app không quan trọng trong lúc làm việc.",
+      "start": 6.37,
+      "end": 11.92
+    },
+    {
+      "index": 3,
+      "text": "Too many pop-ups made it hard to focus on one task.",
+      "pronunciation": "tu me-ni páp-ấpz mêid ịt haad tu phâu-kớt on quăn tát-sờk.",
+      "vi": "Quá nhiều popup làm tôi khó tập trung vào một việc.",
+      "start": 12.03,
+      "end": 16.87
+    },
+    {
+      "index": 4,
+      "text": "I used focus mode so only urgent messages could come through.",
+      "pronunciation": "ai yuzd phâu-kớs mâu sâu âu-li ơ-jần mé-sijiz kud kăm thru.",
+      "vi": "Tôi dùng chế độ tập trung để chỉ tin nhắn khẩn mới đi qua được.",
+      "start": 16.98,
+      "end": 22.53
+    },
+    {
+      "index": 5,
+      "text": "I kept important updates on, but I moved everything else to later.",
+      "pronunciation": "ai képt im-po-tần ấp-đêits on, bớt ai muvd ev-ri-thinh els tu lêi-tờ.",
+      "vi": "Tôi vẫn bật cập nhật quan trọng, nhưng để mọi thứ khác xem sau.",
+      "start": 22.64,
+      "end": 27.77
+    },
+    {
+      "index": 6,
+      "text": "By the end, I could check later without feeling pulled all day.",
+      "pronunciation": "bai đi end, ai kud chék lêi-tờ quì-thao phi-ling pullt ol đây.",
+      "vi": "Cuối cùng, tôi có thể kiểm tra sau mà không bị kéo đi cả ngày.",
+      "start": 27.88,
+      "end": 33.12
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 33.23,
+      "end": 38.68
+    }
+  ]
+}

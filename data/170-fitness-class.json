@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "170-fitness-class",
+  "title": "Story 170 - Đăng ký lớp tập",
+  "story": "stories/170-fitness-class.md",
+  "audio": "audio/170-fitness-class.mp3",
+  "duration": 33.05,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/170-fitness-class.mp3",
+  "durationMale": 28.95,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the class schedule before I made a final choice.",
+      "pronunciation": "ai chékt đờ klass ske-jul bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra lịch lớp học trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.88
+    },
+    {
+      "index": 2,
+      "text": "One crowded gym made the situation less simple than it looked.",
+      "pronunciation": "quăn krao-địt jym mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phòng tập đông làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.04,
+      "end": 8.21
+    },
+    {
+      "index": 3,
+      "text": "I decided to reserve a spot before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu reserve ờ spot bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định giữ chỗ trước khi tiếp tục.",
+      "start": 8.37,
+      "end": 12.02
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short fitness note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt fitness note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú tập luyện ngắn để người kia hiểu tôi.",
+      "start": 12.18,
+      "end": 16.35
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the trainer name instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ trâyner name in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra tên huấn luyện viên thay vì đoán.",
+      "start": 16.51,
+      "end": 20.26
+    },
+    {
+      "index": 6,
+      "text": "That helped me keep the exercise habit without adding extra stress.",
+      "pronunciation": "đat heo mi kip đờ eksersise ha-bit quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giữ thói quen tập luyện mà không thêm căng thẳng.",
+      "start": 20.42,
+      "end": 24.68
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 24.84,
+      "end": 28.87
+    }
+  ],
+  "audioMale1": "audio_male_1/170-fitness-class.mp3",
+  "durationMale1": 34.79,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the class schedule before I made a final choice.",
+      "pronunciation": "ai chékt đờ klass ske-jul bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra lịch lớp học trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.34
+    },
+    {
+      "index": 2,
+      "text": "One crowded gym made the situation less simple than it looked.",
+      "pronunciation": "quăn krao-địt jym mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phòng tập đông làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.5,
+      "end": 9.92
+    },
+    {
+      "index": 3,
+      "text": "I decided to reserve a spot before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu reserve ờ spot bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định giữ chỗ trước khi tiếp tục.",
+      "start": 10.08,
+      "end": 14.36
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short fitness note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt fitness note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú tập luyện ngắn để người kia hiểu tôi.",
+      "start": 14.52,
+      "end": 19.28
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the trainer name instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ trâyner name in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra tên huấn luyện viên thay vì đoán.",
+      "start": 19.44,
+      "end": 23.82
+    },
+    {
+      "index": 6,
+      "text": "That helped me keep the exercise habit without adding extra stress.",
+      "pronunciation": "đat heo mi kip đờ eksersise ha-bit quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giữ thói quen tập luyện mà không thêm căng thẳng.",
+      "start": 23.98,
+      "end": 29.08
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 29.24,
+      "end": 34.71
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the class schedule before I made a final choice.",
+      "pronunciation": "ai chékt đờ klass ske-jul bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra lịch lớp học trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.6
+    },
+    {
+      "index": 2,
+      "text": "One crowded gym made the situation less simple than it looked.",
+      "pronunciation": "quăn krao-địt jym mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phòng tập đông làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.76,
+      "end": 9.24
+    },
+    {
+      "index": 3,
+      "text": "I decided to reserve a spot before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu reserve ờ spot bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định giữ chỗ trước khi tiếp tục.",
+      "start": 9.4,
+      "end": 13.52
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short fitness note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt fitness note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú tập luyện ngắn để người kia hiểu tôi.",
+      "start": 13.68,
+      "end": 18.66
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the trainer name instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ trâyner name in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra tên huấn luyện viên thay vì đoán.",
+      "start": 18.82,
+      "end": 23.2
+    },
+    {
+      "index": 6,
+      "text": "That helped me keep the exercise habit without adding extra stress.",
+      "pronunciation": "đat heo mi kip đờ eksersise ha-bit quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giữ thói quen tập luyện mà không thêm căng thẳng.",
+      "start": 23.36,
+      "end": 27.98
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.14,
+      "end": 32.97
+    }
+  ]
+}

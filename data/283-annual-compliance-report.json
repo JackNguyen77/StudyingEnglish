@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "283-annual-compliance-report",
+  "title": "Story 283 - Đọc annual compliance report",
+  "story": "stories/283-annual-compliance-report.md",
+  "audio": "audio/283-annual-compliance-report.mp3",
+  "duration": 31.46,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/283-annual-compliance-report.mp3",
+  "durationMale": 33.99,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the annual compliance report before the meeting started.",
+      "pronunciation": "ai quókt thru đờ annual komplianse ri-po(r)t bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through annual compliance report trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.11
+    },
+    {
+      "index": 2,
+      "text": "One control weakness made the decision harder than expected.",
+      "pronunciation": "quăn kờn-trâu wikness mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một điểm yếu control làm decision khó hơn dự kiến.",
+      "start": 5.27,
+      "end": 9.58
+    },
+    {
+      "index": 3,
+      "text": "I tried to document corrective actions so the team had a clearer path.",
+      "pronunciation": "ai traid tu đók-yu-mần korrektive aktions sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố document hành động corrective để team có hướng rõ hơn.",
+      "start": 9.74,
+      "end": 15.03
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short compliance report note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt komplianse ri-po(r)t note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú report compliance ngắn để capture các key points.",
+      "start": 15.19,
+      "end": 20.25
+    },
+    {
+      "index": 5,
+      "text": "I also had to check evidence quality before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék e-vờ-đầnss qua-lờ-ti bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra chất lượng evidence trước khi chúng tôi thống nhất next step.",
+      "start": 20.41,
+      "end": 25.43
+    },
+    {
+      "index": 6,
+      "text": "That helped us meet audit expectations without losing momentum.",
+      "pronunciation": "đat heo ớs mit audit ekspektations quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi đáp ứng expectation audit mà không mất momentum.",
+      "start": 25.59,
+      "end": 29.65
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 29.81,
+      "end": 33.91
+    }
+  ],
+  "audioMale1": "audio_male_1/283-annual-compliance-report.mp3",
+  "durationMale1": 38.9,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the annual compliance report before the meeting started.",
+      "pronunciation": "ai quókt thru đờ annual komplianse ri-po(r)t bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through annual compliance report trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.73
+    },
+    {
+      "index": 2,
+      "text": "One control weakness made the decision harder than expected.",
+      "pronunciation": "quăn kờn-trâu wikness mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một điểm yếu control làm decision khó hơn dự kiến.",
+      "start": 5.89,
+      "end": 10.76
+    },
+    {
+      "index": 3,
+      "text": "I tried to document corrective actions so the team had a clearer path.",
+      "pronunciation": "ai traid tu đók-yu-mần korrektive aktions sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố document hành động corrective để team có hướng rõ hơn.",
+      "start": 10.92,
+      "end": 16.59
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short compliance report note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt komplianse ri-po(r)t note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú report compliance ngắn để capture các key points.",
+      "start": 16.75,
+      "end": 22.62
+    },
+    {
+      "index": 5,
+      "text": "I also had to check evidence quality before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék e-vờ-đầnss qua-lờ-ti bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra chất lượng evidence trước khi chúng tôi thống nhất next step.",
+      "start": 22.78,
+      "end": 29.85
+    },
+    {
+      "index": 6,
+      "text": "That helped us meet audit expectations without losing momentum.",
+      "pronunciation": "đat heo ớs mit audit ekspektations quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi đáp ứng expectation audit mà không mất momentum.",
+      "start": 30.01,
+      "end": 33.65
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 33.81,
+      "end": 38.82
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the annual compliance report before the meeting started.",
+      "pronunciation": "ai quókt thru đờ annual komplianse ri-po(r)t bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through annual compliance report trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.71
+    },
+    {
+      "index": 2,
+      "text": "One control weakness made the decision harder than expected.",
+      "pronunciation": "quăn kờn-trâu wikness mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một điểm yếu control làm decision khó hơn dự kiến.",
+      "start": 4.87,
+      "end": 9.03
+    },
+    {
+      "index": 3,
+      "text": "I tried to document corrective actions so the team had a clearer path.",
+      "pronunciation": "ai traid tu đók-yu-mần korrektive aktions sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố document hành động corrective để team có hướng rõ hơn.",
+      "start": 9.19,
+      "end": 13.8
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short compliance report note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt komplianse ri-po(r)t note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú report compliance ngắn để capture các key points.",
+      "start": 13.96,
+      "end": 18.33
+    },
+    {
+      "index": 5,
+      "text": "I also had to check evidence quality before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék e-vờ-đầnss qua-lờ-ti bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra chất lượng evidence trước khi chúng tôi thống nhất next step.",
+      "start": 18.49,
+      "end": 23.12
+    },
+    {
+      "index": 6,
+      "text": "That helped us meet audit expectations without losing momentum.",
+      "pronunciation": "đat heo ớs mit audit ekspektations quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi đáp ứng expectation audit mà không mất momentum.",
+      "start": 23.28,
+      "end": 27.65
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 27.81,
+      "end": 31.38
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "057-meeting-decision",
+  "title": "Story 057 - Chốt quyết định trong họp",
+  "story": "stories/057-meeting-decision.md",
+  "audio": "audio/057-meeting-decision.mp3",
+  "duration": 28.04,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/057-meeting-decision.mp3",
+  "durationMale": 28.12,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the meeting decision so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ mi-ting desizhần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở quyết định trong cuộc họp để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.51
+    },
+    {
+      "index": 2,
+      "text": "The goal was to settle the point without losing important details.",
+      "pronunciation": "đờ gâu wờz tu se-tồ đờ poin quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là chốt điểm đó mà không làm mất các chi tiết quan trọng.",
+      "start": 5.67,
+      "end": 9.87
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the remaining concern and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ ri-mây-ning kờn-sơn en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra điểm lo còn lại và hỏi ai nên xử lý tiếp.",
+      "start": 10.03,
+      "end": 14.9
+    },
+    {
+      "index": 4,
+      "text": "We agreed to record the decision before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu re-kờrd đờ desizhần bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất ghi lại quyết định trước khi có ai đi tiếp.",
+      "start": 15.06,
+      "end": 19.01
+    },
+    {
+      "index": 5,
+      "text": "I shared the action owner after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ ác-shần aoner áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ người phụ trách hành động sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 19.17,
+      "end": 23.85
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us keep everyone aligned later in the day.",
+      "pronunciation": "đat smol step heo ớs kip ev-ri-quan ờ-laind lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi giữ mọi người cùng hướng về sau trong ngày.",
+      "start": 24.01,
+      "end": 28.04
+    }
+  ],
+  "audioMale1": "audio_male_1/057-meeting-decision.mp3",
+  "durationMale1": 34.85,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the meeting decision so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ mi-ting desizhần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở quyết định trong cuộc họp để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 6.27
+    },
+    {
+      "index": 2,
+      "text": "The goal was to settle the point without losing important details.",
+      "pronunciation": "đờ gâu wờz tu se-tồ đờ poin quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là chốt điểm đó mà không làm mất các chi tiết quan trọng.",
+      "start": 6.43,
+      "end": 11.46
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the remaining concern and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ ri-mây-ning kờn-sơn en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra điểm lo còn lại và hỏi ai nên xử lý tiếp.",
+      "start": 11.62,
+      "end": 17.37
+    },
+    {
+      "index": 4,
+      "text": "We agreed to record the decision before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu re-kờrd đờ desizhần bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất ghi lại quyết định trước khi có ai đi tiếp.",
+      "start": 17.53,
+      "end": 22.65
+    },
+    {
+      "index": 5,
+      "text": "I shared the action owner after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ ác-shần aoner áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ người phụ trách hành động sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 22.81,
+      "end": 28.93
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us keep everyone aligned later in the day.",
+      "pronunciation": "đat smol step heo ớs kip ev-ri-quan ờ-laind lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi giữ mọi người cùng hướng về sau trong ngày.",
+      "start": 29.09,
+      "end": 34.77
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the meeting decision so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ mi-ting desizhần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở quyết định trong cuộc họp để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.08
+    },
+    {
+      "index": 2,
+      "text": "The goal was to settle the point without losing important details.",
+      "pronunciation": "đờ gâu wờz tu se-tồ đờ poin quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là chốt điểm đó mà không làm mất các chi tiết quan trọng.",
+      "start": 5.24,
+      "end": 9.46
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the remaining concern and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ ri-mây-ning kờn-sơn en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra điểm lo còn lại và hỏi ai nên xử lý tiếp.",
+      "start": 9.62,
+      "end": 14.21
+    },
+    {
+      "index": 4,
+      "text": "We agreed to record the decision before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu re-kờrd đờ desizhần bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất ghi lại quyết định trước khi có ai đi tiếp.",
+      "start": 14.37,
+      "end": 18.23
+    },
+    {
+      "index": 5,
+      "text": "I shared the action owner after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ ác-shần aoner áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ người phụ trách hành động sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 18.39,
+      "end": 23.54
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us keep everyone aligned later in the day.",
+      "pronunciation": "đat smol step heo ớs kip ev-ri-quan ờ-laind lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi giữ mọi người cùng hướng về sau trong ngày.",
+      "start": 23.7,
+      "end": 27.96
+    }
+  ]
+}

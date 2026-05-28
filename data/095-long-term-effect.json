@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "095-long-term-effect",
+  "title": "Story 095 - Nói về tác động dài hạn",
+  "story": "stories/095-long-term-effect.md",
+  "audio": "audio/095-long-term-effect.mp3",
+  "duration": 30.34,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/095-long-term-effect.mp3",
+  "durationMale": 30.84,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the long-term effect in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ long tờm i-fekt in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả tác động dài hạn bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.36
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the early warning, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ irli wo(r)-ning, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là cảnh báo sớm, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.52,
+      "end": 11.27
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the health risk because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ helth rít-sờk bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về rủi ro sức khỏe vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.43,
+      "end": 16.26
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the prevention plan as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ prevenshần plen as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến kế hoạch phòng ngừa như một chi tiết quan trọng.",
+      "start": 16.42,
+      "end": 20.8
+    },
+    {
+      "index": 5,
+      "text": "Experts said the future cost would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ phiu-chờ kost quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói chi phí tương lai sẽ quan trọng trong vài tháng tới.",
+      "start": 20.96,
+      "end": 25.32
+    },
+    {
+      "index": 6,
+      "text": "The story helped me think beyond today instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi thingk bi-yon tu-đây in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi nghĩ xa hơn hôm nay thay vì chỉ đọc tiêu đề.",
+      "start": 25.48,
+      "end": 30.76
+    }
+  ],
+  "audioMale1": "audio_male_1/095-long-term-effect.mp3",
+  "durationMale1": 36.79,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the long-term effect in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ long tờm i-fekt in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả tác động dài hạn bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 6.52
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the early warning, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ irli wo(r)-ning, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là cảnh báo sớm, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 6.68,
+      "end": 14.2
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the health risk because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ helth rít-sờk bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về rủi ro sức khỏe vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 14.36,
+      "end": 19.87
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the prevention plan as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ prevenshần plen as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến kế hoạch phòng ngừa như một chi tiết quan trọng.",
+      "start": 20.03,
+      "end": 25.16
+    },
+    {
+      "index": 5,
+      "text": "Experts said the future cost would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ phiu-chờ kost quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói chi phí tương lai sẽ quan trọng trong vài tháng tới.",
+      "start": 25.32,
+      "end": 30.28
+    },
+    {
+      "index": 6,
+      "text": "The story helped me think beyond today instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi thingk bi-yon tu-đây in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi nghĩ xa hơn hôm nay thay vì chỉ đọc tiêu đề.",
+      "start": 30.44,
+      "end": 36.71
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the long-term effect in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ long tờm i-fekt in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả tác động dài hạn bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.24
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the early warning, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ irli wo(r)-ning, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là cảnh báo sớm, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.4,
+      "end": 11.31
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the health risk because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ helth rít-sờk bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về rủi ro sức khỏe vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.47,
+      "end": 16.09
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the prevention plan as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ prevenshần plen as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến kế hoạch phòng ngừa như một chi tiết quan trọng.",
+      "start": 16.25,
+      "end": 20.72
+    },
+    {
+      "index": 5,
+      "text": "Experts said the future cost would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ phiu-chờ kost quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói chi phí tương lai sẽ quan trọng trong vài tháng tới.",
+      "start": 20.88,
+      "end": 25.35
+    },
+    {
+      "index": 6,
+      "text": "The story helped me think beyond today instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi thingk bi-yon tu-đây in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi nghĩ xa hơn hôm nay thay vì chỉ đọc tiêu đề.",
+      "start": 25.51,
+      "end": 30.26
+    }
+  ]
+}

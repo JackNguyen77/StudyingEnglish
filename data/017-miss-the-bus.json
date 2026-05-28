@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "017-miss-the-bus",
+  "title": "Story 017 - Lỡ xe buýt",
+  "story": "stories/017-miss-the-bus.md",
+  "audio": "audio/017-miss-the-bus.mp3",
+  "duration": 23.06,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/017-miss-the-bus.mp3",
+  "durationMale": 25.62,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I left home a little late and missed the bus.",
+      "pronunciation": "ai left hôm ờ li-đồ lêit en mist đờ bớs.",
+      "vi": "Tôi ra khỏi nhà hơi muộn và lỡ xe buýt.",
+      "start": 0.02,
+      "end": 3.7
+    },
+    {
+      "index": 2,
+      "text": "The next one was supposed to show up in fifteen minutes.",
+      "pronunciation": "đờ nekst quăn wờz sờ-pâuzd tu sâu-ấp in phíp-tin mi-nits.",
+      "vi": "Chuyến tiếp theo đáng lẽ sẽ đến trong mười lăm phút.",
+      "start": 3.86,
+      "end": 7.38
+    },
+    {
+      "index": 3,
+      "text": "I was stuck waiting at the stop, so I checked my messages.",
+      "pronunciation": "ai wờz stớk quây-ting at đờ stóp, sâu ai chékt mai mé-sijiz.",
+      "vi": "Tôi bị kẹt ở trạm chờ, nên tôi kiểm tra tin nhắn.",
+      "start": 7.54,
+      "end": 11.6
+    },
+    {
+      "index": 4,
+      "text": "When the bus finally came, I got on and found a seat near the window.",
+      "pronunciation": "quen đờ bớs phai-nờ-li kêim, ai gat on en phao ờ sit niờ đờ quyn-đâu.",
+      "vi": "Khi xe buýt cuối cùng cũng đến, tôi lên xe và tìm một chỗ gần cửa sổ.",
+      "start": 11.76,
+      "end": 17.34
+    },
+    {
+      "index": 5,
+      "text": "The ride took longer than expected because of traffic.",
+      "pronunciation": "đờ raid tuk long-gờ đen ích-spek-tịt bi-kóz ờv tra-phik.",
+      "vi": "Chuyến đi lâu hơn dự kiến vì kẹt xe.",
+      "start": 17.5,
+      "end": 21.15
+    },
+    {
+      "index": 6,
+      "text": "I tried to make the best of it and listened to my English audio.",
+      "pronunciation": "ai traid tu mêik đờ bes-tờ-vit en lis-sần tu mai ing-glish o-đi-ô.",
+      "vi": "Tôi cố tận dụng tình huống và nghe audio tiếng Anh.",
+      "start": 21.31,
+      "end": 25.54
+    }
+  ],
+  "audioMale1": "audio_male_1/017-miss-the-bus.mp3",
+  "durationMale1": 26.79,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I left home a little late and missed the bus.",
+      "pronunciation": "ai left hôm ờ li-đồ lêit en mist đờ bớs.",
+      "vi": "Tôi ra khỏi nhà hơi muộn và lỡ xe buýt.",
+      "start": 0.02,
+      "end": 3.79
+    },
+    {
+      "index": 2,
+      "text": "The next one was supposed to show up in fifteen minutes.",
+      "pronunciation": "đờ nekst quăn wờz sờ-pâuzd tu sâu-ấp in phíp-tin mi-nits.",
+      "vi": "Chuyến tiếp theo đáng lẽ sẽ đến trong mười lăm phút.",
+      "start": 3.95,
+      "end": 7.91
+    },
+    {
+      "index": 3,
+      "text": "I was stuck waiting at the stop, so I checked my messages.",
+      "pronunciation": "ai wờz stớk quây-ting at đờ stóp, sâu ai chékt mai mé-sijiz.",
+      "vi": "Tôi bị kẹt ở trạm chờ, nên tôi kiểm tra tin nhắn.",
+      "start": 8.07,
+      "end": 12.65
+    },
+    {
+      "index": 4,
+      "text": "When the bus finally came, I got on and found a seat near the window.",
+      "pronunciation": "quen đờ bớs phai-nờ-li kêim, ai gat on en phao ờ sit niờ đờ quyn-đâu.",
+      "vi": "Khi xe buýt cuối cùng cũng đến, tôi lên xe và tìm một chỗ gần cửa sổ.",
+      "start": 12.81,
+      "end": 18.07
+    },
+    {
+      "index": 5,
+      "text": "The ride took longer than expected because of traffic.",
+      "pronunciation": "đờ raid tuk long-gờ đen ích-spek-tịt bi-kóz ờv tra-phik.",
+      "vi": "Chuyến đi lâu hơn dự kiến vì kẹt xe.",
+      "start": 18.23,
+      "end": 22.2
+    },
+    {
+      "index": 6,
+      "text": "I tried to make the best of it and listened to my English audio.",
+      "pronunciation": "ai traid tu mêik đờ bes-tờ-vit en lis-sần tu mai ing-glish o-đi-ô.",
+      "vi": "Tôi cố tận dụng tình huống và nghe audio tiếng Anh.",
+      "start": 22.36,
+      "end": 26.71
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I left home a little late and missed the bus.",
+      "pronunciation": "ai left hôm ờ li-đồ lêit en mist đờ bớs.",
+      "vi": "Tôi ra khỏi nhà hơi muộn và lỡ xe buýt.",
+      "start": 0.02,
+      "end": 3.22
+    },
+    {
+      "index": 2,
+      "text": "The next one was supposed to show up in fifteen minutes.",
+      "pronunciation": "đờ nekst quăn wờz sờ-pâuzd tu sâu-ấp in phíp-tin mi-nits.",
+      "vi": "Chuyến tiếp theo đáng lẽ sẽ đến trong mười lăm phút.",
+      "start": 3.38,
+      "end": 6.49
+    },
+    {
+      "index": 3,
+      "text": "I was stuck waiting at the stop, so I checked my messages.",
+      "pronunciation": "ai wờz stớk quây-ting at đờ stóp, sâu ai chékt mai mé-sijiz.",
+      "vi": "Tôi bị kẹt ở trạm chờ, nên tôi kiểm tra tin nhắn.",
+      "start": 6.65,
+      "end": 10.36
+    },
+    {
+      "index": 4,
+      "text": "When the bus finally came, I got on and found a seat near the window.",
+      "pronunciation": "quen đờ bớs phai-nờ-li kêim, ai gat on en phao ờ sit niờ đờ quyn-đâu.",
+      "vi": "Khi xe buýt cuối cùng cũng đến, tôi lên xe và tìm một chỗ gần cửa sổ.",
+      "start": 10.52,
+      "end": 15.51
+    },
+    {
+      "index": 5,
+      "text": "The ride took longer than expected because of traffic.",
+      "pronunciation": "đờ raid tuk long-gờ đen ích-spek-tịt bi-kóz ờv tra-phik.",
+      "vi": "Chuyến đi lâu hơn dự kiến vì kẹt xe.",
+      "start": 15.67,
+      "end": 18.58
+    },
+    {
+      "index": 6,
+      "text": "I tried to make the best of it and listened to my English audio.",
+      "pronunciation": "ai traid tu mêik đờ bes-tờ-vit en lis-sần tu mai ing-glish o-đi-ô.",
+      "vi": "Tôi cố tận dụng tình huống và nghe audio tiếng Anh.",
+      "start": 18.74,
+      "end": 22.98
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "160-open-bank-account",
+  "title": "Story 160 - Mở tài khoản ngân hàng",
+  "story": "stories/160-open-bank-account.md",
+  "audio": "audio/160-open-bank-account.mp3",
+  "duration": 31.32,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/160-open-bank-account.mp3",
+  "durationMale": 32.04,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the bank account before I made a final choice.",
+      "pronunciation": "ai chékt đờ bank ờ-kao bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tài khoản ngân hàng trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.11
+    },
+    {
+      "index": 2,
+      "text": "One missing document made the situation less simple than it looked.",
+      "pronunciation": "quăn mis-sing đók-yu-mần mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Thiếu giấy tờ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.27,
+      "end": 9.02
+    },
+    {
+      "index": 3,
+      "text": "I decided to fill in the application before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu phil in đờ applikashần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định điền đơn đăng ký trước khi tiếp tục.",
+      "start": 9.18,
+      "end": 13.24
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short account note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ờ-kao note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú tài khoản ngắn để người kia hiểu tôi.",
+      "start": 13.4,
+      "end": 17.67
+    },
+    {
+      "index": 5,
+      "text": "I also needed to verify my identity instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu verifi mai identiti in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác minh danh tính thay vì đoán.",
+      "start": 17.83,
+      "end": 22.11
+    },
+    {
+      "index": 6,
+      "text": "That helped me open the account without adding extra stress.",
+      "pronunciation": "đat heo mi âu-pần đờ ờ-kao quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi mở tài khoản mà không thêm căng thẳng.",
+      "start": 22.27,
+      "end": 26.5
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.66,
+      "end": 31.96
+    }
+  ],
+  "audioMale1": "audio_male_1/160-open-bank-account.mp3",
+  "durationMale1": 36.33,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the bank account before I made a final choice.",
+      "pronunciation": "ai chékt đờ bank ờ-kao bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tài khoản ngân hàng trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.36
+    },
+    {
+      "index": 2,
+      "text": "One missing document made the situation less simple than it looked.",
+      "pronunciation": "quăn mis-sing đók-yu-mần mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Thiếu giấy tờ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.52,
+      "end": 10.73
+    },
+    {
+      "index": 3,
+      "text": "I decided to fill in the application before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu phil in đờ applikashần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định điền đơn đăng ký trước khi tiếp tục.",
+      "start": 10.89,
+      "end": 15.96
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short account note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ờ-kao note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú tài khoản ngắn để người kia hiểu tôi.",
+      "start": 16.12,
+      "end": 21.25
+    },
+    {
+      "index": 5,
+      "text": "I also needed to verify my identity instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu verifi mai identiti in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác minh danh tính thay vì đoán.",
+      "start": 21.41,
+      "end": 26.1
+    },
+    {
+      "index": 6,
+      "text": "That helped me open the account without adding extra stress.",
+      "pronunciation": "đat heo mi âu-pần đờ ờ-kao quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi mở tài khoản mà không thêm căng thẳng.",
+      "start": 26.26,
+      "end": 30.88
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 31.04,
+      "end": 36.25
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the bank account before I made a final choice.",
+      "pronunciation": "ai chékt đờ bank ờ-kao bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tài khoản ngân hàng trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.86
+    },
+    {
+      "index": 2,
+      "text": "One missing document made the situation less simple than it looked.",
+      "pronunciation": "quăn mis-sing đók-yu-mần mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Thiếu giấy tờ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.02,
+      "end": 8.31
+    },
+    {
+      "index": 3,
+      "text": "I decided to fill in the application before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu phil in đờ applikashần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định điền đơn đăng ký trước khi tiếp tục.",
+      "start": 8.47,
+      "end": 12.53
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short account note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ờ-kao note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú tài khoản ngắn để người kia hiểu tôi.",
+      "start": 12.69,
+      "end": 17.64
+    },
+    {
+      "index": 5,
+      "text": "I also needed to verify my identity instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu verifi mai identiti in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác minh danh tính thay vì đoán.",
+      "start": 17.8,
+      "end": 22.17
+    },
+    {
+      "index": 6,
+      "text": "That helped me open the account without adding extra stress.",
+      "pronunciation": "đat heo mi âu-pần đờ ờ-kao quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi mở tài khoản mà không thêm căng thẳng.",
+      "start": 22.33,
+      "end": 26.34
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.5,
+      "end": 31.24
+    }
+  ]
+}

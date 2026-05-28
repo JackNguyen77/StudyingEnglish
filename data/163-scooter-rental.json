@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "163-scooter-rental",
+  "title": "Story 163 - Thuê xe máy",
+  "story": "stories/163-scooter-rental.md",
+  "audio": "audio/163-scooter-rental.mp3",
+  "duration": 31.38,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/163-scooter-rental.mp3",
+  "durationMale": 32.39,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the scooter rental before I made a final choice.",
+      "pronunciation": "ai chékt đờ skuter rental bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra thuê xe máy trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.02
+    },
+    {
+      "index": 2,
+      "text": "One scratch mark made the situation less simple than it looked.",
+      "pronunciation": "quăn skratkh mác mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Vết trầy làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.18,
+      "end": 9.71
+    },
+    {
+      "index": 3,
+      "text": "I decided to inspect the scooter before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu inspekt đờ skuter bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định kiểm tra xe máy trước khi tiếp tục.",
+      "start": 9.87,
+      "end": 14.04
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short rental note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt rental note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú thuê xe ngắn để người kia hiểu tôi.",
+      "start": 14.2,
+      "end": 18.72
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the fuel level instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ fuel le-vồ in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra mức xăng thay vì đoán.",
+      "start": 18.88,
+      "end": 22.94
+    },
+    {
+      "index": 6,
+      "text": "That helped me ride safely without adding extra stress.",
+      "pronunciation": "đat heo mi raid safeli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi đi xe an toàn mà không thêm căng thẳng.",
+      "start": 23.1,
+      "end": 27.12
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.28,
+      "end": 32.31
+    }
+  ],
+  "audioMale1": "audio_male_1/163-scooter-rental.mp3",
+  "durationMale1": 33.5,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the scooter rental before I made a final choice.",
+      "pronunciation": "ai chékt đờ skuter rental bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra thuê xe máy trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.99
+    },
+    {
+      "index": 2,
+      "text": "One scratch mark made the situation less simple than it looked.",
+      "pronunciation": "quăn skratkh mác mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Vết trầy làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.15,
+      "end": 9.55
+    },
+    {
+      "index": 3,
+      "text": "I decided to inspect the scooter before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu inspekt đờ skuter bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định kiểm tra xe máy trước khi tiếp tục.",
+      "start": 9.71,
+      "end": 14.07
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short rental note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt rental note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú thuê xe ngắn để người kia hiểu tôi.",
+      "start": 14.23,
+      "end": 18.88
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the fuel level instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ fuel le-vồ in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra mức xăng thay vì đoán.",
+      "start": 19.04,
+      "end": 23.34
+    },
+    {
+      "index": 6,
+      "text": "That helped me ride safely without adding extra stress.",
+      "pronunciation": "đat heo mi raid safeli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi đi xe an toàn mà không thêm căng thẳng.",
+      "start": 23.5,
+      "end": 27.99
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.15,
+      "end": 33.42
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the scooter rental before I made a final choice.",
+      "pronunciation": "ai chékt đờ skuter rental bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra thuê xe máy trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.66
+    },
+    {
+      "index": 2,
+      "text": "One scratch mark made the situation less simple than it looked.",
+      "pronunciation": "quăn skratkh mác mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Vết trầy làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.82,
+      "end": 9.1
+    },
+    {
+      "index": 3,
+      "text": "I decided to inspect the scooter before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu inspekt đờ skuter bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định kiểm tra xe máy trước khi tiếp tục.",
+      "start": 9.26,
+      "end": 13.23
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short rental note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt rental note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú thuê xe ngắn để người kia hiểu tôi.",
+      "start": 13.39,
+      "end": 17.9
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the fuel level instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ fuel le-vồ in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra mức xăng thay vì đoán.",
+      "start": 18.06,
+      "end": 22.05
+    },
+    {
+      "index": 6,
+      "text": "That helped me ride safely without adding extra stress.",
+      "pronunciation": "đat heo mi raid safeli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi đi xe an toàn mà không thêm căng thẳng.",
+      "start": 22.21,
+      "end": 26.36
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.52,
+      "end": 31.3
+    }
+  ]
+}

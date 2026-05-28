@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "300-year-end-learning-review",
+  "title": "Story 300 - Review học cuối năm",
+  "story": "stories/300-year-end-learning-review.md",
+  "audio": "audio/300-year-end-learning-review.mp3",
+  "duration": 32.85,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/300-year-end-learning-review.mp3",
+  "durationMale": 31.57,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the year end learning review before the meeting started.",
+      "pronunciation": "ai quókt thru đờ yir end lơ-ning ri-viu bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through review học cuối năm trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.84
+    },
+    {
+      "index": 2,
+      "text": "One confidence gap made the decision harder than expected.",
+      "pronunciation": "quăn kón-phờ-đầnss gap mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một gap về sự tự tin làm decision khó hơn dự kiến.",
+      "start": 5,
+      "end": 8.48
+    },
+    {
+      "index": 3,
+      "text": "I tried to record a speaking sample so the team had a clearer path.",
+      "pronunciation": "ai traid tu re-kờrd ờ spiking sam-pồ sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố ghi âm một speaking sample để team có hướng rõ hơn.",
+      "start": 8.64,
+      "end": 13.92
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short learning review note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt lơ-ning ri-viu note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú review học tập ngắn để capture các key points.",
+      "start": 14.08,
+      "end": 18.38
+    },
+    {
+      "index": 5,
+      "text": "I also had to check progress evidence before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék pró-gres e-vờ-đầnss bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra bằng chứng tiến bộ trước khi chúng tôi thống nhất next step.",
+      "start": 18.54,
+      "end": 23.31
+    },
+    {
+      "index": 6,
+      "text": "That helped us plan the next level without losing momentum.",
+      "pronunciation": "đat heo ớs plen đờ nekst le-vồ quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi lên level tiếp theo mà không mất momentum.",
+      "start": 23.47,
+      "end": 27.24
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 27.4,
+      "end": 31.49
+    }
+  ],
+  "audioMale1": "audio_male_1/300-year-end-learning-review.mp3",
+  "durationMale1": 35.62,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the year end learning review before the meeting started.",
+      "pronunciation": "ai quókt thru đờ yir end lơ-ning ri-viu bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through review học cuối năm trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.52
+    },
+    {
+      "index": 2,
+      "text": "One confidence gap made the decision harder than expected.",
+      "pronunciation": "quăn kón-phờ-đầnss gap mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một gap về sự tự tin làm decision khó hơn dự kiến.",
+      "start": 5.68,
+      "end": 10.32
+    },
+    {
+      "index": 3,
+      "text": "I tried to record a speaking sample so the team had a clearer path.",
+      "pronunciation": "ai traid tu re-kờrd ờ spiking sam-pồ sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố ghi âm một speaking sample để team có hướng rõ hơn.",
+      "start": 10.48,
+      "end": 15.86
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short learning review note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt lơ-ning ri-viu note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú review học tập ngắn để capture các key points.",
+      "start": 16.02,
+      "end": 21.01
+    },
+    {
+      "index": 5,
+      "text": "I also had to check progress evidence before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék pró-gres e-vờ-đầnss bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra bằng chứng tiến bộ trước khi chúng tôi thống nhất next step.",
+      "start": 21.17,
+      "end": 26.44
+    },
+    {
+      "index": 6,
+      "text": "That helped us plan the next level without losing momentum.",
+      "pronunciation": "đat heo ớs plen đờ nekst le-vồ quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi lên level tiếp theo mà không mất momentum.",
+      "start": 26.6,
+      "end": 31.08
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 31.24,
+      "end": 35.54
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the year end learning review before the meeting started.",
+      "pronunciation": "ai quókt thru đờ yir end lơ-ning ri-viu bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through review học cuối năm trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.27
+    },
+    {
+      "index": 2,
+      "text": "One confidence gap made the decision harder than expected.",
+      "pronunciation": "quăn kón-phờ-đầnss gap mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một gap về sự tự tin làm decision khó hơn dự kiến.",
+      "start": 5.43,
+      "end": 9.52
+    },
+    {
+      "index": 3,
+      "text": "I tried to record a speaking sample so the team had a clearer path.",
+      "pronunciation": "ai traid tu re-kờrd ờ spiking sam-pồ sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố ghi âm một speaking sample để team có hướng rõ hơn.",
+      "start": 9.68,
+      "end": 14.4
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short learning review note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt lơ-ning ri-viu note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú review học tập ngắn để capture các key points.",
+      "start": 14.56,
+      "end": 19.35
+    },
+    {
+      "index": 5,
+      "text": "I also had to check progress evidence before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék pró-gres e-vờ-đầnss bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra bằng chứng tiến bộ trước khi chúng tôi thống nhất next step.",
+      "start": 19.51,
+      "end": 24.43
+    },
+    {
+      "index": 6,
+      "text": "That helped us plan the next level without losing momentum.",
+      "pronunciation": "đat heo ớs plen đờ nekst le-vồ quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi lên level tiếp theo mà không mất momentum.",
+      "start": 24.59,
+      "end": 28.66
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 28.82,
+      "end": 32.77
+    }
+  ]
+}

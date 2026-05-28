@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "185-demo-script",
+  "title": "Story 185 - Chuẩn bị script demo",
+  "story": "stories/185-demo-script.md",
+  "audio": "audio/185-demo-script.mp3",
+  "duration": 32.34,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/185-demo-script.mp3",
+  "durationMale": 32.66,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the demo script before I made a final choice.",
+      "pronunciation": "ai chékt đờ đe-mô skript bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra script demo trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.62
+    },
+    {
+      "index": 2,
+      "text": "One risky step made the situation less simple than it looked.",
+      "pronunciation": "quăn rís-ki step mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Bước rủi ro làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.78,
+      "end": 9.47
+    },
+    {
+      "index": 3,
+      "text": "I decided to rehearse the flow before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu rehirse đờ flâu bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định tập lại flow trước khi tiếp tục.",
+      "start": 9.63,
+      "end": 13.93
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short demo note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt đe-mô note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú demo ngắn để người kia hiểu tôi.",
+      "start": 14.09,
+      "end": 18.53
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the test account instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ test ờ-kao in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận tài khoản test thay vì đoán.",
+      "start": 18.69,
+      "end": 22.99
+    },
+    {
+      "index": 6,
+      "text": "That helped me show the feature clearly without adding extra stress.",
+      "pronunciation": "đat heo mi sâu đờ phi-chờr kliờ-li quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi trình bày tính năng rõ ràng mà không thêm căng thẳng.",
+      "start": 23.15,
+      "end": 27.63
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.79,
+      "end": 32.58
+    }
+  ],
+  "audioMale1": "audio_male_1/185-demo-script.mp3",
+  "durationMale1": 37.37,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the demo script before I made a final choice.",
+      "pronunciation": "ai chékt đờ đe-mô skript bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra script demo trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.27
+    },
+    {
+      "index": 2,
+      "text": "One risky step made the situation less simple than it looked.",
+      "pronunciation": "quăn rís-ki step mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Bước rủi ro làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.43,
+      "end": 10.75
+    },
+    {
+      "index": 3,
+      "text": "I decided to rehearse the flow before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu rehirse đờ flâu bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định tập lại flow trước khi tiếp tục.",
+      "start": 10.91,
+      "end": 15.61
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short demo note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt đe-mô note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú demo ngắn để người kia hiểu tôi.",
+      "start": 15.77,
+      "end": 21.38
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the test account instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ test ờ-kao in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận tài khoản test thay vì đoán.",
+      "start": 21.54,
+      "end": 26.23
+    },
+    {
+      "index": 6,
+      "text": "That helped me show the feature clearly without adding extra stress.",
+      "pronunciation": "đat heo mi sâu đờ phi-chờr kliờ-li quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi trình bày tính năng rõ ràng mà không thêm căng thẳng.",
+      "start": 26.39,
+      "end": 31.41
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 31.57,
+      "end": 37.29
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the demo script before I made a final choice.",
+      "pronunciation": "ai chékt đờ đe-mô skript bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra script demo trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.01
+    },
+    {
+      "index": 2,
+      "text": "One risky step made the situation less simple than it looked.",
+      "pronunciation": "quăn rís-ki step mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Bước rủi ro làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.17,
+      "end": 8.39
+    },
+    {
+      "index": 3,
+      "text": "I decided to rehearse the flow before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu rehirse đờ flâu bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định tập lại flow trước khi tiếp tục.",
+      "start": 8.55,
+      "end": 12.84
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short demo note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt đe-mô note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú demo ngắn để người kia hiểu tôi.",
+      "start": 13,
+      "end": 17.78
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the test account instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ test ờ-kao in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận tài khoản test thay vì đoán.",
+      "start": 17.94,
+      "end": 22.3
+    },
+    {
+      "index": 6,
+      "text": "That helped me show the feature clearly without adding extra stress.",
+      "pronunciation": "đat heo mi sâu đờ phi-chờr kliờ-li quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi trình bày tính năng rõ ràng mà không thêm căng thẳng.",
+      "start": 22.46,
+      "end": 27.36
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.52,
+      "end": 32.26
+    }
+  ]
+}

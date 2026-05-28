@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "008-clean-up-room",
+  "title": "Story 008 - Dọn phòng trước khi học",
+  "story": "stories/008-clean-up-room.md",
+  "audio": "audio/008-clean-up-room.mp3",
+  "duration": 22.56,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/008-clean-up-room.mp3",
+  "durationMale": 22.71,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I wanted to study English, but my room was a mess.",
+      "pronunciation": "ai quăn-tịt tu sta-đi ing-glish, bớt mai rum wờz ờ mes.",
+      "vi": "Tôi muốn học tiếng Anh, nhưng phòng tôi bừa bộn.",
+      "start": 0.02,
+      "end": 3.42
+    },
+    {
+      "index": 2,
+      "text": "I decided to clean up a little before I started.",
+      "pronunciation": "ai đi-sai-địt tu kli-nấp ờ li-đồ bi-fo ai star-tịt.",
+      "vi": "Tôi quyết định dọn dẹp một chút trước khi bắt đầu.",
+      "start": 3.58,
+      "end": 6.49
+    },
+    {
+      "index": 3,
+      "text": "I threw away some old papers and put my books back on the shelf.",
+      "pronunciation": "ai thru ờ-quây săm âu pây-pờrz en put mai buks béc on đờ shelf.",
+      "vi": "Tôi vứt vài tờ giấy cũ và cất sách lại lên kệ.",
+      "start": 6.65,
+      "end": 11.05
+    },
+    {
+      "index": 4,
+      "text": "Then I wiped down my desk and set up my laptop.",
+      "pronunciation": "đen ai quaipt daun mai desk en se-tấp mai láp-top.",
+      "vi": "Rồi tôi lau bàn và chuẩn bị laptop.",
+      "start": 11.21,
+      "end": 14.8
+    },
+    {
+      "index": 5,
+      "text": "Once everything was in place, I felt more focused.",
+      "pronunciation": "quănss ev-ri-thinh wờz in plêis, ai felt mo phâu-kớst.",
+      "vi": "Khi mọi thứ đã đâu vào đó, tôi thấy tập trung hơn.",
+      "start": 14.96,
+      "end": 18.38
+    },
+    {
+      "index": 6,
+      "text": "I sat down, opened my notes, and got into study mode.",
+      "pronunciation": "ai sat daun, âu-pần mai nouts, en gat in-tu sta-đi mâu.",
+      "vi": "Tôi ngồi xuống, mở ghi chú ra và vào chế độ học.",
+      "start": 18.54,
+      "end": 22.63
+    }
+  ],
+  "audioMale1": "audio_male_1/008-clean-up-room.mp3",
+  "durationMale1": 25.22,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I wanted to study English, but my room was a mess.",
+      "pronunciation": "ai quăn-tịt tu sta-đi ing-glish, bớt mai rum wờz ờ mes.",
+      "vi": "Tôi muốn học tiếng Anh, nhưng phòng tôi bừa bộn.",
+      "start": 0.02,
+      "end": 4.14
+    },
+    {
+      "index": 2,
+      "text": "I decided to clean up a little before I started.",
+      "pronunciation": "ai đi-sai-địt tu kli-nấp ờ li-đồ bi-fo ai star-tịt.",
+      "vi": "Tôi quyết định dọn dẹp một chút trước khi bắt đầu.",
+      "start": 4.3,
+      "end": 7.62
+    },
+    {
+      "index": 3,
+      "text": "I threw away some old papers and put my books back on the shelf.",
+      "pronunciation": "ai thru ờ-quây săm âu pây-pờrz en put mai buks béc on đờ shelf.",
+      "vi": "Tôi vứt vài tờ giấy cũ và cất sách lại lên kệ.",
+      "start": 7.78,
+      "end": 12.54
+    },
+    {
+      "index": 4,
+      "text": "Then I wiped down my desk and set up my laptop.",
+      "pronunciation": "đen ai quaipt daun mai desk en se-tấp mai láp-top.",
+      "vi": "Rồi tôi lau bàn và chuẩn bị laptop.",
+      "start": 12.7,
+      "end": 16.21
+    },
+    {
+      "index": 5,
+      "text": "Once everything was in place, I felt more focused.",
+      "pronunciation": "quănss ev-ri-thinh wờz in plêis, ai felt mo phâu-kớst.",
+      "vi": "Khi mọi thứ đã đâu vào đó, tôi thấy tập trung hơn.",
+      "start": 16.37,
+      "end": 20.36
+    },
+    {
+      "index": 6,
+      "text": "I sat down, opened my notes, and got into study mode.",
+      "pronunciation": "ai sat daun, âu-pần mai nouts, en gat in-tu sta-đi mâu.",
+      "vi": "Tôi ngồi xuống, mở ghi chú ra và vào chế độ học.",
+      "start": 20.52,
+      "end": 25.14
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I wanted to study English, but my room was a mess.",
+      "pronunciation": "ai quăn-tịt tu sta-đi ing-glish, bớt mai rum wờz ờ mes.",
+      "vi": "Tôi muốn học tiếng Anh, nhưng phòng tôi bừa bộn.",
+      "start": 0.02,
+      "end": 3.38
+    },
+    {
+      "index": 2,
+      "text": "I decided to clean up a little before I started.",
+      "pronunciation": "ai đi-sai-địt tu kli-nấp ờ li-đồ bi-fo ai star-tịt.",
+      "vi": "Tôi quyết định dọn dẹp một chút trước khi bắt đầu.",
+      "start": 3.54,
+      "end": 6.33
+    },
+    {
+      "index": 3,
+      "text": "I threw away some old papers and put my books back on the shelf.",
+      "pronunciation": "ai thru ờ-quây săm âu pây-pờrz en put mai buks béc on đờ shelf.",
+      "vi": "Tôi vứt vài tờ giấy cũ và cất sách lại lên kệ.",
+      "start": 6.49,
+      "end": 12.63
+    },
+    {
+      "index": 4,
+      "text": "Then I wiped down my desk and set up my laptop.",
+      "pronunciation": "đen ai quaipt daun mai desk en se-tấp mai láp-top.",
+      "vi": "Rồi tôi lau bàn và chuẩn bị laptop.",
+      "start": 12.79,
+      "end": 16.15
+    },
+    {
+      "index": 5,
+      "text": "Once everything was in place, I felt more focused.",
+      "pronunciation": "quănss ev-ri-thinh wờz in plêis, ai felt mo phâu-kớst.",
+      "vi": "Khi mọi thứ đã đâu vào đó, tôi thấy tập trung hơn.",
+      "start": 16.31,
+      "end": 19.05
+    },
+    {
+      "index": 6,
+      "text": "I sat down, opened my notes, and got into study mode.",
+      "pronunciation": "ai sat daun, âu-pần mai nouts, en gat in-tu sta-đi mâu.",
+      "vi": "Tôi ngồi xuống, mở ghi chú ra và vào chế độ học.",
+      "start": 19.21,
+      "end": 22.48
+    }
+  ]
+}

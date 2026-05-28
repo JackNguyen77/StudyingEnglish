@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "299-enterprise-renewal-negotiation",
+  "title": "Story 299 - Đàm phán renewal enterprise",
+  "story": "stories/299-enterprise-renewal-negotiation.md",
+  "audio": "audio/299-enterprise-renewal-negotiation.mp3",
+  "duration": 33.5,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/299-enterprise-renewal-negotiation.mp3",
+  "durationMale": 33.05,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the enterprise renewal negotiation before the meeting started.",
+      "pronunciation": "ai quókt thru đờ enterprise ri-niu-ồ negotiashần bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through negotiation renewal enterprise trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.95
+    },
+    {
+      "index": 2,
+      "text": "One procurement delay made the decision harder than expected.",
+      "pronunciation": "quăn prokurement đi-lây mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một delay từ procurement làm decision khó hơn dự kiến.",
+      "start": 6.11,
+      "end": 9.53
+    },
+    {
+      "index": 3,
+      "text": "I tried to prepare concession options so the team had a clearer path.",
+      "pronunciation": "ai traid tu pri-pea konseszhần áp-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố chuẩn bị option nhượng bộ để team có hướng rõ hơn.",
+      "start": 9.69,
+      "end": 13.38
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short renewal negotiation note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt ri-niu-ồ negotiashần note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú negotiation renewal ngắn để capture các key points.",
+      "start": 13.54,
+      "end": 18.43
+    },
+    {
+      "index": 5,
+      "text": "I also had to check approval authority before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék ờ-pru-vồ authoriti bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra authority phê duyệt trước khi chúng tôi thống nhất next step.",
+      "start": 18.59,
+      "end": 24.99
+    },
+    {
+      "index": 6,
+      "text": "That helped us close the renewal without losing momentum.",
+      "pronunciation": "đat heo ớs klose đờ ri-niu-ồ quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi chốt renewal mà không mất momentum.",
+      "start": 25.15,
+      "end": 28.7
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 28.86,
+      "end": 32.97
+    }
+  ],
+  "audioMale1": "audio_male_1/299-enterprise-renewal-negotiation.mp3",
+  "durationMale1": 36.61,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the enterprise renewal negotiation before the meeting started.",
+      "pronunciation": "ai quókt thru đờ enterprise ri-niu-ồ negotiashần bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through negotiation renewal enterprise trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 3.95
+    },
+    {
+      "index": 2,
+      "text": "One procurement delay made the decision harder than expected.",
+      "pronunciation": "quăn prokurement đi-lây mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một delay từ procurement làm decision khó hơn dự kiến.",
+      "start": 4.11,
+      "end": 8.05
+    },
+    {
+      "index": 3,
+      "text": "I tried to prepare concession options so the team had a clearer path.",
+      "pronunciation": "ai traid tu pri-pea konseszhần áp-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố chuẩn bị option nhượng bộ để team có hướng rõ hơn.",
+      "start": 8.21,
+      "end": 15.11
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short renewal negotiation note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt ri-niu-ồ negotiashần note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú negotiation renewal ngắn để capture các key points.",
+      "start": 15.27,
+      "end": 21.84
+    },
+    {
+      "index": 5,
+      "text": "I also had to check approval authority before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék ờ-pru-vồ authoriti bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra authority phê duyệt trước khi chúng tôi thống nhất next step.",
+      "start": 22,
+      "end": 27.32
+    },
+    {
+      "index": 6,
+      "text": "That helped us close the renewal without losing momentum.",
+      "pronunciation": "đat heo ớs klose đờ ri-niu-ồ quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi chốt renewal mà không mất momentum.",
+      "start": 27.48,
+      "end": 31.43
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 31.59,
+      "end": 36.53
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the enterprise renewal negotiation before the meeting started.",
+      "pronunciation": "ai quókt thru đờ enterprise ri-niu-ồ negotiashần bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through negotiation renewal enterprise trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.21
+    },
+    {
+      "index": 2,
+      "text": "One procurement delay made the decision harder than expected.",
+      "pronunciation": "quăn prokurement đi-lây mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một delay từ procurement làm decision khó hơn dự kiến.",
+      "start": 5.37,
+      "end": 9.86
+    },
+    {
+      "index": 3,
+      "text": "I tried to prepare concession options so the team had a clearer path.",
+      "pronunciation": "ai traid tu pri-pea konseszhần áp-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố chuẩn bị option nhượng bộ để team có hướng rõ hơn.",
+      "start": 10.02,
+      "end": 14.98
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short renewal negotiation note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt ri-niu-ồ negotiashần note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú negotiation renewal ngắn để capture các key points.",
+      "start": 15.14,
+      "end": 19.98
+    },
+    {
+      "index": 5,
+      "text": "I also had to check approval authority before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék ờ-pru-vồ authoriti bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra authority phê duyệt trước khi chúng tôi thống nhất next step.",
+      "start": 20.14,
+      "end": 25.23
+    },
+    {
+      "index": 6,
+      "text": "That helped us close the renewal without losing momentum.",
+      "pronunciation": "đat heo ớs klose đờ ri-niu-ồ quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi chốt renewal mà không mất momentum.",
+      "start": 25.39,
+      "end": 29.23
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 29.39,
+      "end": 33.42
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "286-platform-migration-risk",
+  "title": "Story 286 - Đánh giá risk migrate platform",
+  "story": "stories/286-platform-migration-risk.md",
+  "audio": "audio/286-platform-migration-risk.mp3",
+  "duration": 34.6,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/286-platform-migration-risk.mp3",
+  "durationMale": 33.06,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the platform migration risk before the meeting started.",
+      "pronunciation": "ai quókt thru đờ platform mai-grây-shần rít-sờk bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through risk migration platform trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.9
+    },
+    {
+      "index": 2,
+      "text": "One legacy integration made the decision harder than expected.",
+      "pronunciation": "quăn legasi in-tờ-grây-shần mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một integration với hệ thống legacy làm decision khó hơn dự kiến.",
+      "start": 5.06,
+      "end": 8.73
+    },
+    {
+      "index": 3,
+      "text": "I tried to test fallback options so the team had a clearer path.",
+      "pronunciation": "ai traid tu test fallbak áp-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố test option fallback để team có hướng rõ hơn.",
+      "start": 8.89,
+      "end": 14.35
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short migration risk note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt mai-grây-shần rít-sờk note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú risk migration ngắn để capture các key points.",
+      "start": 14.51,
+      "end": 18.89
+    },
+    {
+      "index": 5,
+      "text": "I also had to check cutover readiness before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék kutover ridiness bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra readiness cutover trước khi chúng tôi thống nhất next step.",
+      "start": 19.05,
+      "end": 24.09
+    },
+    {
+      "index": 6,
+      "text": "That helped us avoid service disruption without losing momentum.",
+      "pronunciation": "đat heo ớs ờ-void sờ-vịt đis-rớp-shần quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi tránh gián đoạn service mà không mất momentum.",
+      "start": 24.25,
+      "end": 28.55
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 28.71,
+      "end": 32.98
+    }
+  ],
+  "audioMale1": "audio_male_1/286-platform-migration-risk.mp3",
+  "durationMale1": 35.73,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the platform migration risk before the meeting started.",
+      "pronunciation": "ai quókt thru đờ platform mai-grây-shần rít-sờk bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through risk migration platform trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.31
+    },
+    {
+      "index": 2,
+      "text": "One legacy integration made the decision harder than expected.",
+      "pronunciation": "quăn legasi in-tờ-grây-shần mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một integration với hệ thống legacy làm decision khó hơn dự kiến.",
+      "start": 5.47,
+      "end": 10.2
+    },
+    {
+      "index": 3,
+      "text": "I tried to test fallback options so the team had a clearer path.",
+      "pronunciation": "ai traid tu test fallbak áp-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố test option fallback để team có hướng rõ hơn.",
+      "start": 10.36,
+      "end": 15.43
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short migration risk note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt mai-grây-shần rít-sờk note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú risk migration ngắn để capture các key points.",
+      "start": 15.59,
+      "end": 20.72
+    },
+    {
+      "index": 5,
+      "text": "I also had to check cutover readiness before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék kutover ridiness bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra readiness cutover trước khi chúng tôi thống nhất next step.",
+      "start": 20.88,
+      "end": 26.06
+    },
+    {
+      "index": 6,
+      "text": "That helped us avoid service disruption without losing momentum.",
+      "pronunciation": "đat heo ớs ờ-void sờ-vịt đis-rớp-shần quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi tránh gián đoạn service mà không mất momentum.",
+      "start": 26.22,
+      "end": 30.99
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 31.15,
+      "end": 35.65
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the platform migration risk before the meeting started.",
+      "pronunciation": "ai quókt thru đờ platform mai-grây-shần rít-sờk bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through risk migration platform trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.82
+    },
+    {
+      "index": 2,
+      "text": "One legacy integration made the decision harder than expected.",
+      "pronunciation": "quăn legasi in-tờ-grây-shần mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một integration với hệ thống legacy làm decision khó hơn dự kiến.",
+      "start": 4.98,
+      "end": 9.47
+    },
+    {
+      "index": 3,
+      "text": "I tried to test fallback options so the team had a clearer path.",
+      "pronunciation": "ai traid tu test fallbak áp-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố test option fallback để team có hướng rõ hơn.",
+      "start": 9.63,
+      "end": 14.78
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short migration risk note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt mai-grây-shần rít-sờk note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú risk migration ngắn để capture các key points.",
+      "start": 14.94,
+      "end": 19.88
+    },
+    {
+      "index": 5,
+      "text": "I also had to check cutover readiness before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék kutover ridiness bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra readiness cutover trước khi chúng tôi thống nhất next step.",
+      "start": 20.04,
+      "end": 25.53
+    },
+    {
+      "index": 6,
+      "text": "That helped us avoid service disruption without losing momentum.",
+      "pronunciation": "đat heo ớs ờ-void sờ-vịt đis-rớp-shần quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi tránh gián đoạn service mà không mất momentum.",
+      "start": 25.69,
+      "end": 29.97
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 30.13,
+      "end": 34.52
+    }
+  ]
+}

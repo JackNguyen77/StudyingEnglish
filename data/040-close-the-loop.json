@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "040-close-the-loop",
+  "title": "Story 040 - Chốt lại sau cuộc họp",
+  "story": "stories/040-close-the-loop.md",
+  "audio": "audio/040-close-the-loop.mp3",
+  "duration": 23.17,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/040-close-the-loop.mp3",
+  "durationMale": 21.61,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "After a long discussion, I wanted to close the loop.",
+      "pronunciation": "áp-tờ ờ long đis-kớ-shần, ai quăn-tịt tu klâuz đờ lup.",
+      "vi": "Sau một cuộc trao đổi dài, tôi muốn chốt lại mọi thứ.",
+      "start": 0.02,
+      "end": 3.88
+    },
+    {
+      "index": 2,
+      "text": "I sent a short message to recap the discussion.",
+      "pronunciation": "ai sent ờ soọt mé-sij tu ri-kap đờ đis-kớ-shần.",
+      "vi": "Tôi gửi một tin nhắn ngắn để tóm tắt cuộc thảo luận.",
+      "start": 4.04,
+      "end": 7.45
+    },
+    {
+      "index": 3,
+      "text": "I shared the notes and double-checked the details.",
+      "pronunciation": "ai she(r)d đờ nouts en đớ-bồ-chékt đờ đi-têuz.",
+      "vi": "Tôi chia sẻ ghi chú và kiểm tra lại các chi tiết.",
+      "start": 7.61,
+      "end": 10.8
+    },
+    {
+      "index": 4,
+      "text": "The client asked for two small changes.",
+      "pronunciation": "đờ klai-ờnt áskt fo tu smol chên-jiz.",
+      "vi": "Khách hàng yêu cầu hai thay đổi nhỏ.",
+      "start": 10.96,
+      "end": 13.66
+    },
+    {
+      "index": 5,
+      "text": "I made the changes and sent it over before lunch.",
+      "pronunciation": "ai mêid đờ chên-jiz en sent ịt âu-vờ bi-fo lănch.",
+      "vi": "Tôi sửa lại và gửi qua trước bữa trưa.",
+      "start": 13.82,
+      "end": 17.16
+    },
+    {
+      "index": 6,
+      "text": "By the end of the day, everyone was clear on the next steps.",
+      "pronunciation": "bai đi end ờv đờ đây, ev-ri-quan wờz kliờ on đờ nekst stepts.",
+      "vi": "Đến cuối ngày, mọi người đều rõ các bước tiếp theo.",
+      "start": 17.32,
+      "end": 21.53
+    }
+  ],
+  "audioMale1": "audio_male_1/040-close-the-loop.mp3",
+  "durationMale1": 25.93,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "After a long discussion, I wanted to close the loop.",
+      "pronunciation": "áp-tờ ờ long đis-kớ-shần, ai quăn-tịt tu klâuz đờ lup.",
+      "vi": "Sau một cuộc trao đổi dài, tôi muốn chốt lại mọi thứ.",
+      "start": 0.02,
+      "end": 4.61
+    },
+    {
+      "index": 2,
+      "text": "I sent a short message to recap the discussion.",
+      "pronunciation": "ai sent ờ soọt mé-sij tu ri-kap đờ đis-kớ-shần.",
+      "vi": "Tôi gửi một tin nhắn ngắn để tóm tắt cuộc thảo luận.",
+      "start": 4.77,
+      "end": 7.38
+    },
+    {
+      "index": 3,
+      "text": "I shared the notes and double-checked the details.",
+      "pronunciation": "ai she(r)d đờ nouts en đớ-bồ-chékt đờ đi-têuz.",
+      "vi": "Tôi chia sẻ ghi chú và kiểm tra lại các chi tiết.",
+      "start": 7.54,
+      "end": 12.34
+    },
+    {
+      "index": 4,
+      "text": "The client asked for two small changes.",
+      "pronunciation": "đờ klai-ờnt áskt fo tu smol chên-jiz.",
+      "vi": "Khách hàng yêu cầu hai thay đổi nhỏ.",
+      "start": 12.5,
+      "end": 15.44
+    },
+    {
+      "index": 5,
+      "text": "I made the changes and sent it over before lunch.",
+      "pronunciation": "ai mêid đờ chên-jiz en sent ịt âu-vờ bi-fo lănch.",
+      "vi": "Tôi sửa lại và gửi qua trước bữa trưa.",
+      "start": 15.6,
+      "end": 21.11
+    },
+    {
+      "index": 6,
+      "text": "By the end of the day, everyone was clear on the next steps.",
+      "pronunciation": "bai đi end ờv đờ đây, ev-ri-quan wờz kliờ on đờ nekst stepts.",
+      "vi": "Đến cuối ngày, mọi người đều rõ các bước tiếp theo.",
+      "start": 21.27,
+      "end": 25.85
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "After a long discussion, I wanted to close the loop.",
+      "pronunciation": "áp-tờ ờ long đis-kớ-shần, ai quăn-tịt tu klâuz đờ lup.",
+      "vi": "Sau một cuộc trao đổi dài, tôi muốn chốt lại mọi thứ.",
+      "start": 0.02,
+      "end": 4.01
+    },
+    {
+      "index": 2,
+      "text": "I sent a short message to recap the discussion.",
+      "pronunciation": "ai sent ờ soọt mé-sij tu ri-kap đờ đis-kớ-shần.",
+      "vi": "Tôi gửi một tin nhắn ngắn để tóm tắt cuộc thảo luận.",
+      "start": 4.17,
+      "end": 7.69
+    },
+    {
+      "index": 3,
+      "text": "I shared the notes and double-checked the details.",
+      "pronunciation": "ai she(r)d đờ nouts en đớ-bồ-chékt đờ đi-têuz.",
+      "vi": "Tôi chia sẻ ghi chú và kiểm tra lại các chi tiết.",
+      "start": 7.85,
+      "end": 11.5
+    },
+    {
+      "index": 4,
+      "text": "The client asked for two small changes.",
+      "pronunciation": "đờ klai-ờnt áskt fo tu smol chên-jiz.",
+      "vi": "Khách hàng yêu cầu hai thay đổi nhỏ.",
+      "start": 11.66,
+      "end": 14.97
+    },
+    {
+      "index": 5,
+      "text": "I made the changes and sent it over before lunch.",
+      "pronunciation": "ai mêid đờ chên-jiz en sent ịt âu-vờ bi-fo lănch.",
+      "vi": "Tôi sửa lại và gửi qua trước bữa trưa.",
+      "start": 15.13,
+      "end": 18.69
+    },
+    {
+      "index": 6,
+      "text": "By the end of the day, everyone was clear on the next steps.",
+      "pronunciation": "bai đi end ờv đờ đây, ev-ri-quan wờz kliờ on đờ nekst stepts.",
+      "vi": "Đến cuối ngày, mọi người đều rõ các bước tiếp theo.",
+      "start": 18.85,
+      "end": 23.09
+    }
+  ]
+}

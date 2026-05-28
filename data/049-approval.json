@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "049-approval",
+  "title": "Story 049 - Xin approval",
+  "story": "stories/049-approval.md",
+  "audio": "audio/049-approval.mp3",
+  "duration": 27.56,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/049-approval.mp3",
+  "durationMale": 30.39,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the approval request so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ ờ-pru-vồ ri-quest sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở yêu cầu approval để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.95
+    },
+    {
+      "index": 2,
+      "text": "The goal was to get sign-off without losing important details.",
+      "pronunciation": "đờ gâu wờz tu gét sain-of quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là lấy xác nhận chính thức mà không làm mất các chi tiết quan trọng.",
+      "start": 6.11,
+      "end": 10.58
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the open question and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ âu-pần quesshần en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra câu hỏi còn mở và hỏi ai nên xử lý tiếp.",
+      "start": 10.74,
+      "end": 15.57
+    },
+    {
+      "index": 4,
+      "text": "We agreed to clarify the owner before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu kle-rờ-fai đờ aoner bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất làm rõ người phụ trách trước khi có ai đi tiếp.",
+      "start": 15.73,
+      "end": 20.02
+    },
+    {
+      "index": 5,
+      "text": "I shared the decision note after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ đi-si-zhần nout áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ ghi chú quyết định sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 20.18,
+      "end": 25.78
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us avoid last-minute changes later in the day.",
+      "pronunciation": "đat smol step heo ớs ờ-void last-mi-nịt chên-jiz lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi tránh thay đổi phút chót về sau trong ngày.",
+      "start": 25.94,
+      "end": 30.31
+    }
+  ],
+  "audioMale1": "audio_male_1/049-approval.mp3",
+  "durationMale1": 31.94,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the approval request so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ ờ-pru-vồ ri-quest sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở yêu cầu approval để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 6.54
+    },
+    {
+      "index": 2,
+      "text": "The goal was to get sign-off without losing important details.",
+      "pronunciation": "đờ gâu wờz tu gét sain-of quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là lấy xác nhận chính thức mà không làm mất các chi tiết quan trọng.",
+      "start": 6.7,
+      "end": 11.5
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the open question and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ âu-pần quesshần en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra câu hỏi còn mở và hỏi ai nên xử lý tiếp.",
+      "start": 11.66,
+      "end": 16.32
+    },
+    {
+      "index": 4,
+      "text": "We agreed to clarify the owner before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu kle-rờ-fai đờ aoner bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất làm rõ người phụ trách trước khi có ai đi tiếp.",
+      "start": 16.48,
+      "end": 19.29
+    },
+    {
+      "index": 5,
+      "text": "I shared the decision note after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ đi-si-zhần nout áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ ghi chú quyết định sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 19.45,
+      "end": 26.5
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us avoid last-minute changes later in the day.",
+      "pronunciation": "đat smol step heo ớs ờ-void last-mi-nịt chên-jiz lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi tránh thay đổi phút chót về sau trong ngày.",
+      "start": 26.66,
+      "end": 31.86
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the approval request so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ ờ-pru-vồ ri-quest sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở yêu cầu approval để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.71
+    },
+    {
+      "index": 2,
+      "text": "The goal was to get sign-off without losing important details.",
+      "pronunciation": "đờ gâu wờz tu gét sain-of quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là lấy xác nhận chính thức mà không làm mất các chi tiết quan trọng.",
+      "start": 5.87,
+      "end": 9.9
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the open question and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ âu-pần quesshần en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra câu hỏi còn mở và hỏi ai nên xử lý tiếp.",
+      "start": 10.06,
+      "end": 14.27
+    },
+    {
+      "index": 4,
+      "text": "We agreed to clarify the owner before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu kle-rờ-fai đờ aoner bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất làm rõ người phụ trách trước khi có ai đi tiếp.",
+      "start": 14.43,
+      "end": 18.13
+    },
+    {
+      "index": 5,
+      "text": "I shared the decision note after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ đi-si-zhần nout áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ ghi chú quyết định sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 18.29,
+      "end": 23.02
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us avoid last-minute changes later in the day.",
+      "pronunciation": "đat smol step heo ớs ờ-void last-mi-nịt chên-jiz lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi tránh thay đổi phút chót về sau trong ngày.",
+      "start": 23.18,
+      "end": 27.48
+    }
+  ]
+}

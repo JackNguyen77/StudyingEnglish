@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "111-online-scam",
+  "title": "Story 111 - Cảnh giác lừa đảo online",
+  "story": "stories/111-online-scam.md",
+  "audio": "audio/111-online-scam.mp3",
+  "duration": 29.57,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/111-online-scam.mp3",
+  "durationMale": 29.32,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the online scam in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ on-lain skam in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả lừa đảo online bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.04
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the fake message, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ phêik mé-sij, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là tin nhắn giả, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.2,
+      "end": 11.01
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the personal data because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ pơ-sờ-nồ đây-tờ bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về dữ liệu cá nhân vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.17,
+      "end": 16.03
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the public warning as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ pớ-blik wo(r)-ning as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến cảnh báo công khai như một chi tiết quan trọng.",
+      "start": 16.19,
+      "end": 20.42
+    },
+    {
+      "index": 5,
+      "text": "Experts said the security habit would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ sờ-kyu-rờ-ti ha-bit quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói thói quen bảo mật sẽ quan trọng trong vài tháng tới.",
+      "start": 20.58,
+      "end": 25.01
+    },
+    {
+      "index": 6,
+      "text": "The story helped me stay alert instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi stây ờ-lơrt in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi luôn cảnh giác thay vì chỉ đọc tiêu đề.",
+      "start": 25.17,
+      "end": 29.24
+    }
+  ],
+  "audioMale1": "audio_male_1/111-online-scam.mp3",
+  "durationMale1": 33.5,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the online scam in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ on-lain skam in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả lừa đảo online bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.77
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the fake message, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ phêik mé-sij, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là tin nhắn giả, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.93,
+      "end": 12.49
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the personal data because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ pơ-sờ-nồ đây-tờ bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về dữ liệu cá nhân vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12.65,
+      "end": 18.36
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the public warning as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ pớ-blik wo(r)-ning as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến cảnh báo công khai như một chi tiết quan trọng.",
+      "start": 18.52,
+      "end": 23.29
+    },
+    {
+      "index": 5,
+      "text": "Experts said the security habit would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ sờ-kyu-rờ-ti ha-bit quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói thói quen bảo mật sẽ quan trọng trong vài tháng tới.",
+      "start": 23.45,
+      "end": 28.5
+    },
+    {
+      "index": 6,
+      "text": "The story helped me stay alert instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi stây ờ-lơrt in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi luôn cảnh giác thay vì chỉ đọc tiêu đề.",
+      "start": 28.66,
+      "end": 33.42
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the online scam in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ on-lain skam in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả lừa đảo online bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 4.72
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the fake message, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ phêik mé-sij, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là tin nhắn giả, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 4.88,
+      "end": 10.43
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the personal data because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ pơ-sờ-nồ đây-tờ bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về dữ liệu cá nhân vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 10.59,
+      "end": 15.55
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the public warning as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ pớ-blik wo(r)-ning as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến cảnh báo công khai như một chi tiết quan trọng.",
+      "start": 15.71,
+      "end": 19.99
+    },
+    {
+      "index": 5,
+      "text": "Experts said the security habit would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ sờ-kyu-rờ-ti ha-bit quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói thói quen bảo mật sẽ quan trọng trong vài tháng tới.",
+      "start": 20.15,
+      "end": 25.01
+    },
+    {
+      "index": 6,
+      "text": "The story helped me stay alert instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi stây ờ-lơrt in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi luôn cảnh giác thay vì chỉ đọc tiêu đề.",
+      "start": 25.17,
+      "end": 29.49
+    }
+  ]
+}

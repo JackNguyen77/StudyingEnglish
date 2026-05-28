@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "186-scope-creep",
+  "title": "Story 186 - Xử lý scope creep",
+  "story": "stories/186-scope-creep.md",
+  "audio": "audio/186-scope-creep.mp3",
+  "duration": 32.66,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/186-scope-creep.mp3",
+  "durationMale": 27.46,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the scope creep before I made a final choice.",
+      "pronunciation": "ai chékt đờ skoup krip bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra scope phình ra trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.64
+    },
+    {
+      "index": 2,
+      "text": "One extra request made the situation less simple than it looked.",
+      "pronunciation": "quăn ek-strờ ri-quest mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Yêu cầu thêm làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.8,
+      "end": 7.74
+    },
+    {
+      "index": 3,
+      "text": "I decided to protect the timeline before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu protekt đờ taim-lain bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định bảo vệ timeline trước khi tiếp tục.",
+      "start": 7.9,
+      "end": 11.49
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short scope note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt skoup note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú scope ngắn để người kia hiểu tôi.",
+      "start": 11.65,
+      "end": 15.47
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the must haves instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ mớst haves in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận phần bắt buộc thay vì đoán.",
+      "start": 15.63,
+      "end": 19.09
+    },
+    {
+      "index": 6,
+      "text": "That helped me avoid extra effort without adding extra stress.",
+      "pronunciation": "đat heo mi ờ-void ek-strờ e-phờrt quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tránh thêm công sức mà không thêm căng thẳng.",
+      "start": 19.25,
+      "end": 22.86
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 23.02,
+      "end": 27.38
+    }
+  ],
+  "audioMale1": "audio_male_1/186-scope-creep.mp3",
+  "durationMale1": 35.94,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the scope creep before I made a final choice.",
+      "pronunciation": "ai chékt đờ skoup krip bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra scope phình ra trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.33
+    },
+    {
+      "index": 2,
+      "text": "One extra request made the situation less simple than it looked.",
+      "pronunciation": "quăn ek-strờ ri-quest mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Yêu cầu thêm làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.49,
+      "end": 10.9
+    },
+    {
+      "index": 3,
+      "text": "I decided to protect the timeline before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu protekt đờ taim-lain bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định bảo vệ timeline trước khi tiếp tục.",
+      "start": 11.06,
+      "end": 15.55
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short scope note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt skoup note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú scope ngắn để người kia hiểu tôi.",
+      "start": 15.71,
+      "end": 20.64
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the must haves instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ mớst haves in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận phần bắt buộc thay vì đoán.",
+      "start": 20.8,
+      "end": 25.39
+    },
+    {
+      "index": 6,
+      "text": "That helped me avoid extra effort without adding extra stress.",
+      "pronunciation": "đat heo mi ờ-void ek-strờ e-phờrt quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tránh thêm công sức mà không thêm căng thẳng.",
+      "start": 25.55,
+      "end": 30.44
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.6,
+      "end": 35.86
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the scope creep before I made a final choice.",
+      "pronunciation": "ai chékt đờ skoup krip bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra scope phình ra trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.66
+    },
+    {
+      "index": 2,
+      "text": "One extra request made the situation less simple than it looked.",
+      "pronunciation": "quăn ek-strờ ri-quest mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Yêu cầu thêm làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.82,
+      "end": 9.43
+    },
+    {
+      "index": 3,
+      "text": "I decided to protect the timeline before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu protekt đờ taim-lain bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định bảo vệ timeline trước khi tiếp tục.",
+      "start": 9.59,
+      "end": 13.79
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short scope note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt skoup note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú scope ngắn để người kia hiểu tôi.",
+      "start": 13.95,
+      "end": 18.74
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the must haves instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ mớst haves in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận phần bắt buộc thay vì đoán.",
+      "start": 18.9,
+      "end": 22.87
+    },
+    {
+      "index": 6,
+      "text": "That helped me avoid extra effort without adding extra stress.",
+      "pronunciation": "đat heo mi ờ-void ek-strờ e-phờrt quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tránh thêm công sức mà không thêm căng thẳng.",
+      "start": 23.03,
+      "end": 27.57
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.73,
+      "end": 32.58
+    }
+  ]
+}

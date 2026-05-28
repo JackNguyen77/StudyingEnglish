@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "002-keep-watching",
+  "title": "Story 002 - Cứ xem thêm một video nữa",
+  "story": "stories/002-keep-watching.md",
+  "audio": "audio/002-keep-watching.mp3",
+  "duration": 20.85,
+  "timingMethod": "manual-silence-assisted",
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I told myself I would stop after one more video.",
+      "vi": "Tôi tự nhủ mình sẽ dừng sau một video nữa.",
+      "start": 0.62,
+      "end": 3.86,
+      "pronunciation": "ai tâu mai-self ai quud stóp áp-tờ quăn mo vi-đi-ô."
+    },
+    {
+      "index": 2,
+      "text": "But the next video popped up right away.",
+      "vi": "Nhưng video tiếp theo hiện lên ngay lập tức.",
+      "start": 4.7,
+      "end": 7.24,
+      "pronunciation": "bớt đờ nekst vi-đi-ô pápt ấp rai-tờ-quây."
+    },
+    {
+      "index": 3,
+      "text": "I kept watching because it was funny.",
+      "vi": "Tôi cứ xem tiếp vì nó buồn cười.",
+      "start": 7.73,
+      "end": 9.7,
+      "pronunciation": "ai képt quát-ching bi-kóz ịt wờz phớ-ni."
+    },
+    {
+      "index": 4,
+      "text": "After a while, I lost track of time.",
+      "vi": "Một lúc sau, tôi quên mất thời gian.",
+      "start": 10.44,
+      "end": 12.99,
+      "pronunciation": "áp-tờ rờ quai, ai lost trék ờv taim."
+    },
+    {
+      "index": 5,
+      "text": "My eyes felt tired, so I took a short break.",
+      "vi": "Mắt tôi thấy mỏi, nên tôi nghỉ một chút.",
+      "start": 13.72,
+      "end": 16.84,
+      "pronunciation": "mai aiz felt tai-ờrd, sâu ai tuk ờ soọt brêik."
+    },
+    {
+      "index": 6,
+      "text": "Then I put my phone away and went back to English.",
+      "vi": "Rồi tôi cất điện thoại đi và quay lại học tiếng Anh.",
+      "start": 17.45,
+      "end": 20.55,
+      "pronunciation": "đen ai put mai phôn ờ-quây en quent béc tu ing-glish."
+    }
+  ],
+  "audioMale": "audio_male/002-keep-watching.mp3",
+  "durationMale": 18.44,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I told myself I would stop after one more video.",
+      "pronunciation": "ai tâu mai-self ai quud stóp áp-tờ quăn mo vi-đi-ô.",
+      "vi": "Tôi tự nhủ mình sẽ dừng sau một video nữa.",
+      "start": 0.02,
+      "end": 3.66
+    },
+    {
+      "index": 2,
+      "text": "But the next video popped up right away.",
+      "pronunciation": "bớt đờ nekst vi-đi-ô pápt ấp rai-tờ-quây.",
+      "vi": "Nhưng video tiếp theo hiện lên ngay lập tức.",
+      "start": 3.82,
+      "end": 6.39
+    },
+    {
+      "index": 3,
+      "text": "I kept watching because it was funny.",
+      "pronunciation": "ai képt quát-ching bi-kóz ịt wờz phớ-ni.",
+      "vi": "Tôi cứ xem tiếp vì nó buồn cười.",
+      "start": 6.55,
+      "end": 8.87
+    },
+    {
+      "index": 4,
+      "text": "After a while, I lost track of time.",
+      "pronunciation": "áp-tờ rờ quai, ai lost trék ờv taim.",
+      "vi": "Một lúc sau, tôi quên mất thời gian.",
+      "start": 9.03,
+      "end": 11.66
+    },
+    {
+      "index": 5,
+      "text": "My eyes felt tired, so I took a short break.",
+      "pronunciation": "mai aiz felt tai-ờrd, sâu ai tuk ờ soọt brêik.",
+      "vi": "Mắt tôi thấy mỏi, nên tôi nghỉ một chút.",
+      "start": 11.82,
+      "end": 14.87
+    },
+    {
+      "index": 6,
+      "text": "Then I put my phone away and went back to English.",
+      "pronunciation": "đen ai put mai phôn ờ-quây en quent béc tu ing-glish.",
+      "vi": "Rồi tôi cất điện thoại đi và quay lại học tiếng Anh.",
+      "start": 15.03,
+      "end": 18.36
+    }
+  ],
+  "audioMale1": "audio_male_1/002-keep-watching.mp3",
+  "durationMale1": 24.39,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I told myself I would stop after one more video.",
+      "pronunciation": "ai tâu mai-self ai quud stóp áp-tờ quăn mo vi-đi-ô.",
+      "vi": "Tôi tự nhủ mình sẽ dừng sau một video nữa.",
+      "start": 0.02,
+      "end": 5.25
+    },
+    {
+      "index": 2,
+      "text": "But the next video popped up right away.",
+      "pronunciation": "bớt đờ nekst vi-đi-ô pápt ấp rai-tờ-quây.",
+      "vi": "Nhưng video tiếp theo hiện lên ngay lập tức.",
+      "start": 5.41,
+      "end": 8.63
+    },
+    {
+      "index": 3,
+      "text": "I kept watching because it was funny.",
+      "pronunciation": "ai képt quát-ching bi-kóz ịt wờz phớ-ni.",
+      "vi": "Tôi cứ xem tiếp vì nó buồn cười.",
+      "start": 8.79,
+      "end": 11.58
+    },
+    {
+      "index": 4,
+      "text": "After a while, I lost track of time.",
+      "pronunciation": "áp-tờ rờ quai, ai lost trék ờv taim.",
+      "vi": "Một lúc sau, tôi quên mất thời gian.",
+      "start": 11.74,
+      "end": 15.44
+    },
+    {
+      "index": 5,
+      "text": "My eyes felt tired, so I took a short break.",
+      "pronunciation": "mai aiz felt tai-ờrd, sâu ai tuk ờ soọt brêik.",
+      "vi": "Mắt tôi thấy mỏi, nên tôi nghỉ một chút.",
+      "start": 15.6,
+      "end": 20
+    },
+    {
+      "index": 6,
+      "text": "Then I put my phone away and went back to English.",
+      "pronunciation": "đen ai put mai phôn ờ-quây en quent béc tu ing-glish.",
+      "vi": "Rồi tôi cất điện thoại đi và quay lại học tiếng Anh.",
+      "start": 20.16,
+      "end": 24.31
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "009-ask-for-help",
+  "title": "Story 009 - Nhờ giúp khi không hiểu",
+  "story": "stories/009-ask-for-help.md",
+  "audio": "audio/009-ask-for-help.mp3",
+  "duration": 25,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/009-ask-for-help.mp3",
+  "durationMale": 22.84,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I was watching an English video, but one part did not make sense.",
+      "pronunciation": "ai wờz quát-ching ờn ing-glish vi-đi-ô, bớt quăn paart đi nót mêik sens.",
+      "vi": "Tôi đang xem một video tiếng Anh, nhưng có một đoạn không hiểu.",
+      "start": 0.02,
+      "end": 4.85
+    },
+    {
+      "index": 2,
+      "text": "I played it back twice and still could not catch the words.",
+      "pronunciation": "ai plêid ịt béc twai en stil kud nót kétch đờ quớrdz.",
+      "vi": "Tôi tua lại hai lần mà vẫn không nghe ra từ.",
+      "start": 5.01,
+      "end": 8.58
+    },
+    {
+      "index": 3,
+      "text": "Instead of giving up, I asked a friend for help.",
+      "pronunciation": "in-sted ờv gi-ving ấp, ai áskt ờ phren fo heo.",
+      "vi": "Thay vì bỏ cuộc, tôi nhờ một người bạn giúp.",
+      "start": 8.74,
+      "end": 11.83
+    },
+    {
+      "index": 4,
+      "text": "She broke the sentence down and explained it in simple words.",
+      "pronunciation": "shi brôk đờ sen-tầnss daun en ích-splêind ịt in sim-pồ quớrdz.",
+      "vi": "Cô ấy tách câu ra và giải thích bằng từ đơn giản.",
+      "start": 11.99,
+      "end": 15.71
+    },
+    {
+      "index": 5,
+      "text": "After that, the whole clip became much clearer.",
+      "pronunciation": "áp-tờ đat, đờ hâu klip bi-kêim mớch kliờ-rờ.",
+      "vi": "Sau đó, cả đoạn video trở nên rõ hơn nhiều.",
+      "start": 15.87,
+      "end": 18.95
+    },
+    {
+      "index": 6,
+      "text": "I realized I did not have to figure everything out by myself.",
+      "pronunciation": "ai ri-ờ-laizd ai đi nót hav tu phi-gyờ ev-ri-thinh ao bai mai-self.",
+      "vi": "Tôi nhận ra mình không cần tự hiểu mọi thứ một mình.",
+      "start": 19.11,
+      "end": 22.76
+    }
+  ],
+  "audioMale1": "audio_male_1/009-ask-for-help.mp3",
+  "durationMale1": 29.33,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I was watching an English video, but one part did not make sense.",
+      "pronunciation": "ai wờz quát-ching ờn ing-glish vi-đi-ô, bớt quăn paart đi nót mêik sens.",
+      "vi": "Tôi đang xem một video tiếng Anh, nhưng có một đoạn không hiểu.",
+      "start": 0.02,
+      "end": 5.91
+    },
+    {
+      "index": 2,
+      "text": "I played it back twice and still could not catch the words.",
+      "pronunciation": "ai plêid ịt béc twai en stil kud nót kétch đờ quớrdz.",
+      "vi": "Tôi tua lại hai lần mà vẫn không nghe ra từ.",
+      "start": 6.07,
+      "end": 10.96
+    },
+    {
+      "index": 3,
+      "text": "Instead of giving up, I asked a friend for help.",
+      "pronunciation": "in-sted ờv gi-ving ấp, ai áskt ờ phren fo heo.",
+      "vi": "Thay vì bỏ cuộc, tôi nhờ một người bạn giúp.",
+      "start": 11.12,
+      "end": 15.2
+    },
+    {
+      "index": 4,
+      "text": "She broke the sentence down and explained it in simple words.",
+      "pronunciation": "shi brôk đờ sen-tầnss daun en ích-splêind ịt in sim-pồ quớrdz.",
+      "vi": "Cô ấy tách câu ra và giải thích bằng từ đơn giản.",
+      "start": 15.36,
+      "end": 20.38
+    },
+    {
+      "index": 5,
+      "text": "After that, the whole clip became much clearer.",
+      "pronunciation": "áp-tờ đat, đờ hâu klip bi-kêim mớch kliờ-rờ.",
+      "vi": "Sau đó, cả đoạn video trở nên rõ hơn nhiều.",
+      "start": 20.54,
+      "end": 24.64
+    },
+    {
+      "index": 6,
+      "text": "I realized I did not have to figure everything out by myself.",
+      "pronunciation": "ai ri-ờ-laizd ai đi nót hav tu phi-gyờ ev-ri-thinh ao bai mai-self.",
+      "vi": "Tôi nhận ra mình không cần tự hiểu mọi thứ một mình.",
+      "start": 24.8,
+      "end": 29.25
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I was watching an English video, but one part did not make sense.",
+      "pronunciation": "ai wờz quát-ching ờn ing-glish vi-đi-ô, bớt quăn paart đi nót mêik sens.",
+      "vi": "Tôi đang xem một video tiếng Anh, nhưng có một đoạn không hiểu.",
+      "start": 0.02,
+      "end": 5.3
+    },
+    {
+      "index": 2,
+      "text": "I played it back twice and still could not catch the words.",
+      "pronunciation": "ai plêid ịt béc twai en stil kud nót kétch đờ quớrdz.",
+      "vi": "Tôi tua lại hai lần mà vẫn không nghe ra từ.",
+      "start": 5.46,
+      "end": 9.83
+    },
+    {
+      "index": 3,
+      "text": "Instead of giving up, I asked a friend for help.",
+      "pronunciation": "in-sted ờv gi-ving ấp, ai áskt ờ phren fo heo.",
+      "vi": "Thay vì bỏ cuộc, tôi nhờ một người bạn giúp.",
+      "start": 9.99,
+      "end": 14.14
+    },
+    {
+      "index": 4,
+      "text": "She broke the sentence down and explained it in simple words.",
+      "pronunciation": "shi brôk đờ sen-tầnss daun en ích-splêind ịt in sim-pồ quớrdz.",
+      "vi": "Cô ấy tách câu ra và giải thích bằng từ đơn giản.",
+      "start": 14.3,
+      "end": 17.61
+    },
+    {
+      "index": 5,
+      "text": "After that, the whole clip became much clearer.",
+      "pronunciation": "áp-tờ đat, đờ hâu klip bi-kêim mớch kliờ-rờ.",
+      "vi": "Sau đó, cả đoạn video trở nên rõ hơn nhiều.",
+      "start": 17.77,
+      "end": 20.17
+    },
+    {
+      "index": 6,
+      "text": "I realized I did not have to figure everything out by myself.",
+      "pronunciation": "ai ri-ờ-laizd ai đi nót hav tu phi-gyờ ev-ri-thinh ao bai mai-self.",
+      "vi": "Tôi nhận ra mình không cần tự hiểu mọi thứ một mình.",
+      "start": 20.33,
+      "end": 24.92
+    }
+  ]
+}

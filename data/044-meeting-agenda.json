@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "044-meeting-agenda",
+  "title": "Story 044 - Chuẩn bị agenda",
+  "story": "stories/044-meeting-agenda.md",
+  "audio": "audio/044-meeting-agenda.mp3",
+  "duration": 31.01,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/044-meeting-agenda.mp3",
+  "durationMale": 34.44,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "After reviewing the ticket, I saw that the call had too many topics for thirty minutes.",
+      "pronunciation": "áp-tờ ri-viu-ing đờ ti-kịt, ai so đat đờ kol had tu me-ni tó-piks fo thơ-ti mi-nits.",
+      "vi": "Sau khi xem lại ticket, tôi thấy cuộc gọi có quá nhiều chủ đề cho ba mươi phút.",
+      "start": 0.02,
+      "end": 6.22
+    },
+    {
+      "index": 2,
+      "text": "I did not want to make assumptions, so I put the urgent questions at the top of the agenda.",
+      "pronunciation": "ai đi nót quăn tu mêik ờ-săm-shầnz, sâu ai put đi ơ-jần ques-chầnz at đờ tóp ờv đi ờ-jen-đờ.",
+      "vi": "Tôi không muốn đoán sai, nên tôi đưa các câu hỏi khẩn cấp lên đầu agenda.",
+      "start": 6.38,
+      "end": 12.78
+    },
+    {
+      "index": 3,
+      "text": "We compared the fastest option with the safer option before choosing a path.",
+      "pronunciation": "quy kờm-pe(r)d đờ fast-tịt áp-shần quít đờ sây-fờ áp-shần bi-fo chu-zing ờ path.",
+      "vi": "Chúng tôi so sánh phương án nhanh nhất với phương án an toàn hơn trước khi chọn một hướng đi.",
+      "start": 12.94,
+      "end": 18.39
+    },
+    {
+      "index": 4,
+      "text": "The discussion stayed calm because everyone could see the trade-off clearly.",
+      "pronunciation": "đờ đis-kớ-shần stâyd kaam bi-kóz ev-ri-quan kud si đờ trây-dof kliờ-li.",
+      "vi": "Cuộc thảo luận giữ được bình tĩnh vì mọi người có thể thấy rõ phần đánh đổi.",
+      "start": 18.55,
+      "end": 23.8
+    },
+    {
+      "index": 5,
+      "text": "I moved small updates to the end and marked the next action in the tracker.",
+      "pronunciation": "ai muvd smol ấp-đêits tu đờ end en máct đờ nekst ác-shần in đờ tra-kờr.",
+      "vi": "Tôi dời các cập nhật nhỏ xuống cuối và đánh dấu hành động tiếp theo trong tracker.",
+      "start": 23.96,
+      "end": 29.13
+    },
+    {
+      "index": 6,
+      "text": "That small step saved time when the topic came back in the afternoon.",
+      "pronunciation": "đat smol step sêivd taim quen đờ tó-pik kêim béc in đờ áp-tờ-nun.",
+      "vi": "Bước nhỏ đó tiết kiệm thời gian khi chủ đề quay lại vào buổi chiều.",
+      "start": 29.29,
+      "end": 34.36
+    }
+  ],
+  "audioMale1": "audio_male_1/044-meeting-agenda.mp3",
+  "durationMale1": 37.28,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "After reviewing the ticket, I saw that the call had too many topics for thirty minutes.",
+      "pronunciation": "áp-tờ ri-viu-ing đờ ti-kịt, ai so đat đờ kol had tu me-ni tó-piks fo thơ-ti mi-nits.",
+      "vi": "Sau khi xem lại ticket, tôi thấy cuộc gọi có quá nhiều chủ đề cho ba mươi phút.",
+      "start": 0.02,
+      "end": 6.68
+    },
+    {
+      "index": 2,
+      "text": "I did not want to make assumptions, so I put the urgent questions at the top of the agenda.",
+      "pronunciation": "ai đi nót quăn tu mêik ờ-săm-shầnz, sâu ai put đi ơ-jần ques-chầnz at đờ tóp ờv đi ờ-jen-đờ.",
+      "vi": "Tôi không muốn đoán sai, nên tôi đưa các câu hỏi khẩn cấp lên đầu agenda.",
+      "start": 6.84,
+      "end": 15.74
+    },
+    {
+      "index": 3,
+      "text": "We compared the fastest option with the safer option before choosing a path.",
+      "pronunciation": "quy kờm-pe(r)d đờ fast-tịt áp-shần quít đờ sây-fờ áp-shần bi-fo chu-zing ờ path.",
+      "vi": "Chúng tôi so sánh phương án nhanh nhất với phương án an toàn hơn trước khi chọn một hướng đi.",
+      "start": 15.9,
+      "end": 19.51
+    },
+    {
+      "index": 4,
+      "text": "The discussion stayed calm because everyone could see the trade-off clearly.",
+      "pronunciation": "đờ đis-kớ-shần stâyd kaam bi-kóz ev-ri-quan kud si đờ trây-dof kliờ-li.",
+      "vi": "Cuộc thảo luận giữ được bình tĩnh vì mọi người có thể thấy rõ phần đánh đổi.",
+      "start": 19.67,
+      "end": 25.6
+    },
+    {
+      "index": 5,
+      "text": "I moved small updates to the end and marked the next action in the tracker.",
+      "pronunciation": "ai muvd smol ấp-đêits tu đờ end en máct đờ nekst ác-shần in đờ tra-kờr.",
+      "vi": "Tôi dời các cập nhật nhỏ xuống cuối và đánh dấu hành động tiếp theo trong tracker.",
+      "start": 25.76,
+      "end": 31.68
+    },
+    {
+      "index": 6,
+      "text": "That small step saved time when the topic came back in the afternoon.",
+      "pronunciation": "đat smol step sêivd taim quen đờ tó-pik kêim béc in đờ áp-tờ-nun.",
+      "vi": "Bước nhỏ đó tiết kiệm thời gian khi chủ đề quay lại vào buổi chiều.",
+      "start": 31.84,
+      "end": 37.2
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "After reviewing the ticket, I saw that the call had too many topics for thirty minutes.",
+      "pronunciation": "áp-tờ ri-viu-ing đờ ti-kịt, ai so đat đờ kol had tu me-ni tó-piks fo thơ-ti mi-nits.",
+      "vi": "Sau khi xem lại ticket, tôi thấy cuộc gọi có quá nhiều chủ đề cho ba mươi phút.",
+      "start": 0.02,
+      "end": 5.59
+    },
+    {
+      "index": 2,
+      "text": "I did not want to make assumptions, so I put the urgent questions at the top of the agenda.",
+      "pronunciation": "ai đi nót quăn tu mêik ờ-săm-shầnz, sâu ai put đi ơ-jần ques-chầnz at đờ tóp ờv đi ờ-jen-đờ.",
+      "vi": "Tôi không muốn đoán sai, nên tôi đưa các câu hỏi khẩn cấp lên đầu agenda.",
+      "start": 5.75,
+      "end": 11.25
+    },
+    {
+      "index": 3,
+      "text": "We compared the fastest option with the safer option before choosing a path.",
+      "pronunciation": "quy kờm-pe(r)d đờ fast-tịt áp-shần quít đờ sây-fờ áp-shần bi-fo chu-zing ờ path.",
+      "vi": "Chúng tôi so sánh phương án nhanh nhất với phương án an toàn hơn trước khi chọn một hướng đi.",
+      "start": 11.41,
+      "end": 16.54
+    },
+    {
+      "index": 4,
+      "text": "The discussion stayed calm because everyone could see the trade-off clearly.",
+      "pronunciation": "đờ đis-kớ-shần stâyd kaam bi-kóz ev-ri-quan kud si đờ trây-dof kliờ-li.",
+      "vi": "Cuộc thảo luận giữ được bình tĩnh vì mọi người có thể thấy rõ phần đánh đổi.",
+      "start": 16.7,
+      "end": 20.66
+    },
+    {
+      "index": 5,
+      "text": "I moved small updates to the end and marked the next action in the tracker.",
+      "pronunciation": "ai muvd smol ấp-đêits tu đờ end en máct đờ nekst ác-shần in đờ tra-kờr.",
+      "vi": "Tôi dời các cập nhật nhỏ xuống cuối và đánh dấu hành động tiếp theo trong tracker.",
+      "start": 20.82,
+      "end": 26.58
+    },
+    {
+      "index": 6,
+      "text": "That small step saved time when the topic came back in the afternoon.",
+      "pronunciation": "đat smol step sêivd taim quen đờ tó-pik kêim béc in đờ áp-tờ-nun.",
+      "vi": "Bước nhỏ đó tiết kiệm thời gian khi chủ đề quay lại vào buổi chiều.",
+      "start": 26.74,
+      "end": 30.93
+    }
+  ]
+}

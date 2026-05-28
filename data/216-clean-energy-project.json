@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "216-clean-energy-project",
+  "title": "Story 216 - Theo dõi dự án năng lượng sạch",
+  "story": "stories/216-clean-energy-project.md",
+  "audio": "audio/216-clean-energy-project.mp3",
+  "duration": 33.83,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/216-clean-energy-project.mp3",
+  "durationMale": 29.89,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the energy project before I made a final choice.",
+      "pronunciation": "ai chékt đờ enerji pró-jekt bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra dự án năng lượng trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.95
+    },
+    {
+      "index": 2,
+      "text": "One permit delay made the situation less simple than it looked.",
+      "pronunciation": "quăn permit đi-lây mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Chậm giấy phép làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.11,
+      "end": 8.28
+    },
+    {
+      "index": 3,
+      "text": "I decided to follow the timeline before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu pha-lâu đờ taim-lain bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi timeline trước khi tiếp tục.",
+      "start": 8.44,
+      "end": 12.27
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short energy note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt enerji note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú năng lượng ngắn để người kia hiểu tôi.",
+      "start": 12.43,
+      "end": 16.58
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check community feedback instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék kommuniti phid-bak in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra feedback cộng đồng thay vì đoán.",
+      "start": 16.74,
+      "end": 20.79
+    },
+    {
+      "index": 6,
+      "text": "That helped me judge the long term benefit without adding extra stress.",
+      "pronunciation": "đat heo mi judje đờ long tờm benefit quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi đánh giá lợi ích dài hạn mà không thêm căng thẳng.",
+      "start": 20.95,
+      "end": 25.38
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.54,
+      "end": 29.81
+    }
+  ],
+  "audioMale1": "audio_male_1/216-clean-energy-project.mp3",
+  "durationMale1": 37.27,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the energy project before I made a final choice.",
+      "pronunciation": "ai chékt đờ enerji pró-jekt bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra dự án năng lượng trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.29
+    },
+    {
+      "index": 2,
+      "text": "One permit delay made the situation less simple than it looked.",
+      "pronunciation": "quăn permit đi-lây mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Chậm giấy phép làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.45,
+      "end": 10.17
+    },
+    {
+      "index": 3,
+      "text": "I decided to follow the timeline before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu pha-lâu đờ taim-lain bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi timeline trước khi tiếp tục.",
+      "start": 10.33,
+      "end": 15.17
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short energy note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt enerji note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú năng lượng ngắn để người kia hiểu tôi.",
+      "start": 15.33,
+      "end": 20.5
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check community feedback instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék kommuniti phid-bak in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra feedback cộng đồng thay vì đoán.",
+      "start": 20.66,
+      "end": 25.54
+    },
+    {
+      "index": 6,
+      "text": "That helped me judge the long term benefit without adding extra stress.",
+      "pronunciation": "đat heo mi judje đờ long tờm benefit quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi đánh giá lợi ích dài hạn mà không thêm căng thẳng.",
+      "start": 25.7,
+      "end": 31.17
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 31.33,
+      "end": 37.19
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the energy project before I made a final choice.",
+      "pronunciation": "ai chékt đờ enerji pró-jekt bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra dự án năng lượng trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.42
+    },
+    {
+      "index": 2,
+      "text": "One permit delay made the situation less simple than it looked.",
+      "pronunciation": "quăn permit đi-lây mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Chậm giấy phép làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.58,
+      "end": 9.29
+    },
+    {
+      "index": 3,
+      "text": "I decided to follow the timeline before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu pha-lâu đờ taim-lain bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi timeline trước khi tiếp tục.",
+      "start": 9.45,
+      "end": 13.71
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short energy note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt enerji note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú năng lượng ngắn để người kia hiểu tôi.",
+      "start": 13.87,
+      "end": 18.91
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check community feedback instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék kommuniti phid-bak in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra feedback cộng đồng thay vì đoán.",
+      "start": 19.07,
+      "end": 23.42
+    },
+    {
+      "index": 6,
+      "text": "That helped me judge the long term benefit without adding extra stress.",
+      "pronunciation": "đat heo mi judje đờ long tờm benefit quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi đánh giá lợi ích dài hạn mà không thêm căng thẳng.",
+      "start": 23.58,
+      "end": 28.77
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.93,
+      "end": 33.75
+    }
+  ]
+}

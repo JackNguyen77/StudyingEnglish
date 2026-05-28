@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "054-internal-question",
+  "title": "Story 054 - Hỏi nội bộ",
+  "story": "stories/054-internal-question.md",
+  "audio": "audio/054-internal-question.mp3",
+  "duration": 30.85,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/054-internal-question.mp3",
+  "durationMale": 29.27,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the internal question so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ in-tơr-nồ quesshần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở câu hỏi nội bộ để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.88
+    },
+    {
+      "index": 2,
+      "text": "The goal was to ask the right person without losing important details.",
+      "pronunciation": "đờ gâu wờz tu át-sờk đờ rait pơ-sần quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là hỏi đúng người mà không làm mất các chi tiết quan trọng.",
+      "start": 6.04,
+      "end": 10.85
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the unclear ownership and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ unklir aonership en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra quyền phụ trách chưa rõ và hỏi ai nên xử lý tiếp.",
+      "start": 11.01,
+      "end": 15.72
+    },
+    {
+      "index": 4,
+      "text": "We agreed to keep the thread focused before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu kip đờ thrid phâu-kớst bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất giữ thread tập trung trước khi có ai đi tiếp.",
+      "start": 15.88,
+      "end": 20.3
+    },
+    {
+      "index": 5,
+      "text": "I shared the short answer after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ soọt an-sờ áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ câu trả lời ngắn sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 20.46,
+      "end": 25.41
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us close the question later in the day.",
+      "pronunciation": "đat smol step heo ớs klose đờ quesshần lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi chốt câu hỏi về sau trong ngày.",
+      "start": 25.57,
+      "end": 29.19
+    }
+  ],
+  "audioMale1": "audio_male_1/054-internal-question.mp3",
+  "durationMale1": 32.84,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the internal question so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ in-tơr-nồ quesshần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở câu hỏi nội bộ để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 6.09
+    },
+    {
+      "index": 2,
+      "text": "The goal was to ask the right person without losing important details.",
+      "pronunciation": "đờ gâu wờz tu át-sờk đờ rait pơ-sần quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là hỏi đúng người mà không làm mất các chi tiết quan trọng.",
+      "start": 6.25,
+      "end": 11.67
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the unclear ownership and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ unklir aonership en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra quyền phụ trách chưa rõ và hỏi ai nên xử lý tiếp.",
+      "start": 11.83,
+      "end": 17.05
+    },
+    {
+      "index": 4,
+      "text": "We agreed to keep the thread focused before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu kip đờ thrid phâu-kớst bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất giữ thread tập trung trước khi có ai đi tiếp.",
+      "start": 17.21,
+      "end": 22.19
+    },
+    {
+      "index": 5,
+      "text": "I shared the short answer after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ soọt an-sờ áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ câu trả lời ngắn sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 22.35,
+      "end": 27.87
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us close the question later in the day.",
+      "pronunciation": "đat smol step heo ớs klose đờ quesshần lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi chốt câu hỏi về sau trong ngày.",
+      "start": 28.03,
+      "end": 32.76
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the internal question so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ in-tơr-nồ quesshần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở câu hỏi nội bộ để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.92
+    },
+    {
+      "index": 2,
+      "text": "The goal was to ask the right person without losing important details.",
+      "pronunciation": "đờ gâu wờz tu át-sờk đờ rait pơ-sần quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là hỏi đúng người mà không làm mất các chi tiết quan trọng.",
+      "start": 6.08,
+      "end": 10.64
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the unclear ownership and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ unklir aonership en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra quyền phụ trách chưa rõ và hỏi ai nên xử lý tiếp.",
+      "start": 10.8,
+      "end": 15.62
+    },
+    {
+      "index": 4,
+      "text": "We agreed to keep the thread focused before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu kip đờ thrid phâu-kớst bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất giữ thread tập trung trước khi có ai đi tiếp.",
+      "start": 15.78,
+      "end": 20.21
+    },
+    {
+      "index": 5,
+      "text": "I shared the short answer after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ soọt an-sờ áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ câu trả lời ngắn sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 20.37,
+      "end": 26.03
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us close the question later in the day.",
+      "pronunciation": "đat smol step heo ớs klose đờ quesshần lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi chốt câu hỏi về sau trong ngày.",
+      "start": 26.19,
+      "end": 30.77
+    }
+  ]
+}

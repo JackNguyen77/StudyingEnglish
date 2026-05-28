@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "239-education-reform",
+  "title": "Story 239 - Theo dõi cải cách giáo dục",
+  "story": "stories/239-education-reform.md",
+  "audio": "audio/239-education-reform.mp3",
+  "duration": 29.78,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/239-education-reform.mp3",
+  "durationMale": 30.33,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the education reform before I made a final choice.",
+      "pronunciation": "ai chékt đờ e-jờ-kây-shần reform bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra cải cách giáo dục trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.45
+    },
+    {
+      "index": 2,
+      "text": "One teacher concern made the situation less simple than it looked.",
+      "pronunciation": "quăn tikher kờn-sơn mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Mối lo giáo viên làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.61,
+      "end": 8.59
+    },
+    {
+      "index": 3,
+      "text": "I decided to review learning goals before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ri-viu lơ-ning goals bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định xem lại mục tiêu học tập trước khi tiếp tục.",
+      "start": 8.75,
+      "end": 12.74
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short reform note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt reform note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú reform ngắn để người kia hiểu tôi.",
+      "start": 12.9,
+      "end": 17.18
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check student outcomes instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék stu-đần aotkomes in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra kết quả học sinh thay vì đoán.",
+      "start": 17.34,
+      "end": 21.2
+    },
+    {
+      "index": 6,
+      "text": "That helped me improve the school system without adding extra stress.",
+      "pronunciation": "đat heo mi im-pruuv đờ skhul sis-tầm quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi cải thiện hệ thống trường học mà không thêm căng thẳng.",
+      "start": 21.36,
+      "end": 25.68
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.84,
+      "end": 30.25
+    }
+  ],
+  "audioMale1": "audio_male_1/239-education-reform.mp3",
+  "durationMale1": 37.28,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the education reform before I made a final choice.",
+      "pronunciation": "ai chékt đờ e-jờ-kây-shần reform bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra cải cách giáo dục trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.39
+    },
+    {
+      "index": 2,
+      "text": "One teacher concern made the situation less simple than it looked.",
+      "pronunciation": "quăn tikher kờn-sơn mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Mối lo giáo viên làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.55,
+      "end": 10.86
+    },
+    {
+      "index": 3,
+      "text": "I decided to review learning goals before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ri-viu lơ-ning goals bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định xem lại mục tiêu học tập trước khi tiếp tục.",
+      "start": 11.02,
+      "end": 15.5
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short reform note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt reform note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú reform ngắn để người kia hiểu tôi.",
+      "start": 15.66,
+      "end": 21.27
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check student outcomes instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék stu-đần aotkomes in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra kết quả học sinh thay vì đoán.",
+      "start": 21.43,
+      "end": 26.03
+    },
+    {
+      "index": 6,
+      "text": "That helped me improve the school system without adding extra stress.",
+      "pronunciation": "đat heo mi im-pruuv đờ skhul sis-tầm quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi cải thiện hệ thống trường học mà không thêm căng thẳng.",
+      "start": 26.19,
+      "end": 31.37
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 31.53,
+      "end": 37.2
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the education reform before I made a final choice.",
+      "pronunciation": "ai chékt đờ e-jờ-kây-shần reform bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra cải cách giáo dục trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.77
+    },
+    {
+      "index": 2,
+      "text": "One teacher concern made the situation less simple than it looked.",
+      "pronunciation": "quăn tikher kờn-sơn mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Mối lo giáo viên làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.93,
+      "end": 7.73
+    },
+    {
+      "index": 3,
+      "text": "I decided to review learning goals before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ri-viu lơ-ning goals bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định xem lại mục tiêu học tập trước khi tiếp tục.",
+      "start": 7.89,
+      "end": 11.74
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short reform note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt reform note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú reform ngắn để người kia hiểu tôi.",
+      "start": 11.9,
+      "end": 16.45
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check student outcomes instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék stu-đần aotkomes in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra kết quả học sinh thay vì đoán.",
+      "start": 16.61,
+      "end": 20.32
+    },
+    {
+      "index": 6,
+      "text": "That helped me improve the school system without adding extra stress.",
+      "pronunciation": "đat heo mi im-pruuv đờ skhul sis-tầm quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi cải thiện hệ thống trường học mà không thêm căng thẳng.",
+      "start": 20.48,
+      "end": 24.94
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.1,
+      "end": 29.7
+    }
+  ]
+}

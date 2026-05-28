@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "031-prepare-for-meeting",
+  "title": "Story 031 - Chuẩn bị trước cuộc họp",
+  "story": "stories/031-prepare-for-meeting.md",
+  "audio": "audio/031-prepare-for-meeting.mp3",
+  "duration": 25.6,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/031-prepare-for-meeting.mp3",
+  "durationMale": 27.73,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before the meeting, I prepared for the call by reading the agenda.",
+      "pronunciation": "bi-fo đờ mi-ting, ai pri-pead fo đờ kol bai ri-ding đi ờ-jen-đờ.",
+      "vi": "Trước cuộc họp, tôi chuẩn bị cho cuộc gọi bằng cách đọc agenda.",
+      "start": 0.02,
+      "end": 4.89
+    },
+    {
+      "index": 2,
+      "text": "I looked over the main request and wrote down three key points.",
+      "pronunciation": "ai lúkt âu-vờ đờ mên ri-quest en râu daun thri ki poin.",
+      "vi": "Tôi xem qua yêu cầu chính và ghi lại ba ý quan trọng.",
+      "start": 5.05,
+      "end": 9.4
+    },
+    {
+      "index": 3,
+      "text": "I was not sure about one detail, so I planned to speak up.",
+      "pronunciation": "ai wờz nót shua ờ-bao quăn đi-têu, sâu ai plend tu spi-kấp.",
+      "vi": "Tôi chưa chắc về một chi tiết, nên tôi định sẽ lên tiếng hỏi.",
+      "start": 9.56,
+      "end": 13.93
+    },
+    {
+      "index": 4,
+      "text": "During the call, those notes helped me stay on track.",
+      "pronunciation": "đu-ring đờ kol, đôz nouts heo mi stây on trék.",
+      "vi": "Trong cuộc gọi, những ghi chú đó giúp tôi bám đúng trọng tâm.",
+      "start": 14.09,
+      "end": 18.08
+    },
+    {
+      "index": 5,
+      "text": "I took notes when the client explained the problem.",
+      "pronunciation": "ai tuk nouts quen đờ klai-ờnt ích-splêind đờ pro-blầm.",
+      "vi": "Tôi ghi chú khi khách hàng giải thích vấn đề.",
+      "start": 18.24,
+      "end": 21.63
+    },
+    {
+      "index": 6,
+      "text": "At the end, we agreed on the next steps and who would handle each task.",
+      "pronunciation": "at đờ end, quy ờ-grid on đờ nekst stepts en hu quud hen-đồ ich tát-sờk.",
+      "vi": "Cuối buổi, chúng tôi thống nhất các bước tiếp theo và ai sẽ xử lý từng việc.",
+      "start": 21.79,
+      "end": 27.65
+    }
+  ],
+  "audioMale1": "audio_male_1/031-prepare-for-meeting.mp3",
+  "durationMale1": 30.34,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before the meeting, I prepared for the call by reading the agenda.",
+      "pronunciation": "bi-fo đờ mi-ting, ai pri-pead fo đờ kol bai ri-ding đi ờ-jen-đờ.",
+      "vi": "Trước cuộc họp, tôi chuẩn bị cho cuộc gọi bằng cách đọc agenda.",
+      "start": 0.02,
+      "end": 5.82
+    },
+    {
+      "index": 2,
+      "text": "I looked over the main request and wrote down three key points.",
+      "pronunciation": "ai lúkt âu-vờ đờ mên ri-quest en râu daun thri ki poin.",
+      "vi": "Tôi xem qua yêu cầu chính và ghi lại ba ý quan trọng.",
+      "start": 5.98,
+      "end": 11.34
+    },
+    {
+      "index": 3,
+      "text": "I was not sure about one detail, so I planned to speak up.",
+      "pronunciation": "ai wờz nót shua ờ-bao quăn đi-têu, sâu ai plend tu spi-kấp.",
+      "vi": "Tôi chưa chắc về một chi tiết, nên tôi định sẽ lên tiếng hỏi.",
+      "start": 11.5,
+      "end": 16.28
+    },
+    {
+      "index": 4,
+      "text": "During the call, those notes helped me stay on track.",
+      "pronunciation": "đu-ring đờ kol, đôz nouts heo mi stây on trék.",
+      "vi": "Trong cuộc gọi, những ghi chú đó giúp tôi bám đúng trọng tâm.",
+      "start": 16.44,
+      "end": 20.51
+    },
+    {
+      "index": 5,
+      "text": "I took notes when the client explained the problem.",
+      "pronunciation": "ai tuk nouts quen đờ klai-ờnt ích-splêind đờ pro-blầm.",
+      "vi": "Tôi ghi chú khi khách hàng giải thích vấn đề.",
+      "start": 20.67,
+      "end": 24.09
+    },
+    {
+      "index": 6,
+      "text": "At the end, we agreed on the next steps and who would handle each task.",
+      "pronunciation": "at đờ end, quy ờ-grid on đờ nekst stepts en hu quud hen-đồ ich tát-sờk.",
+      "vi": "Cuối buổi, chúng tôi thống nhất các bước tiếp theo và ai sẽ xử lý từng việc.",
+      "start": 24.25,
+      "end": 30.26
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before the meeting, I prepared for the call by reading the agenda.",
+      "pronunciation": "bi-fo đờ mi-ting, ai pri-pead fo đờ kol bai ri-ding đi ờ-jen-đờ.",
+      "vi": "Trước cuộc họp, tôi chuẩn bị cho cuộc gọi bằng cách đọc agenda.",
+      "start": 0.02,
+      "end": 4.39
+    },
+    {
+      "index": 2,
+      "text": "I looked over the main request and wrote down three key points.",
+      "pronunciation": "ai lúkt âu-vờ đờ mên ri-quest en râu daun thri ki poin.",
+      "vi": "Tôi xem qua yêu cầu chính và ghi lại ba ý quan trọng.",
+      "start": 4.55,
+      "end": 8.83
+    },
+    {
+      "index": 3,
+      "text": "I was not sure about one detail, so I planned to speak up.",
+      "pronunciation": "ai wờz nót shua ờ-bao quăn đi-têu, sâu ai plend tu spi-kấp.",
+      "vi": "Tôi chưa chắc về một chi tiết, nên tôi định sẽ lên tiếng hỏi.",
+      "start": 8.99,
+      "end": 13.42
+    },
+    {
+      "index": 4,
+      "text": "During the call, those notes helped me stay on track.",
+      "pronunciation": "đu-ring đờ kol, đôz nouts heo mi stây on trék.",
+      "vi": "Trong cuộc gọi, những ghi chú đó giúp tôi bám đúng trọng tâm.",
+      "start": 13.58,
+      "end": 17.41
+    },
+    {
+      "index": 5,
+      "text": "I took notes when the client explained the problem.",
+      "pronunciation": "ai tuk nouts quen đờ klai-ờnt ích-splêind đờ pro-blầm.",
+      "vi": "Tôi ghi chú khi khách hàng giải thích vấn đề.",
+      "start": 17.57,
+      "end": 20.73
+    },
+    {
+      "index": 6,
+      "text": "At the end, we agreed on the next steps and who would handle each task.",
+      "pronunciation": "at đờ end, quy ờ-grid on đờ nekst stepts en hu quud hen-đồ ich tát-sờk.",
+      "vi": "Cuối buổi, chúng tôi thống nhất các bước tiếp theo và ai sẽ xử lý từng việc.",
+      "start": 20.89,
+      "end": 25.52
+    }
+  ]
+}

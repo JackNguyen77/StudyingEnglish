@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "273-market-entry-strategy",
+  "title": "Story 273 - Đọc strategy vào thị trường mới",
+  "story": "stories/273-market-entry-strategy.md",
+  "audio": "audio/273-market-entry-strategy.mp3",
+  "duration": 37.82,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/273-market-entry-strategy.mp3",
+  "durationMale": 34.61,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the market entry strategy before the meeting started.",
+      "pronunciation": "ai quókt thru đờ ma-kịt entri strateji bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through strategy vào thị trường mới trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.87
+    },
+    {
+      "index": 2,
+      "text": "One local competition made the decision harder than expected.",
+      "pronunciation": "quăn lâu-kồ kompetishần mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một cạnh tranh địa phương làm decision khó hơn dự kiến.",
+      "start": 5.03,
+      "end": 8.81
+    },
+    {
+      "index": 3,
+      "text": "I tried to test pricing assumptions so the team had a clearer path.",
+      "pronunciation": "ai traid tu test prising ờ-săm-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố test assumption về pricing để team có hướng rõ hơn.",
+      "start": 8.97,
+      "end": 14.6
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short entry strategy note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt entri strateji note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú strategy vào thị trường ngắn để capture các key points.",
+      "start": 14.76,
+      "end": 19.88
+    },
+    {
+      "index": 5,
+      "text": "I also had to check regulatory barriers before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék regulatori barriers bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra barrier regulation trước khi chúng tôi thống nhất next step.",
+      "start": 20.04,
+      "end": 25.15
+    },
+    {
+      "index": 6,
+      "text": "That helped us choose a realistic path without losing momentum.",
+      "pronunciation": "đat heo ớs khuse ờ ri-ờ-lis-tik path quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi chọn hướng đi thực tế mà không mất momentum.",
+      "start": 25.31,
+      "end": 30.14
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 30.3,
+      "end": 34.53
+    }
+  ],
+  "audioMale1": "audio_male_1/273-market-entry-strategy.mp3",
+  "durationMale1": 36.23,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the market entry strategy before the meeting started.",
+      "pronunciation": "ai quókt thru đờ ma-kịt entri strateji bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through strategy vào thị trường mới trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.6
+    },
+    {
+      "index": 2,
+      "text": "One local competition made the decision harder than expected.",
+      "pronunciation": "quăn lâu-kồ kompetishần mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một cạnh tranh địa phương làm decision khó hơn dự kiến.",
+      "start": 4.76,
+      "end": 9.28
+    },
+    {
+      "index": 3,
+      "text": "I tried to test pricing assumptions so the team had a clearer path.",
+      "pronunciation": "ai traid tu test prising ờ-săm-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố test assumption về pricing để team có hướng rõ hơn.",
+      "start": 9.44,
+      "end": 14.61
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short entry strategy note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt entri strateji note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú strategy vào thị trường ngắn để capture các key points.",
+      "start": 14.77,
+      "end": 20.04
+    },
+    {
+      "index": 5,
+      "text": "I also had to check regulatory barriers before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék regulatori barriers bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra barrier regulation trước khi chúng tôi thống nhất next step.",
+      "start": 20.2,
+      "end": 26.32
+    },
+    {
+      "index": 6,
+      "text": "That helped us choose a realistic path without losing momentum.",
+      "pronunciation": "đat heo ớs khuse ờ ri-ờ-lis-tik path quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi chọn hướng đi thực tế mà không mất momentum.",
+      "start": 26.48,
+      "end": 31.2
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 31.36,
+      "end": 36.15
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the market entry strategy before the meeting started.",
+      "pronunciation": "ai quókt thru đờ ma-kịt entri strateji bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through strategy vào thị trường mới trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.77
+    },
+    {
+      "index": 2,
+      "text": "One local competition made the decision harder than expected.",
+      "pronunciation": "quăn lâu-kồ kompetishần mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một cạnh tranh địa phương làm decision khó hơn dự kiến.",
+      "start": 4.93,
+      "end": 10.12
+    },
+    {
+      "index": 3,
+      "text": "I tried to test pricing assumptions so the team had a clearer path.",
+      "pronunciation": "ai traid tu test prising ờ-săm-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố test assumption về pricing để team có hướng rõ hơn.",
+      "start": 10.28,
+      "end": 16.21
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short entry strategy note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt entri strateji note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú strategy vào thị trường ngắn để capture các key points.",
+      "start": 16.37,
+      "end": 22.13
+    },
+    {
+      "index": 5,
+      "text": "I also had to check regulatory barriers before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék regulatori barriers bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra barrier regulation trước khi chúng tôi thống nhất next step.",
+      "start": 22.29,
+      "end": 28.25
+    },
+    {
+      "index": 6,
+      "text": "That helped us choose a realistic path without losing momentum.",
+      "pronunciation": "đat heo ớs khuse ờ ri-ờ-lis-tik path quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi chọn hướng đi thực tế mà không mất momentum.",
+      "start": 28.41,
+      "end": 33.39
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 33.55,
+      "end": 37.74
+    }
+  ]
+}

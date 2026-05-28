@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "101-market-trend",
+  "title": "Story 101 - Nhìn xu hướng thị trường",
+  "story": "stories/101-market-trend.md",
+  "audio": "audio/101-market-trend.mp3",
+  "duration": 29.89,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/101-market-trend.mp3",
+  "durationMale": 30.23,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the market trend in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ ma-kịt tren in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả xu hướng thị trường bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.23
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the consumer demand, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ kờn-su-mờr đi-mand, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là nhu cầu người tiêu dùng, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.39,
+      "end": 11.32
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the price movement because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ prise muv-mần bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về biến động giá vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.48,
+      "end": 16.15
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the business forecast as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ biz-nịt pho-kast as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến dự báo kinh doanh như một chi tiết quan trọng.",
+      "start": 16.31,
+      "end": 20.97
+    },
+    {
+      "index": 5,
+      "text": "Experts said the growing sector would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ graoing sektor quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói lĩnh vực đang tăng sẽ quan trọng trong vài tháng tới.",
+      "start": 21.13,
+      "end": 25.41
+    },
+    {
+      "index": 6,
+      "text": "The story helped me read the signal instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi rid đờ sig-nồ in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi đọc tín hiệu thay vì chỉ đọc tiêu đề.",
+      "start": 25.57,
+      "end": 30.15
+    }
+  ],
+  "audioMale1": "audio_male_1/101-market-trend.mp3",
+  "durationMale1": 33.72,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the market trend in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ ma-kịt tren in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả xu hướng thị trường bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.53
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the consumer demand, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ kờn-su-mờr đi-mand, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là nhu cầu người tiêu dùng, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.69,
+      "end": 12.43
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the price movement because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ prise muv-mần bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về biến động giá vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12.59,
+      "end": 17.77
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the business forecast as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ biz-nịt pho-kast as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến dự báo kinh doanh như một chi tiết quan trọng.",
+      "start": 17.93,
+      "end": 23.26
+    },
+    {
+      "index": 5,
+      "text": "Experts said the growing sector would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ graoing sektor quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói lĩnh vực đang tăng sẽ quan trọng trong vài tháng tới.",
+      "start": 23.42,
+      "end": 28.33
+    },
+    {
+      "index": 6,
+      "text": "The story helped me read the signal instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi rid đờ sig-nồ in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi đọc tín hiệu thay vì chỉ đọc tiêu đề.",
+      "start": 28.49,
+      "end": 33.64
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the market trend in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ ma-kịt tren in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả xu hướng thị trường bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.13
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the consumer demand, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ kờn-su-mờr đi-mand, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là nhu cầu người tiêu dùng, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.29,
+      "end": 11.06
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the price movement because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ prise muv-mần bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về biến động giá vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.22,
+      "end": 16.04
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the business forecast as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ biz-nịt pho-kast as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến dự báo kinh doanh như một chi tiết quan trọng.",
+      "start": 16.2,
+      "end": 20.62
+    },
+    {
+      "index": 5,
+      "text": "Experts said the growing sector would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ graoing sektor quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói lĩnh vực đang tăng sẽ quan trọng trong vài tháng tới.",
+      "start": 20.78,
+      "end": 25.02
+    },
+    {
+      "index": 6,
+      "text": "The story helped me read the signal instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi rid đờ sig-nồ in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi đọc tín hiệu thay vì chỉ đọc tiêu đề.",
+      "start": 25.18,
+      "end": 29.81
+    }
+  ]
+}

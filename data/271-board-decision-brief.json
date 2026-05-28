@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "271-board-decision-brief",
+  "title": "Story 271 - Chuẩn bị brief cho board decision",
+  "story": "stories/271-board-decision-brief.md",
+  "audio": "audio/271-board-decision-brief.mp3",
+  "duration": 31.99,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/271-board-decision-brief.mp3",
+  "durationMale": 32.23,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the board decision brief before the meeting started.",
+      "pronunciation": "ai quókt thru đờ board desizhần brief bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through brief cho board decision trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.18
+    },
+    {
+      "index": 2,
+      "text": "One unclear recommendation made the decision harder than expected.",
+      "pronunciation": "quăn unklir rekommendashần mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một recommendation chưa rõ làm decision khó hơn dự kiến.",
+      "start": 4.34,
+      "end": 7.99
+    },
+    {
+      "index": 3,
+      "text": "I tried to frame the options so the team had a clearer path.",
+      "pronunciation": "ai traid tu frame đờ áp-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố frame các lựa chọn để team có hướng rõ hơn.",
+      "start": 8.15,
+      "end": 12.88
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short decision brief note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt desizhần brief note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú brief decision ngắn để capture các key points.",
+      "start": 13.04,
+      "end": 18.14
+    },
+    {
+      "index": 5,
+      "text": "I also had to check financial exposure before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék finansial ekspozhờ bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra exposure tài chính trước khi chúng tôi thống nhất next step.",
+      "start": 18.3,
+      "end": 22.87
+    },
+    {
+      "index": 6,
+      "text": "That helped us support a confident decision without losing momentum.",
+      "pronunciation": "đat heo ớs sờ-po(r)t ờ konfident desizhần quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi hỗ trợ quyết định tự tin mà không mất momentum.",
+      "start": 23.03,
+      "end": 27.54
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 27.7,
+      "end": 32.15
+    }
+  ],
+  "audioMale1": "audio_male_1/271-board-decision-brief.mp3",
+  "durationMale1": 37.38,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the board decision brief before the meeting started.",
+      "pronunciation": "ai quókt thru đờ board desizhần brief bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through brief cho board decision trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.51
+    },
+    {
+      "index": 2,
+      "text": "One unclear recommendation made the decision harder than expected.",
+      "pronunciation": "quăn unklir rekommendashần mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một recommendation chưa rõ làm decision khó hơn dự kiến.",
+      "start": 5.67,
+      "end": 8.29
+    },
+    {
+      "index": 3,
+      "text": "I tried to frame the options so the team had a clearer path.",
+      "pronunciation": "ai traid tu frame đờ áp-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố frame các lựa chọn để team có hướng rõ hơn.",
+      "start": 8.45,
+      "end": 16.18
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short decision brief note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt desizhần brief note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú brief decision ngắn để capture các key points.",
+      "start": 16.34,
+      "end": 21.39
+    },
+    {
+      "index": 5,
+      "text": "I also had to check financial exposure before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék finansial ekspozhờ bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra exposure tài chính trước khi chúng tôi thống nhất next step.",
+      "start": 21.55,
+      "end": 27.18
+    },
+    {
+      "index": 6,
+      "text": "That helped us support a confident decision without losing momentum.",
+      "pronunciation": "đat heo ớs sờ-po(r)t ờ konfident desizhần quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi hỗ trợ quyết định tự tin mà không mất momentum.",
+      "start": 27.34,
+      "end": 32.46
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 32.62,
+      "end": 37.3
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the board decision brief before the meeting started.",
+      "pronunciation": "ai quókt thru đờ board desizhần brief bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through brief cho board decision trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.35
+    },
+    {
+      "index": 2,
+      "text": "One unclear recommendation made the decision harder than expected.",
+      "pronunciation": "quăn unklir rekommendashần mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một recommendation chưa rõ làm decision khó hơn dự kiến.",
+      "start": 4.51,
+      "end": 8.87
+    },
+    {
+      "index": 3,
+      "text": "I tried to frame the options so the team had a clearer path.",
+      "pronunciation": "ai traid tu frame đờ áp-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố frame các lựa chọn để team có hướng rõ hơn.",
+      "start": 9.03,
+      "end": 13.4
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short decision brief note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt desizhần brief note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú brief decision ngắn để capture các key points.",
+      "start": 13.56,
+      "end": 18.19
+    },
+    {
+      "index": 5,
+      "text": "I also had to check financial exposure before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék finansial ekspozhờ bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra exposure tài chính trước khi chúng tôi thống nhất next step.",
+      "start": 18.35,
+      "end": 23.38
+    },
+    {
+      "index": 6,
+      "text": "That helped us support a confident decision without losing momentum.",
+      "pronunciation": "đat heo ớs sờ-po(r)t ờ konfident desizhần quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi hỗ trợ quyết định tự tin mà không mất momentum.",
+      "start": 23.54,
+      "end": 28.01
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 28.17,
+      "end": 31.91
+    }
+  ]
+}

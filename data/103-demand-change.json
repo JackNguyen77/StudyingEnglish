@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "103-demand-change",
+  "title": "Story 103 - Theo dõi nhu cầu thay đổi",
+  "story": "stories/103-demand-change.md",
+  "audio": "audio/103-demand-change.mp3",
+  "duration": 30.56,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/103-demand-change.mp3",
+  "durationMale": 31.17,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the demand change in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ đi-mand chênj in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả thay đổi nhu cầu bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 4.83
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the seasonal need, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ sisonal nid, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là nhu cầu theo mùa, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 4.99,
+      "end": 10.78
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the customer behavior because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ kớs-tờ-mờr bi-hâyv-yờr bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về hành vi khách hàng vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 10.94,
+      "end": 16.23
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the production plan as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ prờ-đớk-shần plen as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến kế hoạch sản xuất như một chi tiết quan trọng.",
+      "start": 16.39,
+      "end": 20.51
+    },
+    {
+      "index": 5,
+      "text": "Experts said the sales forecast would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ sêilz pho-kast quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói dự báo bán hàng sẽ quan trọng trong vài tháng tới.",
+      "start": 20.67,
+      "end": 25.04
+    },
+    {
+      "index": 6,
+      "text": "The story helped me see the market adjustment instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi si đờ ma-kịt ờ-jớst-mần in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi thấy sự điều chỉnh của thị trường thay vì chỉ đọc tiêu đề.",
+      "start": 25.2,
+      "end": 31.09
+    }
+  ],
+  "audioMale1": "audio_male_1/103-demand-change.mp3",
+  "durationMale1": 39.06,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the demand change in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ đi-mand chênj in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả thay đổi nhu cầu bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 4.67
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the seasonal need, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ sisonal nid, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là nhu cầu theo mùa, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 4.83,
+      "end": 14.96
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the customer behavior because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ kớs-tờ-mờr bi-hâyv-yờr bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về hành vi khách hàng vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 15.12,
+      "end": 21.27
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the production plan as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ prờ-đớk-shần plen as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến kế hoạch sản xuất như một chi tiết quan trọng.",
+      "start": 21.43,
+      "end": 27.02
+    },
+    {
+      "index": 5,
+      "text": "Experts said the sales forecast would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ sêilz pho-kast quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói dự báo bán hàng sẽ quan trọng trong vài tháng tới.",
+      "start": 27.18,
+      "end": 32.58
+    },
+    {
+      "index": 6,
+      "text": "The story helped me see the market adjustment instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi si đờ ma-kịt ờ-jớst-mần in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi thấy sự điều chỉnh của thị trường thay vì chỉ đọc tiêu đề.",
+      "start": 32.74,
+      "end": 38.98
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the demand change in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ đi-mand chênj in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả thay đổi nhu cầu bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 4.46
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the seasonal need, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ sisonal nid, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là nhu cầu theo mùa, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 4.62,
+      "end": 10.3
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the customer behavior because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ kớs-tờ-mờr bi-hâyv-yờr bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về hành vi khách hàng vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 10.46,
+      "end": 15.68
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the production plan as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ prờ-đớk-shần plen as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến kế hoạch sản xuất như một chi tiết quan trọng.",
+      "start": 15.84,
+      "end": 20.38
+    },
+    {
+      "index": 5,
+      "text": "Experts said the sales forecast would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ sêilz pho-kast quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói dự báo bán hàng sẽ quan trọng trong vài tháng tới.",
+      "start": 20.54,
+      "end": 25.21
+    },
+    {
+      "index": 6,
+      "text": "The story helped me see the market adjustment instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi si đờ ma-kịt ờ-jớst-mần in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi thấy sự điều chỉnh của thị trường thay vì chỉ đọc tiêu đề.",
+      "start": 25.37,
+      "end": 30.48
+    }
+  ]
+}

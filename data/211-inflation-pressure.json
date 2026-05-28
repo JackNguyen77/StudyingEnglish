@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "211-inflation-pressure",
+  "title": "Story 211 - Nghe về áp lực lạm phát",
+  "story": "stories/211-inflation-pressure.md",
+  "audio": "audio/211-inflation-pressure.mp3",
+  "duration": 30.28,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/211-inflation-pressure.mp3",
+  "durationMale": 31.88,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the inflation report before I made a final choice.",
+      "pronunciation": "ai chékt đờ inflashần ri-po(r)t bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra báo cáo lạm phát trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.24
+    },
+    {
+      "index": 2,
+      "text": "One rising living cost made the situation less simple than it looked.",
+      "pronunciation": "quăn rai-zing living kost mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Chi phí sinh hoạt tăng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.4,
+      "end": 9.09
+    },
+    {
+      "index": 3,
+      "text": "I decided to compare basic costs before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kompare bây-sik kosts bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định so sánh chi phí cơ bản trước khi tiếp tục.",
+      "start": 9.25,
+      "end": 13.42
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short market note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ma-kịt note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú thị trường ngắn để người kia hiểu tôi.",
+      "start": 13.58,
+      "end": 18.22
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the wage impact instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ waje impakt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra impact lên lương thay vì đoán.",
+      "start": 18.38,
+      "end": 22.42
+    },
+    {
+      "index": 6,
+      "text": "That helped me understand the pressure without adding extra stress.",
+      "pronunciation": "đat heo mi ăn-đờ-stan đờ pre-shờr quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hiểu áp lực mà không thêm căng thẳng.",
+      "start": 22.58,
+      "end": 26.71
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.87,
+      "end": 31.8
+    }
+  ],
+  "audioMale1": "audio_male_1/211-inflation-pressure.mp3",
+  "durationMale1": 39.67,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the inflation report before I made a final choice.",
+      "pronunciation": "ai chékt đờ inflashần ri-po(r)t bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra báo cáo lạm phát trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.69
+    },
+    {
+      "index": 2,
+      "text": "One rising living cost made the situation less simple than it looked.",
+      "pronunciation": "quăn rai-zing living kost mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Chi phí sinh hoạt tăng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.85,
+      "end": 12.16
+    },
+    {
+      "index": 3,
+      "text": "I decided to compare basic costs before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kompare bây-sik kosts bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định so sánh chi phí cơ bản trước khi tiếp tục.",
+      "start": 12.32,
+      "end": 17.66
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short market note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ma-kịt note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú thị trường ngắn để người kia hiểu tôi.",
+      "start": 17.82,
+      "end": 23.27
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the wage impact instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ waje impakt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra impact lên lương thay vì đoán.",
+      "start": 23.43,
+      "end": 28.44
+    },
+    {
+      "index": 6,
+      "text": "That helped me understand the pressure without adding extra stress.",
+      "pronunciation": "đat heo mi ăn-đờ-stan đờ pre-shờr quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hiểu áp lực mà không thêm căng thẳng.",
+      "start": 28.6,
+      "end": 33.85
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 34.01,
+      "end": 39.59
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the inflation report before I made a final choice.",
+      "pronunciation": "ai chékt đờ inflashần ri-po(r)t bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra báo cáo lạm phát trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.83
+    },
+    {
+      "index": 2,
+      "text": "One rising living cost made the situation less simple than it looked.",
+      "pronunciation": "quăn rai-zing living kost mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Chi phí sinh hoạt tăng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.99,
+      "end": 8.42
+    },
+    {
+      "index": 3,
+      "text": "I decided to compare basic costs before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kompare bây-sik kosts bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định so sánh chi phí cơ bản trước khi tiếp tục.",
+      "start": 8.58,
+      "end": 12.56
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short market note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ma-kịt note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú thị trường ngắn để người kia hiểu tôi.",
+      "start": 12.72,
+      "end": 17.07
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the wage impact instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ waje impakt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra impact lên lương thay vì đoán.",
+      "start": 17.23,
+      "end": 21.02
+    },
+    {
+      "index": 6,
+      "text": "That helped me understand the pressure without adding extra stress.",
+      "pronunciation": "đat heo mi ăn-đờ-stan đờ pre-shờr quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hiểu áp lực mà không thêm căng thẳng.",
+      "start": 21.18,
+      "end": 25.64
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.8,
+      "end": 30.2
+    }
+  ]
+}

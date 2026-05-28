@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "285-executive-hiring-plan",
+  "title": "Story 285 - Đọc plan hiring executive",
+  "story": "stories/285-executive-hiring-plan.md",
+  "audio": "audio/285-executive-hiring-plan.mp3",
+  "duration": 30.04,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/285-executive-hiring-plan.mp3",
+  "durationMale": 30.6,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the executive hiring plan before the meeting started.",
+      "pronunciation": "ai quókt thru đờ eksekutive hai-ring plen bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through plan hiring executive trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.45
+    },
+    {
+      "index": 2,
+      "text": "One leadership gap made the decision harder than expected.",
+      "pronunciation": "quăn lidership gap mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một gap leadership làm decision khó hơn dự kiến.",
+      "start": 4.61,
+      "end": 7.86
+    },
+    {
+      "index": 3,
+      "text": "I tried to define success criteria so the team had a clearer path.",
+      "pronunciation": "ai traid tu define sờk-ses krai-ti-ri-ờ sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố define tiêu chí thành công để team có hướng rõ hơn.",
+      "start": 8.02,
+      "end": 13.2
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short hiring plan note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt hai-ring plen note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú plan hiring ngắn để capture các key points.",
+      "start": 13.36,
+      "end": 18.07
+    },
+    {
+      "index": 5,
+      "text": "I also had to check interview feedback before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék interview phid-bak bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra feedback phỏng vấn trước khi chúng tôi thống nhất next step.",
+      "start": 18.23,
+      "end": 22.81
+    },
+    {
+      "index": 6,
+      "text": "That helped us choose the right leader without losing momentum.",
+      "pronunciation": "đat heo ớs khuse đờ rait lider quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi chọn leader phù hợp mà không mất momentum.",
+      "start": 22.97,
+      "end": 26.56
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 26.72,
+      "end": 30.52
+    }
+  ],
+  "audioMale1": "audio_male_1/285-executive-hiring-plan.mp3",
+  "durationMale1": 37.82,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the executive hiring plan before the meeting started.",
+      "pronunciation": "ai quókt thru đờ eksekutive hai-ring plen bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through plan hiring executive trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.86
+    },
+    {
+      "index": 2,
+      "text": "One leadership gap made the decision harder than expected.",
+      "pronunciation": "quăn lidership gap mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một gap leadership làm decision khó hơn dự kiến.",
+      "start": 6.02,
+      "end": 10.88
+    },
+    {
+      "index": 3,
+      "text": "I tried to define success criteria so the team had a clearer path.",
+      "pronunciation": "ai traid tu define sờk-ses krai-ti-ri-ờ sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố define tiêu chí thành công để team có hướng rõ hơn.",
+      "start": 11.04,
+      "end": 16.88
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short hiring plan note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt hai-ring plen note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú plan hiring ngắn để capture các key points.",
+      "start": 17.04,
+      "end": 22.75
+    },
+    {
+      "index": 5,
+      "text": "I also had to check interview feedback before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék interview phid-bak bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra feedback phỏng vấn trước khi chúng tôi thống nhất next step.",
+      "start": 22.91,
+      "end": 28.16
+    },
+    {
+      "index": 6,
+      "text": "That helped us choose the right leader without losing momentum.",
+      "pronunciation": "đat heo ớs khuse đờ rait lider quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi chọn leader phù hợp mà không mất momentum.",
+      "start": 28.32,
+      "end": 33.08
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 33.24,
+      "end": 37.74
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the executive hiring plan before the meeting started.",
+      "pronunciation": "ai quókt thru đờ eksekutive hai-ring plen bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through plan hiring executive trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.28
+    },
+    {
+      "index": 2,
+      "text": "One leadership gap made the decision harder than expected.",
+      "pronunciation": "quăn lidership gap mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một gap leadership làm decision khó hơn dự kiến.",
+      "start": 4.44,
+      "end": 8.11
+    },
+    {
+      "index": 3,
+      "text": "I tried to define success criteria so the team had a clearer path.",
+      "pronunciation": "ai traid tu define sờk-ses krai-ti-ri-ờ sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố define tiêu chí thành công để team có hướng rõ hơn.",
+      "start": 8.27,
+      "end": 12.91
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short hiring plan note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt hai-ring plen note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú plan hiring ngắn để capture các key points.",
+      "start": 13.07,
+      "end": 17.33
+    },
+    {
+      "index": 5,
+      "text": "I also had to check interview feedback before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék interview phid-bak bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra feedback phỏng vấn trước khi chúng tôi thống nhất next step.",
+      "start": 17.49,
+      "end": 22.04
+    },
+    {
+      "index": 6,
+      "text": "That helped us choose the right leader without losing momentum.",
+      "pronunciation": "đat heo ớs khuse đờ rait lider quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi chọn leader phù hợp mà không mất momentum.",
+      "start": 22.2,
+      "end": 25.98
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 26.14,
+      "end": 29.96
+    }
+  ]
+}

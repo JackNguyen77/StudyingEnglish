@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "098-new-policy",
+  "title": "Story 098 - Theo dõi chính sách mới",
+  "story": "stories/098-new-policy.md",
+  "audio": "audio/098-new-policy.mp3",
+  "duration": 30.71,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/098-new-policy.mp3",
+  "durationMale": 29.62,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the new policy in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ niu po-lờ-si in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả chính sách mới bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 4.82
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the public feedback, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ pớ-blik phid-bak, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là feedback công chúng, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 4.98,
+      "end": 10.58
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the unclear rule because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ unklir rul bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về quy định chưa rõ vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 10.74,
+      "end": 15.43
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the implementation date as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ im-plờ-men-tây-shần đêit as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến ngày triển khai như một chi tiết quan trọng.",
+      "start": 15.59,
+      "end": 19.96
+    },
+    {
+      "index": 5,
+      "text": "Experts said the official guidance would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ ờ-fi-shồ gai-đầnss quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói hướng dẫn chính thức sẽ quan trọng trong vài tháng tới.",
+      "start": 20.12,
+      "end": 24.23
+    },
+    {
+      "index": 6,
+      "text": "The story helped me follow the change instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi pha-lâu đờ chênj in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi theo dõi thay đổi thay vì chỉ đọc tiêu đề.",
+      "start": 24.39,
+      "end": 29.54
+    }
+  ],
+  "audioMale1": "audio_male_1/098-new-policy.mp3",
+  "durationMale1": 35.67,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the new policy in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ niu po-lờ-si in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả chính sách mới bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.9
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the public feedback, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ pớ-blik phid-bak, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là feedback công chúng, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 6.06,
+      "end": 12.84
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the unclear rule because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ unklir rul bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về quy định chưa rõ vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 13,
+      "end": 18.93
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the implementation date as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ im-plờ-men-tây-shần đêit as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến ngày triển khai như một chi tiết quan trọng.",
+      "start": 19.09,
+      "end": 24.67
+    },
+    {
+      "index": 5,
+      "text": "Experts said the official guidance would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ ờ-fi-shồ gai-đầnss quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói hướng dẫn chính thức sẽ quan trọng trong vài tháng tới.",
+      "start": 24.83,
+      "end": 29.98
+    },
+    {
+      "index": 6,
+      "text": "The story helped me follow the change instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi pha-lâu đờ chênj in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi theo dõi thay đổi thay vì chỉ đọc tiêu đề.",
+      "start": 30.14,
+      "end": 35.59
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the new policy in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ niu po-lờ-si in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả chính sách mới bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 4.86
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the public feedback, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ pớ-blik phid-bak, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là feedback công chúng, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.02,
+      "end": 10.91
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the unclear rule because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ unklir rul bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về quy định chưa rõ vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.07,
+      "end": 16.2
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the implementation date as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ im-plờ-men-tây-shần đêit as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến ngày triển khai như một chi tiết quan trọng.",
+      "start": 16.36,
+      "end": 21.16
+    },
+    {
+      "index": 5,
+      "text": "Experts said the official guidance would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ ờ-fi-shồ gai-đầnss quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói hướng dẫn chính thức sẽ quan trọng trong vài tháng tới.",
+      "start": 21.32,
+      "end": 25.84
+    },
+    {
+      "index": 6,
+      "text": "The story helped me follow the change instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi pha-lâu đờ chênj in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi theo dõi thay đổi thay vì chỉ đọc tiêu đề.",
+      "start": 26,
+      "end": 30.63
+    }
+  ]
+}

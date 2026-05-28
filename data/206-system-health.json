@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "206-system-health",
+  "title": "Story 206 - Theo dõi system health",
+  "story": "stories/206-system-health.md",
+  "audio": "audio/206-system-health.mp3",
+  "duration": 33.22,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/206-system-health.mp3",
+  "durationMale": 35.01,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the system health before I made a final choice.",
+      "pronunciation": "ai chékt đờ sis-tầm helth bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra sức khỏe hệ thống trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.45
+    },
+    {
+      "index": 2,
+      "text": "One slow response made the situation less simple than it looked.",
+      "pronunciation": "quăn slâu ri-spons mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phản hồi chậm làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.61,
+      "end": 9.74
+    },
+    {
+      "index": 3,
+      "text": "I decided to monitor the dashboard before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu monitor đờ đash-bo(r)d bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi dashboard trước khi tiếp tục.",
+      "start": 9.9,
+      "end": 14.01
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short health note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt helth note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú health ngắn để người kia hiểu tôi.",
+      "start": 14.17,
+      "end": 18.84
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the error rate instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ e-rờ rêit in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra tỷ lệ lỗi thay vì đoán.",
+      "start": 19,
+      "end": 24.96
+    },
+    {
+      "index": 6,
+      "text": "That helped me catch problems early without adding extra stress.",
+      "pronunciation": "đat heo mi kétch problems irli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bắt vấn đề sớm mà không thêm căng thẳng.",
+      "start": 25.12,
+      "end": 29.37
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 29.53,
+      "end": 34.93
+    }
+  ],
+  "audioMale1": "audio_male_1/206-system-health.mp3",
+  "durationMale1": 35.73,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the system health before I made a final choice.",
+      "pronunciation": "ai chékt đờ sis-tầm helth bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra sức khỏe hệ thống trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.72
+    },
+    {
+      "index": 2,
+      "text": "One slow response made the situation less simple than it looked.",
+      "pronunciation": "quăn slâu ri-spons mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phản hồi chậm làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.88,
+      "end": 11.13
+    },
+    {
+      "index": 3,
+      "text": "I decided to monitor the dashboard before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu monitor đờ đash-bo(r)d bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi dashboard trước khi tiếp tục.",
+      "start": 11.29,
+      "end": 13.93
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short health note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt helth note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú health ngắn để người kia hiểu tôi.",
+      "start": 14.09,
+      "end": 20.66
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the error rate instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ e-rờ rêit in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra tỷ lệ lỗi thay vì đoán.",
+      "start": 20.82,
+      "end": 24.87
+    },
+    {
+      "index": 6,
+      "text": "That helped me catch problems early without adding extra stress.",
+      "pronunciation": "đat heo mi kétch problems irli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bắt vấn đề sớm mà không thêm căng thẳng.",
+      "start": 25.03,
+      "end": 29.91
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.07,
+      "end": 35.65
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the system health before I made a final choice.",
+      "pronunciation": "ai chékt đờ sis-tầm helth bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra sức khỏe hệ thống trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.86
+    },
+    {
+      "index": 2,
+      "text": "One slow response made the situation less simple than it looked.",
+      "pronunciation": "quăn slâu ri-spons mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phản hồi chậm làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.02,
+      "end": 9.51
+    },
+    {
+      "index": 3,
+      "text": "I decided to monitor the dashboard before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu monitor đờ đash-bo(r)d bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi dashboard trước khi tiếp tục.",
+      "start": 9.67,
+      "end": 14.04
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short health note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt helth note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú health ngắn để người kia hiểu tôi.",
+      "start": 14.2,
+      "end": 19.16
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the error rate instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ e-rờ rêit in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra tỷ lệ lỗi thay vì đoán.",
+      "start": 19.32,
+      "end": 23.37
+    },
+    {
+      "index": 6,
+      "text": "That helped me catch problems early without adding extra stress.",
+      "pronunciation": "đat heo mi kétch problems irli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bắt vấn đề sớm mà không thêm căng thẳng.",
+      "start": 23.53,
+      "end": 28.26
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.42,
+      "end": 33.14
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "089-final-decision",
+  "title": "Story 089 - Chốt final decision",
+  "story": "stories/089-final-decision.md",
+  "audio": "audio/089-final-decision.mp3",
+  "duration": 31.82,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/089-final-decision.mp3",
+  "durationMale": 33.38,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the final decision in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ phai-nồ desizhần in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả quyết định cuối bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.01
+    },
+    {
+      "index": 2,
+      "text": "I asked about the chosen option before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ khosen áp-shần bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về lựa chọn đã chọn trước khi đề xuất bất cứ điều gì.",
+      "start": 5.17,
+      "end": 9.01
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the open risk, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ âu-pần rít-sờk, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là rủi ro còn mở, không chỉ là yêu cầu đầu tiên.",
+      "start": 9.17,
+      "end": 14.19
+    },
+    {
+      "index": 4,
+      "text": "We agreed to send the confirmation and check it with one example.",
+      "pronunciation": "quy ờ-grid tu send đờ konfirmashần en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất gửi xác nhận và kiểm tra bằng một ví dụ.",
+      "start": 14.35,
+      "end": 18.88
+    },
+    {
+      "index": 5,
+      "text": "I wrote the decision record so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ desizhần re-kờrd sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết bản ghi quyết định để mọi người có thể xem cùng một quyết định.",
+      "start": 19.04,
+      "end": 23.65
+    },
+    {
+      "index": 6,
+      "text": "That helped us move ahead with confidence without adding extra work.",
+      "pronunciation": "đat heo ớs muv ờ-hed quít kón-phờ-đầnss quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi đi tiếp tự tin hơn mà không thêm việc dư.",
+      "start": 23.81,
+      "end": 27.78
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 27.94,
+      "end": 33.3
+    }
+  ],
+  "audioMale1": "audio_male_1/089-final-decision.mp3",
+  "durationMale1": 36.9,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the final decision in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ phai-nồ desizhần in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả quyết định cuối bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 6.12
+    },
+    {
+      "index": 2,
+      "text": "I asked about the chosen option before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ khosen áp-shần bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về lựa chọn đã chọn trước khi đề xuất bất cứ điều gì.",
+      "start": 6.28,
+      "end": 8.65
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the open risk, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ âu-pần rít-sờk, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là rủi ro còn mở, không chỉ là yêu cầu đầu tiên.",
+      "start": 8.81,
+      "end": 14.25
+    },
+    {
+      "index": 4,
+      "text": "We agreed to send the confirmation and check it with one example.",
+      "pronunciation": "quy ờ-grid tu send đờ konfirmashần en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất gửi xác nhận và kiểm tra bằng một ví dụ.",
+      "start": 14.41,
+      "end": 19.41
+    },
+    {
+      "index": 5,
+      "text": "I wrote the decision record so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ desizhần re-kờrd sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết bản ghi quyết định để mọi người có thể xem cùng một quyết định.",
+      "start": 19.57,
+      "end": 24.28
+    },
+    {
+      "index": 6,
+      "text": "That helped us move ahead with confidence without adding extra work.",
+      "pronunciation": "đat heo ớs muv ờ-hed quít kón-phờ-đầnss quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi đi tiếp tự tin hơn mà không thêm việc dư.",
+      "start": 24.44,
+      "end": 29.83
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 29.99,
+      "end": 36.82
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the final decision in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ phai-nồ desizhần in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả quyết định cuối bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 4.94
+    },
+    {
+      "index": 2,
+      "text": "I asked about the chosen option before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ khosen áp-shần bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về lựa chọn đã chọn trước khi đề xuất bất cứ điều gì.",
+      "start": 5.1,
+      "end": 8.87
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the open risk, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ âu-pần rít-sờk, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là rủi ro còn mở, không chỉ là yêu cầu đầu tiên.",
+      "start": 9.03,
+      "end": 13.79
+    },
+    {
+      "index": 4,
+      "text": "We agreed to send the confirmation and check it with one example.",
+      "pronunciation": "quy ờ-grid tu send đờ konfirmashần en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất gửi xác nhận và kiểm tra bằng một ví dụ.",
+      "start": 13.95,
+      "end": 17.8
+    },
+    {
+      "index": 5,
+      "text": "I wrote the decision record so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ desizhần re-kờrd sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết bản ghi quyết định để mọi người có thể xem cùng một quyết định.",
+      "start": 17.96,
+      "end": 22.63
+    },
+    {
+      "index": 6,
+      "text": "That helped us move ahead with confidence without adding extra work.",
+      "pronunciation": "đat heo ớs muv ờ-hed quít kón-phờ-đầnss quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi đi tiếp tự tin hơn mà không thêm việc dư.",
+      "start": 22.79,
+      "end": 26.74
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 26.9,
+      "end": 31.74
+    }
+  ]
+}

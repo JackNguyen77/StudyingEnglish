@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "120-future-plan",
+  "title": "Story 120 - Nhìn kế hoạch tương lai",
+  "story": "stories/120-future-plan.md",
+  "audio": "audio/120-future-plan.mp3",
+  "duration": 30.84,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/120-future-plan.mp3",
+  "durationMale": 31.99,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the future plan in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ phiu-chờ plen in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả kế hoạch tương lai bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.32
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the long-term goal, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ long tờm gâu, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là mục tiêu dài hạn, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.48,
+      "end": 11.73
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the key challenge because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ ki cha-lầnj bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về thách thức chính vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.89,
+      "end": 17.29
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the action roadmap as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ ác-shần râu-map as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến roadmap hành động như một chi tiết quan trọng.",
+      "start": 17.45,
+      "end": 20.48
+    },
+    {
+      "index": 5,
+      "text": "Experts said the progress check would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ pró-gres chék quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói kiểm tra tiến độ sẽ quan trọng trong vài tháng tới.",
+      "start": 20.64,
+      "end": 26.58
+    },
+    {
+      "index": 6,
+      "text": "The story helped me prepare for what comes next instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi pri-pea fo quát kămz nekst in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi chuẩn bị cho điều tiếp theo thay vì chỉ đọc tiêu đề.",
+      "start": 26.74,
+      "end": 31.91
+    }
+  ],
+  "audioMale1": "audio_male_1/120-future-plan.mp3",
+  "durationMale1": 34.05,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the future plan in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ phiu-chờ plen in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả kế hoạch tương lai bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.72
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the long-term goal, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ long tờm gâu, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là mục tiêu dài hạn, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.88,
+      "end": 12.32
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the key challenge because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ ki cha-lầnj bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về thách thức chính vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12.48,
+      "end": 18.14
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the action roadmap as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ ác-shần râu-map as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến roadmap hành động như một chi tiết quan trọng.",
+      "start": 18.3,
+      "end": 23.26
+    },
+    {
+      "index": 5,
+      "text": "Experts said the progress check would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ pró-gres chék quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói kiểm tra tiến độ sẽ quan trọng trong vài tháng tới.",
+      "start": 23.42,
+      "end": 28.04
+    },
+    {
+      "index": 6,
+      "text": "The story helped me prepare for what comes next instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi pri-pea fo quát kămz nekst in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi chuẩn bị cho điều tiếp theo thay vì chỉ đọc tiêu đề.",
+      "start": 28.2,
+      "end": 33.97
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the future plan in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ phiu-chờ plen in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả kế hoạch tương lai bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.26
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the long-term goal, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ long tờm gâu, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là mục tiêu dài hạn, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.42,
+      "end": 11.15
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the key challenge because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ ki cha-lầnj bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về thách thức chính vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.31,
+      "end": 16.34
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the action roadmap as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ ác-shần râu-map as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến roadmap hành động như một chi tiết quan trọng.",
+      "start": 16.5,
+      "end": 20.88
+    },
+    {
+      "index": 5,
+      "text": "Experts said the progress check would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ pró-gres chék quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói kiểm tra tiến độ sẽ quan trọng trong vài tháng tới.",
+      "start": 21.04,
+      "end": 25.03
+    },
+    {
+      "index": 6,
+      "text": "The story helped me prepare for what comes next instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi pri-pea fo quát kămz nekst in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi chuẩn bị cho điều tiếp theo thay vì chỉ đọc tiêu đề.",
+      "start": 25.19,
+      "end": 30.76
+    }
+  ]
+}

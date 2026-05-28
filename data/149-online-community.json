@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "149-online-community",
+  "title": "Story 149 - Tham gia cộng đồng online",
+  "story": "stories/149-online-community.md",
+  "audio": "audio/149-online-community.mp3",
+  "duration": 37.55,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/149-online-community.mp3",
+  "durationMale": 32.17,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I wrote a community post after I solved the same issue twice.",
+      "pronunciation": "ai râu ờ kờ-myu-nờ-ti poust áp-tờ ai solvt đờ sêim í-shu twai.",
+      "vi": "Tôi viết bài đăng cộng đồng sau khi xử lý cùng vấn đề hai lần.",
+      "start": 0.02,
+      "end": 5.25
+    },
+    {
+      "index": 2,
+      "text": "A helpful reply from another user gave me a simpler idea.",
+      "pronunciation": "ờ heo-phồ ri-plai phrom ờ-nớ-đờ yu-zờ gêiv mi ờ sim-plờr idi.",
+      "vi": "Một phản hồi hữu ích từ người dùng khác cho tôi ý tưởng đơn giản hơn.",
+      "start": 5.41,
+      "end": 9.93
+    },
+    {
+      "index": 3,
+      "text": "I had to report a comment because it included a fake link.",
+      "pronunciation": "ai had tu ri-po(r)t ờ ko-ment bi-kóz ịt inkludt ờ phêik lingk.",
+      "vi": "Tôi phải báo cáo bình luận vì nó chứa link giả.",
+      "start": 10.09,
+      "end": 14.24
+    },
+    {
+      "index": 4,
+      "text": "I followed the thread to see whether the solution worked for others.",
+      "pronunciation": "ai pha-lâud đờ thrid tu si que-thờr đờ sờ-lu-shần quớrkt fo others.",
+      "vi": "Tôi theo dõi luồng thảo luận để xem giải pháp có hiệu quả với người khác không.",
+      "start": 14.4,
+      "end": 18.29
+    },
+    {
+      "index": 5,
+      "text": "When I understood the fix, I shared a tip in plain language.",
+      "pronunciation": "quen ai ăn-đờ-stud đờ fiks, ai she(r)d ờ tip in plâyn leng-gwịj.",
+      "vi": "Khi hiểu cách sửa, tôi chia sẻ mẹo bằng ngôn ngữ dễ hiểu.",
+      "start": 18.45,
+      "end": 22.79
+    },
+    {
+      "index": 6,
+      "text": "I tried to avoid arguments and focus on the useful part.",
+      "pronunciation": "ai traid tu ờ-void ar-gyu-mầnts en phâu-kớt on đờ yus-phồ paart.",
+      "vi": "Tôi cố tránh tranh cãi và tập trung vào phần hữu ích.",
+      "start": 22.95,
+      "end": 27.19
+    },
+    {
+      "index": 7,
+      "text": "That careful reply made the community feel useful instead of noisy.",
+      "pronunciation": "đat kareful ri-plai mêid đờ kommuniti phiu yus-phồ in-sted ờv noisi.",
+      "vi": "Phản hồi cẩn thận đó làm cộng đồng hữu ích hơn thay vì ồn ào.",
+      "start": 27.35,
+      "end": 32.09
+    }
+  ],
+  "audioMale1": "audio_male_1/149-online-community.mp3",
+  "durationMale1": 34.49,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I wrote a community post after I solved the same issue twice.",
+      "pronunciation": "ai râu ờ kờ-myu-nờ-ti poust áp-tờ ai solvt đờ sêim í-shu twai.",
+      "vi": "Tôi viết bài đăng cộng đồng sau khi xử lý cùng vấn đề hai lần.",
+      "start": 0.02,
+      "end": 4.85
+    },
+    {
+      "index": 2,
+      "text": "A helpful reply from another user gave me a simpler idea.",
+      "pronunciation": "ờ heo-phồ ri-plai phrom ờ-nớ-đờ yu-zờ gêiv mi ờ sim-plờr idi.",
+      "vi": "Một phản hồi hữu ích từ người dùng khác cho tôi ý tưởng đơn giản hơn.",
+      "start": 5.01,
+      "end": 9.79
+    },
+    {
+      "index": 3,
+      "text": "I had to report a comment because it included a fake link.",
+      "pronunciation": "ai had tu ri-po(r)t ờ ko-ment bi-kóz ịt inkludt ờ phêik lingk.",
+      "vi": "Tôi phải báo cáo bình luận vì nó chứa link giả.",
+      "start": 9.95,
+      "end": 13.96
+    },
+    {
+      "index": 4,
+      "text": "I followed the thread to see whether the solution worked for others.",
+      "pronunciation": "ai pha-lâud đờ thrid tu si que-thờr đờ sờ-lu-shần quớrkt fo others.",
+      "vi": "Tôi theo dõi luồng thảo luận để xem giải pháp có hiệu quả với người khác không.",
+      "start": 14.12,
+      "end": 18.8
+    },
+    {
+      "index": 5,
+      "text": "When I understood the fix, I shared a tip in plain language.",
+      "pronunciation": "quen ai ăn-đờ-stud đờ fiks, ai she(r)d ờ tip in plâyn leng-gwịj.",
+      "vi": "Khi hiểu cách sửa, tôi chia sẻ mẹo bằng ngôn ngữ dễ hiểu.",
+      "start": 18.96,
+      "end": 23.79
+    },
+    {
+      "index": 6,
+      "text": "I tried to avoid arguments and focus on the useful part.",
+      "pronunciation": "ai traid tu ờ-void ar-gyu-mầnts en phâu-kớt on đờ yus-phồ paart.",
+      "vi": "Tôi cố tránh tranh cãi và tập trung vào phần hữu ích.",
+      "start": 23.95,
+      "end": 29.3
+    },
+    {
+      "index": 7,
+      "text": "That careful reply made the community feel useful instead of noisy.",
+      "pronunciation": "đat kareful ri-plai mêid đờ kommuniti phiu yus-phồ in-sted ờv noisi.",
+      "vi": "Phản hồi cẩn thận đó làm cộng đồng hữu ích hơn thay vì ồn ào.",
+      "start": 29.46,
+      "end": 34.41
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I wrote a community post after I solved the same issue twice.",
+      "pronunciation": "ai râu ờ kờ-myu-nờ-ti poust áp-tờ ai solvt đờ sêim í-shu twai.",
+      "vi": "Tôi viết bài đăng cộng đồng sau khi xử lý cùng vấn đề hai lần.",
+      "start": 0,
+      "end": 5.11
+    },
+    {
+      "index": 2,
+      "text": "A helpful reply from another user gave me a simpler idea.",
+      "pronunciation": "ờ heo-phồ ri-plai phrom ờ-nớ-đờ yu-zờ gêiv mi ờ sim-plờr idi.",
+      "vi": "Một phản hồi hữu ích từ người dùng khác cho tôi ý tưởng đơn giản hơn.",
+      "start": 5.22,
+      "end": 10.78
+    },
+    {
+      "index": 3,
+      "text": "I had to report a comment because it included a fake link.",
+      "pronunciation": "ai had tu ri-po(r)t ờ ko-ment bi-kóz ịt inkludt ờ phêik lingk.",
+      "vi": "Tôi phải báo cáo bình luận vì nó chứa link giả.",
+      "start": 10.89,
+      "end": 15.84
+    },
+    {
+      "index": 4,
+      "text": "I followed the thread to see whether the solution worked for others.",
+      "pronunciation": "ai pha-lâud đờ thrid tu si que-thờr đờ sờ-lu-shần quớrkt fo others.",
+      "vi": "Tôi theo dõi luồng thảo luận để xem giải pháp có hiệu quả với người khác không.",
+      "start": 15.95,
+      "end": 20.89
+    },
+    {
+      "index": 5,
+      "text": "When I understood the fix, I shared a tip in plain language.",
+      "pronunciation": "quen ai ăn-đờ-stud đờ fiks, ai she(r)d ờ tip in plâyn leng-gwịj.",
+      "vi": "Khi hiểu cách sửa, tôi chia sẻ mẹo bằng ngôn ngữ dễ hiểu.",
+      "start": 21,
+      "end": 26.3
+    },
+    {
+      "index": 6,
+      "text": "I tried to avoid arguments and focus on the useful part.",
+      "pronunciation": "ai traid tu ờ-void ar-gyu-mầnts en phâu-kớt on đờ yus-phồ paart.",
+      "vi": "Tôi cố tránh tranh cãi và tập trung vào phần hữu ích.",
+      "start": 26.41,
+      "end": 31.65
+    },
+    {
+      "index": 7,
+      "text": "That careful reply made the community feel useful instead of noisy.",
+      "pronunciation": "đat kareful ri-plai mêid đờ kommuniti phiu yus-phồ in-sted ờv noisi.",
+      "vi": "Phản hồi cẩn thận đó làm cộng đồng hữu ích hơn thay vì ồn ào.",
+      "start": 31.76,
+      "end": 37.55
+    }
+  ]
+}

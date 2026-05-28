@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "146-travel-app",
+  "title": "Story 146 - Dùng app khi đi máy bay",
+  "story": "stories/146-travel-app.md",
+  "audio": "audio/146-travel-app.mp3",
+  "duration": 39.01,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/146-travel-app.mp3",
+  "durationMale": 29.88,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I saved the boarding pass in my phone before leaving for the airport.",
+      "pronunciation": "ai sêivd đờ bo(r)-ding pas in mai phôn bi-fo li-ving fo đờ e(r)-po(r)t.",
+      "vi": "Tôi lưu thẻ lên máy bay trong điện thoại trước khi ra sân bay.",
+      "start": 0.02,
+      "end": 4.69
+    },
+    {
+      "index": 2,
+      "text": "Mobile check-in saved time because the line was very long.",
+      "pronunciation": "mô-bồ chék-in sêivd taim bi-kóz đờ lain wờz veri long.",
+      "vi": "Check-in trên điện thoại tiết kiệm thời gian vì hàng rất dài.",
+      "start": 4.85,
+      "end": 9.4
+    },
+    {
+      "index": 3,
+      "text": "A gate change appeared while I was buying coffee.",
+      "pronunciation": "ờ gêit chênj ờ-piờrd quai ai wờz bai-ing ko-fi.",
+      "vi": "Một thông báo đổi cổng hiện ra khi tôi đang mua cà phê.",
+      "start": 9.56,
+      "end": 12.72
+    },
+    {
+      "index": 4,
+      "text": "The travel alert told me to walk to the other side of the terminal.",
+      "pronunciation": "đờ tra-vồ ờ-lơrt tâu mi tu walk tu đờ other said ờv đờ tơr-mờ-nồ.",
+      "vi": "Cảnh báo chuyến đi bảo tôi đi sang phía bên kia nhà ga.",
+      "start": 12.88,
+      "end": 17.01
+    },
+    {
+      "index": 5,
+      "text": "I used offline mode because the airport Wi-Fi was weak.",
+      "pronunciation": "ai yuzd of-lain mâu bi-kóz đờ e(r)-po(r)t quai-phai wờz wik.",
+      "vi": "Tôi dùng chế độ offline vì Wi-Fi sân bay yếu.",
+      "start": 17.17,
+      "end": 21.59
+    },
+    {
+      "index": 6,
+      "text": "At the gate, I scanned the code and walked through quickly.",
+      "pronunciation": "at đờ gêit, ai skannt đờ kode en quókt thru quík-li.",
+      "vi": "Ở cổng, tôi quét mã và đi qua nhanh.",
+      "start": 21.75,
+      "end": 25.32
+    },
+    {
+      "index": 7,
+      "text": "That quick check made the trip feel smoother and less stressful.",
+      "pronunciation": "đat quík chék mêid đờ trip phiu smu-đờr en les stres-phồ.",
+      "vi": "Lần kiểm tra nhanh đó làm chuyến đi mượt hơn và bớt căng thẳng.",
+      "start": 25.48,
+      "end": 29.8
+    }
+  ],
+  "audioMale1": "audio_male_1/146-travel-app.mp3",
+  "durationMale1": 34.45,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I saved the boarding pass in my phone before leaving for the airport.",
+      "pronunciation": "ai sêivd đờ bo(r)-ding pas in mai phôn bi-fo li-ving fo đờ e(r)-po(r)t.",
+      "vi": "Tôi lưu thẻ lên máy bay trong điện thoại trước khi ra sân bay.",
+      "start": 0.02,
+      "end": 5.46
+    },
+    {
+      "index": 2,
+      "text": "Mobile check-in saved time because the line was very long.",
+      "pronunciation": "mô-bồ chék-in sêivd taim bi-kóz đờ lain wờz veri long.",
+      "vi": "Check-in trên điện thoại tiết kiệm thời gian vì hàng rất dài.",
+      "start": 5.62,
+      "end": 10.85
+    },
+    {
+      "index": 3,
+      "text": "A gate change appeared while I was buying coffee.",
+      "pronunciation": "ờ gêit chênj ờ-piờrd quai ai wờz bai-ing ko-fi.",
+      "vi": "Một thông báo đổi cổng hiện ra khi tôi đang mua cà phê.",
+      "start": 11.01,
+      "end": 14.92
+    },
+    {
+      "index": 4,
+      "text": "The travel alert told me to walk to the other side of the terminal.",
+      "pronunciation": "đờ tra-vồ ờ-lơrt tâu mi tu walk tu đờ other said ờv đờ tơr-mờ-nồ.",
+      "vi": "Cảnh báo chuyến đi bảo tôi đi sang phía bên kia nhà ga.",
+      "start": 15.08,
+      "end": 19.44
+    },
+    {
+      "index": 5,
+      "text": "I used offline mode because the airport Wi-Fi was weak.",
+      "pronunciation": "ai yuzd of-lain mâu bi-kóz đờ e(r)-po(r)t quai-phai wờz wik.",
+      "vi": "Tôi dùng chế độ offline vì Wi-Fi sân bay yếu.",
+      "start": 19.6,
+      "end": 24.49
+    },
+    {
+      "index": 6,
+      "text": "At the gate, I scanned the code and walked through quickly.",
+      "pronunciation": "at đờ gêit, ai skannt đờ kode en quókt thru quík-li.",
+      "vi": "Ở cổng, tôi quét mã và đi qua nhanh.",
+      "start": 24.65,
+      "end": 29.6
+    },
+    {
+      "index": 7,
+      "text": "That quick check made the trip feel smoother and less stressful.",
+      "pronunciation": "đat quík chék mêid đờ trip phiu smu-đờr en les stres-phồ.",
+      "vi": "Lần kiểm tra nhanh đó làm chuyến đi mượt hơn và bớt căng thẳng.",
+      "start": 29.76,
+      "end": 34.37
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I saved the boarding pass in my phone before leaving for the airport.",
+      "pronunciation": "ai sêivd đờ bo(r)-ding pas in mai phôn bi-fo li-ving fo đờ e(r)-po(r)t.",
+      "vi": "Tôi lưu thẻ lên máy bay trong điện thoại trước khi ra sân bay.",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "index": 2,
+      "text": "Mobile check-in saved time because the line was very long.",
+      "pronunciation": "mô-bồ chék-in sêivd taim bi-kóz đờ lain wờz veri long.",
+      "vi": "Check-in trên điện thoại tiết kiệm thời gian vì hàng rất dài.",
+      "start": 6.11,
+      "end": 11.71
+    },
+    {
+      "index": 3,
+      "text": "A gate change appeared while I was buying coffee.",
+      "pronunciation": "ờ gêit chênj ờ-piờrd quai ai wờz bai-ing ko-fi.",
+      "vi": "Một thông báo đổi cổng hiện ra khi tôi đang mua cà phê.",
+      "start": 11.82,
+      "end": 17
+    },
+    {
+      "index": 4,
+      "text": "The travel alert told me to walk to the other side of the terminal.",
+      "pronunciation": "đờ tra-vồ ờ-lơrt tâu mi tu walk tu đờ other said ờv đờ tơr-mờ-nồ.",
+      "vi": "Cảnh báo chuyến đi bảo tôi đi sang phía bên kia nhà ga.",
+      "start": 17.11,
+      "end": 22.06
+    },
+    {
+      "index": 5,
+      "text": "I used offline mode because the airport Wi-Fi was weak.",
+      "pronunciation": "ai yuzd of-lain mâu bi-kóz đờ e(r)-po(r)t quai-phai wờz wik.",
+      "vi": "Tôi dùng chế độ offline vì Wi-Fi sân bay yếu.",
+      "start": 22.17,
+      "end": 28.35
+    },
+    {
+      "index": 6,
+      "text": "At the gate, I scanned the code and walked through quickly.",
+      "pronunciation": "at đờ gêit, ai skannt đờ kode en quókt thru quík-li.",
+      "vi": "Ở cổng, tôi quét mã và đi qua nhanh.",
+      "start": 28.46,
+      "end": 34.12
+    },
+    {
+      "index": 7,
+      "text": "That quick check made the trip feel smoother and less stressful.",
+      "pronunciation": "đat quík chék mêid đờ trip phiu smu-đờr en les stres-phồ.",
+      "vi": "Lần kiểm tra nhanh đó làm chuyến đi mượt hơn và bớt căng thẳng.",
+      "start": 34.23,
+      "end": 39.01
+    }
+  ]
+}

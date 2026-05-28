@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "022-try-a-new-app",
+  "title": "Story 022 - Thử một app mới",
+  "story": "stories/022-try-a-new-app.md",
+  "audio": "audio/022-try-a-new-app.mp3",
+  "duration": 22.55,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/022-try-a-new-app.mp3",
+  "durationMale": 25.83,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I downloaded a new app to track my habits.",
+      "pronunciation": "ai đao-lâu-địt ờ niu áp tu trék mai ha-bits.",
+      "vi": "Tôi tải một app mới để theo dõi thói quen.",
+      "start": 0.02,
+      "end": 3.84
+    },
+    {
+      "index": 2,
+      "text": "First, I had to sign up with my email.",
+      "pronunciation": "phớrst, ai had tu sai-nấp quít mai i-mêil.",
+      "vi": "Trước tiên, tôi phải đăng ký bằng email.",
+      "start": 4,
+      "end": 7.46
+    },
+    {
+      "index": 3,
+      "text": "Then I set up a simple profile and chose a daily goal.",
+      "pronunciation": "đen ai se-tấp ờ sim-pồ prâu-phai en chôz ờ đây-li gâu.",
+      "vi": "Rồi tôi thiết lập hồ sơ đơn giản và chọn mục tiêu hằng ngày.",
+      "start": 7.62,
+      "end": 12.58
+    },
+    {
+      "index": 4,
+      "text": "The app felt confusing at first, but I kept tapping around.",
+      "pronunciation": "đờ áp felt kờn-phiu-zing at phớrst, bớt ai képt táp-ping ờ-rao.",
+      "vi": "Ban đầu app hơi khó hiểu, nhưng tôi cứ bấm thử xung quanh.",
+      "start": 12.74,
+      "end": 15.47
+    },
+    {
+      "index": 5,
+      "text": "After a few minutes, I started to get the hang of it.",
+      "pronunciation": "áp-tờ ờ phiu mi-nits, ai star-tịt tu gét đờ heng ờ-vit.",
+      "vi": "Sau vài phút, tôi bắt đầu quen cách dùng.",
+      "start": 15.63,
+      "end": 21.54
+    },
+    {
+      "index": 6,
+      "text": "I turned on reminders so I would not forget to check in.",
+      "pronunciation": "ai tơnd on ri-main-dờrz sâu ai quud nót fo-get tu chék in.",
+      "vi": "Tôi bật nhắc nhở để không quên vào kiểm tra.",
+      "start": 21.7,
+      "end": 25.75
+    }
+  ],
+  "audioMale1": "audio_male_1/022-try-a-new-app.mp3",
+  "durationMale1": 26.39,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I downloaded a new app to track my habits.",
+      "pronunciation": "ai đao-lâu-địt ờ niu áp tu trék mai ha-bits.",
+      "vi": "Tôi tải một app mới để theo dõi thói quen.",
+      "start": 0.02,
+      "end": 4.11
+    },
+    {
+      "index": 2,
+      "text": "First, I had to sign up with my email.",
+      "pronunciation": "phớrst, ai had tu sai-nấp quít mai i-mêil.",
+      "vi": "Trước tiên, tôi phải đăng ký bằng email.",
+      "start": 4.27,
+      "end": 7.7
+    },
+    {
+      "index": 3,
+      "text": "Then I set up a simple profile and chose a daily goal.",
+      "pronunciation": "đen ai se-tấp ờ sim-pồ prâu-phai en chôz ờ đây-li gâu.",
+      "vi": "Rồi tôi thiết lập hồ sơ đơn giản và chọn mục tiêu hằng ngày.",
+      "start": 7.86,
+      "end": 13.06
+    },
+    {
+      "index": 4,
+      "text": "The app felt confusing at first, but I kept tapping around.",
+      "pronunciation": "đờ áp felt kờn-phiu-zing at phớrst, bớt ai képt táp-ping ờ-rao.",
+      "vi": "Ban đầu app hơi khó hiểu, nhưng tôi cứ bấm thử xung quanh.",
+      "start": 13.22,
+      "end": 16.59
+    },
+    {
+      "index": 5,
+      "text": "After a few minutes, I started to get the hang of it.",
+      "pronunciation": "áp-tờ ờ phiu mi-nits, ai star-tịt tu gét đờ heng ờ-vit.",
+      "vi": "Sau vài phút, tôi bắt đầu quen cách dùng.",
+      "start": 16.75,
+      "end": 21.72
+    },
+    {
+      "index": 6,
+      "text": "I turned on reminders so I would not forget to check in.",
+      "pronunciation": "ai tơnd on ri-main-dờrz sâu ai quud nót fo-get tu chék in.",
+      "vi": "Tôi bật nhắc nhở để không quên vào kiểm tra.",
+      "start": 21.88,
+      "end": 26.31
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I downloaded a new app to track my habits.",
+      "pronunciation": "ai đao-lâu-địt ờ niu áp tu trék mai ha-bits.",
+      "vi": "Tôi tải một app mới để theo dõi thói quen.",
+      "start": 0.02,
+      "end": 3.21
+    },
+    {
+      "index": 2,
+      "text": "First, I had to sign up with my email.",
+      "pronunciation": "phớrst, ai had tu sai-nấp quít mai i-mêil.",
+      "vi": "Trước tiên, tôi phải đăng ký bằng email.",
+      "start": 3.37,
+      "end": 6.26
+    },
+    {
+      "index": 3,
+      "text": "Then I set up a simple profile and chose a daily goal.",
+      "pronunciation": "đen ai se-tấp ờ sim-pồ prâu-phai en chôz ờ đây-li gâu.",
+      "vi": "Rồi tôi thiết lập hồ sơ đơn giản và chọn mục tiêu hằng ngày.",
+      "start": 6.42,
+      "end": 10.76
+    },
+    {
+      "index": 4,
+      "text": "The app felt confusing at first, but I kept tapping around.",
+      "pronunciation": "đờ áp felt kờn-phiu-zing at phớrst, bớt ai képt táp-ping ờ-rao.",
+      "vi": "Ban đầu app hơi khó hiểu, nhưng tôi cứ bấm thử xung quanh.",
+      "start": 10.92,
+      "end": 15.24
+    },
+    {
+      "index": 5,
+      "text": "After a few minutes, I started to get the hang of it.",
+      "pronunciation": "áp-tờ ờ phiu mi-nits, ai star-tịt tu gét đờ heng ờ-vit.",
+      "vi": "Sau vài phút, tôi bắt đầu quen cách dùng.",
+      "start": 15.4,
+      "end": 18.62
+    },
+    {
+      "index": 6,
+      "text": "I turned on reminders so I would not forget to check in.",
+      "pronunciation": "ai tơnd on ri-main-dờrz sâu ai quud nót fo-get tu chék in.",
+      "vi": "Tôi bật nhắc nhở để không quên vào kiểm tra.",
+      "start": 18.78,
+      "end": 22.47
+    }
+  ]
+}

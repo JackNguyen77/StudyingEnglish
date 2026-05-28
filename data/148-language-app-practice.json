@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "148-language-app-practice",
+  "title": "Story 148 - Luyện trong app học tiếng Anh",
+  "story": "stories/148-language-app-practice.md",
+  "audio": "audio/148-language-app-practice.mp3",
+  "duration": 36.3,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/148-language-app-practice.mp3",
+  "durationMale": 29.51,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "My daily streak reminded me to open the language app.",
+      "pronunciation": "mai đây-li strik remindt mi tu âu-pần đờ leng-gwịj áp.",
+      "vi": "Chuỗi ngày học nhắc tôi mở app học tiếng Anh.",
+      "start": 0.02,
+      "end": 3.84
+    },
+    {
+      "index": 2,
+      "text": "I set a practice goal that felt small enough to finish.",
+      "pronunciation": "ai set ờ prék-tis gâu đat felt smol i-nớf tu phi-nish.",
+      "vi": "Tôi đặt mục tiêu luyện tập đủ nhỏ để hoàn thành.",
+      "start": 4,
+      "end": 7.56
+    },
+    {
+      "index": 3,
+      "text": "Pronunciation feedback showed which sentence I needed to repeat.",
+      "pronunciation": "prờ-năn-si-ây-shần phid-bak sâud quýtch sen-tầnss ai ni-địt tu repit.",
+      "vi": "Phản hồi phát âm cho thấy câu nào tôi cần lặp lại.",
+      "start": 7.72,
+      "end": 11.8
+    },
+    {
+      "index": 4,
+      "text": "I repeated the sentence until the rhythm felt smoother.",
+      "pronunciation": "ai ri-pi-tịt đờ sen-tầnss ăn-til đờ rhythm felt smu-đờr.",
+      "vi": "Tôi lặp lại câu cho đến khi nhịp nghe mượt hơn.",
+      "start": 11.96,
+      "end": 15.61
+    },
+    {
+      "index": 5,
+      "text": "At night, I reviewed mistakes instead of starting a new lesson.",
+      "pronunciation": "at nait, ai ri-viud mis-têiks in-sted ờv sta-ting ờ niu les-sần.",
+      "vi": "Buổi tối, tôi ôn lỗi sai thay vì bắt đầu bài mới.",
+      "start": 15.77,
+      "end": 20.57
+    },
+    {
+      "index": 6,
+      "text": "The small win helped me keep learning even on a busy day.",
+      "pronunciation": "đờ smol win heo mi kip lơ-ning i-vần on ờ bi-zi đây.",
+      "vi": "Thành công nhỏ giúp tôi tiếp tục học ngay cả ngày bận.",
+      "start": 20.73,
+      "end": 24.85
+    },
+    {
+      "index": 7,
+      "text": "That small practice loop made the lesson easier to remember the next day.",
+      "pronunciation": "đat smol praktise lup mêid đờ les-sần i-zi-ờ tu ri-mem-bờ đờ nekst đây.",
+      "vi": "Vòng luyện nhỏ đó làm bài học dễ nhớ hơn vào ngày hôm sau.",
+      "start": 25.01,
+      "end": 29.43
+    }
+  ],
+  "audioMale1": "audio_male_1/148-language-app-practice.mp3",
+  "durationMale1": 34.12,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "My daily streak reminded me to open the language app.",
+      "pronunciation": "mai đây-li strik remindt mi tu âu-pần đờ leng-gwịj áp.",
+      "vi": "Chuỗi ngày học nhắc tôi mở app học tiếng Anh.",
+      "start": 0.02,
+      "end": 4.5
+    },
+    {
+      "index": 2,
+      "text": "I set a practice goal that felt small enough to finish.",
+      "pronunciation": "ai set ờ prék-tis gâu đat felt smol i-nớf tu phi-nish.",
+      "vi": "Tôi đặt mục tiêu luyện tập đủ nhỏ để hoàn thành.",
+      "start": 4.66,
+      "end": 8.69
+    },
+    {
+      "index": 3,
+      "text": "Pronunciation feedback showed which sentence I needed to repeat.",
+      "pronunciation": "prờ-năn-si-ây-shần phid-bak sâud quýtch sen-tầnss ai ni-địt tu repit.",
+      "vi": "Phản hồi phát âm cho thấy câu nào tôi cần lặp lại.",
+      "start": 8.85,
+      "end": 13.71
+    },
+    {
+      "index": 4,
+      "text": "I repeated the sentence until the rhythm felt smoother.",
+      "pronunciation": "ai ri-pi-tịt đờ sen-tầnss ăn-til đờ rhythm felt smu-đờr.",
+      "vi": "Tôi lặp lại câu cho đến khi nhịp nghe mượt hơn.",
+      "start": 13.87,
+      "end": 17.88
+    },
+    {
+      "index": 5,
+      "text": "At night, I reviewed mistakes instead of starting a new lesson.",
+      "pronunciation": "at nait, ai ri-viud mis-têiks in-sted ờv sta-ting ờ niu les-sần.",
+      "vi": "Buổi tối, tôi ôn lỗi sai thay vì bắt đầu bài mới.",
+      "start": 18.04,
+      "end": 23.04
+    },
+    {
+      "index": 6,
+      "text": "The small win helped me keep learning even on a busy day.",
+      "pronunciation": "đờ smol win heo mi kip lơ-ning i-vần on ờ bi-zi đây.",
+      "vi": "Thành công nhỏ giúp tôi tiếp tục học ngay cả ngày bận.",
+      "start": 23.2,
+      "end": 27.88
+    },
+    {
+      "index": 7,
+      "text": "That small practice loop made the lesson easier to remember the next day.",
+      "pronunciation": "đat smol praktise lup mêid đờ les-sần i-zi-ờ tu ri-mem-bờ đờ nekst đây.",
+      "vi": "Vòng luyện nhỏ đó làm bài học dễ nhớ hơn vào ngày hôm sau.",
+      "start": 28.04,
+      "end": 34.04
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "My daily streak reminded me to open the language app.",
+      "pronunciation": "mai đây-li strik remindt mi tu âu-pần đờ leng-gwịj áp.",
+      "vi": "Chuỗi ngày học nhắc tôi mở app học tiếng Anh.",
+      "start": 0,
+      "end": 4.35
+    },
+    {
+      "index": 2,
+      "text": "I set a practice goal that felt small enough to finish.",
+      "pronunciation": "ai set ờ prék-tis gâu đat felt smol i-nớf tu phi-nish.",
+      "vi": "Tôi đặt mục tiêu luyện tập đủ nhỏ để hoàn thành.",
+      "start": 4.46,
+      "end": 9.35
+    },
+    {
+      "index": 3,
+      "text": "Pronunciation feedback showed which sentence I needed to repeat.",
+      "pronunciation": "prờ-năn-si-ây-shần phid-bak sâud quýtch sen-tầnss ai ni-địt tu repit.",
+      "vi": "Phản hồi phát âm cho thấy câu nào tôi cần lặp lại.",
+      "start": 9.46,
+      "end": 14.19
+    },
+    {
+      "index": 4,
+      "text": "I repeated the sentence until the rhythm felt smoother.",
+      "pronunciation": "ai ri-pi-tịt đờ sen-tầnss ăn-til đờ rhythm felt smu-đờr.",
+      "vi": "Tôi lặp lại câu cho đến khi nhịp nghe mượt hơn.",
+      "start": 14.3,
+      "end": 19.49
+    },
+    {
+      "index": 5,
+      "text": "At night, I reviewed mistakes instead of starting a new lesson.",
+      "pronunciation": "at nait, ai ri-viud mis-têiks in-sted ờv sta-ting ờ niu les-sần.",
+      "vi": "Buổi tối, tôi ôn lỗi sai thay vì bắt đầu bài mới.",
+      "start": 19.6,
+      "end": 24.83
+    },
+    {
+      "index": 6,
+      "text": "The small win helped me keep learning even on a busy day.",
+      "pronunciation": "đờ smol win heo mi kip lơ-ning i-vần on ờ bi-zi đây.",
+      "vi": "Thành công nhỏ giúp tôi tiếp tục học ngay cả ngày bận.",
+      "start": 24.94,
+      "end": 30.61
+    },
+    {
+      "index": 7,
+      "text": "That small practice loop made the lesson easier to remember the next day.",
+      "pronunciation": "đat smol praktise lup mêid đờ les-sần i-zi-ờ tu ri-mem-bờ đờ nekst đây.",
+      "vi": "Vòng luyện nhỏ đó làm bài học dễ nhớ hơn vào ngày hôm sau.",
+      "start": 30.72,
+      "end": 36.3
+    }
+  ]
+}

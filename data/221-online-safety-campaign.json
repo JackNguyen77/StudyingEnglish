@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "221-online-safety-campaign",
+  "title": "Story 221 - Nghe chiến dịch an toàn online",
+  "story": "stories/221-online-safety-campaign.md",
+  "audio": "audio/221-online-safety-campaign.mp3",
+  "duration": 35.16,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/221-online-safety-campaign.mp3",
+  "durationMale": 33.16,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the safety campaign before I made a final choice.",
+      "pronunciation": "ai chékt đờ safeti kampâygn bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra chiến dịch an toàn trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.56
+    },
+    {
+      "index": 2,
+      "text": "One fake account made the situation less simple than it looked.",
+      "pronunciation": "quăn phêik ờ-kao mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Tài khoản giả làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.72,
+      "end": 9.1
+    },
+    {
+      "index": 3,
+      "text": "I decided to report suspicious activity before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ri-po(r)t sờ-spi-shờs ak-ti-vờ-ti bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định báo cáo hoạt động đáng ngờ trước khi tiếp tục.",
+      "start": 9.26,
+      "end": 14
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short safety note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt safeti note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú an toàn ngắn để người kia hiểu tôi.",
+      "start": 14.16,
+      "end": 18.68
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check official guidance instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék ờ-fi-shồ gai-đầnss in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra hướng dẫn chính thức thay vì đoán.",
+      "start": 18.84,
+      "end": 22.79
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect online users without adding extra stress.",
+      "pronunciation": "đat heo mi protekt on-lain yu-zờrz quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bảo vệ người dùng online mà không thêm căng thẳng.",
+      "start": 22.95,
+      "end": 27.7
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.86,
+      "end": 33.08
+    }
+  ],
+  "audioMale1": "audio_male_1/221-online-safety-campaign.mp3",
+  "durationMale1": 36.9,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the safety campaign before I made a final choice.",
+      "pronunciation": "ai chékt đờ safeti kampâygn bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra chiến dịch an toàn trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.44
+    },
+    {
+      "index": 2,
+      "text": "One fake account made the situation less simple than it looked.",
+      "pronunciation": "quăn phêik ờ-kao mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Tài khoản giả làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.6,
+      "end": 10.76
+    },
+    {
+      "index": 3,
+      "text": "I decided to report suspicious activity before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ri-po(r)t sờ-spi-shờs ak-ti-vờ-ti bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định báo cáo hoạt động đáng ngờ trước khi tiếp tục.",
+      "start": 10.92,
+      "end": 14.35
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short safety note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt safeti note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú an toàn ngắn để người kia hiểu tôi.",
+      "start": 14.51,
+      "end": 21.32
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check official guidance instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék ờ-fi-shồ gai-đầnss in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra hướng dẫn chính thức thay vì đoán.",
+      "start": 21.48,
+      "end": 25.76
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect online users without adding extra stress.",
+      "pronunciation": "đat heo mi protekt on-lain yu-zờrz quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bảo vệ người dùng online mà không thêm căng thẳng.",
+      "start": 25.92,
+      "end": 30.92
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 31.08,
+      "end": 36.82
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the safety campaign before I made a final choice.",
+      "pronunciation": "ai chékt đờ safeti kampâygn bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra chiến dịch an toàn trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.2
+    },
+    {
+      "index": 2,
+      "text": "One fake account made the situation less simple than it looked.",
+      "pronunciation": "quăn phêik ờ-kao mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Tài khoản giả làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.36,
+      "end": 10.1
+    },
+    {
+      "index": 3,
+      "text": "I decided to report suspicious activity before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ri-po(r)t sờ-spi-shờs ak-ti-vờ-ti bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định báo cáo hoạt động đáng ngờ trước khi tiếp tục.",
+      "start": 10.26,
+      "end": 14.69
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short safety note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt safeti note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú an toàn ngắn để người kia hiểu tôi.",
+      "start": 14.85,
+      "end": 20.49
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check official guidance instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék ờ-fi-shồ gai-đầnss in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra hướng dẫn chính thức thay vì đoán.",
+      "start": 20.65,
+      "end": 24.82
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect online users without adding extra stress.",
+      "pronunciation": "đat heo mi protekt on-lain yu-zờrz quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bảo vệ người dùng online mà không thêm căng thẳng.",
+      "start": 24.98,
+      "end": 29.55
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 29.71,
+      "end": 35.08
+    }
+  ]
+}

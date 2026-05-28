@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "020-clear-inbox",
+  "title": "Story 020 - Dọn hộp thư",
+  "story": "stories/020-clear-inbox.md",
+  "audio": "audio/020-clear-inbox.mp3",
+  "duration": 22.34,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/020-clear-inbox.mp3",
+  "durationMale": 19.94,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "My inbox was full of unread messages.",
+      "pronunciation": "mai in-boks wờz phul ờv ăn-red mé-sijiz.",
+      "vi": "Hộp thư của tôi đầy tin chưa đọc.",
+      "start": 0.02,
+      "end": 3.04
+    },
+    {
+      "index": 2,
+      "text": "I set aside ten minutes to clear it out.",
+      "pronunciation": "ai se-rờ-sai ten mi-nits tu kliờ ịt ao.",
+      "vi": "Tôi dành ra mười phút để dọn nó.",
+      "start": 3.2,
+      "end": 5.86
+    },
+    {
+      "index": 3,
+      "text": "First, I replied to the important emails.",
+      "pronunciation": "phớrst, ai ri-plaid tu đờ im-po-tần i-mêilz.",
+      "vi": "Trước tiên, tôi trả lời những email quan trọng.",
+      "start": 6.02,
+      "end": 9.1
+    },
+    {
+      "index": 4,
+      "text": "Then I deleted old promotions that I did not need.",
+      "pronunciation": "đen ai đi-li-tịt âu prờ-mâu-shầnz đat ai đi nót nid.",
+      "vi": "Rồi tôi xóa quảng cáo cũ mà tôi không cần.",
+      "start": 9.26,
+      "end": 12.66
+    },
+    {
+      "index": 5,
+      "text": "It felt good to deal with the mess instead of ignoring it.",
+      "pronunciation": "ịt felt gut tu điêu quít đờ mes in-sted ờv ig-no-ring ịt.",
+      "vi": "Tôi thấy nhẹ người khi xử lý mớ lộn xộn thay vì lờ nó đi.",
+      "start": 12.82,
+      "end": 16.45
+    },
+    {
+      "index": 6,
+      "text": "Now it is easier to stay on top of new messages.",
+      "pronunciation": "nao ịt iz i-zi-ờ tu stây on tóp-pờv niu mé-sijiz.",
+      "vi": "Giờ thì dễ theo dõi tin nhắn mới hơn.",
+      "start": 16.61,
+      "end": 19.86
+    }
+  ],
+  "audioMale1": "audio_male_1/020-clear-inbox.mp3",
+  "durationMale1": 23.78,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "My inbox was full of unread messages.",
+      "pronunciation": "mai in-boks wờz phul ờv ăn-red mé-sijiz.",
+      "vi": "Hộp thư của tôi đầy tin chưa đọc.",
+      "start": 0.02,
+      "end": 3.72
+    },
+    {
+      "index": 2,
+      "text": "I set aside ten minutes to clear it out.",
+      "pronunciation": "ai se-rờ-sai ten mi-nits tu kliờ ịt ao.",
+      "vi": "Tôi dành ra mười phút để dọn nó.",
+      "start": 3.88,
+      "end": 6.88
+    },
+    {
+      "index": 3,
+      "text": "First, I replied to the important emails.",
+      "pronunciation": "phớrst, ai ri-plaid tu đờ im-po-tần i-mêilz.",
+      "vi": "Trước tiên, tôi trả lời những email quan trọng.",
+      "start": 7.04,
+      "end": 10.45
+    },
+    {
+      "index": 4,
+      "text": "Then I deleted old promotions that I did not need.",
+      "pronunciation": "đen ai đi-li-tịt âu prờ-mâu-shầnz đat ai đi nót nid.",
+      "vi": "Rồi tôi xóa quảng cáo cũ mà tôi không cần.",
+      "start": 10.61,
+      "end": 14.42
+    },
+    {
+      "index": 5,
+      "text": "It felt good to deal with the mess instead of ignoring it.",
+      "pronunciation": "ịt felt gut tu điêu quít đờ mes in-sted ờv ig-no-ring ịt.",
+      "vi": "Tôi thấy nhẹ người khi xử lý mớ lộn xộn thay vì lờ nó đi.",
+      "start": 14.58,
+      "end": 19.07
+    },
+    {
+      "index": 6,
+      "text": "Now it is easier to stay on top of new messages.",
+      "pronunciation": "nao ịt iz i-zi-ờ tu stây on tóp-pờv niu mé-sijiz.",
+      "vi": "Giờ thì dễ theo dõi tin nhắn mới hơn.",
+      "start": 19.23,
+      "end": 23.7
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "My inbox was full of unread messages.",
+      "pronunciation": "mai in-boks wờz phul ờv ăn-red mé-sijiz.",
+      "vi": "Hộp thư của tôi đầy tin chưa đọc.",
+      "start": 0.02,
+      "end": 3.33
+    },
+    {
+      "index": 2,
+      "text": "I set aside ten minutes to clear it out.",
+      "pronunciation": "ai se-rờ-sai ten mi-nits tu kliờ ịt ao.",
+      "vi": "Tôi dành ra mười phút để dọn nó.",
+      "start": 3.49,
+      "end": 6.42
+    },
+    {
+      "index": 3,
+      "text": "First, I replied to the important emails.",
+      "pronunciation": "phớrst, ai ri-plaid tu đờ im-po-tần i-mêilz.",
+      "vi": "Trước tiên, tôi trả lời những email quan trọng.",
+      "start": 6.58,
+      "end": 10.07
+    },
+    {
+      "index": 4,
+      "text": "Then I deleted old promotions that I did not need.",
+      "pronunciation": "đen ai đi-li-tịt âu prờ-mâu-shầnz đat ai đi nót nid.",
+      "vi": "Rồi tôi xóa quảng cáo cũ mà tôi không cần.",
+      "start": 10.23,
+      "end": 14.2
+    },
+    {
+      "index": 5,
+      "text": "It felt good to deal with the mess instead of ignoring it.",
+      "pronunciation": "ịt felt gut tu điêu quít đờ mes in-sted ờv ig-no-ring ịt.",
+      "vi": "Tôi thấy nhẹ người khi xử lý mớ lộn xộn thay vì lờ nó đi.",
+      "start": 14.36,
+      "end": 18.36
+    },
+    {
+      "index": 6,
+      "text": "Now it is easier to stay on top of new messages.",
+      "pronunciation": "nao ịt iz i-zi-ờ tu stây on tóp-pờv niu mé-sijiz.",
+      "vi": "Giờ thì dễ theo dõi tin nhắn mới hơn.",
+      "start": 18.52,
+      "end": 22.26
+    }
+  ]
+}

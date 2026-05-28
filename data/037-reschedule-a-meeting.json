@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "037-reschedule-a-meeting",
+  "title": "Story 037 - Dời lại cuộc họp",
+  "story": "stories/037-reschedule-a-meeting.md",
+  "audio": "audio/037-reschedule-a-meeting.mp3",
+  "duration": 21.37,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/037-reschedule-a-meeting.mp3",
+  "durationMale": 22.05,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "This morning, something urgent came up for the client.",
+      "pronunciation": "đis mo-ning, săm-thinh ơ-jần kêim ấp fo đờ klai-ờnt.",
+      "vi": "Sáng nay, khách hàng có việc gấp phát sinh.",
+      "start": 0.02,
+      "end": 3.3
+    },
+    {
+      "index": 2,
+      "text": "They asked if we could reschedule the meeting.",
+      "pronunciation": "đây áskt if quy kud ri-ske-jul đờ mi-ting.",
+      "vi": "Họ hỏi liệu chúng tôi có thể dời lại cuộc họp không.",
+      "start": 3.46,
+      "end": 6.41
+    },
+    {
+      "index": 3,
+      "text": "I checked my availability before I replied.",
+      "pronunciation": "ai chékt mai ờ-vei-lờ-bi-lờ-ti bi-fo ai ri-plaid.",
+      "vi": "Tôi kiểm tra lịch rảnh của mình trước khi trả lời.",
+      "start": 6.57,
+      "end": 9.39
+    },
+    {
+      "index": 4,
+      "text": "Then I proposed another time that might work for everyone.",
+      "pronunciation": "đen ai prờ-pâuzd ờ-nớ-đờ taim đat mait quớrk fo ev-ri-quan.",
+      "vi": "Sau đó, tôi đề xuất một thời gian khác có thể phù hợp với mọi người.",
+      "start": 9.55,
+      "end": 13.36
+    },
+    {
+      "index": 5,
+      "text": "The client confirmed the new time, so I sent an invite.",
+      "pronunciation": "đờ klai-ờnt kờn-phơrmd đờ niu taim, sâu ai sent ờn in-vait.",
+      "vi": "Khách hàng xác nhận thời gian mới, nên tôi gửi lời mời họp.",
+      "start": 13.52,
+      "end": 17.74
+    },
+    {
+      "index": 6,
+      "text": "I was glad we fixed the schedule without making it complicated.",
+      "pronunciation": "ai wờz glad quy phikst đờ ske-jul quì-thao mêi-king ịt kóm-plờ-kêi-tịt.",
+      "vi": "Tôi mừng vì chúng tôi sửa được lịch mà không làm nó phức tạp.",
+      "start": 17.9,
+      "end": 21.97
+    }
+  ],
+  "audioMale1": "audio_male_1/037-reschedule-a-meeting.mp3",
+  "durationMale1": 26.49,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "This morning, something urgent came up for the client.",
+      "pronunciation": "đis mo-ning, săm-thinh ơ-jần kêim ấp fo đờ klai-ờnt.",
+      "vi": "Sáng nay, khách hàng có việc gấp phát sinh.",
+      "start": 0.02,
+      "end": 3.94
+    },
+    {
+      "index": 2,
+      "text": "They asked if we could reschedule the meeting.",
+      "pronunciation": "đây áskt if quy kud ri-ske-jul đờ mi-ting.",
+      "vi": "Họ hỏi liệu chúng tôi có thể dời lại cuộc họp không.",
+      "start": 4.1,
+      "end": 7.29
+    },
+    {
+      "index": 3,
+      "text": "I checked my availability before I replied.",
+      "pronunciation": "ai chékt mai ờ-vei-lờ-bi-lờ-ti bi-fo ai ri-plaid.",
+      "vi": "Tôi kiểm tra lịch rảnh của mình trước khi trả lời.",
+      "start": 7.45,
+      "end": 10.79
+    },
+    {
+      "index": 4,
+      "text": "Then I proposed another time that might work for everyone.",
+      "pronunciation": "đen ai prờ-pâuzd ờ-nớ-đờ taim đat mait quớrk fo ev-ri-quan.",
+      "vi": "Sau đó, tôi đề xuất một thời gian khác có thể phù hợp với mọi người.",
+      "start": 10.95,
+      "end": 15.2
+    },
+    {
+      "index": 5,
+      "text": "The client confirmed the new time, so I sent an invite.",
+      "pronunciation": "đờ klai-ờnt kờn-phơrmd đờ niu taim, sâu ai sent ờn in-vait.",
+      "vi": "Khách hàng xác nhận thời gian mới, nên tôi gửi lời mời họp.",
+      "start": 15.36,
+      "end": 20.81
+    },
+    {
+      "index": 6,
+      "text": "I was glad we fixed the schedule without making it complicated.",
+      "pronunciation": "ai wờz glad quy phikst đờ ske-jul quì-thao mêi-king ịt kóm-plờ-kêi-tịt.",
+      "vi": "Tôi mừng vì chúng tôi sửa được lịch mà không làm nó phức tạp.",
+      "start": 20.97,
+      "end": 26.41
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "This morning, something urgent came up for the client.",
+      "pronunciation": "đis mo-ning, săm-thinh ơ-jần kêim ấp fo đờ klai-ờnt.",
+      "vi": "Sáng nay, khách hàng có việc gấp phát sinh.",
+      "start": 0.02,
+      "end": 3.32
+    },
+    {
+      "index": 2,
+      "text": "They asked if we could reschedule the meeting.",
+      "pronunciation": "đây áskt if quy kud ri-ske-jul đờ mi-ting.",
+      "vi": "Họ hỏi liệu chúng tôi có thể dời lại cuộc họp không.",
+      "start": 3.48,
+      "end": 6.05
+    },
+    {
+      "index": 3,
+      "text": "I checked my availability before I replied.",
+      "pronunciation": "ai chékt mai ờ-vei-lờ-bi-lờ-ti bi-fo ai ri-plaid.",
+      "vi": "Tôi kiểm tra lịch rảnh của mình trước khi trả lời.",
+      "start": 6.21,
+      "end": 9.15
+    },
+    {
+      "index": 4,
+      "text": "Then I proposed another time that might work for everyone.",
+      "pronunciation": "đen ai prờ-pâuzd ờ-nớ-đờ taim đat mait quớrk fo ev-ri-quan.",
+      "vi": "Sau đó, tôi đề xuất một thời gian khác có thể phù hợp với mọi người.",
+      "start": 9.31,
+      "end": 13.07
+    },
+    {
+      "index": 5,
+      "text": "The client confirmed the new time, so I sent an invite.",
+      "pronunciation": "đờ klai-ờnt kờn-phơrmd đờ niu taim, sâu ai sent ờn in-vait.",
+      "vi": "Khách hàng xác nhận thời gian mới, nên tôi gửi lời mời họp.",
+      "start": 13.23,
+      "end": 17.26
+    },
+    {
+      "index": 6,
+      "text": "I was glad we fixed the schedule without making it complicated.",
+      "pronunciation": "ai wờz glad quy phikst đờ ske-jul quì-thao mêi-king ịt kóm-plờ-kêi-tịt.",
+      "vi": "Tôi mừng vì chúng tôi sửa được lịch mà không làm nó phức tạp.",
+      "start": 17.42,
+      "end": 21.29
+    }
+  ]
+}

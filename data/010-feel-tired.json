@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "010-feel-tired",
+  "title": "Story 010 - Mệt nhưng vẫn học một chút",
+  "story": "stories/010-feel-tired.md",
+  "audio": "audio/010-feel-tired.mp3",
+  "duration": 23.98,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/010-feel-tired.mp3",
+  "durationMale": 24.38,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "After a long day, I did not feel like studying.",
+      "pronunciation": "áp-tờ rờ long đây, ai đi nót phiu laik sta-đi-ing.",
+      "vi": "Sau một ngày dài, tôi không muốn học.",
+      "start": 0.02,
+      "end": 4.23
+    },
+    {
+      "index": 2,
+      "text": "I was worn out, and my brain felt slow.",
+      "pronunciation": "ai wờz quorn ao, en mai brêin felt slâu.",
+      "vi": "Tôi kiệt sức, và đầu óc thấy chậm chạp.",
+      "start": 4.39,
+      "end": 8.11
+    },
+    {
+      "index": 3,
+      "text": "Still, I did not want to skip English completely.",
+      "pronunciation": "stil, ai đi nót quăn tu skíp ing-glish kờm-plit-li.",
+      "vi": "Dù vậy, tôi không muốn bỏ hẳn tiếng Anh.",
+      "start": 8.27,
+      "end": 12.01
+    },
+    {
+      "index": 4,
+      "text": "I told myself to do just one small task.",
+      "pronunciation": "ai tâu mai-self tu đu jớst quăn smol tát-sờk.",
+      "vi": "Tôi tự nhủ chỉ làm một việc nhỏ thôi.",
+      "start": 12.17,
+      "end": 15.44
+    },
+    {
+      "index": 5,
+      "text": "I reviewed five phrases and listened to one short audio.",
+      "pronunciation": "ai ri-viud phaiv phrây-ziz en lis-sần tu quăn soọt o-đi-ô.",
+      "vi": "Tôi ôn năm cụm và nghe một audio ngắn.",
+      "start": 15.6,
+      "end": 19.95
+    },
+    {
+      "index": 6,
+      "text": "It was not a perfect study session, but it kept the habit alive.",
+      "pronunciation": "ịt wờz nót ờ pơ-phikt sta-đi se-shần, bớt ịt képt đờ ha-bit ờ-laiv.",
+      "vi": "Đó không phải buổi học hoàn hảo, nhưng nó giữ thói quen còn sống.",
+      "start": 20.11,
+      "end": 24.3
+    }
+  ],
+  "audioMale1": "audio_male_1/010-feel-tired.mp3",
+  "durationMale1": 28.16,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "After a long day, I did not feel like studying.",
+      "pronunciation": "áp-tờ rờ long đây, ai đi nót phiu laik sta-đi-ing.",
+      "vi": "Sau một ngày dài, tôi không muốn học.",
+      "start": 0.02,
+      "end": 4.67
+    },
+    {
+      "index": 2,
+      "text": "I was worn out, and my brain felt slow.",
+      "pronunciation": "ai wờz quorn ao, en mai brêin felt slâu.",
+      "vi": "Tôi kiệt sức, và đầu óc thấy chậm chạp.",
+      "start": 4.83,
+      "end": 8.84
+    },
+    {
+      "index": 3,
+      "text": "Still, I did not want to skip English completely.",
+      "pronunciation": "stil, ai đi nót quăn tu skíp ing-glish kờm-plit-li.",
+      "vi": "Dù vậy, tôi không muốn bỏ hẳn tiếng Anh.",
+      "start": 9,
+      "end": 13.45
+    },
+    {
+      "index": 4,
+      "text": "I told myself to do just one small task.",
+      "pronunciation": "ai tâu mai-self tu đu jớst quăn smol tát-sờk.",
+      "vi": "Tôi tự nhủ chỉ làm một việc nhỏ thôi.",
+      "start": 13.61,
+      "end": 17.58
+    },
+    {
+      "index": 5,
+      "text": "I reviewed five phrases and listened to one short audio.",
+      "pronunciation": "ai ri-viud phaiv phrây-ziz en lis-sần tu quăn soọt o-đi-ô.",
+      "vi": "Tôi ôn năm cụm và nghe một audio ngắn.",
+      "start": 17.74,
+      "end": 22.93
+    },
+    {
+      "index": 6,
+      "text": "It was not a perfect study session, but it kept the habit alive.",
+      "pronunciation": "ịt wờz nót ờ pơ-phikt sta-đi se-shần, bớt ịt képt đờ ha-bit ờ-laiv.",
+      "vi": "Đó không phải buổi học hoàn hảo, nhưng nó giữ thói quen còn sống.",
+      "start": 23.09,
+      "end": 28.08
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "After a long day, I did not feel like studying.",
+      "pronunciation": "áp-tờ rờ long đây, ai đi nót phiu laik sta-đi-ing.",
+      "vi": "Sau một ngày dài, tôi không muốn học.",
+      "start": 0.02,
+      "end": 3.8
+    },
+    {
+      "index": 2,
+      "text": "I was worn out, and my brain felt slow.",
+      "pronunciation": "ai wờz quorn ao, en mai brêin felt slâu.",
+      "vi": "Tôi kiệt sức, và đầu óc thấy chậm chạp.",
+      "start": 3.96,
+      "end": 7.13
+    },
+    {
+      "index": 3,
+      "text": "Still, I did not want to skip English completely.",
+      "pronunciation": "stil, ai đi nót quăn tu skíp ing-glish kờm-plit-li.",
+      "vi": "Dù vậy, tôi không muốn bỏ hẳn tiếng Anh.",
+      "start": 7.29,
+      "end": 10.71
+    },
+    {
+      "index": 4,
+      "text": "I told myself to do just one small task.",
+      "pronunciation": "ai tâu mai-self tu đu jớst quăn smol tát-sờk.",
+      "vi": "Tôi tự nhủ chỉ làm một việc nhỏ thôi.",
+      "start": 10.87,
+      "end": 14.66
+    },
+    {
+      "index": 5,
+      "text": "I reviewed five phrases and listened to one short audio.",
+      "pronunciation": "ai ri-viud phaiv phrây-ziz en lis-sần tu quăn soọt o-đi-ô.",
+      "vi": "Tôi ôn năm cụm và nghe một audio ngắn.",
+      "start": 14.82,
+      "end": 19.04
+    },
+    {
+      "index": 6,
+      "text": "It was not a perfect study session, but it kept the habit alive.",
+      "pronunciation": "ịt wờz nót ờ pơ-phikt sta-đi se-shần, bớt ịt képt đờ ha-bit ờ-laiv.",
+      "vi": "Đó không phải buổi học hoàn hảo, nhưng nó giữ thói quen còn sống.",
+      "start": 19.2,
+      "end": 23.9
+    }
+  ]
+}

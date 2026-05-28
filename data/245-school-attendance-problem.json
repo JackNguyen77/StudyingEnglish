@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "245-school-attendance-problem",
+  "title": "Story 245 - Xử lý vấn đề attendance trường học",
+  "story": "stories/245-school-attendance-problem.md",
+  "audio": "audio/245-school-attendance-problem.mp3",
+  "duration": 31.56,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/245-school-attendance-problem.mp3",
+  "durationMale": 33.11,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I listened to the school attendance problem before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ skhul attendanse pro-blầm bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe vấn đề attendance ở trường trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.76
+    },
+    {
+      "index": 2,
+      "text": "One family pressure made the update harder to explain.",
+      "pronunciation": "quăn famili pre-shờr mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một áp lực gia đình làm phần update khó giải thích hơn.",
+      "start": 4.92,
+      "end": 9.05
+    },
+    {
+      "index": 3,
+      "text": "I tried to contact support staff instead of reacting too quickly.",
+      "pronunciation": "ai traid tu kon-takt sờ-po(r)t staf in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố liên hệ staff hỗ trợ thay vì phản ứng quá vội.",
+      "start": 9.21,
+      "end": 14.17
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short attendance note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt attendanse note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú attendance ngắn để các facts rõ ràng.",
+      "start": 14.33,
+      "end": 19.15
+    },
+    {
+      "index": 5,
+      "text": "I also had to check early warning signs before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék irli wo(r)-ning signs bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra dấu hiệu cảnh báo sớm trước khi lặp lại claim đó.",
+      "start": 19.31,
+      "end": 24.04
+    },
+    {
+      "index": 6,
+      "text": "That helped me keep students engaged without making the conversation tense.",
+      "pronunciation": "đat heo mi kip students engagt quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giữ học sinh tham gia mà không làm cuộc trao đổi căng thẳng.",
+      "start": 24.2,
+      "end": 29.25
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 29.41,
+      "end": 33.03
+    }
+  ],
+  "audioMale1": "audio_male_1/245-school-attendance-problem.mp3",
+  "durationMale1": 38.5,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I listened to the school attendance problem before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ skhul attendanse pro-blầm bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe vấn đề attendance ở trường trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 6.23
+    },
+    {
+      "index": 2,
+      "text": "One family pressure made the update harder to explain.",
+      "pronunciation": "quăn famili pre-shờr mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một áp lực gia đình làm phần update khó giải thích hơn.",
+      "start": 6.39,
+      "end": 11.38
+    },
+    {
+      "index": 3,
+      "text": "I tried to contact support staff instead of reacting too quickly.",
+      "pronunciation": "ai traid tu kon-takt sờ-po(r)t staf in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố liên hệ staff hỗ trợ thay vì phản ứng quá vội.",
+      "start": 11.54,
+      "end": 16.72
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short attendance note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt attendanse note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú attendance ngắn để các facts rõ ràng.",
+      "start": 16.88,
+      "end": 21.66
+    },
+    {
+      "index": 5,
+      "text": "I also had to check early warning signs before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék irli wo(r)-ning signs bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra dấu hiệu cảnh báo sớm trước khi lặp lại claim đó.",
+      "start": 21.82,
+      "end": 27.32
+    },
+    {
+      "index": 6,
+      "text": "That helped me keep students engaged without making the conversation tense.",
+      "pronunciation": "đat heo mi kip students engagt quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giữ học sinh tham gia mà không làm cuộc trao đổi căng thẳng.",
+      "start": 27.48,
+      "end": 33.3
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 33.46,
+      "end": 38.42
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I listened to the school attendance problem before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ skhul attendanse pro-blầm bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe vấn đề attendance ở trường trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.56
+    },
+    {
+      "index": 2,
+      "text": "One family pressure made the update harder to explain.",
+      "pronunciation": "quăn famili pre-shờr mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một áp lực gia đình làm phần update khó giải thích hơn.",
+      "start": 4.72,
+      "end": 8.38
+    },
+    {
+      "index": 3,
+      "text": "I tried to contact support staff instead of reacting too quickly.",
+      "pronunciation": "ai traid tu kon-takt sờ-po(r)t staf in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố liên hệ staff hỗ trợ thay vì phản ứng quá vội.",
+      "start": 8.54,
+      "end": 13.09
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short attendance note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt attendanse note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú attendance ngắn để các facts rõ ràng.",
+      "start": 13.25,
+      "end": 17.75
+    },
+    {
+      "index": 5,
+      "text": "I also had to check early warning signs before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék irli wo(r)-ning signs bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra dấu hiệu cảnh báo sớm trước khi lặp lại claim đó.",
+      "start": 17.91,
+      "end": 22.62
+    },
+    {
+      "index": 6,
+      "text": "That helped me keep students engaged without making the conversation tense.",
+      "pronunciation": "đat heo mi kip students engagt quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giữ học sinh tham gia mà không làm cuộc trao đổi căng thẳng.",
+      "start": 22.78,
+      "end": 27.58
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 27.74,
+      "end": 31.48
+    }
+  ]
+}

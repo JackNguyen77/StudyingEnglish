@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "209-customer-feedback-summary",
+  "title": "Story 209 - Tóm tắt customer feedback",
+  "story": "stories/209-customer-feedback-summary.md",
+  "audio": "audio/209-customer-feedback-summary.mp3",
+  "duration": 30.38,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/209-customer-feedback-summary.mp3",
+  "durationMale": 30.12,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the feedback pattern before I made a final choice.",
+      "pronunciation": "ai chékt đờ phid-bak pa-tờrn bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra mẫu feedback trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.82
+    },
+    {
+      "index": 2,
+      "text": "One repeated complaint made the situation less simple than it looked.",
+      "pronunciation": "quăn ri-pi-tịt kờm-plêint mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Complaint lặp lại làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.98,
+      "end": 8.22
+    },
+    {
+      "index": 3,
+      "text": "I decided to group the feedback before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu graop đờ phid-bak bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định nhóm feedback trước khi tiếp tục.",
+      "start": 8.38,
+      "end": 12.23
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short customer feedback note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kớs-tờ-mờr phid-bak note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú feedback khách hàng ngắn để người kia hiểu tôi.",
+      "start": 12.39,
+      "end": 17.4
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the common theme instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ kommon theme in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra chủ đề chung thay vì đoán.",
+      "start": 17.56,
+      "end": 21.43
+    },
+    {
+      "index": 6,
+      "text": "That helped me improve the product without adding extra stress.",
+      "pronunciation": "đat heo mi im-pruuv đờ produkt quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi cải thiện product mà không thêm căng thẳng.",
+      "start": 21.59,
+      "end": 25.49
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.65,
+      "end": 30.04
+    }
+  ],
+  "audioMale1": "audio_male_1/209-customer-feedback-summary.mp3",
+  "durationMale1": 37.17,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the feedback pattern before I made a final choice.",
+      "pronunciation": "ai chékt đờ phid-bak pa-tờrn bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra mẫu feedback trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.34
+    },
+    {
+      "index": 2,
+      "text": "One repeated complaint made the situation less simple than it looked.",
+      "pronunciation": "quăn ri-pi-tịt kờm-plêint mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Complaint lặp lại làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.5,
+      "end": 11.04
+    },
+    {
+      "index": 3,
+      "text": "I decided to group the feedback before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu graop đờ phid-bak bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định nhóm feedback trước khi tiếp tục.",
+      "start": 11.2,
+      "end": 15.77
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short customer feedback note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kớs-tờ-mờr phid-bak note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú feedback khách hàng ngắn để người kia hiểu tôi.",
+      "start": 15.93,
+      "end": 21.51
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the common theme instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ kommon theme in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra chủ đề chung thay vì đoán.",
+      "start": 21.67,
+      "end": 26.31
+    },
+    {
+      "index": 6,
+      "text": "That helped me improve the product without adding extra stress.",
+      "pronunciation": "đat heo mi im-pruuv đờ produkt quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi cải thiện product mà không thêm căng thẳng.",
+      "start": 26.47,
+      "end": 30.84
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 31,
+      "end": 37.09
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the feedback pattern before I made a final choice.",
+      "pronunciation": "ai chékt đờ phid-bak pa-tờrn bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra mẫu feedback trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.87
+    },
+    {
+      "index": 2,
+      "text": "One repeated complaint made the situation less simple than it looked.",
+      "pronunciation": "quăn ri-pi-tịt kờm-plêint mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Complaint lặp lại làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.03,
+      "end": 8.27
+    },
+    {
+      "index": 3,
+      "text": "I decided to group the feedback before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu graop đờ phid-bak bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định nhóm feedback trước khi tiếp tục.",
+      "start": 8.43,
+      "end": 12.18
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short customer feedback note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kớs-tờ-mờr phid-bak note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú feedback khách hàng ngắn để người kia hiểu tôi.",
+      "start": 12.34,
+      "end": 17.28
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the common theme instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ kommon theme in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra chủ đề chung thay vì đoán.",
+      "start": 17.44,
+      "end": 21.31
+    },
+    {
+      "index": 6,
+      "text": "That helped me improve the product without adding extra stress.",
+      "pronunciation": "đat heo mi im-pruuv đờ produkt quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi cải thiện product mà không thêm căng thẳng.",
+      "start": 21.47,
+      "end": 25.56
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.72,
+      "end": 30.3
+    }
+  ]
+}

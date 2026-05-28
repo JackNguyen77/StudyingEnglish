@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "110-housing-cost",
+  "title": "Story 110 - Nghe về chi phí nhà ở",
+  "story": "stories/110-housing-cost.md",
+  "audio": "audio/110-housing-cost.mp3",
+  "duration": 33.1,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/110-housing-cost.mp3",
+  "durationMale": 31.21,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the housing cost in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ hao-zing kost in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả chi phí nhà ở bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.13
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the rent increase, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ rent inkrise, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là tiền thuê tăng, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.29,
+      "end": 11.36
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the low supply because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ lâu sờ-plai bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về nguồn cung thấp vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.52,
+      "end": 16.56
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the housing support as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ hao-zing sờ-po(r)t as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến hỗ trợ nhà ở như một chi tiết quan trọng.",
+      "start": 16.72,
+      "end": 21.56
+    },
+    {
+      "index": 5,
+      "text": "Experts said the city budget would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ siti bớt-jịt quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói ngân sách thành phố sẽ quan trọng trong vài tháng tới.",
+      "start": 21.72,
+      "end": 25.94
+    },
+    {
+      "index": 6,
+      "text": "The story helped me see the pressure on families instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi si đờ pre-shờr on pha-mờ-liz in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi thấy áp lực lên các gia đình thay vì chỉ đọc tiêu đề.",
+      "start": 26.1,
+      "end": 31.13
+    }
+  ],
+  "audioMale1": "audio_male_1/110-housing-cost.mp3",
+  "durationMale1": 33.93,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the housing cost in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ hao-zing kost in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả chi phí nhà ở bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.84
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the rent increase, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ rent inkrise, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là tiền thuê tăng, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 6,
+      "end": 12.65
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the low supply because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ lâu sờ-plai bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về nguồn cung thấp vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12.81,
+      "end": 18.06
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the housing support as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ hao-zing sờ-po(r)t as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến hỗ trợ nhà ở như một chi tiết quan trọng.",
+      "start": 18.22,
+      "end": 23.15
+    },
+    {
+      "index": 5,
+      "text": "Experts said the city budget would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ siti bớt-jịt quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói ngân sách thành phố sẽ quan trọng trong vài tháng tới.",
+      "start": 23.31,
+      "end": 27.7
+    },
+    {
+      "index": 6,
+      "text": "The story helped me see the pressure on families instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi si đờ pre-shờr on pha-mờ-liz in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi thấy áp lực lên các gia đình thay vì chỉ đọc tiêu đề.",
+      "start": 27.86,
+      "end": 33.85
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the housing cost in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ hao-zing kost in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả chi phí nhà ở bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.39
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the rent increase, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ rent inkrise, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là tiền thuê tăng, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.55,
+      "end": 11.73
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the low supply because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ lâu sờ-plai bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về nguồn cung thấp vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.89,
+      "end": 17.02
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the housing support as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ hao-zing sờ-po(r)t as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến hỗ trợ nhà ở như một chi tiết quan trọng.",
+      "start": 17.18,
+      "end": 22.1
+    },
+    {
+      "index": 5,
+      "text": "Experts said the city budget would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ siti bớt-jịt quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói ngân sách thành phố sẽ quan trọng trong vài tháng tới.",
+      "start": 22.26,
+      "end": 27.16
+    },
+    {
+      "index": 6,
+      "text": "The story helped me see the pressure on families instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi si đờ pre-shờr on pha-mờ-liz in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi thấy áp lực lên các gia đình thay vì chỉ đọc tiêu đề.",
+      "start": 27.32,
+      "end": 33.02
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "125-storage-space",
+  "title": "Story 125 - Dọn dung lượng điện thoại",
+  "story": "stories/125-storage-space.md",
+  "audio": "audio/125-storage-space.mp3",
+  "duration": 39.17,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/125-storage-space.mp3",
+  "durationMale": 31.51,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "My phone warned me that the storage space was almost full.",
+      "pronunciation": "mai phôn warnt mi đat đờ sto-rij spêis wờz ol-mâust phul.",
+      "vi": "Điện thoại cảnh báo tôi rằng dung lượng lưu trữ gần đầy.",
+      "start": 0.02,
+      "end": 4.8
+    },
+    {
+      "index": 2,
+      "text": "I needed to free up space before I could record another lesson.",
+      "pronunciation": "ai ni-địt tu fri ấp spêis bi-fo ai kud re-kờrd ờ-nớ-đờ les-sần.",
+      "vi": "Tôi cần giải phóng dung lượng trước khi có thể ghi âm bài khác.",
+      "start": 4.96,
+      "end": 9.28
+    },
+    {
+      "index": 3,
+      "text": "First, I backed up photos so I would not lose anything important.",
+      "pronunciation": "phớrst, ai bakt ấp phâu-touz sâu ai quud nót lose e-ni-thinh im-po-tần.",
+      "vi": "Đầu tiên, tôi sao lưu ảnh để không mất thứ gì quan trọng.",
+      "start": 9.44,
+      "end": 14.12
+    },
+    {
+      "index": 4,
+      "text": "Then I deleted old files that I had not opened for months.",
+      "pronunciation": "đen ai đi-li-tịt âu phai-ồz đat ai had nót âu-pần fo mănths.",
+      "vi": "Sau đó, tôi xóa file cũ mà tôi chưa mở trong nhiều tháng.",
+      "start": 14.28,
+      "end": 18.33
+    },
+    {
+      "index": 5,
+      "text": "I made a small folder to keep important files in one place.",
+      "pronunciation": "ai mêid ờ smol folder tu kip im-po-tần phai-ồz in quăn plêis.",
+      "vi": "Tôi tạo một thư mục nhỏ để giữ file quan trọng ở một chỗ.",
+      "start": 18.49,
+      "end": 22.52
+    },
+    {
+      "index": 6,
+      "text": "The rest could sync later when the Wi-Fi was stronger.",
+      "pronunciation": "đờ rest kud singk lêi-tờ quen đờ quai-phai wờz stronjer.",
+      "vi": "Phần còn lại có thể đồng bộ sau khi Wi-Fi mạnh hơn.",
+      "start": 22.68,
+      "end": 26.25
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 26.41,
+      "end": 31.43
+    }
+  ],
+  "audioMale1": "audio_male_1/125-storage-space.mp3",
+  "durationMale1": 33.27,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "My phone warned me that the storage space was almost full.",
+      "pronunciation": "mai phôn warnt mi đat đờ sto-rij spêis wờz ol-mâust phul.",
+      "vi": "Điện thoại cảnh báo tôi rằng dung lượng lưu trữ gần đầy.",
+      "start": 0.02,
+      "end": 4.14
+    },
+    {
+      "index": 2,
+      "text": "I needed to free up space before I could record another lesson.",
+      "pronunciation": "ai ni-địt tu fri ấp spêis bi-fo ai kud re-kờrd ờ-nớ-đờ les-sần.",
+      "vi": "Tôi cần giải phóng dung lượng trước khi có thể ghi âm bài khác.",
+      "start": 4.3,
+      "end": 9.01
+    },
+    {
+      "index": 3,
+      "text": "First, I backed up photos so I would not lose anything important.",
+      "pronunciation": "phớrst, ai bakt ấp phâu-touz sâu ai quud nót lose e-ni-thinh im-po-tần.",
+      "vi": "Đầu tiên, tôi sao lưu ảnh để không mất thứ gì quan trọng.",
+      "start": 9.17,
+      "end": 14.18
+    },
+    {
+      "index": 4,
+      "text": "Then I deleted old files that I had not opened for months.",
+      "pronunciation": "đen ai đi-li-tịt âu phai-ồz đat ai had nót âu-pần fo mănths.",
+      "vi": "Sau đó, tôi xóa file cũ mà tôi chưa mở trong nhiều tháng.",
+      "start": 14.34,
+      "end": 18.99
+    },
+    {
+      "index": 5,
+      "text": "I made a small folder to keep important files in one place.",
+      "pronunciation": "ai mêid ờ smol folder tu kip im-po-tần phai-ồz in quăn plêis.",
+      "vi": "Tôi tạo một thư mục nhỏ để giữ file quan trọng ở một chỗ.",
+      "start": 19.15,
+      "end": 23.68
+    },
+    {
+      "index": 6,
+      "text": "The rest could sync later when the Wi-Fi was stronger.",
+      "pronunciation": "đờ rest kud singk lêi-tờ quen đờ quai-phai wờz stronjer.",
+      "vi": "Phần còn lại có thể đồng bộ sau khi Wi-Fi mạnh hơn.",
+      "start": 23.84,
+      "end": 27.74
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 27.9,
+      "end": 33.19
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "My phone warned me that the storage space was almost full.",
+      "pronunciation": "mai phôn warnt mi đat đờ sto-rij spêis wờz ol-mâust phul.",
+      "vi": "Điện thoại cảnh báo tôi rằng dung lượng lưu trữ gần đầy.",
+      "start": 0,
+      "end": 4.34
+    },
+    {
+      "index": 2,
+      "text": "I needed to free up space before I could record another lesson.",
+      "pronunciation": "ai ni-địt tu fri ấp spêis bi-fo ai kud re-kờrd ờ-nớ-đờ les-sần.",
+      "vi": "Tôi cần giải phóng dung lượng trước khi có thể ghi âm bài khác.",
+      "start": 4.45,
+      "end": 9.8
+    },
+    {
+      "index": 3,
+      "text": "First, I backed up photos so I would not lose anything important.",
+      "pronunciation": "phớrst, ai bakt ấp phâu-touz sâu ai quud nót lose e-ni-thinh im-po-tần.",
+      "vi": "Đầu tiên, tôi sao lưu ảnh để không mất thứ gì quan trọng.",
+      "start": 9.91,
+      "end": 14.85
+    },
+    {
+      "index": 4,
+      "text": "Then I deleted old files that I had not opened for months.",
+      "pronunciation": "đen ai đi-li-tịt âu phai-ồz đat ai had nót âu-pần fo mănths.",
+      "vi": "Sau đó, tôi xóa file cũ mà tôi chưa mở trong nhiều tháng.",
+      "start": 14.96,
+      "end": 20.02
+    },
+    {
+      "index": 5,
+      "text": "I made a small folder to keep important files in one place.",
+      "pronunciation": "ai mêid ờ smol folder tu kip im-po-tần phai-ồz in quăn plêis.",
+      "vi": "Tôi tạo một thư mục nhỏ để giữ file quan trọng ở một chỗ.",
+      "start": 20.13,
+      "end": 26.12
+    },
+    {
+      "index": 6,
+      "text": "The rest could sync later when the Wi-Fi was stronger.",
+      "pronunciation": "đờ rest kud singk lêi-tờ quen đờ quai-phai wờz stronjer.",
+      "vi": "Phần còn lại có thể đồng bộ sau khi Wi-Fi mạnh hơn.",
+      "start": 26.23,
+      "end": 32.34
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 32.45,
+      "end": 39.17
+    }
+  ]
+}

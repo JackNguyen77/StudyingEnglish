@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "079-dashboard-view",
+  "title": "Story 079 - Làm dashboard dễ nhìn",
+  "story": "stories/079-dashboard-view.md",
+  "audio": "audio/079-dashboard-view.mp3",
+  "duration": 30.84,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/079-dashboard-view.mp3",
+  "durationMale": 31.27,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the dashboard view in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ đash-bo(r)d viu in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả view dashboard bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.31
+    },
+    {
+      "index": 2,
+      "text": "I asked about the key numbers before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ ki năm-bờrz bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về các số chính trước khi đề xuất bất cứ điều gì.",
+      "start": 5.47,
+      "end": 9.21
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the noisy chart, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ noisi khart, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là biểu đồ quá nhiễu, không chỉ là yêu cầu đầu tiên.",
+      "start": 9.37,
+      "end": 13.89
+    },
+    {
+      "index": 4,
+      "text": "We agreed to remove extra filters and check it with one example.",
+      "pronunciation": "quy ờ-grid tu ri-muv ek-strờ phíl-tờrz en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất bỏ filter dư và kiểm tra bằng một ví dụ.",
+      "start": 14.05,
+      "end": 18.14
+    },
+    {
+      "index": 5,
+      "text": "I wrote the clean dashboard so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ klin đash-bo(r)d sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết dashboard gọn để mọi người có thể xem cùng một quyết định.",
+      "start": 18.3,
+      "end": 22.79
+    },
+    {
+      "index": 6,
+      "text": "That helped us make scanning faster without adding extra work.",
+      "pronunciation": "đat heo ớs mêik skan-ning fas-tờr quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi làm việc nhìn nhanh hơn mà không thêm việc dư.",
+      "start": 22.95,
+      "end": 26.4
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 26.56,
+      "end": 31.19
+    }
+  ],
+  "audioMale1": "audio_male_1/079-dashboard-view.mp3",
+  "durationMale1": 36.88,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the dashboard view in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ đash-bo(r)d viu in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả view dashboard bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.75
+    },
+    {
+      "index": 2,
+      "text": "I asked about the key numbers before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ ki năm-bờrz bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về các số chính trước khi đề xuất bất cứ điều gì.",
+      "start": 5.91,
+      "end": 10.66
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the noisy chart, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ noisi khart, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là biểu đồ quá nhiễu, không chỉ là yêu cầu đầu tiên.",
+      "start": 10.82,
+      "end": 16.15
+    },
+    {
+      "index": 4,
+      "text": "We agreed to remove extra filters and check it with one example.",
+      "pronunciation": "quy ờ-grid tu ri-muv ek-strờ phíl-tờrz en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất bỏ filter dư và kiểm tra bằng một ví dụ.",
+      "start": 16.31,
+      "end": 21.15
+    },
+    {
+      "index": 5,
+      "text": "I wrote the clean dashboard so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ klin đash-bo(r)d sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết dashboard gọn để mọi người có thể xem cùng một quyết định.",
+      "start": 21.31,
+      "end": 26.64
+    },
+    {
+      "index": 6,
+      "text": "That helped us make scanning faster without adding extra work.",
+      "pronunciation": "đat heo ớs mêik skan-ning fas-tờr quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi làm việc nhìn nhanh hơn mà không thêm việc dư.",
+      "start": 26.8,
+      "end": 31.35
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 31.51,
+      "end": 36.8
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the dashboard view in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ đash-bo(r)d viu in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả view dashboard bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 4.95
+    },
+    {
+      "index": 2,
+      "text": "I asked about the key numbers before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ ki năm-bờrz bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về các số chính trước khi đề xuất bất cứ điều gì.",
+      "start": 5.11,
+      "end": 8.67
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the noisy chart, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ noisi khart, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là biểu đồ quá nhiễu, không chỉ là yêu cầu đầu tiên.",
+      "start": 8.83,
+      "end": 13.38
+    },
+    {
+      "index": 4,
+      "text": "We agreed to remove extra filters and check it with one example.",
+      "pronunciation": "quy ờ-grid tu ri-muv ek-strờ phíl-tờrz en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất bỏ filter dư và kiểm tra bằng một ví dụ.",
+      "start": 13.54,
+      "end": 17.91
+    },
+    {
+      "index": 5,
+      "text": "I wrote the clean dashboard so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ klin đash-bo(r)d sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết dashboard gọn để mọi người có thể xem cùng một quyết định.",
+      "start": 18.07,
+      "end": 22.38
+    },
+    {
+      "index": 6,
+      "text": "That helped us make scanning faster without adding extra work.",
+      "pronunciation": "đat heo ớs mêik skan-ning fas-tờr quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi làm việc nhìn nhanh hơn mà không thêm việc dư.",
+      "start": 22.54,
+      "end": 26.16
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 26.32,
+      "end": 30.76
+    }
+  ]
+}

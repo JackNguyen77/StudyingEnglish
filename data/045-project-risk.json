@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "045-project-risk",
+  "title": "Story 045 - Nói về rủi ro",
+  "story": "stories/045-project-risk.md",
+  "audio": "audio/045-project-risk.mp3",
+  "duration": 29.73,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/045-project-risk.mp3",
+  "durationMale": 29.33,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "On Monday morning, the team realized that one import file might arrive late.",
+      "pronunciation": "on mondâi mo-ning, đờ tim ri-ờ-laizd đat quăn im-po(r)t phai-ồ mait ờ-raiv lêit.",
+      "vi": "Sáng thứ Hai, cả nhóm nhận ra rằng một file import có thể đến trễ.",
+      "start": 0.02,
+      "end": 4.63
+    },
+    {
+      "index": 2,
+      "text": "Before giving an answer, I asked what would happen if the file changed again.",
+      "pronunciation": "bi-fo gi-ving ờn an-sờ, ai áskt quát quud ha-pần if đờ phai-ồ chênjd ờ-gen.",
+      "vi": "Trước khi trả lời, tôi hỏi chuyện gì sẽ xảy ra nếu file đó thay đổi lần nữa.",
+      "start": 4.79,
+      "end": 9.4
+    },
+    {
+      "index": 3,
+      "text": "We checked which step depended on that file and which step could continue without it.",
+      "pronunciation": "quy chékt quýtch step đi-pen-địt on đat phai-ồ en quýtch step kud kờn-tin-niu quì-thao ịt.",
+      "vi": "Chúng tôi kiểm tra bước nào phụ thuộc vào file đó và bước nào có thể tiếp tục mà không cần nó.",
+      "start": 9.56,
+      "end": 14.98
+    },
+    {
+      "index": 4,
+      "text": "One teammate pointed out that the data format was still unclear.",
+      "pronunciation": "quăn tim-mêit poin-tịt ao đat đờ đây-tờ pho-mat wờz stil ăn-kliờ.",
+      "vi": "Một đồng đội chỉ ra rằng định dạng dữ liệu vẫn chưa rõ.",
+      "start": 15.14,
+      "end": 19.25
+    },
+    {
+      "index": 5,
+      "text": "I kept a backup plan ready and wrote down the risk in the project channel.",
+      "pronunciation": "ai képt ờ béc-ấp plen re-đi en râu daun đờ rít-sờk in đờ pró-jekt chen-nồ.",
+      "vi": "Tôi chuẩn bị sẵn một phương án dự phòng và ghi lại rủi ro trong channel dự án.",
+      "start": 19.41,
+      "end": 23.94
+    },
+    {
+      "index": 6,
+      "text": "By the end of the day, everyone knew the safest next step and what could wait.",
+      "pronunciation": "bai đi end ờv đờ đây, ev-ri-quan niu đờ sây-fờst nekst step en quát kud quây.",
+      "vi": "Đến cuối ngày, mọi người biết bước tiếp theo an toàn nhất là gì và việc gì có thể chờ.",
+      "start": 24.1,
+      "end": 29.25
+    }
+  ],
+  "audioMale1": "audio_male_1/045-project-risk.mp3",
+  "durationMale1": 34.56,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "On Monday morning, the team realized that one import file might arrive late.",
+      "pronunciation": "on mondâi mo-ning, đờ tim ri-ờ-laizd đat quăn im-po(r)t phai-ồ mait ờ-raiv lêit.",
+      "vi": "Sáng thứ Hai, cả nhóm nhận ra rằng một file import có thể đến trễ.",
+      "start": 0.02,
+      "end": 5.73
+    },
+    {
+      "index": 2,
+      "text": "Before giving an answer, I asked what would happen if the file changed again.",
+      "pronunciation": "bi-fo gi-ving ờn an-sờ, ai áskt quát quud ha-pần if đờ phai-ồ chênjd ờ-gen.",
+      "vi": "Trước khi trả lời, tôi hỏi chuyện gì sẽ xảy ra nếu file đó thay đổi lần nữa.",
+      "start": 5.89,
+      "end": 11.92
+    },
+    {
+      "index": 3,
+      "text": "We checked which step depended on that file and which step could continue without it.",
+      "pronunciation": "quy chékt quýtch step đi-pen-địt on đat phai-ồ en quýtch step kud kờn-tin-niu quì-thao ịt.",
+      "vi": "Chúng tôi kiểm tra bước nào phụ thuộc vào file đó và bước nào có thể tiếp tục mà không cần nó.",
+      "start": 12.08,
+      "end": 18
+    },
+    {
+      "index": 4,
+      "text": "One teammate pointed out that the data format was still unclear.",
+      "pronunciation": "quăn tim-mêit poin-tịt ao đat đờ đây-tờ pho-mat wờz stil ăn-kliờ.",
+      "vi": "Một đồng đội chỉ ra rằng định dạng dữ liệu vẫn chưa rõ.",
+      "start": 18.16,
+      "end": 23
+    },
+    {
+      "index": 5,
+      "text": "I kept a backup plan ready and wrote down the risk in the project channel.",
+      "pronunciation": "ai képt ờ béc-ấp plen re-đi en râu daun đờ rít-sờk in đờ pró-jekt chen-nồ.",
+      "vi": "Tôi chuẩn bị sẵn một phương án dự phòng và ghi lại rủi ro trong channel dự án.",
+      "start": 23.16,
+      "end": 28.55
+    },
+    {
+      "index": 6,
+      "text": "By the end of the day, everyone knew the safest next step and what could wait.",
+      "pronunciation": "bai đi end ờv đờ đây, ev-ri-quan niu đờ sây-fờst nekst step en quát kud quây.",
+      "vi": "Đến cuối ngày, mọi người biết bước tiếp theo an toàn nhất là gì và việc gì có thể chờ.",
+      "start": 28.71,
+      "end": 34.48
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "On Monday morning, the team realized that one import file might arrive late.",
+      "pronunciation": "on mondâi mo-ning, đờ tim ri-ờ-laizd đat quăn im-po(r)t phai-ồ mait ờ-raiv lêit.",
+      "vi": "Sáng thứ Hai, cả nhóm nhận ra rằng một file import có thể đến trễ.",
+      "start": 0.02,
+      "end": 4.8
+    },
+    {
+      "index": 2,
+      "text": "Before giving an answer, I asked what would happen if the file changed again.",
+      "pronunciation": "bi-fo gi-ving ờn an-sờ, ai áskt quát quud ha-pần if đờ phai-ồ chênjd ờ-gen.",
+      "vi": "Trước khi trả lời, tôi hỏi chuyện gì sẽ xảy ra nếu file đó thay đổi lần nữa.",
+      "start": 4.96,
+      "end": 10.26
+    },
+    {
+      "index": 3,
+      "text": "We checked which step depended on that file and which step could continue without it.",
+      "pronunciation": "quy chékt quýtch step đi-pen-địt on đat phai-ồ en quýtch step kud kờn-tin-niu quì-thao ịt.",
+      "vi": "Chúng tôi kiểm tra bước nào phụ thuộc vào file đó và bước nào có thể tiếp tục mà không cần nó.",
+      "start": 10.42,
+      "end": 16.13
+    },
+    {
+      "index": 4,
+      "text": "One teammate pointed out that the data format was still unclear.",
+      "pronunciation": "quăn tim-mêit poin-tịt ao đat đờ đây-tờ pho-mat wờz stil ăn-kliờ.",
+      "vi": "Một đồng đội chỉ ra rằng định dạng dữ liệu vẫn chưa rõ.",
+      "start": 16.29,
+      "end": 20.24
+    },
+    {
+      "index": 5,
+      "text": "I kept a backup plan ready and wrote down the risk in the project channel.",
+      "pronunciation": "ai képt ờ béc-ấp plen re-đi en râu daun đờ rít-sờk in đờ pró-jekt chen-nồ.",
+      "vi": "Tôi chuẩn bị sẵn một phương án dự phòng và ghi lại rủi ro trong channel dự án.",
+      "start": 20.4,
+      "end": 24.68
+    },
+    {
+      "index": 6,
+      "text": "By the end of the day, everyone knew the safest next step and what could wait.",
+      "pronunciation": "bai đi end ờv đờ đây, ev-ri-quan niu đờ sây-fờst nekst step en quát kud quây.",
+      "vi": "Đến cuối ngày, mọi người biết bước tiếp theo an toàn nhất là gì và việc gì có thể chờ.",
+      "start": 24.84,
+      "end": 29.65
+    }
+  ]
+}

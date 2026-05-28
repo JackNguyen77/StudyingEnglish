@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "175-arrange-childcare",
+  "title": "Story 175 - Sắp xếp người trông trẻ",
+  "story": "stories/175-arrange-childcare.md",
+  "audio": "audio/175-arrange-childcare.mp3",
+  "duration": 32.49,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/175-arrange-childcare.mp3",
+  "durationMale": 32.95,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the childcare schedule before I made a final choice.",
+      "pronunciation": "ai chékt đờ khildkare ske-jul bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra lịch trông trẻ trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.14
+    },
+    {
+      "index": 2,
+      "text": "One sick babysitter made the situation less simple than it looked.",
+      "pronunciation": "quăn sik babysitter mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Người trông trẻ bị bệnh làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.3,
+      "end": 9.38
+    },
+    {
+      "index": 3,
+      "text": "I decided to arrange backup care before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu arranje béc-ấp kare bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định sắp xếp phương án chăm sóc dự phòng trước khi tiếp tục.",
+      "start": 9.54,
+      "end": 14.88
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short family message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt famili mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn gia đình ngắn để người kia hiểu tôi.",
+      "start": 15.04,
+      "end": 19.73
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm pickup time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm pikup taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận giờ đón thay vì đoán.",
+      "start": 19.89,
+      "end": 23.98
+    },
+    {
+      "index": 6,
+      "text": "That helped me keep the day moving without adding extra stress.",
+      "pronunciation": "đat heo mi kip đờ đây mu-ving quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giữ ngày trôi chảy mà không thêm căng thẳng.",
+      "start": 24.14,
+      "end": 28.05
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.21,
+      "end": 32.87
+    }
+  ],
+  "audioMale1": "audio_male_1/175-arrange-childcare.mp3",
+  "durationMale1": 36.61,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the childcare schedule before I made a final choice.",
+      "pronunciation": "ai chékt đờ khildkare ske-jul bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra lịch trông trẻ trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.21
+    },
+    {
+      "index": 2,
+      "text": "One sick babysitter made the situation less simple than it looked.",
+      "pronunciation": "quăn sik babysitter mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Người trông trẻ bị bệnh làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.37,
+      "end": 10.88
+    },
+    {
+      "index": 3,
+      "text": "I decided to arrange backup care before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu arranje béc-ấp kare bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định sắp xếp phương án chăm sóc dự phòng trước khi tiếp tục.",
+      "start": 11.04,
+      "end": 15.94
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short family message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt famili mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn gia đình ngắn để người kia hiểu tôi.",
+      "start": 16.1,
+      "end": 21.25
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm pickup time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm pikup taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận giờ đón thay vì đoán.",
+      "start": 21.41,
+      "end": 25.99
+    },
+    {
+      "index": 6,
+      "text": "That helped me keep the day moving without adding extra stress.",
+      "pronunciation": "đat heo mi kip đờ đây mu-ving quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giữ ngày trôi chảy mà không thêm căng thẳng.",
+      "start": 26.15,
+      "end": 30.82
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.98,
+      "end": 36.53
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the childcare schedule before I made a final choice.",
+      "pronunciation": "ai chékt đờ khildkare ske-jul bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra lịch trông trẻ trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.97
+    },
+    {
+      "index": 2,
+      "text": "One sick babysitter made the situation less simple than it looked.",
+      "pronunciation": "quăn sik babysitter mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Người trông trẻ bị bệnh làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.13,
+      "end": 9.41
+    },
+    {
+      "index": 3,
+      "text": "I decided to arrange backup care before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu arranje béc-ấp kare bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định sắp xếp phương án chăm sóc dự phòng trước khi tiếp tục.",
+      "start": 9.57,
+      "end": 14.06
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short family message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt famili mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn gia đình ngắn để người kia hiểu tôi.",
+      "start": 14.22,
+      "end": 18.98
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm pickup time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm pikup taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận giờ đón thay vì đoán.",
+      "start": 19.14,
+      "end": 23.26
+    },
+    {
+      "index": 6,
+      "text": "That helped me keep the day moving without adding extra stress.",
+      "pronunciation": "đat heo mi kip đờ đây mu-ving quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giữ ngày trôi chảy mà không thêm căng thẳng.",
+      "start": 23.42,
+      "end": 27.7
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.86,
+      "end": 32.41
+    }
+  ]
+}

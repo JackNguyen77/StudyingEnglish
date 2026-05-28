@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "030-monthly-review",
+  "title": "Story 030 - Ôn lại cuối tháng",
+  "story": "stories/030-monthly-review.md",
+  "audio": "audio/030-monthly-review.mp3",
+  "duration": 25,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/030-monthly-review.mp3",
+  "durationMale": 25.17,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "At the end of the month, I looked back at my English notes.",
+      "pronunciation": "at đờ end ờv đờ mănth, ai lúc béc-kat mai ing-glish nouts.",
+      "vi": "Cuối tháng, tôi xem lại ghi chú tiếng Anh của mình.",
+      "start": 0.02,
+      "end": 4.79
+    },
+    {
+      "index": 2,
+      "text": "I had learned a lot of phrases, but some of them felt blurry.",
+      "pronunciation": "ai had lơrnd ờ lot ờv phrây-ziz, bớt săm ờv đem felt blờ-ri.",
+      "vi": "Tôi đã học nhiều cụm, nhưng một số cụm vẫn còn mơ hồ.",
+      "start": 4.95,
+      "end": 9.54
+    },
+    {
+      "index": 3,
+      "text": "So I picked a few stories and listened to the audio again.",
+      "pronunciation": "sâu ai píkt ờ phiu sto-riz en lis-sần tu đi o-đi-ô ờ-gen.",
+      "vi": "Nên tôi chọn vài story và nghe lại audio.",
+      "start": 9.7,
+      "end": 13.81
+    },
+    {
+      "index": 4,
+      "text": "I marked the phrases that still felt hard.",
+      "pronunciation": "ai máct đờ phrây-ziz đat stil felt haad.",
+      "vi": "Tôi đánh dấu những cụm vẫn thấy khó.",
+      "start": 13.97,
+      "end": 17.18
+    },
+    {
+      "index": 5,
+      "text": "Then I set a small goal for the next month.",
+      "pronunciation": "đen ai se-rờ smol gâu fo đờ nekst mănth.",
+      "vi": "Rồi tôi đặt một mục tiêu nhỏ cho tháng tới.",
+      "start": 17.34,
+      "end": 20.51
+    },
+    {
+      "index": 6,
+      "text": "I did not master everything, but I could clearly see my progress.",
+      "pronunciation": "ai đi nót mát-stờ ev-ri-thinh, bớt ai kud kliờ-li si mai pró-gres.",
+      "vi": "Tôi chưa thành thạo mọi thứ, nhưng tôi thấy rõ tiến bộ của mình.",
+      "start": 20.67,
+      "end": 25.09
+    }
+  ],
+  "audioMale1": "audio_male_1/030-monthly-review.mp3",
+  "durationMale1": 29.49,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "At the end of the month, I looked back at my English notes.",
+      "pronunciation": "at đờ end ờv đờ mănth, ai lúc béc-kat mai ing-glish nouts.",
+      "vi": "Cuối tháng, tôi xem lại ghi chú tiếng Anh của mình.",
+      "start": 0.02,
+      "end": 4.96
+    },
+    {
+      "index": 2,
+      "text": "I had learned a lot of phrases, but some of them felt blurry.",
+      "pronunciation": "ai had lơrnd ờ lot ờv phrây-ziz, bớt săm ờv đem felt blờ-ri.",
+      "vi": "Tôi đã học nhiều cụm, nhưng một số cụm vẫn còn mơ hồ.",
+      "start": 5.12,
+      "end": 10.49
+    },
+    {
+      "index": 3,
+      "text": "So I picked a few stories and listened to the audio again.",
+      "pronunciation": "sâu ai píkt ờ phiu sto-riz en lis-sần tu đi o-đi-ô ờ-gen.",
+      "vi": "Nên tôi chọn vài story và nghe lại audio.",
+      "start": 10.65,
+      "end": 16.39
+    },
+    {
+      "index": 4,
+      "text": "I marked the phrases that still felt hard.",
+      "pronunciation": "ai máct đờ phrây-ziz đat stil felt haad.",
+      "vi": "Tôi đánh dấu những cụm vẫn thấy khó.",
+      "start": 16.55,
+      "end": 20.29
+    },
+    {
+      "index": 5,
+      "text": "Then I set a small goal for the next month.",
+      "pronunciation": "đen ai se-rờ smol gâu fo đờ nekst mănth.",
+      "vi": "Rồi tôi đặt một mục tiêu nhỏ cho tháng tới.",
+      "start": 20.45,
+      "end": 24.06
+    },
+    {
+      "index": 6,
+      "text": "I did not master everything, but I could clearly see my progress.",
+      "pronunciation": "ai đi nót mát-stờ ev-ri-thinh, bớt ai kud kliờ-li si mai pró-gres.",
+      "vi": "Tôi chưa thành thạo mọi thứ, nhưng tôi thấy rõ tiến bộ của mình.",
+      "start": 24.22,
+      "end": 29.41
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "At the end of the month, I looked back at my English notes.",
+      "pronunciation": "at đờ end ờv đờ mănth, ai lúc béc-kat mai ing-glish nouts.",
+      "vi": "Cuối tháng, tôi xem lại ghi chú tiếng Anh của mình.",
+      "start": 0.02,
+      "end": 4.05
+    },
+    {
+      "index": 2,
+      "text": "I had learned a lot of phrases, but some of them felt blurry.",
+      "pronunciation": "ai had lơrnd ờ lot ờv phrây-ziz, bớt săm ờv đem felt blờ-ri.",
+      "vi": "Tôi đã học nhiều cụm, nhưng một số cụm vẫn còn mơ hồ.",
+      "start": 4.21,
+      "end": 8.7
+    },
+    {
+      "index": 3,
+      "text": "So I picked a few stories and listened to the audio again.",
+      "pronunciation": "sâu ai píkt ờ phiu sto-riz en lis-sần tu đi o-đi-ô ờ-gen.",
+      "vi": "Nên tôi chọn vài story và nghe lại audio.",
+      "start": 8.86,
+      "end": 13.16
+    },
+    {
+      "index": 4,
+      "text": "I marked the phrases that still felt hard.",
+      "pronunciation": "ai máct đờ phrây-ziz đat stil felt haad.",
+      "vi": "Tôi đánh dấu những cụm vẫn thấy khó.",
+      "start": 13.32,
+      "end": 16.4
+    },
+    {
+      "index": 5,
+      "text": "Then I set a small goal for the next month.",
+      "pronunciation": "đen ai se-rờ smol gâu fo đờ nekst mănth.",
+      "vi": "Rồi tôi đặt một mục tiêu nhỏ cho tháng tới.",
+      "start": 16.56,
+      "end": 19.97
+    },
+    {
+      "index": 6,
+      "text": "I did not master everything, but I could clearly see my progress.",
+      "pronunciation": "ai đi nót mát-stờ ev-ri-thinh, bớt ai kud kliờ-li si mai pró-gres.",
+      "vi": "Tôi chưa thành thạo mọi thứ, nhưng tôi thấy rõ tiến bộ của mình.",
+      "start": 20.13,
+      "end": 24.92
+    }
+  ]
+}

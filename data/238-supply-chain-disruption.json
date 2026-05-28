@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "238-supply-chain-disruption",
+  "title": "Story 238 - Nghe về gián đoạn supply chain",
+  "story": "stories/238-supply-chain-disruption.md",
+  "audio": "audio/238-supply-chain-disruption.mp3",
+  "duration": 30.6,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/238-supply-chain-disruption.mp3",
+  "durationMale": 30.6,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the supply disruption before I made a final choice.",
+      "pronunciation": "ai chékt đờ sờ-plai đis-rớp-shần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra gián đoạn nguồn cung trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.01
+    },
+    {
+      "index": 2,
+      "text": "One port delay made the situation less simple than it looked.",
+      "pronunciation": "quăn port đi-lây mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Trễ cảng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.17,
+      "end": 8.14
+    },
+    {
+      "index": 3,
+      "text": "I decided to adjust inventory levels before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ờ-jớst inventori le-vồz bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định điều chỉnh mức tồn kho trước khi tiếp tục.",
+      "start": 8.3,
+      "end": 12.54
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short supply note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt sờ-plai note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú nguồn cung ngắn để người kia hiểu tôi.",
+      "start": 12.7,
+      "end": 16.88
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check backup suppliers instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék béc-ấp suppliers in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra nhà cung cấp dự phòng thay vì đoán.",
+      "start": 17.04,
+      "end": 21.16
+    },
+    {
+      "index": 6,
+      "text": "That helped me keep goods moving without adding extra stress.",
+      "pronunciation": "đat heo mi kip guds mu-ving quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giữ hàng hóa lưu chuyển mà không thêm căng thẳng.",
+      "start": 21.32,
+      "end": 25.56
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.72,
+      "end": 30.52
+    }
+  ],
+  "audioMale1": "audio_male_1/238-supply-chain-disruption.mp3",
+  "durationMale1": 35.81,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the supply disruption before I made a final choice.",
+      "pronunciation": "ai chékt đờ sờ-plai đis-rớp-shần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra gián đoạn nguồn cung trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.09
+    },
+    {
+      "index": 2,
+      "text": "One port delay made the situation less simple than it looked.",
+      "pronunciation": "quăn port đi-lây mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Trễ cảng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.25,
+      "end": 10.14
+    },
+    {
+      "index": 3,
+      "text": "I decided to adjust inventory levels before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ờ-jớst inventori le-vồz bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định điều chỉnh mức tồn kho trước khi tiếp tục.",
+      "start": 10.3,
+      "end": 15.27
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short supply note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt sờ-plai note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú nguồn cung ngắn để người kia hiểu tôi.",
+      "start": 15.43,
+      "end": 20.32
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check backup suppliers instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék béc-ấp suppliers in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra nhà cung cấp dự phòng thay vì đoán.",
+      "start": 20.48,
+      "end": 25.15
+    },
+    {
+      "index": 6,
+      "text": "That helped me keep goods moving without adding extra stress.",
+      "pronunciation": "đat heo mi kip guds mu-ving quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giữ hàng hóa lưu chuyển mà không thêm căng thẳng.",
+      "start": 25.31,
+      "end": 30.06
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.22,
+      "end": 35.73
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the supply disruption before I made a final choice.",
+      "pronunciation": "ai chékt đờ sờ-plai đis-rớp-shần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra gián đoạn nguồn cung trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.23
+    },
+    {
+      "index": 2,
+      "text": "One port delay made the situation less simple than it looked.",
+      "pronunciation": "quăn port đi-lây mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Trễ cảng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.39,
+      "end": 8.73
+    },
+    {
+      "index": 3,
+      "text": "I decided to adjust inventory levels before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ờ-jớst inventori le-vồz bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định điều chỉnh mức tồn kho trước khi tiếp tục.",
+      "start": 8.89,
+      "end": 12.8
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short supply note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt sờ-plai note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú nguồn cung ngắn để người kia hiểu tôi.",
+      "start": 12.96,
+      "end": 17.49
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check backup suppliers instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék béc-ấp suppliers in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra nhà cung cấp dự phòng thay vì đoán.",
+      "start": 17.65,
+      "end": 21.65
+    },
+    {
+      "index": 6,
+      "text": "That helped me keep goods moving without adding extra stress.",
+      "pronunciation": "đat heo mi kip guds mu-ving quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giữ hàng hóa lưu chuyển mà không thêm căng thẳng.",
+      "start": 21.81,
+      "end": 25.94
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.1,
+      "end": 30.52
+    }
+  ]
+}

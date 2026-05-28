@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "033-define-the-scope",
+  "title": "Story 033 - Chốt phạm vi công việc",
+  "story": "stories/033-define-the-scope.md",
+  "audio": "audio/033-define-the-scope.mp3",
+  "duration": 24.65,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/033-define-the-scope.mp3",
+  "durationMale": 25.11,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "At the start of the project, the request sounded simple.",
+      "pronunciation": "at đờ staart ờv đờ pró-jekt, đờ ri-quest sao-địt sim-pồ.",
+      "vi": "Lúc bắt đầu dự án, yêu cầu nghe có vẻ đơn giản.",
+      "start": 0.02,
+      "end": 4.04
+    },
+    {
+      "index": 2,
+      "text": "But when we broke it down, the scope was bigger than expected.",
+      "pronunciation": "bớt quen quy brô-kịt daun, đờ skoup wờz bi-gờ đen ích-spek-tịt.",
+      "vi": "Nhưng khi chúng tôi tách nhỏ ra, phạm vi lớn hơn dự kiến.",
+      "start": 4.2,
+      "end": 8
+    },
+    {
+      "index": 3,
+      "text": "I listed the must-have parts and the nice-to-have parts.",
+      "pronunciation": "ai lis-tịt đờ mớst-hav parts en đờ nais-tu-hav parts.",
+      "vi": "Tôi liệt kê những phần bắt buộc phải có và những phần có thì tốt.",
+      "start": 8.16,
+      "end": 12.45
+    },
+    {
+      "index": 4,
+      "text": "Then I asked the team to prioritize the most important items.",
+      "pronunciation": "đen ai áskt đờ tim tu prai-o-rờ-taiz đờ môust im-po-tần ai-tầmz.",
+      "vi": "Sau đó, tôi nhờ cả nhóm ưu tiên những mục quan trọng nhất.",
+      "start": 12.61,
+      "end": 16.87
+    },
+    {
+      "index": 5,
+      "text": "We agreed to start with a small version first.",
+      "pronunciation": "quy ờ-grid tu staart quít ờ smol vơr-zhần phớrst.",
+      "vi": "Chúng tôi thống nhất bắt đầu bằng một phiên bản nhỏ trước.",
+      "start": 17.03,
+      "end": 20.39
+    },
+    {
+      "index": 6,
+      "text": "That plan helped everyone avoid extra work and stay focused.",
+      "pronunciation": "đat plen heo ev-ri-quan ờ-void ek-strờ quớrk en stây phâu-kớst.",
+      "vi": "Kế hoạch đó giúp mọi người tránh việc phát sinh thêm và giữ tập trung.",
+      "start": 20.55,
+      "end": 25.03
+    }
+  ],
+  "audioMale1": "audio_male_1/033-define-the-scope.mp3",
+  "durationMale1": 26.94,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "At the start of the project, the request sounded simple.",
+      "pronunciation": "at đờ staart ờv đờ pró-jekt, đờ ri-quest sao-địt sim-pồ.",
+      "vi": "Lúc bắt đầu dự án, yêu cầu nghe có vẻ đơn giản.",
+      "start": 0.02,
+      "end": 4.45
+    },
+    {
+      "index": 2,
+      "text": "But when we broke it down, the scope was bigger than expected.",
+      "pronunciation": "bớt quen quy brô-kịt daun, đờ skoup wờz bi-gờ đen ích-spek-tịt.",
+      "vi": "Nhưng khi chúng tôi tách nhỏ ra, phạm vi lớn hơn dự kiến.",
+      "start": 4.61,
+      "end": 8.88
+    },
+    {
+      "index": 3,
+      "text": "I listed the must-have parts and the nice-to-have parts.",
+      "pronunciation": "ai lis-tịt đờ mớst-hav parts en đờ nais-tu-hav parts.",
+      "vi": "Tôi liệt kê những phần bắt buộc phải có và những phần có thì tốt.",
+      "start": 9.04,
+      "end": 13.38
+    },
+    {
+      "index": 4,
+      "text": "Then I asked the team to prioritize the most important items.",
+      "pronunciation": "đen ai áskt đờ tim tu prai-o-rờ-taiz đờ môust im-po-tần ai-tầmz.",
+      "vi": "Sau đó, tôi nhờ cả nhóm ưu tiên những mục quan trọng nhất.",
+      "start": 13.54,
+      "end": 18.37
+    },
+    {
+      "index": 5,
+      "text": "We agreed to start with a small version first.",
+      "pronunciation": "quy ờ-grid tu staart quít ờ smol vơr-zhần phớrst.",
+      "vi": "Chúng tôi thống nhất bắt đầu bằng một phiên bản nhỏ trước.",
+      "start": 18.53,
+      "end": 22.4
+    },
+    {
+      "index": 6,
+      "text": "That plan helped everyone avoid extra work and stay focused.",
+      "pronunciation": "đat plen heo ev-ri-quan ờ-void ek-strờ quớrk en stây phâu-kớst.",
+      "vi": "Kế hoạch đó giúp mọi người tránh việc phát sinh thêm và giữ tập trung.",
+      "start": 22.56,
+      "end": 26.86
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "At the start of the project, the request sounded simple.",
+      "pronunciation": "at đờ staart ờv đờ pró-jekt, đờ ri-quest sao-địt sim-pồ.",
+      "vi": "Lúc bắt đầu dự án, yêu cầu nghe có vẻ đơn giản.",
+      "start": 0.02,
+      "end": 4.29
+    },
+    {
+      "index": 2,
+      "text": "But when we broke it down, the scope was bigger than expected.",
+      "pronunciation": "bớt quen quy brô-kịt daun, đờ skoup wờz bi-gờ đen ích-spek-tịt.",
+      "vi": "Nhưng khi chúng tôi tách nhỏ ra, phạm vi lớn hơn dự kiến.",
+      "start": 4.45,
+      "end": 8.65
+    },
+    {
+      "index": 3,
+      "text": "I listed the must-have parts and the nice-to-have parts.",
+      "pronunciation": "ai lis-tịt đờ mớst-hav parts en đờ nais-tu-hav parts.",
+      "vi": "Tôi liệt kê những phần bắt buộc phải có và những phần có thì tốt.",
+      "start": 8.81,
+      "end": 12.72
+    },
+    {
+      "index": 4,
+      "text": "Then I asked the team to prioritize the most important items.",
+      "pronunciation": "đen ai áskt đờ tim tu prai-o-rờ-taiz đờ môust im-po-tần ai-tầmz.",
+      "vi": "Sau đó, tôi nhờ cả nhóm ưu tiên những mục quan trọng nhất.",
+      "start": 12.88,
+      "end": 17.26
+    },
+    {
+      "index": 5,
+      "text": "We agreed to start with a small version first.",
+      "pronunciation": "quy ờ-grid tu staart quít ờ smol vơr-zhần phớrst.",
+      "vi": "Chúng tôi thống nhất bắt đầu bằng một phiên bản nhỏ trước.",
+      "start": 17.42,
+      "end": 20.37
+    },
+    {
+      "index": 6,
+      "text": "That plan helped everyone avoid extra work and stay focused.",
+      "pronunciation": "đat plen heo ev-ri-quan ờ-void ek-strờ quớrk en stây phâu-kớst.",
+      "vi": "Kế hoạch đó giúp mọi người tránh việc phát sinh thêm và giữ tập trung.",
+      "start": 20.53,
+      "end": 24.57
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "269-public-data-release",
+  "title": "Story 269 - Theo dõi public data release",
+  "story": "stories/269-public-data-release.md",
+  "audio": "audio/269-public-data-release.mp3",
+  "duration": 32.55,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/269-public-data-release.mp3",
+  "durationMale": 33.62,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I listened to the public dataset release before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ pớ-blik dataset ri-lis bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe release dataset công khai trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.46
+    },
+    {
+      "index": 2,
+      "text": "One missing context made the update harder to explain.",
+      "pronunciation": "quăn mis-sing kón-tekst mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một thiếu context làm phần update khó giải thích hơn.",
+      "start": 4.62,
+      "end": 8.85
+    },
+    {
+      "index": 3,
+      "text": "I tried to clean the dataset instead of reacting too quickly.",
+      "pronunciation": "ai traid tu klin đờ dataset in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố làm sạch dataset thay vì phản ứng quá vội.",
+      "start": 9.01,
+      "end": 13.23
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short data release note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt đây-tờ ri-lis note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú release data ngắn để các facts rõ ràng.",
+      "start": 13.39,
+      "end": 18.12
+    },
+    {
+      "index": 5,
+      "text": "I also had to check privacy safeguards before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék prai-vờ-si safeguards bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra safeguard privacy trước khi lặp lại claim đó.",
+      "start": 18.28,
+      "end": 23.09
+    },
+    {
+      "index": 6,
+      "text": "That helped me make findings trustworthy without making the conversation tense.",
+      "pronunciation": "đat heo mi mêik findings trustworthi quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi làm finding đáng tin hơn mà không làm cuộc trao đổi căng thẳng.",
+      "start": 23.25,
+      "end": 28.44
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 28.6,
+      "end": 33.54
+    }
+  ],
+  "audioMale1": "audio_male_1/269-public-data-release.mp3",
+  "durationMale1": 36.29,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I listened to the public dataset release before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ pớ-blik dataset ri-lis bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe release dataset công khai trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 5.25
+    },
+    {
+      "index": 2,
+      "text": "One missing context made the update harder to explain.",
+      "pronunciation": "quăn mis-sing kón-tekst mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một thiếu context làm phần update khó giải thích hơn.",
+      "start": 5.41,
+      "end": 10.03
+    },
+    {
+      "index": 3,
+      "text": "I tried to clean the dataset instead of reacting too quickly.",
+      "pronunciation": "ai traid tu klin đờ dataset in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố làm sạch dataset thay vì phản ứng quá vội.",
+      "start": 10.19,
+      "end": 15.1
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short data release note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt đây-tờ ri-lis note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú release data ngắn để các facts rõ ràng.",
+      "start": 15.26,
+      "end": 20.33
+    },
+    {
+      "index": 5,
+      "text": "I also had to check privacy safeguards before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék prai-vờ-si safeguards bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra safeguard privacy trước khi lặp lại claim đó.",
+      "start": 20.49,
+      "end": 25.73
+    },
+    {
+      "index": 6,
+      "text": "That helped me make findings trustworthy without making the conversation tense.",
+      "pronunciation": "đat heo mi mêik findings trustworthi quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi làm finding đáng tin hơn mà không làm cuộc trao đổi căng thẳng.",
+      "start": 25.89,
+      "end": 31.63
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 31.79,
+      "end": 36.21
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I listened to the public dataset release before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ pớ-blik dataset ri-lis bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe release dataset công khai trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 5.22
+    },
+    {
+      "index": 2,
+      "text": "One missing context made the update harder to explain.",
+      "pronunciation": "quăn mis-sing kón-tekst mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một thiếu context làm phần update khó giải thích hơn.",
+      "start": 5.38,
+      "end": 9.36
+    },
+    {
+      "index": 3,
+      "text": "I tried to clean the dataset instead of reacting too quickly.",
+      "pronunciation": "ai traid tu klin đờ dataset in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố làm sạch dataset thay vì phản ứng quá vội.",
+      "start": 9.52,
+      "end": 13.94
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short data release note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt đây-tờ ri-lis note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú release data ngắn để các facts rõ ràng.",
+      "start": 14.1,
+      "end": 18.27
+    },
+    {
+      "index": 5,
+      "text": "I also had to check privacy safeguards before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék prai-vờ-si safeguards bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra safeguard privacy trước khi lặp lại claim đó.",
+      "start": 18.43,
+      "end": 23.25
+    },
+    {
+      "index": 6,
+      "text": "That helped me make findings trustworthy without making the conversation tense.",
+      "pronunciation": "đat heo mi mêik findings trustworthi quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi làm finding đáng tin hơn mà không làm cuộc trao đổi căng thẳng.",
+      "start": 23.41,
+      "end": 28.37
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 28.53,
+      "end": 32.47
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "091-current-situation",
+  "title": "Story 091 - Nhìn tình hình hiện tại",
+  "story": "stories/091-current-situation.md",
+  "audio": "audio/091-current-situation.mp3",
+  "duration": 32.44,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/091-current-situation.mp3",
+  "durationMale": 29.22,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the current situation in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ kờ-rần situashần in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả tình hình hiện tại bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 4.92
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the rising traffic, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ rai-zing tra-phik, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là lưu lượng giao thông tăng, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.08,
+      "end": 11.13
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the daily commute because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ đây-li kommute bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về việc đi lại hằng ngày vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.29,
+      "end": 15.69
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the public update as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ pớ-blik ấp-đêit as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến cập nhật công khai như một chi tiết quan trọng.",
+      "start": 15.85,
+      "end": 19.91
+    },
+    {
+      "index": 5,
+      "text": "Experts said the next few weeks would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ nekst phiu wiks quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói vài tuần tới sẽ quan trọng trong vài tháng tới.",
+      "start": 20.07,
+      "end": 24.04
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand the context instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan đờ kón-tekst in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu bối cảnh thay vì chỉ đọc tiêu đề.",
+      "start": 24.2,
+      "end": 29.14
+    }
+  ],
+  "audioMale1": "audio_male_1/091-current-situation.mp3",
+  "durationMale1": 36.9,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the current situation in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ kờ-rần situashần in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả tình hình hiện tại bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 6.44
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the rising traffic, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ rai-zing tra-phik, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là lưu lượng giao thông tăng, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 6.6,
+      "end": 13.77
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the daily commute because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ đây-li kommute bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về việc đi lại hằng ngày vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 13.93,
+      "end": 19.85
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the public update as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ pớ-blik ấp-đêit as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến cập nhật công khai như một chi tiết quan trọng.",
+      "start": 20.01,
+      "end": 25.19
+    },
+    {
+      "index": 5,
+      "text": "Experts said the next few weeks would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ nekst phiu wiks quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói vài tuần tới sẽ quan trọng trong vài tháng tới.",
+      "start": 25.35,
+      "end": 30.75
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand the context instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan đờ kón-tekst in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu bối cảnh thay vì chỉ đọc tiêu đề.",
+      "start": 30.91,
+      "end": 36.82
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the current situation in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ kờ-rần situashần in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả tình hình hiện tại bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.56
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the rising traffic, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ rai-zing tra-phik, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là lưu lượng giao thông tăng, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.72,
+      "end": 11.95
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the daily commute because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ đây-li kommute bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về việc đi lại hằng ngày vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12.11,
+      "end": 17.15
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the public update as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ pớ-blik ấp-đêit as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến cập nhật công khai như một chi tiết quan trọng.",
+      "start": 17.31,
+      "end": 22.19
+    },
+    {
+      "index": 5,
+      "text": "Experts said the next few weeks would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ nekst phiu wiks quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói vài tuần tới sẽ quan trọng trong vài tháng tới.",
+      "start": 22.35,
+      "end": 27.22
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand the context instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan đờ kón-tekst in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu bối cảnh thay vì chỉ đọc tiêu đề.",
+      "start": 27.38,
+      "end": 32.36
+    }
+  ]
+}

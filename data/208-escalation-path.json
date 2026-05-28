@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "208-escalation-path",
+  "title": "Story 208 - Chuẩn bị escalation path",
+  "story": "stories/208-escalation-path.md",
+  "audio": "audio/208-escalation-path.mp3",
+  "duration": 31.45,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/208-escalation-path.mp3",
+  "durationMale": 32.29,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the escalation path before I made a final choice.",
+      "pronunciation": "ai chékt đờ eskalashần path bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra đường escalation trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.86
+    },
+    {
+      "index": 2,
+      "text": "One stuck ticket made the situation less simple than it looked.",
+      "pronunciation": "quăn stớk ti-kịt mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Ticket bị kẹt làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.02,
+      "end": 9.45
+    },
+    {
+      "index": 3,
+      "text": "I decided to involve a specialist before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu involve ờ spesialist bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định mời specialist tham gia trước khi tiếp tục.",
+      "start": 9.61,
+      "end": 14.01
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short escalation note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt eskalashần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú escalation ngắn để người kia hiểu tôi.",
+      "start": 14.17,
+      "end": 18.79
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the response time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ ri-spons taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra thời gian phản hồi thay vì đoán.",
+      "start": 18.95,
+      "end": 22.97
+    },
+    {
+      "index": 6,
+      "text": "That helped me unblock the team without adding extra stress.",
+      "pronunciation": "đat heo mi unblok đờ tim quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi gỡ kẹt cho team mà không thêm căng thẳng.",
+      "start": 23.13,
+      "end": 27.08
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.24,
+      "end": 32.21
+    }
+  ],
+  "audioMale1": "audio_male_1/208-escalation-path.mp3",
+  "durationMale1": 37.49,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the escalation path before I made a final choice.",
+      "pronunciation": "ai chékt đờ eskalashần path bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra đường escalation trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.45
+    },
+    {
+      "index": 2,
+      "text": "One stuck ticket made the situation less simple than it looked.",
+      "pronunciation": "quăn stớk ti-kịt mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Ticket bị kẹt làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.61,
+      "end": 10.96
+    },
+    {
+      "index": 3,
+      "text": "I decided to involve a specialist before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu involve ờ spesialist bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định mời specialist tham gia trước khi tiếp tục.",
+      "start": 11.12,
+      "end": 15.9
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short escalation note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt eskalashần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú escalation ngắn để người kia hiểu tôi.",
+      "start": 16.06,
+      "end": 21.39
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the response time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ ri-spons taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra thời gian phản hồi thay vì đoán.",
+      "start": 21.55,
+      "end": 26.02
+    },
+    {
+      "index": 6,
+      "text": "That helped me unblock the team without adding extra stress.",
+      "pronunciation": "đat heo mi unblok đờ tim quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi gỡ kẹt cho team mà không thêm căng thẳng.",
+      "start": 26.18,
+      "end": 31.18
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 31.34,
+      "end": 37.41
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the escalation path before I made a final choice.",
+      "pronunciation": "ai chékt đờ eskalashần path bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra đường escalation trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.28
+    },
+    {
+      "index": 2,
+      "text": "One stuck ticket made the situation less simple than it looked.",
+      "pronunciation": "quăn stớk ti-kịt mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Ticket bị kẹt làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.44,
+      "end": 8.28
+    },
+    {
+      "index": 3,
+      "text": "I decided to involve a specialist before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu involve ờ spesialist bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định mời specialist tham gia trước khi tiếp tục.",
+      "start": 8.44,
+      "end": 12.67
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short escalation note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt eskalashần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú escalation ngắn để người kia hiểu tôi.",
+      "start": 12.83,
+      "end": 17.68
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the response time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ ri-spons taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra thời gian phản hồi thay vì đoán.",
+      "start": 17.84,
+      "end": 21.67
+    },
+    {
+      "index": 6,
+      "text": "That helped me unblock the team without adding extra stress.",
+      "pronunciation": "đat heo mi unblok đờ tim quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi gỡ kẹt cho team mà không thêm căng thẳng.",
+      "start": 21.83,
+      "end": 26.2
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.36,
+      "end": 31.37
+    }
+  ]
+}

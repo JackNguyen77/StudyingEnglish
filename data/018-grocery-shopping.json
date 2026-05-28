@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "018-grocery-shopping",
+  "title": "Story 018 - Đi mua đồ ăn",
+  "story": "stories/018-grocery-shopping.md",
+  "audio": "audio/018-grocery-shopping.mp3",
+  "duration": 24.39,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/018-grocery-shopping.mp3",
+  "durationMale": 24.55,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I ran out of eggs, so I stopped by the grocery store.",
+      "pronunciation": "ai răn ao ờv egz, sâu ai stópt bai đờ grâu-sờ-ri sto.",
+      "vi": "Tôi hết trứng, nên tôi ghé cửa hàng tạp hóa.",
+      "start": 0.02,
+      "end": 4.13
+    },
+    {
+      "index": 2,
+      "text": "I picked out a few things for dinner and looked for something on sale.",
+      "pronunciation": "ai pík-kạo ờ phiu thingz fo đi-nờ en lúkt fo săm-thinh on sêil.",
+      "vi": "Tôi chọn vài món cho bữa tối và tìm thứ gì đó đang giảm giá.",
+      "start": 4.29,
+      "end": 8.48
+    },
+    {
+      "index": 3,
+      "text": "The store was crowded, but the line moved quickly.",
+      "pronunciation": "đờ sto wờz krao-địt, bớt đờ lain muvd quík-li.",
+      "vi": "Cửa hàng đông, nhưng hàng chờ di chuyển nhanh.",
+      "start": 8.64,
+      "end": 12.52
+    },
+    {
+      "index": 4,
+      "text": "At checkout, I realized I had forgotten my reusable bag.",
+      "pronunciation": "at chék-ao, ai ri-ờ-laizd ai had fo-got-tần mai ri-yu-zờ-bồ bag.",
+      "vi": "Lúc thanh toán, tôi nhận ra mình quên túi tái sử dụng.",
+      "start": 12.68,
+      "end": 16.96
+    },
+    {
+      "index": 5,
+      "text": "I paid for everything and carried the groceries home.",
+      "pronunciation": "ai pêid fo ev-ri-thinh en ke-rid đờ grâu-sờ-riz hôm.",
+      "vi": "Tôi trả tiền mọi thứ và xách đồ ăn về nhà.",
+      "start": 17.12,
+      "end": 20.82
+    },
+    {
+      "index": 6,
+      "text": "It was a small errand, but I was glad to get it done.",
+      "pronunciation": "ịt wờz ờ smol e-rần, bớt ai wờz glad tu gé-tịt đăn.",
+      "vi": "Đó là một việc vặt nhỏ, nhưng tôi mừng vì đã làm xong.",
+      "start": 20.98,
+      "end": 24.47
+    }
+  ],
+  "audioMale1": "audio_male_1/018-grocery-shopping.mp3",
+  "durationMale1": 25.88,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I ran out of eggs, so I stopped by the grocery store.",
+      "pronunciation": "ai răn ao ờv egz, sâu ai stópt bai đờ grâu-sờ-ri sto.",
+      "vi": "Tôi hết trứng, nên tôi ghé cửa hàng tạp hóa.",
+      "start": 0.02,
+      "end": 4.73
+    },
+    {
+      "index": 2,
+      "text": "I picked out a few things for dinner and looked for something on sale.",
+      "pronunciation": "ai pík-kạo ờ phiu thingz fo đi-nờ en lúkt fo săm-thinh on sêil.",
+      "vi": "Tôi chọn vài món cho bữa tối và tìm thứ gì đó đang giảm giá.",
+      "start": 4.89,
+      "end": 9.22
+    },
+    {
+      "index": 3,
+      "text": "The store was crowded, but the line moved quickly.",
+      "pronunciation": "đờ sto wờz krao-địt, bớt đờ lain muvd quík-li.",
+      "vi": "Cửa hàng đông, nhưng hàng chờ di chuyển nhanh.",
+      "start": 9.38,
+      "end": 13.25
+    },
+    {
+      "index": 4,
+      "text": "At checkout, I realized I had forgotten my reusable bag.",
+      "pronunciation": "at chék-ao, ai ri-ờ-laizd ai had fo-got-tần mai ri-yu-zờ-bồ bag.",
+      "vi": "Lúc thanh toán, tôi nhận ra mình quên túi tái sử dụng.",
+      "start": 13.41,
+      "end": 17.97
+    },
+    {
+      "index": 5,
+      "text": "I paid for everything and carried the groceries home.",
+      "pronunciation": "ai pêid fo ev-ri-thinh en ke-rid đờ grâu-sờ-riz hôm.",
+      "vi": "Tôi trả tiền mọi thứ và xách đồ ăn về nhà.",
+      "start": 18.13,
+      "end": 21.82
+    },
+    {
+      "index": 6,
+      "text": "It was a small errand, but I was glad to get it done.",
+      "pronunciation": "ịt wờz ờ smol e-rần, bớt ai wờz glad tu gé-tịt đăn.",
+      "vi": "Đó là một việc vặt nhỏ, nhưng tôi mừng vì đã làm xong.",
+      "start": 21.98,
+      "end": 25.8
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I ran out of eggs, so I stopped by the grocery store.",
+      "pronunciation": "ai răn ao ờv egz, sâu ai stópt bai đờ grâu-sờ-ri sto.",
+      "vi": "Tôi hết trứng, nên tôi ghé cửa hàng tạp hóa.",
+      "start": 0.02,
+      "end": 3.82
+    },
+    {
+      "index": 2,
+      "text": "I picked out a few things for dinner and looked for something on sale.",
+      "pronunciation": "ai pík-kạo ờ phiu thingz fo đi-nờ en lúkt fo săm-thinh on sêil.",
+      "vi": "Tôi chọn vài món cho bữa tối và tìm thứ gì đó đang giảm giá.",
+      "start": 3.98,
+      "end": 10.06
+    },
+    {
+      "index": 3,
+      "text": "The store was crowded, but the line moved quickly.",
+      "pronunciation": "đờ sto wờz krao-địt, bớt đờ lain muvd quík-li.",
+      "vi": "Cửa hàng đông, nhưng hàng chờ di chuyển nhanh.",
+      "start": 10.22,
+      "end": 13.52
+    },
+    {
+      "index": 4,
+      "text": "At checkout, I realized I had forgotten my reusable bag.",
+      "pronunciation": "at chék-ao, ai ri-ờ-laizd ai had fo-got-tần mai ri-yu-zờ-bồ bag.",
+      "vi": "Lúc thanh toán, tôi nhận ra mình quên túi tái sử dụng.",
+      "start": 13.68,
+      "end": 16.74
+    },
+    {
+      "index": 5,
+      "text": "I paid for everything and carried the groceries home.",
+      "pronunciation": "ai pêid fo ev-ri-thinh en ke-rid đờ grâu-sờ-riz hôm.",
+      "vi": "Tôi trả tiền mọi thứ và xách đồ ăn về nhà.",
+      "start": 16.9,
+      "end": 20.48
+    },
+    {
+      "index": 6,
+      "text": "It was a small errand, but I was glad to get it done.",
+      "pronunciation": "ịt wờz ờ smol e-rần, bớt ai wờz glad tu gé-tịt đăn.",
+      "vi": "Đó là một việc vặt nhỏ, nhưng tôi mừng vì đã làm xong.",
+      "start": 20.64,
+      "end": 24.31
+    }
+  ]
+}

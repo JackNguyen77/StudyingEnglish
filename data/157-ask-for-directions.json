@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "157-ask-for-directions",
+  "title": "Story 157 - Hỏi đường ở nơi lạ",
+  "story": "stories/157-ask-for-directions.md",
+  "audio": "audio/157-ask-for-directions.mp3",
+  "duration": 30.56,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/157-ask-for-directions.mp3",
+  "durationMale": 32.66,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the street sign before I made a final choice.",
+      "pronunciation": "ai chékt đờ strit sain bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra biển chỉ đường trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.33
+    },
+    {
+      "index": 2,
+      "text": "One wrong turn made the situation less simple than it looked.",
+      "pronunciation": "quăn rong tơn mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Rẽ nhầm làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.49,
+      "end": 9.32
+    },
+    {
+      "index": 3,
+      "text": "I decided to ask a local person before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu át-sờk ờ lâu-kồ pơ-sần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định hỏi người địa phương trước khi tiếp tục.",
+      "start": 9.48,
+      "end": 13.55
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short direction note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt direkshần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú chỉ đường ngắn để người kia hiểu tôi.",
+      "start": 13.71,
+      "end": 18.62
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the landmark instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ landmark in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra mốc nhận biết thay vì đoán.",
+      "start": 18.78,
+      "end": 22.67
+    },
+    {
+      "index": 6,
+      "text": "That helped me find the right place without adding extra stress.",
+      "pronunciation": "đat heo mi phain đờ rait plêis quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tìm đúng nơi mà không thêm căng thẳng.",
+      "start": 22.83,
+      "end": 27.37
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.53,
+      "end": 32.58
+    }
+  ],
+  "audioMale1": "audio_male_1/157-ask-for-directions.mp3",
+  "durationMale1": 34.44,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the street sign before I made a final choice.",
+      "pronunciation": "ai chékt đờ strit sain bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra biển chỉ đường trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.25
+    },
+    {
+      "index": 2,
+      "text": "One wrong turn made the situation less simple than it looked.",
+      "pronunciation": "quăn rong tơn mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Rẽ nhầm làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.41,
+      "end": 9.97
+    },
+    {
+      "index": 3,
+      "text": "I decided to ask a local person before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu át-sờk ờ lâu-kồ pơ-sần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định hỏi người địa phương trước khi tiếp tục.",
+      "start": 10.13,
+      "end": 14.94
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short direction note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt direkshần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú chỉ đường ngắn để người kia hiểu tôi.",
+      "start": 15.1,
+      "end": 20.01
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the landmark instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ landmark in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra mốc nhận biết thay vì đoán.",
+      "start": 20.17,
+      "end": 24.11
+    },
+    {
+      "index": 6,
+      "text": "That helped me find the right place without adding extra stress.",
+      "pronunciation": "đat heo mi phain đờ rait plêis quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tìm đúng nơi mà không thêm căng thẳng.",
+      "start": 24.27,
+      "end": 28.65
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.81,
+      "end": 34.36
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the street sign before I made a final choice.",
+      "pronunciation": "ai chékt đờ strit sain bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra biển chỉ đường trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.82
+    },
+    {
+      "index": 2,
+      "text": "One wrong turn made the situation less simple than it looked.",
+      "pronunciation": "quăn rong tơn mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Rẽ nhầm làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.98,
+      "end": 7.7
+    },
+    {
+      "index": 3,
+      "text": "I decided to ask a local person before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu át-sờk ờ lâu-kồ pơ-sần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định hỏi người địa phương trước khi tiếp tục.",
+      "start": 7.86,
+      "end": 12.01
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short direction note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt direkshần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú chỉ đường ngắn để người kia hiểu tôi.",
+      "start": 12.17,
+      "end": 16.92
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the landmark instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ landmark in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra mốc nhận biết thay vì đoán.",
+      "start": 17.08,
+      "end": 20.72
+    },
+    {
+      "index": 6,
+      "text": "That helped me find the right place without adding extra stress.",
+      "pronunciation": "đat heo mi phain đờ rait plêis quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tìm đúng nơi mà không thêm căng thẳng.",
+      "start": 20.88,
+      "end": 26.19
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.35,
+      "end": 30.48
+    }
+  ]
+}

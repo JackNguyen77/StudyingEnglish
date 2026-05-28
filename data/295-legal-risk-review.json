@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "295-legal-risk-review",
+  "title": "Story 295 - Review legal risk",
+  "story": "stories/295-legal-risk-review.md",
+  "audio": "audio/295-legal-risk-review.mp3",
+  "duration": 33.06,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/295-legal-risk-review.mp3",
+  "durationMale": 31.73,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the legal risk review before the meeting started.",
+      "pronunciation": "ai quókt thru đờ legal rít-sờk ri-viu bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through review legal risk trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.47
+    },
+    {
+      "index": 2,
+      "text": "One contract ambiguity made the decision harder than expected.",
+      "pronunciation": "quăn kontrakt ambiguiti mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một điểm mơ hồ trong contract làm decision khó hơn dự kiến.",
+      "start": 4.63,
+      "end": 8.25
+    },
+    {
+      "index": 3,
+      "text": "I tried to ask for counsel input so the team had a clearer path.",
+      "pronunciation": "ai traid tu át-sờk fo kaonsel input sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố hỏi input từ counsel để team có hướng rõ hơn.",
+      "start": 8.41,
+      "end": 13.39
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short legal risk note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt legal rít-sờk note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú legal risk ngắn để capture các key points.",
+      "start": 13.55,
+      "end": 17.79
+    },
+    {
+      "index": 5,
+      "text": "I also had to check compliance exposure before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék komplianse ekspozhờ bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra exposure compliance trước khi chúng tôi thống nhất next step.",
+      "start": 17.95,
+      "end": 23.29
+    },
+    {
+      "index": 6,
+      "text": "That helped us avoid future disputes without losing momentum.",
+      "pronunciation": "đat heo ớs ờ-void phiu-chờ disputes quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi tránh tranh chấp sau này mà không mất momentum.",
+      "start": 23.45,
+      "end": 27.44
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 27.6,
+      "end": 31.65
+    }
+  ],
+  "audioMale1": "audio_male_1/295-legal-risk-review.mp3",
+  "durationMale1": 32.71,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the legal risk review before the meeting started.",
+      "pronunciation": "ai quókt thru đờ legal rít-sờk ri-viu bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through review legal risk trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 3.87
+    },
+    {
+      "index": 2,
+      "text": "One contract ambiguity made the decision harder than expected.",
+      "pronunciation": "quăn kontrakt ambiguiti mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một điểm mơ hồ trong contract làm decision khó hơn dự kiến.",
+      "start": 4.03,
+      "end": 8.41
+    },
+    {
+      "index": 3,
+      "text": "I tried to ask for counsel input so the team had a clearer path.",
+      "pronunciation": "ai traid tu át-sờk fo kaonsel input sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố hỏi input từ counsel để team có hướng rõ hơn.",
+      "start": 8.57,
+      "end": 13.97
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short legal risk note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt legal rít-sờk note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú legal risk ngắn để capture các key points.",
+      "start": 14.13,
+      "end": 18.48
+    },
+    {
+      "index": 5,
+      "text": "I also had to check compliance exposure before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék komplianse ekspozhờ bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra exposure compliance trước khi chúng tôi thống nhất next step.",
+      "start": 18.64,
+      "end": 23.6
+    },
+    {
+      "index": 6,
+      "text": "That helped us avoid future disputes without losing momentum.",
+      "pronunciation": "đat heo ớs ờ-void phiu-chờ disputes quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi tránh tranh chấp sau này mà không mất momentum.",
+      "start": 23.76,
+      "end": 28.25
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 28.41,
+      "end": 32.63
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the legal risk review before the meeting started.",
+      "pronunciation": "ai quókt thru đờ legal rít-sờk ri-viu bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through review legal risk trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.25
+    },
+    {
+      "index": 2,
+      "text": "One contract ambiguity made the decision harder than expected.",
+      "pronunciation": "quăn kontrakt ambiguiti mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một điểm mơ hồ trong contract làm decision khó hơn dự kiến.",
+      "start": 4.41,
+      "end": 8.97
+    },
+    {
+      "index": 3,
+      "text": "I tried to ask for counsel input so the team had a clearer path.",
+      "pronunciation": "ai traid tu át-sờk fo kaonsel input sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố hỏi input từ counsel để team có hướng rõ hơn.",
+      "start": 9.13,
+      "end": 14.65
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short legal risk note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt legal rít-sờk note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú legal risk ngắn để capture các key points.",
+      "start": 14.81,
+      "end": 19.3
+    },
+    {
+      "index": 5,
+      "text": "I also had to check compliance exposure before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék komplianse ekspozhờ bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra exposure compliance trước khi chúng tôi thống nhất next step.",
+      "start": 19.46,
+      "end": 24.58
+    },
+    {
+      "index": 6,
+      "text": "That helped us avoid future disputes without losing momentum.",
+      "pronunciation": "đat heo ớs ờ-void phiu-chờ disputes quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi tránh tranh chấp sau này mà không mất momentum.",
+      "start": 24.74,
+      "end": 28.87
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 29.03,
+      "end": 32.98
+    }
+  ]
+}

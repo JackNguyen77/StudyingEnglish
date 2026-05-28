@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "224-remote-work-policy",
+  "title": "Story 224 - Theo dõi policy làm việc remote",
+  "story": "stories/224-remote-work-policy.md",
+  "audio": "audio/224-remote-work-policy.mp3",
+  "duration": 33.22,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/224-remote-work-policy.mp3",
+  "durationMale": 32.23,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the remote policy before I made a final choice.",
+      "pronunciation": "ai chékt đờ remote po-lờ-si bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra policy remote trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.46
+    },
+    {
+      "index": 2,
+      "text": "One office debate made the situation less simple than it looked.",
+      "pronunciation": "quăn offise đi-bêit mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Tranh luận văn phòng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.62,
+      "end": 9.04
+    },
+    {
+      "index": 3,
+      "text": "I decided to gather employee input before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu gather employi input bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định thu thập ý kiến nhân viên trước khi tiếp tục.",
+      "start": 9.2,
+      "end": 13.06
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short policy note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt po-lờ-si note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú policy ngắn để người kia hiểu tôi.",
+      "start": 13.22,
+      "end": 19.09
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check productivity concerns instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék produktiviti konserns in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra concern về năng suất thay vì đoán.",
+      "start": 19.25,
+      "end": 22.26
+    },
+    {
+      "index": 6,
+      "text": "That helped me balance flexibility without adding extra stress.",
+      "pronunciation": "đat heo mi balanse fleksibiliti quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi cân bằng sự linh hoạt mà không thêm căng thẳng.",
+      "start": 22.42,
+      "end": 27.03
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.19,
+      "end": 32.15
+    }
+  ],
+  "audioMale1": "audio_male_1/224-remote-work-policy.mp3",
+  "durationMale1": 32.78,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the remote policy before I made a final choice.",
+      "pronunciation": "ai chékt đờ remote po-lờ-si bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra policy remote trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.1
+    },
+    {
+      "index": 2,
+      "text": "One office debate made the situation less simple than it looked.",
+      "pronunciation": "quăn offise đi-bêit mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Tranh luận văn phòng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.26,
+      "end": 8.67
+    },
+    {
+      "index": 3,
+      "text": "I decided to gather employee input before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu gather employi input bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định thu thập ý kiến nhân viên trước khi tiếp tục.",
+      "start": 8.83,
+      "end": 13.34
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short policy note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt po-lờ-si note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú policy ngắn để người kia hiểu tôi.",
+      "start": 13.5,
+      "end": 17.98
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check productivity concerns instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék produktiviti konserns in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra concern về năng suất thay vì đoán.",
+      "start": 18.14,
+      "end": 22.76
+    },
+    {
+      "index": 6,
+      "text": "That helped me balance flexibility without adding extra stress.",
+      "pronunciation": "đat heo mi balanse fleksibiliti quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi cân bằng sự linh hoạt mà không thêm căng thẳng.",
+      "start": 22.92,
+      "end": 27.61
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.77,
+      "end": 32.7
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the remote policy before I made a final choice.",
+      "pronunciation": "ai chékt đờ remote po-lờ-si bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra policy remote trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.22
+    },
+    {
+      "index": 2,
+      "text": "One office debate made the situation less simple than it looked.",
+      "pronunciation": "quăn offise đi-bêit mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Tranh luận văn phòng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.38,
+      "end": 9.22
+    },
+    {
+      "index": 3,
+      "text": "I decided to gather employee input before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu gather employi input bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định thu thập ý kiến nhân viên trước khi tiếp tục.",
+      "start": 9.38,
+      "end": 13.48
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short policy note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt po-lờ-si note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú policy ngắn để người kia hiểu tôi.",
+      "start": 13.64,
+      "end": 18.53
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check productivity concerns instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék produktiviti konserns in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra concern về năng suất thay vì đoán.",
+      "start": 18.69,
+      "end": 23.44
+    },
+    {
+      "index": 6,
+      "text": "That helped me balance flexibility without adding extra stress.",
+      "pronunciation": "đat heo mi balanse fleksibiliti quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi cân bằng sự linh hoạt mà không thêm căng thẳng.",
+      "start": 23.6,
+      "end": 28.03
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.19,
+      "end": 33.14
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "220-tourism-recovery",
+  "title": "Story 220 - Theo dõi du lịch phục hồi",
+  "story": "stories/220-tourism-recovery.md",
+  "audio": "audio/220-tourism-recovery.mp3",
+  "duration": 31.61,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/220-tourism-recovery.mp3",
+  "durationMale": 30.95,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the tourism recovery before I made a final choice.",
+      "pronunciation": "ai chékt đờ taorism rekoveri bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra phục hồi du lịch trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.35
+    },
+    {
+      "index": 2,
+      "text": "One visitor numbers made the situation less simple than it looked.",
+      "pronunciation": "quăn visitor năm-bờrz mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Số lượng khách làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.51,
+      "end": 8.81
+    },
+    {
+      "index": 3,
+      "text": "I decided to track hotel demand before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu trék hotel đi-mand bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi nhu cầu khách sạn trước khi tiếp tục.",
+      "start": 8.97,
+      "end": 13.01
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short tourism note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt taorism note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú du lịch ngắn để người kia hiểu tôi.",
+      "start": 13.17,
+      "end": 17.52
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check local jobs instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék lâu-kồ jobs in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra việc làm địa phương thay vì đoán.",
+      "start": 17.68,
+      "end": 21.49
+    },
+    {
+      "index": 6,
+      "text": "That helped me measure the rebound without adding extra stress.",
+      "pronunciation": "đat heo mi me-zhờr đờ rebaond quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi đo mức phục hồi mà không thêm căng thẳng.",
+      "start": 21.65,
+      "end": 25.83
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.99,
+      "end": 30.87
+    }
+  ],
+  "audioMale1": "audio_male_1/220-tourism-recovery.mp3",
+  "durationMale1": 37.38,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the tourism recovery before I made a final choice.",
+      "pronunciation": "ai chékt đờ taorism rekoveri bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra phục hồi du lịch trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.36
+    },
+    {
+      "index": 2,
+      "text": "One visitor numbers made the situation less simple than it looked.",
+      "pronunciation": "quăn visitor năm-bờrz mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Số lượng khách làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.52,
+      "end": 10.83
+    },
+    {
+      "index": 3,
+      "text": "I decided to track hotel demand before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu trék hotel đi-mand bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi nhu cầu khách sạn trước khi tiếp tục.",
+      "start": 10.99,
+      "end": 15.85
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short tourism note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt taorism note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú du lịch ngắn để người kia hiểu tôi.",
+      "start": 16.01,
+      "end": 21.18
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check local jobs instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék lâu-kồ jobs in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra việc làm địa phương thay vì đoán.",
+      "start": 21.34,
+      "end": 25.84
+    },
+    {
+      "index": 6,
+      "text": "That helped me measure the rebound without adding extra stress.",
+      "pronunciation": "đat heo mi me-zhờr đờ rebaond quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi đo mức phục hồi mà không thêm căng thẳng.",
+      "start": 25.99,
+      "end": 30.99
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 31.15,
+      "end": 37.3
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the tourism recovery before I made a final choice.",
+      "pronunciation": "ai chékt đờ taorism rekoveri bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra phục hồi du lịch trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.99
+    },
+    {
+      "index": 2,
+      "text": "One visitor numbers made the situation less simple than it looked.",
+      "pronunciation": "quăn visitor năm-bờrz mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Số lượng khách làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.15,
+      "end": 9.26
+    },
+    {
+      "index": 3,
+      "text": "I decided to track hotel demand before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu trék hotel đi-mand bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi nhu cầu khách sạn trước khi tiếp tục.",
+      "start": 9.42,
+      "end": 13.21
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short tourism note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt taorism note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú du lịch ngắn để người kia hiểu tôi.",
+      "start": 13.37,
+      "end": 17.93
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check local jobs instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék lâu-kồ jobs in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra việc làm địa phương thay vì đoán.",
+      "start": 18.09,
+      "end": 22.34
+    },
+    {
+      "index": 6,
+      "text": "That helped me measure the rebound without adding extra stress.",
+      "pronunciation": "đat heo mi me-zhờr đờ rebaond quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi đo mức phục hồi mà không thêm căng thẳng.",
+      "start": 22.5,
+      "end": 26.75
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.91,
+      "end": 31.53
+    }
+  ]
+}

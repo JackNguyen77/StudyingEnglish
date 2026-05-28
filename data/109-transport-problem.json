@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "109-transport-problem",
+  "title": "Story 109 - Hiểu vấn đề giao thông",
+  "story": "stories/109-transport-problem.md",
+  "audio": "audio/109-transport-problem.mp3",
+  "duration": 29.89,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/109-transport-problem.mp3",
+  "durationMale": 32.44,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the transport problem in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ tran-spo(r)t pro-blầm in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả vấn đề giao thông bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 6.22
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the heavy traffic, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ hivi tra-phik, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là kẹt xe nặng, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 6.38,
+      "end": 12.53
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the peak hour because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ pik ao-ờ bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về giờ cao điểm vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12.69,
+      "end": 17.61
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the route change as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ rut chênj as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến đổi tuyến như một chi tiết quan trọng.",
+      "start": 17.77,
+      "end": 22.42
+    },
+    {
+      "index": 5,
+      "text": "Experts said the public complaint would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ pớ-blik kờm-plêint quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói phàn nàn của công chúng sẽ quan trọng trong vài tháng tới.",
+      "start": 22.58,
+      "end": 27.12
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand the commute issue instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan đờ kommute í-shu in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu vấn đề đi lại thay vì chỉ đọc tiêu đề.",
+      "start": 27.28,
+      "end": 32.36
+    }
+  ],
+  "audioMale1": "audio_male_1/109-transport-problem.mp3",
+  "durationMale1": 38.95,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the transport problem in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ tran-spo(r)t pro-blầm in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả vấn đề giao thông bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 4.99
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the heavy traffic, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ hivi tra-phik, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là kẹt xe nặng, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.15,
+      "end": 13.49
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the peak hour because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ pik ao-ờ bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về giờ cao điểm vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 13.65,
+      "end": 21.12
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the route change as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ rut chênj as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến đổi tuyến như một chi tiết quan trọng.",
+      "start": 21.28,
+      "end": 25.79
+    },
+    {
+      "index": 5,
+      "text": "Experts said the public complaint would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ pớ-blik kờm-plêint quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói phàn nàn của công chúng sẽ quan trọng trong vài tháng tới.",
+      "start": 25.95,
+      "end": 30.99
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand the commute issue instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan đờ kommute í-shu in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu vấn đề đi lại thay vì chỉ đọc tiêu đề.",
+      "start": 31.15,
+      "end": 38.87
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the transport problem in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ tran-spo(r)t pro-blầm in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả vấn đề giao thông bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.09
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the heavy traffic, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ hivi tra-phik, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là kẹt xe nặng, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.25,
+      "end": 11.21
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the peak hour because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ pik ao-ờ bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về giờ cao điểm vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.37,
+      "end": 15.73
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the route change as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ rut chênj as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến đổi tuyến như một chi tiết quan trọng.",
+      "start": 15.89,
+      "end": 20.02
+    },
+    {
+      "index": 5,
+      "text": "Experts said the public complaint would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ pớ-blik kờm-plêint quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói phàn nàn của công chúng sẽ quan trọng trong vài tháng tới.",
+      "start": 20.18,
+      "end": 24.54
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand the commute issue instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan đờ kommute í-shu in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu vấn đề đi lại thay vì chỉ đọc tiêu đề.",
+      "start": 24.7,
+      "end": 29.81
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "284-capital-investment-case",
+  "title": "Story 284 - Chuẩn bị case đầu tư vốn",
+  "story": "stories/284-capital-investment-case.md",
+  "audio": "audio/284-capital-investment-case.mp3",
+  "duration": 31.99,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/284-capital-investment-case.mp3",
+  "durationMale": 33.99,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the capital investment case before the meeting started.",
+      "pronunciation": "ai quókt thru đờ kapital investment kêis bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through case đầu tư vốn trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.19
+    },
+    {
+      "index": 2,
+      "text": "One payback concern made the decision harder than expected.",
+      "pronunciation": "quăn pâybak kờn-sơn mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một mối lo payback làm decision khó hơn dự kiến.",
+      "start": 4.35,
+      "end": 8.32
+    },
+    {
+      "index": 3,
+      "text": "I tried to model different scenarios so the team had a clearer path.",
+      "pronunciation": "ai traid tu model dif-rần ssenarios sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố model nhiều scenario khác nhau để team có hướng rõ hơn.",
+      "start": 8.48,
+      "end": 13.44
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short investment case note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt investment kêis note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú case đầu tư ngắn để capture các key points.",
+      "start": 13.6,
+      "end": 19.32
+    },
+    {
+      "index": 5,
+      "text": "I also had to check cash impact before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék kash impakt bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra impact tiền mặt trước khi chúng tôi thống nhất next step.",
+      "start": 19.48,
+      "end": 27.36
+    },
+    {
+      "index": 6,
+      "text": "That helped us justify the spending without losing momentum.",
+      "pronunciation": "đat heo ớs justifi đờ spen-ding quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi justify khoản chi mà không mất momentum.",
+      "start": 27.52,
+      "end": 30.65
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 30.81,
+      "end": 33.91
+    }
+  ],
+  "audioMale1": "audio_male_1/284-capital-investment-case.mp3",
+  "durationMale1": 35.99,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the capital investment case before the meeting started.",
+      "pronunciation": "ai quókt thru đờ kapital investment kêis bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through case đầu tư vốn trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5
+    },
+    {
+      "index": 2,
+      "text": "One payback concern made the decision harder than expected.",
+      "pronunciation": "quăn pâybak kờn-sơn mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một mối lo payback làm decision khó hơn dự kiến.",
+      "start": 5.16,
+      "end": 10.07
+    },
+    {
+      "index": 3,
+      "text": "I tried to model different scenarios so the team had a clearer path.",
+      "pronunciation": "ai traid tu model dif-rần ssenarios sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố model nhiều scenario khác nhau để team có hướng rõ hơn.",
+      "start": 10.23,
+      "end": 15.73
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short investment case note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt investment kêis note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú case đầu tư ngắn để capture các key points.",
+      "start": 15.89,
+      "end": 21.26
+    },
+    {
+      "index": 5,
+      "text": "I also had to check cash impact before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék kash impakt bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra impact tiền mặt trước khi chúng tôi thống nhất next step.",
+      "start": 21.42,
+      "end": 26.55
+    },
+    {
+      "index": 6,
+      "text": "That helped us justify the spending without losing momentum.",
+      "pronunciation": "đat heo ớs justifi đờ spen-ding quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi justify khoản chi mà không mất momentum.",
+      "start": 26.71,
+      "end": 31.21
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 31.37,
+      "end": 35.91
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the capital investment case before the meeting started.",
+      "pronunciation": "ai quókt thru đờ kapital investment kêis bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through case đầu tư vốn trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 3.95
+    },
+    {
+      "index": 2,
+      "text": "One payback concern made the decision harder than expected.",
+      "pronunciation": "quăn pâybak kờn-sơn mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một mối lo payback làm decision khó hơn dự kiến.",
+      "start": 4.11,
+      "end": 8.05
+    },
+    {
+      "index": 3,
+      "text": "I tried to model different scenarios so the team had a clearer path.",
+      "pronunciation": "ai traid tu model dif-rần ssenarios sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố model nhiều scenario khác nhau để team có hướng rõ hơn.",
+      "start": 8.21,
+      "end": 13.02
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short investment case note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt investment kêis note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú case đầu tư ngắn để capture các key points.",
+      "start": 13.18,
+      "end": 19.25
+    },
+    {
+      "index": 5,
+      "text": "I also had to check cash impact before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék kash impakt bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra impact tiền mặt trước khi chúng tôi thống nhất next step.",
+      "start": 19.41,
+      "end": 25.09
+    },
+    {
+      "index": 6,
+      "text": "That helped us justify the spending without losing momentum.",
+      "pronunciation": "đat heo ớs justifi đờ spen-ding quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi justify khoản chi mà không mất momentum.",
+      "start": 25.25,
+      "end": 28.2
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 28.36,
+      "end": 31.91
+    }
+  ]
+}

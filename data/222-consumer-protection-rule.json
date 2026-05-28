@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "222-consumer-protection-rule",
+  "title": "Story 222 - Đọc rule bảo vệ người tiêu dùng",
+  "story": "stories/222-consumer-protection-rule.md",
+  "audio": "audio/222-consumer-protection-rule.mp3",
+  "duration": 31.94,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/222-consumer-protection-rule.mp3",
+  "durationMale": 30.44,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the consumer rule before I made a final choice.",
+      "pronunciation": "ai chékt đờ kờn-su-mờr rul bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra rule người tiêu dùng trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.2
+    },
+    {
+      "index": 2,
+      "text": "One unfair fee made the situation less simple than it looked.",
+      "pronunciation": "quăn unfâyr fi mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phí không công bằng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.36,
+      "end": 8.76
+    },
+    {
+      "index": 3,
+      "text": "I decided to read the regulation before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu rid đờ regulashần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định đọc quy định trước khi tiếp tục.",
+      "start": 8.92,
+      "end": 13.04
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short consumer note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kờn-su-mờr note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú người tiêu dùng ngắn để người kia hiểu tôi.",
+      "start": 13.2,
+      "end": 17.42
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check refund rights instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék refund râyts in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra quyền hoàn tiền thay vì đoán.",
+      "start": 17.58,
+      "end": 21.51
+    },
+    {
+      "index": 6,
+      "text": "That helped me make safer choices without adding extra stress.",
+      "pronunciation": "đat heo mi mêik sây-fờ choi-siz quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi đưa ra lựa chọn an toàn hơn mà không thêm căng thẳng.",
+      "start": 21.67,
+      "end": 25.87
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.03,
+      "end": 30.36
+    }
+  ],
+  "audioMale1": "audio_male_1/222-consumer-protection-rule.mp3",
+  "durationMale1": 38.65,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the consumer rule before I made a final choice.",
+      "pronunciation": "ai chékt đờ kờn-su-mờr rul bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra rule người tiêu dùng trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.72
+    },
+    {
+      "index": 2,
+      "text": "One unfair fee made the situation less simple than it looked.",
+      "pronunciation": "quăn unfâyr fi mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phí không công bằng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.88,
+      "end": 11.66
+    },
+    {
+      "index": 3,
+      "text": "I decided to read the regulation before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu rid đờ regulashần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định đọc quy định trước khi tiếp tục.",
+      "start": 11.82,
+      "end": 16.52
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short consumer note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kờn-su-mờr note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú người tiêu dùng ngắn để người kia hiểu tôi.",
+      "start": 16.68,
+      "end": 22.54
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check refund rights instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék refund râyts in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra quyền hoàn tiền thay vì đoán.",
+      "start": 22.7,
+      "end": 27.48
+    },
+    {
+      "index": 6,
+      "text": "That helped me make safer choices without adding extra stress.",
+      "pronunciation": "đat heo mi mêik sây-fờ choi-siz quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi đưa ra lựa chọn an toàn hơn mà không thêm căng thẳng.",
+      "start": 27.64,
+      "end": 32.7
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 32.86,
+      "end": 38.57
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the consumer rule before I made a final choice.",
+      "pronunciation": "ai chékt đờ kờn-su-mờr rul bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra rule người tiêu dùng trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.35
+    },
+    {
+      "index": 2,
+      "text": "One unfair fee made the situation less simple than it looked.",
+      "pronunciation": "quăn unfâyr fi mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phí không công bằng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.51,
+      "end": 9.19
+    },
+    {
+      "index": 3,
+      "text": "I decided to read the regulation before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu rid đờ regulashần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định đọc quy định trước khi tiếp tục.",
+      "start": 9.35,
+      "end": 13.23
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short consumer note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kờn-su-mờr note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú người tiêu dùng ngắn để người kia hiểu tôi.",
+      "start": 13.39,
+      "end": 18.14
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check refund rights instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék refund râyts in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra quyền hoàn tiền thay vì đoán.",
+      "start": 18.3,
+      "end": 22.13
+    },
+    {
+      "index": 6,
+      "text": "That helped me make safer choices without adding extra stress.",
+      "pronunciation": "đat heo mi mêik sây-fờ choi-siz quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi đưa ra lựa chọn an toàn hơn mà không thêm căng thẳng.",
+      "start": 22.29,
+      "end": 27.03
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.19,
+      "end": 31.86
+    }
+  ]
+}

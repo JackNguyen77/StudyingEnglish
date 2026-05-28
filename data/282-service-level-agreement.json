@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "282-service-level-agreement",
+  "title": "Story 282 - Đàm phán service level agreement",
+  "story": "stories/282-service-level-agreement.md",
+  "audio": "audio/282-service-level-agreement.mp3",
+  "duration": 32.23,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/282-service-level-agreement.mp3",
+  "durationMale": 30.9,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the service level agreement before the meeting started.",
+      "pronunciation": "ai quókt thru đờ sờ-vịt le-vồ agriment bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through service level agreement trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.04
+    },
+    {
+      "index": 2,
+      "text": "One response time gap made the decision harder than expected.",
+      "pronunciation": "quăn ri-spons taim gap mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một gap thời gian phản hồi làm decision khó hơn dự kiến.",
+      "start": 4.2,
+      "end": 8.27
+    },
+    {
+      "index": 3,
+      "text": "I tried to clarify support obligations so the team had a clearer path.",
+      "pronunciation": "ai traid tu kle-rờ-fai sờ-po(r)t obligations sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố làm rõ obligation support để team có hướng rõ hơn.",
+      "start": 8.43,
+      "end": 13.4
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short service level note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt sờ-vịt le-vồ note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú service level ngắn để capture các key points.",
+      "start": 13.56,
+      "end": 17.89
+    },
+    {
+      "index": 5,
+      "text": "I also had to check penalty terms before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék penalti terms bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra term penalty trước khi chúng tôi thống nhất next step.",
+      "start": 18.05,
+      "end": 22.33
+    },
+    {
+      "index": 6,
+      "text": "That helped us set realistic expectations without losing momentum.",
+      "pronunciation": "đat heo ớs set ri-ờ-lis-tik ekspektations quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi đặt expectation thực tế mà không mất momentum.",
+      "start": 22.49,
+      "end": 26.98
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 27.14,
+      "end": 30.82
+    }
+  ],
+  "audioMale1": "audio_male_1/282-service-level-agreement.mp3",
+  "durationMale1": 37.98,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the service level agreement before the meeting started.",
+      "pronunciation": "ai quókt thru đờ sờ-vịt le-vồ agriment bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through service level agreement trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.68
+    },
+    {
+      "index": 2,
+      "text": "One response time gap made the decision harder than expected.",
+      "pronunciation": "quăn ri-spons taim gap mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một gap thời gian phản hồi làm decision khó hơn dự kiến.",
+      "start": 5.84,
+      "end": 10.86
+    },
+    {
+      "index": 3,
+      "text": "I tried to clarify support obligations so the team had a clearer path.",
+      "pronunciation": "ai traid tu kle-rờ-fai sờ-po(r)t obligations sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố làm rõ obligation support để team có hướng rõ hơn.",
+      "start": 11.02,
+      "end": 16.92
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short service level note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt sờ-vịt le-vồ note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú service level ngắn để capture các key points.",
+      "start": 17.08,
+      "end": 22.37
+    },
+    {
+      "index": 5,
+      "text": "I also had to check penalty terms before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék penalti terms bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra term penalty trước khi chúng tôi thống nhất next step.",
+      "start": 22.53,
+      "end": 27.68
+    },
+    {
+      "index": 6,
+      "text": "That helped us set realistic expectations without losing momentum.",
+      "pronunciation": "đat heo ớs set ri-ờ-lis-tik ekspektations quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi đặt expectation thực tế mà không mất momentum.",
+      "start": 27.84,
+      "end": 33.2
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 33.36,
+      "end": 37.9
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the service level agreement before the meeting started.",
+      "pronunciation": "ai quókt thru đờ sờ-vịt le-vồ agriment bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through service level agreement trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.42
+    },
+    {
+      "index": 2,
+      "text": "One response time gap made the decision harder than expected.",
+      "pronunciation": "quăn ri-spons taim gap mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một gap thời gian phản hồi làm decision khó hơn dự kiến.",
+      "start": 4.58,
+      "end": 9.13
+    },
+    {
+      "index": 3,
+      "text": "I tried to clarify support obligations so the team had a clearer path.",
+      "pronunciation": "ai traid tu kle-rờ-fai sờ-po(r)t obligations sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố làm rõ obligation support để team có hướng rõ hơn.",
+      "start": 9.29,
+      "end": 13.98
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short service level note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt sờ-vịt le-vồ note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú service level ngắn để capture các key points.",
+      "start": 14.14,
+      "end": 18.91
+    },
+    {
+      "index": 5,
+      "text": "I also had to check penalty terms before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék penalti terms bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra term penalty trước khi chúng tôi thống nhất next step.",
+      "start": 19.07,
+      "end": 23.37
+    },
+    {
+      "index": 6,
+      "text": "That helped us set realistic expectations without losing momentum.",
+      "pronunciation": "đat heo ớs set ri-ờ-lis-tik ekspektations quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi đặt expectation thực tế mà không mất momentum.",
+      "start": 23.53,
+      "end": 28.07
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 28.23,
+      "end": 32.15
+    }
+  ]
+}

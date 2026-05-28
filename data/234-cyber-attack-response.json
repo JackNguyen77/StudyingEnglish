@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "234-cyber-attack-response",
+  "title": "Story 234 - Theo dõi response sau cyber attack",
+  "story": "stories/234-cyber-attack-response.md",
+  "audio": "audio/234-cyber-attack-response.mp3",
+  "duration": 32.85,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/234-cyber-attack-response.mp3",
+  "durationMale": 30.45,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the cyber attack before I made a final choice.",
+      "pronunciation": "ai chékt đờ syber attak bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra cyber attack trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.87
+    },
+    {
+      "index": 2,
+      "text": "One service outage made the situation less simple than it looked.",
+      "pronunciation": "quăn sờ-vịt aotaje mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Dịch vụ ngừng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.03,
+      "end": 8.29
+    },
+    {
+      "index": 3,
+      "text": "I decided to isolate the system before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu isolate đờ sis-tầm bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định cô lập hệ thống trước khi tiếp tục.",
+      "start": 8.45,
+      "end": 12.58
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short security note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt sờ-kyu-rờ-ti note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú bảo mật ngắn để người kia hiểu tôi.",
+      "start": 12.74,
+      "end": 16.92
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check exposed accounts instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék ekspost ờ-kaonts in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra tài khoản bị lộ thay vì đoán.",
+      "start": 17.08,
+      "end": 21.03
+    },
+    {
+      "index": 6,
+      "text": "That helped me restore digital trust without adding extra stress.",
+      "pronunciation": "đat heo mi ri-sto đi-ji-tồ trớst quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi khôi phục niềm tin số mà không thêm căng thẳng.",
+      "start": 21.19,
+      "end": 25.76
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.92,
+      "end": 30.37
+    }
+  ],
+  "audioMale1": "audio_male_1/234-cyber-attack-response.mp3",
+  "durationMale1": 38.59,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the cyber attack before I made a final choice.",
+      "pronunciation": "ai chékt đờ syber attak bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra cyber attack trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.43
+    },
+    {
+      "index": 2,
+      "text": "One service outage made the situation less simple than it looked.",
+      "pronunciation": "quăn sờ-vịt aotaje mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Dịch vụ ngừng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.59,
+      "end": 10.62
+    },
+    {
+      "index": 3,
+      "text": "I decided to isolate the system before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu isolate đờ sis-tầm bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định cô lập hệ thống trước khi tiếp tục.",
+      "start": 10.78,
+      "end": 16.1
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short security note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt sờ-kyu-rờ-ti note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú bảo mật ngắn để người kia hiểu tôi.",
+      "start": 16.26,
+      "end": 21.59
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check exposed accounts instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék ekspost ờ-kaonts in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra tài khoản bị lộ thay vì đoán.",
+      "start": 21.75,
+      "end": 26.89
+    },
+    {
+      "index": 6,
+      "text": "That helped me restore digital trust without adding extra stress.",
+      "pronunciation": "đat heo mi ri-sto đi-ji-tồ trớst quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi khôi phục niềm tin số mà không thêm căng thẳng.",
+      "start": 27.05,
+      "end": 32.44
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 32.6,
+      "end": 38.51
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the cyber attack before I made a final choice.",
+      "pronunciation": "ai chékt đờ syber attak bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra cyber attack trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.31
+    },
+    {
+      "index": 2,
+      "text": "One service outage made the situation less simple than it looked.",
+      "pronunciation": "quăn sờ-vịt aotaje mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Dịch vụ ngừng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.47,
+      "end": 8.97
+    },
+    {
+      "index": 3,
+      "text": "I decided to isolate the system before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu isolate đờ sis-tầm bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định cô lập hệ thống trước khi tiếp tục.",
+      "start": 9.13,
+      "end": 13.4
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short security note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt sờ-kyu-rờ-ti note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú bảo mật ngắn để người kia hiểu tôi.",
+      "start": 13.56,
+      "end": 18.54
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check exposed accounts instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék ekspost ờ-kaonts in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra tài khoản bị lộ thay vì đoán.",
+      "start": 18.7,
+      "end": 22.98
+    },
+    {
+      "index": 6,
+      "text": "That helped me restore digital trust without adding extra stress.",
+      "pronunciation": "đat heo mi ri-sto đi-ji-tồ trớst quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi khôi phục niềm tin số mà không thêm căng thẳng.",
+      "start": 23.14,
+      "end": 27.65
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.81,
+      "end": 32.77
+    }
+  ]
+}

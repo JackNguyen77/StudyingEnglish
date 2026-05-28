@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "088-support-request",
+  "title": "Story 088 - Xử lý support request",
+  "story": "stories/088-support-request.md",
+  "audio": "audio/088-support-request.mp3",
+  "duration": 31.94,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/088-support-request.mp3",
+  "durationMale": 32.85,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the support request in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ sờ-po(r)t ri-quest in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả yêu cầu support bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.68
+    },
+    {
+      "index": 2,
+      "text": "I asked about the screenshots before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ skrin-shots bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về ảnh chụp màn hình trước khi đề xuất bất cứ điều gì.",
+      "start": 5.84,
+      "end": 9.01
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the unclear error, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ unklir e-rờ, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là lỗi chưa rõ, không chỉ là yêu cầu đầu tiên.",
+      "start": 9.17,
+      "end": 12.68
+    },
+    {
+      "index": 4,
+      "text": "We agreed to narrow down the cause and check it with one example.",
+      "pronunciation": "quy ờ-grid tu narrao daun đờ kause en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất thu hẹp nguyên nhân và kiểm tra bằng một ví dụ.",
+      "start": 12.84,
+      "end": 19.32
+    },
+    {
+      "index": 5,
+      "text": "I wrote the support reply so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ sờ-po(r)t ri-plai sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết phản hồi support để mọi người có thể xem cùng một quyết định.",
+      "start": 19.48,
+      "end": 23.95
+    },
+    {
+      "index": 6,
+      "text": "That helped us solve it faster without adding extra work.",
+      "pronunciation": "đat heo ớs solv ịt fas-tờr quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi xử lý nhanh hơn mà không thêm việc dư.",
+      "start": 24.11,
+      "end": 28.04
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 28.2,
+      "end": 32.77
+    }
+  ],
+  "audioMale1": "audio_male_1/088-support-request.mp3",
+  "durationMale1": 35.78,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the support request in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ sờ-po(r)t ri-quest in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả yêu cầu support bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 6.38
+    },
+    {
+      "index": 2,
+      "text": "I asked about the screenshots before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ skrin-shots bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về ảnh chụp màn hình trước khi đề xuất bất cứ điều gì.",
+      "start": 6.54,
+      "end": 10.65
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the unclear error, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ unklir e-rờ, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là lỗi chưa rõ, không chỉ là yêu cầu đầu tiên.",
+      "start": 10.81,
+      "end": 14.3
+    },
+    {
+      "index": 4,
+      "text": "We agreed to narrow down the cause and check it with one example.",
+      "pronunciation": "quy ờ-grid tu narrao daun đờ kause en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất thu hẹp nguyên nhân và kiểm tra bằng một ví dụ.",
+      "start": 14.46,
+      "end": 19.42
+    },
+    {
+      "index": 5,
+      "text": "I wrote the support reply so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ sờ-po(r)t ri-plai sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết phản hồi support để mọi người có thể xem cùng một quyết định.",
+      "start": 19.58,
+      "end": 24.01
+    },
+    {
+      "index": 6,
+      "text": "That helped us solve it faster without adding extra work.",
+      "pronunciation": "đat heo ớs solv ịt fas-tờr quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi xử lý nhanh hơn mà không thêm việc dư.",
+      "start": 24.17,
+      "end": 28.76
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 28.92,
+      "end": 35.7
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the support request in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ sờ-po(r)t ri-quest in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả yêu cầu support bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.3
+    },
+    {
+      "index": 2,
+      "text": "I asked about the screenshots before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ skrin-shots bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về ảnh chụp màn hình trước khi đề xuất bất cứ điều gì.",
+      "start": 5.46,
+      "end": 9.25
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the unclear error, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ unklir e-rờ, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là lỗi chưa rõ, không chỉ là yêu cầu đầu tiên.",
+      "start": 9.41,
+      "end": 14.06
+    },
+    {
+      "index": 4,
+      "text": "We agreed to narrow down the cause and check it with one example.",
+      "pronunciation": "quy ờ-grid tu narrao daun đờ kause en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất thu hẹp nguyên nhân và kiểm tra bằng một ví dụ.",
+      "start": 14.22,
+      "end": 18.77
+    },
+    {
+      "index": 5,
+      "text": "I wrote the support reply so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ sờ-po(r)t ri-plai sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết phản hồi support để mọi người có thể xem cùng một quyết định.",
+      "start": 18.93,
+      "end": 23.03
+    },
+    {
+      "index": 6,
+      "text": "That helped us solve it faster without adding extra work.",
+      "pronunciation": "đat heo ớs solv ịt fas-tờr quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi xử lý nhanh hơn mà không thêm việc dư.",
+      "start": 23.19,
+      "end": 26.82
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 26.98,
+      "end": 31.86
+    }
+  ]
+}

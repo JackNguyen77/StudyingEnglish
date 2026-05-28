@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "204-training-material",
+  "title": "Story 204 - Rút gọn training material",
+  "story": "stories/204-training-material.md",
+  "audio": "audio/204-training-material.mp3",
+  "duration": 30.29,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/204-training-material.mp3",
+  "durationMale": 30.28,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the training material before I made a final choice.",
+      "pronunciation": "ai chékt đờ trây-ning material bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tài liệu training trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.09
+    },
+    {
+      "index": 2,
+      "text": "One long session made the situation less simple than it looked.",
+      "pronunciation": "quăn long se-shần mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Buổi dài làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.25,
+      "end": 8.46
+    },
+    {
+      "index": 3,
+      "text": "I decided to shorten the lesson before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu shorten đờ les-sần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định rút ngắn bài học trước khi tiếp tục.",
+      "start": 8.62,
+      "end": 12.29
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short user training note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt yu-zờ trây-ning note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú training user ngắn để người kia hiểu tôi.",
+      "start": 12.45,
+      "end": 17.32
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the practice task instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ praktise tát-sờk in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra task thực hành thay vì đoán.",
+      "start": 17.48,
+      "end": 21.51
+    },
+    {
+      "index": 6,
+      "text": "That helped me make training useful without adding extra stress.",
+      "pronunciation": "đat heo mi mêik trây-ning yus-phồ quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi làm training hữu ích mà không thêm căng thẳng.",
+      "start": 21.67,
+      "end": 25.68
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.84,
+      "end": 30.2
+    }
+  ],
+  "audioMale1": "audio_male_1/204-training-material.mp3",
+  "durationMale1": 36.95,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the training material before I made a final choice.",
+      "pronunciation": "ai chékt đờ trây-ning material bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tài liệu training trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.58
+    },
+    {
+      "index": 2,
+      "text": "One long session made the situation less simple than it looked.",
+      "pronunciation": "quăn long se-shần mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Buổi dài làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.74,
+      "end": 10.92
+    },
+    {
+      "index": 3,
+      "text": "I decided to shorten the lesson before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu shorten đờ les-sần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định rút ngắn bài học trước khi tiếp tục.",
+      "start": 11.08,
+      "end": 15.83
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short user training note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt yu-zờ trây-ning note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú training user ngắn để người kia hiểu tôi.",
+      "start": 15.99,
+      "end": 21.68
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the practice task instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ praktise tát-sờk in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra task thực hành thay vì đoán.",
+      "start": 21.84,
+      "end": 26.49
+    },
+    {
+      "index": 6,
+      "text": "That helped me make training useful without adding extra stress.",
+      "pronunciation": "đat heo mi mêik trây-ning yus-phồ quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi làm training hữu ích mà không thêm căng thẳng.",
+      "start": 26.65,
+      "end": 31.45
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 31.61,
+      "end": 36.87
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the training material before I made a final choice.",
+      "pronunciation": "ai chékt đờ trây-ning material bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tài liệu training trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.89
+    },
+    {
+      "index": 2,
+      "text": "One long session made the situation less simple than it looked.",
+      "pronunciation": "quăn long se-shần mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Buổi dài làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.05,
+      "end": 8.25
+    },
+    {
+      "index": 3,
+      "text": "I decided to shorten the lesson before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu shorten đờ les-sần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định rút ngắn bài học trước khi tiếp tục.",
+      "start": 8.41,
+      "end": 12.17
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short user training note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt yu-zờ trây-ning note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú training user ngắn để người kia hiểu tôi.",
+      "start": 12.33,
+      "end": 17.34
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the practice task instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ praktise tát-sờk in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra task thực hành thay vì đoán.",
+      "start": 17.5,
+      "end": 21.45
+    },
+    {
+      "index": 6,
+      "text": "That helped me make training useful without adding extra stress.",
+      "pronunciation": "đat heo mi mêik trây-ning yus-phồ quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi làm training hữu ích mà không thêm căng thẳng.",
+      "start": 21.61,
+      "end": 25.51
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.67,
+      "end": 30.21
+    }
+  ]
+}

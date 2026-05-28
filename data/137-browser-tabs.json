@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "137-browser-tabs",
+  "title": "Story 137 - Dọn tab trình duyệt",
+  "story": "stories/137-browser-tabs.md",
+  "audio": "audio/137-browser-tabs.mp3",
+  "duration": 34.51,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/137-browser-tabs.mp3",
+  "durationMale": 28.94,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I had too many tabs open and could not find the right page.",
+      "pronunciation": "ai had tu me-ni tabz âu-pần en kud nót phain đờ rait pêij.",
+      "vi": "Tôi mở quá nhiều tab và không tìm được đúng trang.",
+      "start": 0.02,
+      "end": 4.76
+    },
+    {
+      "index": 2,
+      "text": "I bookmarked the page that I needed for tomorrow.",
+      "pronunciation": "ai bukmarkt đờ pêij đat ai ni-địt fo tomorrao.",
+      "vi": "Tôi đánh dấu trang tôi cần cho ngày mai.",
+      "start": 4.92,
+      "end": 8.17
+    },
+    {
+      "index": 3,
+      "text": "Long articles went into my reading list instead of staying open.",
+      "pronunciation": "long artikles quent in-tu mai ri-ding list in-sted ờv stâying âu-pần.",
+      "vi": "Bài dài được đưa vào danh sách đọc thay vì cứ mở đó.",
+      "start": 8.33,
+      "end": 12.67
+    },
+    {
+      "index": 4,
+      "text": "I closed unused tabs so the browser felt lighter.",
+      "pronunciation": "ai klost ăn-yuzd tabz sâu đờ brao-zờr felt lâyter.",
+      "vi": "Tôi đóng tab không dùng để trình duyệt nhẹ hơn.",
+      "start": 12.83,
+      "end": 16.89
+    },
+    {
+      "index": 5,
+      "text": "For work, I opened the project in a new window.",
+      "pronunciation": "fo quớrk, ai âu-pần đờ pró-jekt in ờ niu quyn-đâu.",
+      "vi": "Với công việc, tôi mở dự án trong cửa sổ mới.",
+      "start": 17.05,
+      "end": 20.68
+    },
+    {
+      "index": 6,
+      "text": "Now I can find it later without scrolling through chaos.",
+      "pronunciation": "nao ai ken phain ịt lêi-tờ quì-thao skrâu-ling thru khaos.",
+      "vi": "Bây giờ tôi có thể tìm lại sau mà không phải cuộn trong mớ hỗn loạn.",
+      "start": 20.84,
+      "end": 24.83
+    },
+    {
+      "index": 7,
+      "text": "That small cleanup made the next task easier to start.",
+      "pronunciation": "đat smol klin-ấp mêid đờ nekst tát-sờk i-zi-ờ tu staart.",
+      "vi": "Việc dọn gọn nhỏ đó làm nhiệm vụ tiếp theo dễ bắt đầu hơn.",
+      "start": 24.99,
+      "end": 28.86
+    }
+  ],
+  "audioMale1": "audio_male_1/137-browser-tabs.mp3",
+  "durationMale1": 35.16,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I had too many tabs open and could not find the right page.",
+      "pronunciation": "ai had tu me-ni tabz âu-pần en kud nót phain đờ rait pêij.",
+      "vi": "Tôi mở quá nhiều tab và không tìm được đúng trang.",
+      "start": 0.02,
+      "end": 6.26
+    },
+    {
+      "index": 2,
+      "text": "I bookmarked the page that I needed for tomorrow.",
+      "pronunciation": "ai bukmarkt đờ pêij đat ai ni-địt fo tomorrao.",
+      "vi": "Tôi đánh dấu trang tôi cần cho ngày mai.",
+      "start": 6.42,
+      "end": 10.31
+    },
+    {
+      "index": 3,
+      "text": "Long articles went into my reading list instead of staying open.",
+      "pronunciation": "long artikles quent in-tu mai ri-ding list in-sted ờv stâying âu-pần.",
+      "vi": "Bài dài được đưa vào danh sách đọc thay vì cứ mở đó.",
+      "start": 10.47,
+      "end": 15.51
+    },
+    {
+      "index": 4,
+      "text": "I closed unused tabs so the browser felt lighter.",
+      "pronunciation": "ai klost ăn-yuzd tabz sâu đờ brao-zờr felt lâyter.",
+      "vi": "Tôi đóng tab không dùng để trình duyệt nhẹ hơn.",
+      "start": 15.67,
+      "end": 20.61
+    },
+    {
+      "index": 5,
+      "text": "For work, I opened the project in a new window.",
+      "pronunciation": "fo quớrk, ai âu-pần đờ pró-jekt in ờ niu quyn-đâu.",
+      "vi": "Với công việc, tôi mở dự án trong cửa sổ mới.",
+      "start": 20.77,
+      "end": 25.5
+    },
+    {
+      "index": 6,
+      "text": "Now I can find it later without scrolling through chaos.",
+      "pronunciation": "nao ai ken phain ịt lêi-tờ quì-thao skrâu-ling thru khaos.",
+      "vi": "Bây giờ tôi có thể tìm lại sau mà không phải cuộn trong mớ hỗn loạn.",
+      "start": 25.66,
+      "end": 30.39
+    },
+    {
+      "index": 7,
+      "text": "That small cleanup made the next task easier to start.",
+      "pronunciation": "đat smol klin-ấp mêid đờ nekst tát-sờk i-zi-ờ tu staart.",
+      "vi": "Việc dọn gọn nhỏ đó làm nhiệm vụ tiếp theo dễ bắt đầu hơn.",
+      "start": 30.55,
+      "end": 35.08
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I had too many tabs open and could not find the right page.",
+      "pronunciation": "ai had tu me-ni tabz âu-pần en kud nót phain đờ rait pêij.",
+      "vi": "Tôi mở quá nhiều tab và không tìm được đúng trang.",
+      "start": 0,
+      "end": 4.83
+    },
+    {
+      "index": 2,
+      "text": "I bookmarked the page that I needed for tomorrow.",
+      "pronunciation": "ai bukmarkt đờ pêij đat ai ni-địt fo tomorrao.",
+      "vi": "Tôi đánh dấu trang tôi cần cho ngày mai.",
+      "start": 4.94,
+      "end": 8.84
+    },
+    {
+      "index": 3,
+      "text": "Long articles went into my reading list instead of staying open.",
+      "pronunciation": "long artikles quent in-tu mai ri-ding list in-sted ờv stâying âu-pần.",
+      "vi": "Bài dài được đưa vào danh sách đọc thay vì cứ mở đó.",
+      "start": 8.95,
+      "end": 14.51
+    },
+    {
+      "index": 4,
+      "text": "I closed unused tabs so the browser felt lighter.",
+      "pronunciation": "ai klost ăn-yuzd tabz sâu đờ brao-zờr felt lâyter.",
+      "vi": "Tôi đóng tab không dùng để trình duyệt nhẹ hơn.",
+      "start": 14.62,
+      "end": 19.29
+    },
+    {
+      "index": 5,
+      "text": "For work, I opened the project in a new window.",
+      "pronunciation": "fo quớrk, ai âu-pần đờ pró-jekt in ờ niu quyn-đâu.",
+      "vi": "Với công việc, tôi mở dự án trong cửa sổ mới.",
+      "start": 19.4,
+      "end": 23.79
+    },
+    {
+      "index": 6,
+      "text": "Now I can find it later without scrolling through chaos.",
+      "pronunciation": "nao ai ken phain ịt lêi-tờ quì-thao skrâu-ling thru khaos.",
+      "vi": "Bây giờ tôi có thể tìm lại sau mà không phải cuộn trong mớ hỗn loạn.",
+      "start": 23.9,
+      "end": 28.9
+    },
+    {
+      "index": 7,
+      "text": "That small cleanup made the next task easier to start.",
+      "pronunciation": "đat smol klin-ấp mêid đờ nekst tát-sờk i-zi-ờ tu staart.",
+      "vi": "Việc dọn gọn nhỏ đó làm nhiệm vụ tiếp theo dễ bắt đầu hơn.",
+      "start": 29.01,
+      "end": 34.51
+    }
+  ]
+}

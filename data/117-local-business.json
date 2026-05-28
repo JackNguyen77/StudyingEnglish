@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "117-local-business",
+  "title": "Story 117 - Nhìn doanh nghiệp địa phương",
+  "story": "stories/117-local-business.md",
+  "audio": "audio/117-local-business.mp3",
+  "duration": 31.31,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/117-local-business.mp3",
+  "durationMale": 31.06,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the local business in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ lâu-kồ biz-nịt in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả doanh nghiệp địa phương bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.06
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the foot traffic, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ fut tra-phik, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là lượng khách ghé, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.22,
+      "end": 10.97
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the rent pressure because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ rent pre-shờr bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về áp lực tiền thuê vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.13,
+      "end": 15.87
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the small business support as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ smol biz-nịt sờ-po(r)t as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến hỗ trợ doanh nghiệp nhỏ như một chi tiết quan trọng.",
+      "start": 16.03,
+      "end": 20.71
+    },
+    {
+      "index": 5,
+      "text": "Experts said the customer loyalty would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ kớs-tờ-mờr loyalti quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói lòng trung thành của khách sẽ quan trọng trong vài tháng tới.",
+      "start": 20.87,
+      "end": 25.28
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand local business pressure instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan lâu-kồ biz-nịt pre-shờr in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu áp lực của doanh nghiệp địa phương thay vì chỉ đọc tiêu đề.",
+      "start": 25.44,
+      "end": 30.98
+    }
+  ],
+  "audioMale1": "audio_male_1/117-local-business.mp3",
+  "durationMale1": 32,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the local business in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ lâu-kồ biz-nịt in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả doanh nghiệp địa phương bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.26
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the foot traffic, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ fut tra-phik, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là lượng khách ghé, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.42,
+      "end": 11.34
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the rent pressure because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ rent pre-shờr bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về áp lực tiền thuê vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.5,
+      "end": 16.5
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the small business support as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ smol biz-nịt sờ-po(r)t as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến hỗ trợ doanh nghiệp nhỏ như một chi tiết quan trọng.",
+      "start": 16.66,
+      "end": 21.35
+    },
+    {
+      "index": 5,
+      "text": "Experts said the customer loyalty would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ kớs-tờ-mờr loyalti quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói lòng trung thành của khách sẽ quan trọng trong vài tháng tới.",
+      "start": 21.51,
+      "end": 25.98
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand local business pressure instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan lâu-kồ biz-nịt pre-shờr in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu áp lực của doanh nghiệp địa phương thay vì chỉ đọc tiêu đề.",
+      "start": 26.14,
+      "end": 31.92
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the local business in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ lâu-kồ biz-nịt in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả doanh nghiệp địa phương bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 4.94
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the foot traffic, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ fut tra-phik, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là lượng khách ghé, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.1,
+      "end": 10.73
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the rent pressure because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ rent pre-shờr bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về áp lực tiền thuê vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 10.89,
+      "end": 15.5
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the small business support as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ smol biz-nịt sờ-po(r)t as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến hỗ trợ doanh nghiệp nhỏ như một chi tiết quan trọng.",
+      "start": 15.66,
+      "end": 20.37
+    },
+    {
+      "index": 5,
+      "text": "Experts said the customer loyalty would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ kớs-tờ-mờr loyalti quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói lòng trung thành của khách sẽ quan trọng trong vài tháng tới.",
+      "start": 20.53,
+      "end": 25.22
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand local business pressure instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan lâu-kồ biz-nịt pre-shờr in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu áp lực của doanh nghiệp địa phương thay vì chỉ đọc tiêu đề.",
+      "start": 25.38,
+      "end": 31.23
+    }
+  ]
+}

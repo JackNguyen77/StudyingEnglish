@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "061-requirement",
+  "title": "Story 061 - Làm rõ requirement",
+  "story": "stories/061-requirement.md",
+  "audio": "audio/061-requirement.mp3",
+  "duration": 33.51,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/061-requirement.mp3",
+  "durationMale": 36.66,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the new requirement in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ niu ri-quai-ờ-mần in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả requirement mới bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.84
+    },
+    {
+      "index": 2,
+      "text": "I asked about the business reason before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ biz-nịt ri-zần bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về lý do kinh doanh trước khi đề xuất bất cứ điều gì.",
+      "start": 6,
+      "end": 10.47
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the real need, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ riu nid, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là nhu cầu thật, không chỉ là yêu cầu đầu tiên.",
+      "start": 10.63,
+      "end": 16.01
+    },
+    {
+      "index": 4,
+      "text": "We agreed to outline the solution and check it with one example.",
+      "pronunciation": "quy ờ-grid tu aotline đờ sờ-lu-shần en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất phác thảo giải pháp và kiểm tra bằng một ví dụ.",
+      "start": 16.17,
+      "end": 20.72
+    },
+    {
+      "index": 5,
+      "text": "I wrote the agreed scope so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ ờ-grid skoup sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết scope đã thống nhất để mọi người có thể xem cùng một quyết định.",
+      "start": 20.88,
+      "end": 25.64
+    },
+    {
+      "index": 6,
+      "text": "That helped us avoid rework without adding extra work.",
+      "pronunciation": "đat heo ớs ờ-void ri-quớrk quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi tránh làm lại mà không thêm việc dư.",
+      "start": 25.8,
+      "end": 30.55
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 30.71,
+      "end": 36.58
+    }
+  ],
+  "audioMale1": "audio_male_1/061-requirement.mp3",
+  "durationMale1": 34.95,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the new requirement in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ niu ri-quai-ờ-mần in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả requirement mới bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.65
+    },
+    {
+      "index": 2,
+      "text": "I asked about the business reason before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ biz-nịt ri-zần bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về lý do kinh doanh trước khi đề xuất bất cứ điều gì.",
+      "start": 5.81,
+      "end": 10.21
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the real need, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ riu nid, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là nhu cầu thật, không chỉ là yêu cầu đầu tiên.",
+      "start": 10.37,
+      "end": 15.39
+    },
+    {
+      "index": 4,
+      "text": "We agreed to outline the solution and check it with one example.",
+      "pronunciation": "quy ờ-grid tu aotline đờ sờ-lu-shần en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất phác thảo giải pháp và kiểm tra bằng một ví dụ.",
+      "start": 15.55,
+      "end": 20.42
+    },
+    {
+      "index": 5,
+      "text": "I wrote the agreed scope so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ ờ-grid skoup sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết scope đã thống nhất để mọi người có thể xem cùng một quyết định.",
+      "start": 20.58,
+      "end": 25.56
+    },
+    {
+      "index": 6,
+      "text": "That helped us avoid rework without adding extra work.",
+      "pronunciation": "đat heo ớs ờ-void ri-quớrk quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi tránh làm lại mà không thêm việc dư.",
+      "start": 25.72,
+      "end": 28.02
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 28.18,
+      "end": 34.87
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the new requirement in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ niu ri-quai-ờ-mần in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả requirement mới bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.32
+    },
+    {
+      "index": 2,
+      "text": "I asked about the business reason before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ biz-nịt ri-zần bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về lý do kinh doanh trước khi đề xuất bất cứ điều gì.",
+      "start": 5.48,
+      "end": 9.92
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the real need, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ riu nid, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là nhu cầu thật, không chỉ là yêu cầu đầu tiên.",
+      "start": 10.08,
+      "end": 15.04
+    },
+    {
+      "index": 4,
+      "text": "We agreed to outline the solution and check it with one example.",
+      "pronunciation": "quy ờ-grid tu aotline đờ sờ-lu-shần en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất phác thảo giải pháp và kiểm tra bằng một ví dụ.",
+      "start": 15.2,
+      "end": 19.72
+    },
+    {
+      "index": 5,
+      "text": "I wrote the agreed scope so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ ờ-grid skoup sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết scope đã thống nhất để mọi người có thể xem cùng một quyết định.",
+      "start": 19.88,
+      "end": 24.53
+    },
+    {
+      "index": 6,
+      "text": "That helped us avoid rework without adding extra work.",
+      "pronunciation": "đat heo ớs ờ-void ri-quớrk quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi tránh làm lại mà không thêm việc dư.",
+      "start": 24.69,
+      "end": 28.22
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 28.38,
+      "end": 33.43
+    }
+  ]
+}

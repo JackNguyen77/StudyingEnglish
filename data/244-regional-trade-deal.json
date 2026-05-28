@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "244-regional-trade-deal",
+  "title": "Story 244 - Nghe về trade deal khu vực",
+  "story": "stories/244-regional-trade-deal.md",
+  "audio": "audio/244-regional-trade-deal.mp3",
+  "duration": 32.03,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/244-regional-trade-deal.mp3",
+  "durationMale": 33.05,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I listened to the regional trade deal before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ rejional trade điêu bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe trade deal khu vực trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.88
+    },
+    {
+      "index": 2,
+      "text": "One tariff concern made the update harder to explain.",
+      "pronunciation": "quăn tariff kờn-sơn mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một mối lo tariff làm phần update khó giải thích hơn.",
+      "start": 5.04,
+      "end": 8.81
+    },
+    {
+      "index": 3,
+      "text": "I tried to compare market access instead of reacting too quickly.",
+      "pronunciation": "ai traid tu kompare ma-kịt ak-ses in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố so sánh khả năng tiếp cận thị trường thay vì phản ứng quá vội.",
+      "start": 8.97,
+      "end": 13.29
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short trade deal note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt trade điêu note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú trade deal ngắn để các facts rõ ràng.",
+      "start": 13.45,
+      "end": 17.82
+    },
+    {
+      "index": 5,
+      "text": "I also had to check export rules before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék eksport rules bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra rule xuất khẩu trước khi lặp lại claim đó.",
+      "start": 17.98,
+      "end": 22.13
+    },
+    {
+      "index": 6,
+      "text": "That helped me support local producers without making the conversation tense.",
+      "pronunciation": "đat heo mi sờ-po(r)t lâu-kồ produsers quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi hỗ trợ nhà sản xuất địa phương mà không làm cuộc trao đổi căng thẳng.",
+      "start": 22.29,
+      "end": 28.61
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 28.77,
+      "end": 32.97
+    }
+  ],
+  "audioMale1": "audio_male_1/244-regional-trade-deal.mp3",
+  "durationMale1": 35.06,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I listened to the regional trade deal before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ rejional trade điêu bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe trade deal khu vực trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 5.12
+    },
+    {
+      "index": 2,
+      "text": "One tariff concern made the update harder to explain.",
+      "pronunciation": "quăn tariff kờn-sơn mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một mối lo tariff làm phần update khó giải thích hơn.",
+      "start": 5.28,
+      "end": 9.64
+    },
+    {
+      "index": 3,
+      "text": "I tried to compare market access instead of reacting too quickly.",
+      "pronunciation": "ai traid tu kompare ma-kịt ak-ses in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố so sánh khả năng tiếp cận thị trường thay vì phản ứng quá vội.",
+      "start": 9.8,
+      "end": 15.03
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short trade deal note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt trade điêu note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú trade deal ngắn để các facts rõ ràng.",
+      "start": 15.19,
+      "end": 20.34
+    },
+    {
+      "index": 5,
+      "text": "I also had to check export rules before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék eksport rules bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra rule xuất khẩu trước khi lặp lại claim đó.",
+      "start": 20.5,
+      "end": 25.41
+    },
+    {
+      "index": 6,
+      "text": "That helped me support local producers without making the conversation tense.",
+      "pronunciation": "đat heo mi sờ-po(r)t lâu-kồ produsers quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi hỗ trợ nhà sản xuất địa phương mà không làm cuộc trao đổi căng thẳng.",
+      "start": 25.57,
+      "end": 31.06
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 31.22,
+      "end": 34.98
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I listened to the regional trade deal before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ rejional trade điêu bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe trade deal khu vực trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.22
+    },
+    {
+      "index": 2,
+      "text": "One tariff concern made the update harder to explain.",
+      "pronunciation": "quăn tariff kờn-sơn mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một mối lo tariff làm phần update khó giải thích hơn.",
+      "start": 4.38,
+      "end": 8.04
+    },
+    {
+      "index": 3,
+      "text": "I tried to compare market access instead of reacting too quickly.",
+      "pronunciation": "ai traid tu kompare ma-kịt ak-ses in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố so sánh khả năng tiếp cận thị trường thay vì phản ứng quá vội.",
+      "start": 8.2,
+      "end": 12.98
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short trade deal note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt trade điêu note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú trade deal ngắn để các facts rõ ràng.",
+      "start": 13.14,
+      "end": 17.79
+    },
+    {
+      "index": 5,
+      "text": "I also had to check export rules before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék eksport rules bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra rule xuất khẩu trước khi lặp lại claim đó.",
+      "start": 17.95,
+      "end": 22.41
+    },
+    {
+      "index": 6,
+      "text": "That helped me support local producers without making the conversation tense.",
+      "pronunciation": "đat heo mi sờ-po(r)t lâu-kồ produsers quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi hỗ trợ nhà sản xuất địa phương mà không làm cuộc trao đổi căng thẳng.",
+      "start": 22.57,
+      "end": 27.7
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 27.86,
+      "end": 31.95
+    }
+  ]
+}

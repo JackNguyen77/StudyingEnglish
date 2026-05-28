@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "246-rent-control-debate",
+  "title": "Story 246 - Theo dõi tranh luận rent control",
+  "story": "stories/246-rent-control-debate.md",
+  "audio": "audio/246-rent-control-debate.mp3",
+  "duration": 30.84,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/246-rent-control-debate.mp3",
+  "durationMale": 32.78,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I listened to the rent control debate before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ rent kờn-trâu đi-bêit bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe tranh luận rent control trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.92
+    },
+    {
+      "index": 2,
+      "text": "One landlord pushback made the update harder to explain.",
+      "pronunciation": "quăn landlord pushbak mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một phản ứng pushback từ chủ nhà làm phần update khó giải thích hơn.",
+      "start": 5.08,
+      "end": 9.28
+    },
+    {
+      "index": 3,
+      "text": "I tried to review housing evidence instead of reacting too quickly.",
+      "pronunciation": "ai traid tu ri-viu hao-zing e-vờ-đầnss in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố xem lại bằng chứng housing thay vì phản ứng quá vội.",
+      "start": 9.44,
+      "end": 14.4
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short rent policy note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt rent po-lờ-si note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú policy tiền thuê ngắn để các facts rõ ràng.",
+      "start": 14.56,
+      "end": 18.58
+    },
+    {
+      "index": 5,
+      "text": "I also had to check tenant feedback before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék tenant phid-bak bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra feedback người thuê trước khi lặp lại claim đó.",
+      "start": 18.74,
+      "end": 23.58
+    },
+    {
+      "index": 6,
+      "text": "That helped me balance housing interests without making the conversation tense.",
+      "pronunciation": "đat heo mi balanse hao-zing interests quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi cân bằng lợi ích housing mà không làm cuộc trao đổi căng thẳng.",
+      "start": 23.74,
+      "end": 28.46
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 28.62,
+      "end": 32.7
+    }
+  ],
+  "audioMale1": "audio_male_1/246-rent-control-debate.mp3",
+  "durationMale1": 35.37,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I listened to the rent control debate before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ rent kờn-trâu đi-bêit bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe tranh luận rent control trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.66
+    },
+    {
+      "index": 2,
+      "text": "One landlord pushback made the update harder to explain.",
+      "pronunciation": "quăn landlord pushbak mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một phản ứng pushback từ chủ nhà làm phần update khó giải thích hơn.",
+      "start": 4.82,
+      "end": 9.27
+    },
+    {
+      "index": 3,
+      "text": "I tried to review housing evidence instead of reacting too quickly.",
+      "pronunciation": "ai traid tu ri-viu hao-zing e-vờ-đầnss in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố xem lại bằng chứng housing thay vì phản ứng quá vội.",
+      "start": 9.43,
+      "end": 14.18
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short rent policy note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt rent po-lờ-si note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú policy tiền thuê ngắn để các facts rõ ràng.",
+      "start": 14.34,
+      "end": 19.23
+    },
+    {
+      "index": 5,
+      "text": "I also had to check tenant feedback before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék tenant phid-bak bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra feedback người thuê trước khi lặp lại claim đó.",
+      "start": 19.39,
+      "end": 26.62
+    },
+    {
+      "index": 6,
+      "text": "That helped me balance housing interests without making the conversation tense.",
+      "pronunciation": "đat heo mi balanse hao-zing interests quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi cân bằng lợi ích housing mà không làm cuộc trao đổi căng thẳng.",
+      "start": 26.78,
+      "end": 30.37
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 30.53,
+      "end": 35.29
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I listened to the rent control debate before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ rent kờn-trâu đi-bêit bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe tranh luận rent control trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.37
+    },
+    {
+      "index": 2,
+      "text": "One landlord pushback made the update harder to explain.",
+      "pronunciation": "quăn landlord pushbak mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một phản ứng pushback từ chủ nhà làm phần update khó giải thích hơn.",
+      "start": 4.53,
+      "end": 8.64
+    },
+    {
+      "index": 3,
+      "text": "I tried to review housing evidence instead of reacting too quickly.",
+      "pronunciation": "ai traid tu ri-viu hao-zing e-vờ-đầnss in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố xem lại bằng chứng housing thay vì phản ứng quá vội.",
+      "start": 8.8,
+      "end": 13.03
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short rent policy note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt rent po-lờ-si note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú policy tiền thuê ngắn để các facts rõ ràng.",
+      "start": 13.19,
+      "end": 17.6
+    },
+    {
+      "index": 5,
+      "text": "I also had to check tenant feedback before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék tenant phid-bak bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra feedback người thuê trước khi lặp lại claim đó.",
+      "start": 17.76,
+      "end": 22.07
+    },
+    {
+      "index": 6,
+      "text": "That helped me balance housing interests without making the conversation tense.",
+      "pronunciation": "đat heo mi balanse hao-zing interests quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi cân bằng lợi ích housing mà không làm cuộc trao đổi căng thẳng.",
+      "start": 22.23,
+      "end": 26.75
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 26.91,
+      "end": 30.76
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "281-regional-sales-pipeline",
+  "title": "Story 281 - Review sales pipeline khu vực",
+  "story": "stories/281-regional-sales-pipeline.md",
+  "audio": "audio/281-regional-sales-pipeline.mp3",
+  "duration": 31.11,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/281-regional-sales-pipeline.mp3",
+  "durationMale": 33.21,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the regional sales pipeline before the meeting started.",
+      "pronunciation": "ai quókt thru đờ rejional sêilz pipeline bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through sales pipeline khu vực trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.54
+    },
+    {
+      "index": 2,
+      "text": "One stalled opportunity made the decision harder than expected.",
+      "pronunciation": "quăn stallt opportuniti mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một opportunity bị đứng làm decision khó hơn dự kiến.",
+      "start": 4.7,
+      "end": 8.9
+    },
+    {
+      "index": 3,
+      "text": "I tried to challenge forecast assumptions so the team had a clearer path.",
+      "pronunciation": "ai traid tu cha-lầnj pho-kast ờ-săm-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố challenge assumption forecast để team có hướng rõ hơn.",
+      "start": 9.06,
+      "end": 12.75
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short pipeline review note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt pipeline ri-viu note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú review pipeline ngắn để capture các key points.",
+      "start": 12.91,
+      "end": 20.25
+    },
+    {
+      "index": 5,
+      "text": "I also had to check deal health before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék điêu helth bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra health của deal trước khi chúng tôi thống nhất next step.",
+      "start": 20.41,
+      "end": 24.9
+    },
+    {
+      "index": 6,
+      "text": "That helped us focus sales effort without losing momentum.",
+      "pronunciation": "đat heo ớs fokus sêilz e-phờrt quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi tập trung effort sales mà không mất momentum.",
+      "start": 25.06,
+      "end": 29.02
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 29.18,
+      "end": 33.13
+    }
+  ],
+  "audioMale1": "audio_male_1/281-regional-sales-pipeline.mp3",
+  "durationMale1": 38.44,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the regional sales pipeline before the meeting started.",
+      "pronunciation": "ai quókt thru đờ rejional sêilz pipeline bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through sales pipeline khu vực trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.73
+    },
+    {
+      "index": 2,
+      "text": "One stalled opportunity made the decision harder than expected.",
+      "pronunciation": "quăn stallt opportuniti mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một opportunity bị đứng làm decision khó hơn dự kiến.",
+      "start": 5.89,
+      "end": 10.42
+    },
+    {
+      "index": 3,
+      "text": "I tried to challenge forecast assumptions so the team had a clearer path.",
+      "pronunciation": "ai traid tu cha-lầnj pho-kast ờ-săm-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố challenge assumption forecast để team có hướng rõ hơn.",
+      "start": 10.58,
+      "end": 17.48
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short pipeline review note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt pipeline ri-viu note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú review pipeline ngắn để capture các key points.",
+      "start": 17.64,
+      "end": 22.87
+    },
+    {
+      "index": 5,
+      "text": "I also had to check deal health before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék điêu helth bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra health của deal trước khi chúng tôi thống nhất next step.",
+      "start": 23.03,
+      "end": 28.35
+    },
+    {
+      "index": 6,
+      "text": "That helped us focus sales effort without losing momentum.",
+      "pronunciation": "đat heo ớs fokus sêilz e-phờrt quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi tập trung effort sales mà không mất momentum.",
+      "start": 28.51,
+      "end": 33.4
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 33.56,
+      "end": 38.36
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the regional sales pipeline before the meeting started.",
+      "pronunciation": "ai quókt thru đờ rejional sêilz pipeline bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through sales pipeline khu vực trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.33
+    },
+    {
+      "index": 2,
+      "text": "One stalled opportunity made the decision harder than expected.",
+      "pronunciation": "quăn stallt opportuniti mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một opportunity bị đứng làm decision khó hơn dự kiến.",
+      "start": 4.49,
+      "end": 8.56
+    },
+    {
+      "index": 3,
+      "text": "I tried to challenge forecast assumptions so the team had a clearer path.",
+      "pronunciation": "ai traid tu cha-lầnj pho-kast ờ-săm-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố challenge assumption forecast để team có hướng rõ hơn.",
+      "start": 8.72,
+      "end": 13.57
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short pipeline review note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt pipeline ri-viu note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú review pipeline ngắn để capture các key points.",
+      "start": 13.73,
+      "end": 18.12
+    },
+    {
+      "index": 5,
+      "text": "I also had to check deal health before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék điêu helth bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra health của deal trước khi chúng tôi thống nhất next step.",
+      "start": 18.28,
+      "end": 22.78
+    },
+    {
+      "index": 6,
+      "text": "That helped us focus sales effort without losing momentum.",
+      "pronunciation": "đat heo ớs fokus sêilz e-phờrt quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi tập trung effort sales mà không mất momentum.",
+      "start": 22.94,
+      "end": 27.06
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 27.22,
+      "end": 31.03
+    }
+  ]
+}

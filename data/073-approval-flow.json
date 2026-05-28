@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "073-approval-flow",
+  "title": "Story 073 - Thiết kế approval flow",
+  "story": "stories/073-approval-flow.md",
+  "audio": "audio/073-approval-flow.mp3",
+  "duration": 32.7,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/073-approval-flow.mp3",
+  "durationMale": 31.83,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the approval flow in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ ờ-pru-vồ flâu in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả flow approval bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.36
+    },
+    {
+      "index": 2,
+      "text": "I asked about the each status before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ ich stêi-tờs bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về từng status trước khi đề xuất bất cứ điều gì.",
+      "start": 5.52,
+      "end": 9.58
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the missing approver, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ mis-sing ờ-pru-vờr, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là người duyệt còn thiếu, không chỉ là yêu cầu đầu tiên.",
+      "start": 9.74,
+      "end": 14.52
+    },
+    {
+      "index": 4,
+      "text": "We agreed to add a reminder step and check it with one example.",
+      "pronunciation": "quy ờ-grid tu add ờ ri-main-dờr step en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất thêm bước nhắc và kiểm tra bằng một ví dụ.",
+      "start": 14.68,
+      "end": 18.87
+    },
+    {
+      "index": 5,
+      "text": "I wrote the approval rule so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ ờ-pru-vồ rul sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết rule approval để mọi người có thể xem cùng một quyết định.",
+      "start": 19.03,
+      "end": 23.29
+    },
+    {
+      "index": 6,
+      "text": "That helped us reduce waiting time without adding extra work.",
+      "pronunciation": "đat heo ớs ri-đus quây-ting taim quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi giảm thời gian chờ mà không thêm việc dư.",
+      "start": 23.45,
+      "end": 26.81
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 26.97,
+      "end": 31.75
+    }
+  ],
+  "audioMale1": "audio_male_1/073-approval-flow.mp3",
+  "durationMale1": 35.11,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the approval flow in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ ờ-pru-vồ flâu in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả flow approval bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.98
+    },
+    {
+      "index": 2,
+      "text": "I asked about the each status before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ ich stêi-tờs bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về từng status trước khi đề xuất bất cứ điều gì.",
+      "start": 6.14,
+      "end": 10.28
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the missing approver, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ mis-sing ờ-pru-vờr, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là người duyệt còn thiếu, không chỉ là yêu cầu đầu tiên.",
+      "start": 10.44,
+      "end": 15.65
+    },
+    {
+      "index": 4,
+      "text": "We agreed to add a reminder step and check it with one example.",
+      "pronunciation": "quy ờ-grid tu add ờ ri-main-dờr step en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất thêm bước nhắc và kiểm tra bằng một ví dụ.",
+      "start": 15.81,
+      "end": 20.4
+    },
+    {
+      "index": 5,
+      "text": "I wrote the approval rule so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ ờ-pru-vồ rul sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết rule approval để mọi người có thể xem cùng một quyết định.",
+      "start": 20.56,
+      "end": 25.13
+    },
+    {
+      "index": 6,
+      "text": "That helped us reduce waiting time without adding extra work.",
+      "pronunciation": "đat heo ớs ri-đus quây-ting taim quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi giảm thời gian chờ mà không thêm việc dư.",
+      "start": 25.29,
+      "end": 29.58
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 29.74,
+      "end": 35.03
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the approval flow in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ ờ-pru-vồ flâu in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả flow approval bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 4.76
+    },
+    {
+      "index": 2,
+      "text": "I asked about the each status before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ ich stêi-tờs bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về từng status trước khi đề xuất bất cứ điều gì.",
+      "start": 4.92,
+      "end": 9.12
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the missing approver, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ mis-sing ờ-pru-vờr, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là người duyệt còn thiếu, không chỉ là yêu cầu đầu tiên.",
+      "start": 9.28,
+      "end": 14.24
+    },
+    {
+      "index": 4,
+      "text": "We agreed to add a reminder step and check it with one example.",
+      "pronunciation": "quy ờ-grid tu add ờ ri-main-dờr step en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất thêm bước nhắc và kiểm tra bằng một ví dụ.",
+      "start": 14.4,
+      "end": 18.76
+    },
+    {
+      "index": 5,
+      "text": "I wrote the approval rule so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ ờ-pru-vồ rul sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết rule approval để mọi người có thể xem cùng một quyết định.",
+      "start": 18.92,
+      "end": 23.58
+    },
+    {
+      "index": 6,
+      "text": "That helped us reduce waiting time without adding extra work.",
+      "pronunciation": "đat heo ớs ri-đus quây-ting taim quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi giảm thời gian chờ mà không thêm việc dư.",
+      "start": 23.74,
+      "end": 27.68
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 27.84,
+      "end": 32.62
+    }
+  ]
+}

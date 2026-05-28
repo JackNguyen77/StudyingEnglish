@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "114-technology-shift",
+  "title": "Story 114 - Hiểu chuyển dịch công nghệ",
+  "story": "stories/114-technology-shift.md",
+  "audio": "audio/114-technology-shift.mp3",
+  "duration": 29.16,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/114-technology-shift.mp3",
+  "durationMale": 31.78,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the technology shift in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ tek-nó-lờ-ji shift in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả chuyển dịch công nghệ bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 4.35
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the automation tool, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ o-tờ-mây-shần tul, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là công cụ tự động hóa, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 4.51,
+      "end": 12.38
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the worker concern because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ quớr-kờr kờn-sơn bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về mối lo của người lao động vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12.54,
+      "end": 17.87
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the company training as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ kompani trây-ning as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến training công ty như một chi tiết quan trọng.",
+      "start": 18.03,
+      "end": 22.47
+    },
+    {
+      "index": 5,
+      "text": "Experts said the new skill would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ niu skil quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói kỹ năng mới sẽ quan trọng trong vài tháng tới.",
+      "start": 22.63,
+      "end": 26.74
+    },
+    {
+      "index": 6,
+      "text": "The story helped me learn to adapt instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi lơn tu ờ-dapt in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi học cách thích nghi thay vì chỉ đọc tiêu đề.",
+      "start": 26.9,
+      "end": 31.7
+    }
+  ],
+  "audioMale1": "audio_male_1/114-technology-shift.mp3",
+  "durationMale1": 36.66,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the technology shift in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ tek-nó-lờ-ji shift in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả chuyển dịch công nghệ bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 7.1
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the automation tool, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ o-tờ-mây-shần tul, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là công cụ tự động hóa, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 7.26,
+      "end": 14.68
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the worker concern because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ quớr-kờr kờn-sơn bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về mối lo của người lao động vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 14.84,
+      "end": 18.74
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the company training as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ kompani trây-ning as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến training công ty như một chi tiết quan trọng.",
+      "start": 18.9,
+      "end": 26.24
+    },
+    {
+      "index": 5,
+      "text": "Experts said the new skill would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ niu skil quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói kỹ năng mới sẽ quan trọng trong vài tháng tới.",
+      "start": 26.4,
+      "end": 31.05
+    },
+    {
+      "index": 6,
+      "text": "The story helped me learn to adapt instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi lơn tu ờ-dapt in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi học cách thích nghi thay vì chỉ đọc tiêu đề.",
+      "start": 31.21,
+      "end": 36.58
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the technology shift in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ tek-nó-lờ-ji shift in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả chuyển dịch công nghệ bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.12
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the automation tool, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ o-tờ-mây-shần tul, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là công cụ tự động hóa, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.28,
+      "end": 10.98
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the worker concern because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ quớr-kờr kờn-sơn bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về mối lo của người lao động vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.14,
+      "end": 16.23
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the company training as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ kompani trây-ning as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến training công ty như một chi tiết quan trọng.",
+      "start": 16.39,
+      "end": 20.48
+    },
+    {
+      "index": 5,
+      "text": "Experts said the new skill would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ niu skil quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói kỹ năng mới sẽ quan trọng trong vài tháng tới.",
+      "start": 20.64,
+      "end": 24.45
+    },
+    {
+      "index": 6,
+      "text": "The story helped me learn to adapt instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi lơn tu ờ-dapt in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi học cách thích nghi thay vì chỉ đọc tiêu đề.",
+      "start": 24.61,
+      "end": 29.08
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "199-approval-matrix",
+  "title": "Story 199 - Cập nhật approval matrix",
+  "story": "stories/199-approval-matrix.md",
+  "audio": "audio/199-approval-matrix.mp3",
+  "duration": 35.27,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/199-approval-matrix.mp3",
+  "durationMale": 32.18,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the approval matrix before I made a final choice.",
+      "pronunciation": "ai chékt đờ ờ-pru-vồ mây-triks bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra ma trận approval trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.9
+    },
+    {
+      "index": 2,
+      "text": "One absent approver made the situation less simple than it looked.",
+      "pronunciation": "quăn absent ờ-pru-vờr mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Người duyệt vắng mặt làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.06,
+      "end": 9.17
+    },
+    {
+      "index": 3,
+      "text": "I decided to update the matrix before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ấp-đêit đờ mây-triks bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định cập nhật ma trận trước khi tiếp tục.",
+      "start": 9.33,
+      "end": 13.98
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short approval note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ờ-pru-vồ note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú approval ngắn để người kia hiểu tôi.",
+      "start": 14.14,
+      "end": 18.5
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the backup owner instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ béc-ấp aoner in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận owner dự phòng thay vì đoán.",
+      "start": 18.66,
+      "end": 23
+    },
+    {
+      "index": 6,
+      "text": "That helped me speed up approval without adding extra stress.",
+      "pronunciation": "đat heo mi spet ấp ờ-pru-vồ quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tăng tốc approval mà không thêm căng thẳng.",
+      "start": 23.16,
+      "end": 27.11
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.27,
+      "end": 32.1
+    }
+  ],
+  "audioMale1": "audio_male_1/199-approval-matrix.mp3",
+  "durationMale1": 36.55,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the approval matrix before I made a final choice.",
+      "pronunciation": "ai chékt đờ ờ-pru-vồ mây-triks bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra ma trận approval trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.16
+    },
+    {
+      "index": 2,
+      "text": "One absent approver made the situation less simple than it looked.",
+      "pronunciation": "quăn absent ờ-pru-vờr mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Người duyệt vắng mặt làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.32,
+      "end": 10.43
+    },
+    {
+      "index": 3,
+      "text": "I decided to update the matrix before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ấp-đêit đờ mây-triks bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định cập nhật ma trận trước khi tiếp tục.",
+      "start": 10.59,
+      "end": 15.15
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short approval note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ờ-pru-vồ note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú approval ngắn để người kia hiểu tôi.",
+      "start": 15.31,
+      "end": 21.16
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the backup owner instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ béc-ấp aoner in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận owner dự phòng thay vì đoán.",
+      "start": 21.32,
+      "end": 25.86
+    },
+    {
+      "index": 6,
+      "text": "That helped me speed up approval without adding extra stress.",
+      "pronunciation": "đat heo mi spet ấp ờ-pru-vồ quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tăng tốc approval mà không thêm căng thẳng.",
+      "start": 26.02,
+      "end": 30.42
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.58,
+      "end": 36.47
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the approval matrix before I made a final choice.",
+      "pronunciation": "ai chékt đờ ờ-pru-vồ mây-triks bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra ma trận approval trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5
+    },
+    {
+      "index": 2,
+      "text": "One absent approver made the situation less simple than it looked.",
+      "pronunciation": "quăn absent ờ-pru-vờr mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Người duyệt vắng mặt làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.16,
+      "end": 10.12
+    },
+    {
+      "index": 3,
+      "text": "I decided to update the matrix before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ấp-đêit đờ mây-triks bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định cập nhật ma trận trước khi tiếp tục.",
+      "start": 10.28,
+      "end": 14.78
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short approval note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ờ-pru-vồ note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú approval ngắn để người kia hiểu tôi.",
+      "start": 14.94,
+      "end": 20.15
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the backup owner instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ béc-ấp aoner in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận owner dự phòng thay vì đoán.",
+      "start": 20.31,
+      "end": 25.17
+    },
+    {
+      "index": 6,
+      "text": "That helped me speed up approval without adding extra stress.",
+      "pronunciation": "đat heo mi spet ấp ờ-pru-vồ quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tăng tốc approval mà không thêm căng thẳng.",
+      "start": 25.33,
+      "end": 29.88
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.04,
+      "end": 35.19
+    }
+  ]
+}

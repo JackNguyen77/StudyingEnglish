@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "052-documentation",
+  "title": "Story 052 - Cập nhật tài liệu",
+  "story": "stories/052-documentation.md",
+  "audio": "audio/052-documentation.mp3",
+  "duration": 29.05,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/052-documentation.mp3",
+  "durationMale": 29.93,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the support document so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ sờ-po(r)t đók-yu-mần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở tài liệu hỗ trợ để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.97
+    },
+    {
+      "index": 2,
+      "text": "The goal was to update the steps without losing important details.",
+      "pronunciation": "đờ gâu wờz tu ấp-đêit đờ stepts quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là cập nhật các bước mà không làm mất các chi tiết quan trọng.",
+      "start": 6.13,
+      "end": 10.69
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the missing screenshot and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ mis-sing skrinshot en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra ảnh chụp còn thiếu và hỏi ai nên xử lý tiếp.",
+      "start": 10.85,
+      "end": 15.42
+    },
+    {
+      "index": 4,
+      "text": "We agreed to add a clear example before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu add ờ kliờ ig-zam-pồ bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất thêm ví dụ rõ trước khi có ai đi tiếp.",
+      "start": 15.58,
+      "end": 19.97
+    },
+    {
+      "index": 5,
+      "text": "I shared the shared folder after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ she(r)d folder áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ thư mục chung sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 20.13,
+      "end": 25.46
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us make the guide easier later in the day.",
+      "pronunciation": "đat smol step heo ớs mêik đờ gaid i-zi-ờ lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi làm guide dễ hiểu hơn về sau trong ngày.",
+      "start": 25.62,
+      "end": 29.85
+    }
+  ],
+  "audioMale1": "audio_male_1/052-documentation.mp3",
+  "durationMale1": 31.51,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the support document so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ sờ-po(r)t đók-yu-mần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở tài liệu hỗ trợ để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 6.41
+    },
+    {
+      "index": 2,
+      "text": "The goal was to update the steps without losing important details.",
+      "pronunciation": "đờ gâu wờz tu ấp-đêit đờ stepts quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là cập nhật các bước mà không làm mất các chi tiết quan trọng.",
+      "start": 6.57,
+      "end": 11.47
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the missing screenshot and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ mis-sing skrinshot en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra ảnh chụp còn thiếu và hỏi ai nên xử lý tiếp.",
+      "start": 11.63,
+      "end": 16.37
+    },
+    {
+      "index": 4,
+      "text": "We agreed to add a clear example before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu add ờ kliờ ig-zam-pồ bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất thêm ví dụ rõ trước khi có ai đi tiếp.",
+      "start": 16.53,
+      "end": 20.7
+    },
+    {
+      "index": 5,
+      "text": "I shared the shared folder after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ she(r)d folder áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ thư mục chung sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 20.86,
+      "end": 26.28
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us make the guide easier later in the day.",
+      "pronunciation": "đat smol step heo ớs mêik đờ gaid i-zi-ờ lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi làm guide dễ hiểu hơn về sau trong ngày.",
+      "start": 26.44,
+      "end": 31.43
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the support document so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ sờ-po(r)t đók-yu-mần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở tài liệu hỗ trợ để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.2
+    },
+    {
+      "index": 2,
+      "text": "The goal was to update the steps without losing important details.",
+      "pronunciation": "đờ gâu wờz tu ấp-đêit đờ stepts quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là cập nhật các bước mà không làm mất các chi tiết quan trọng.",
+      "start": 5.36,
+      "end": 9.76
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the missing screenshot and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ mis-sing skrinshot en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra ảnh chụp còn thiếu và hỏi ai nên xử lý tiếp.",
+      "start": 9.92,
+      "end": 14.64
+    },
+    {
+      "index": 4,
+      "text": "We agreed to add a clear example before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu add ờ kliờ ig-zam-pồ bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất thêm ví dụ rõ trước khi có ai đi tiếp.",
+      "start": 14.8,
+      "end": 19.08
+    },
+    {
+      "index": 5,
+      "text": "I shared the shared folder after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ she(r)d folder áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ thư mục chung sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 19.24,
+      "end": 24.04
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us make the guide easier later in the day.",
+      "pronunciation": "đat smol step heo ớs mêik đờ gaid i-zi-ờ lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi làm guide dễ hiểu hơn về sau trong ngày.",
+      "start": 24.2,
+      "end": 28.97
+    }
+  ]
+}

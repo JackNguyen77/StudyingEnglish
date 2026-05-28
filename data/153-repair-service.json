@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "153-repair-service",
+  "title": "Story 153 - Gọi dịch vụ sửa chữa",
+  "story": "stories/153-repair-service.md",
+  "audio": "audio/153-repair-service.mp3",
+  "duration": 33.32,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/153-repair-service.mp3",
+  "durationMale": 35.01,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the service appointment before I made a final choice.",
+      "pronunciation": "ai chékt đờ sờ-vịt ờ-poi-mần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra lịch hẹn dịch vụ trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.26
+    },
+    {
+      "index": 2,
+      "text": "One late technician made the situation less simple than it looked.",
+      "pronunciation": "quăn lêit tekhnisian mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Thợ đến muộn làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.42,
+      "end": 9.22
+    },
+    {
+      "index": 3,
+      "text": "I decided to describe the problem before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu deskribe đờ pro-blầm bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định mô tả vấn đề trước khi tiếp tục.",
+      "start": 9.38,
+      "end": 14.02
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short follow up message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt pha-lâu-ấp mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn hỏi lại ngắn để người kia hiểu tôi.",
+      "start": 14.18,
+      "end": 19.73
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the time window instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ taim quyn-đâu in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận khung giờ thay vì đoán.",
+      "start": 19.89,
+      "end": 24.65
+    },
+    {
+      "index": 6,
+      "text": "That helped me get the repair done without adding extra stress.",
+      "pronunciation": "đat heo mi gét đờ repâyr đăn quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi sửa xong việc đó mà không thêm căng thẳng.",
+      "start": 24.81,
+      "end": 29.56
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 29.72,
+      "end": 34.93
+    }
+  ],
+  "audioMale1": "audio_male_1/153-repair-service.mp3",
+  "durationMale1": 37.17,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the service appointment before I made a final choice.",
+      "pronunciation": "ai chékt đờ sờ-vịt ờ-poi-mần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra lịch hẹn dịch vụ trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.49
+    },
+    {
+      "index": 2,
+      "text": "One late technician made the situation less simple than it looked.",
+      "pronunciation": "quăn lêit tekhnisian mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Thợ đến muộn làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.65,
+      "end": 10.79
+    },
+    {
+      "index": 3,
+      "text": "I decided to describe the problem before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu deskribe đờ pro-blầm bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định mô tả vấn đề trước khi tiếp tục.",
+      "start": 10.95,
+      "end": 15.84
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short follow up message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt pha-lâu-ấp mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn hỏi lại ngắn để người kia hiểu tôi.",
+      "start": 16,
+      "end": 21.51
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the time window instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ taim quyn-đâu in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận khung giờ thay vì đoán.",
+      "start": 21.67,
+      "end": 26.3
+    },
+    {
+      "index": 6,
+      "text": "That helped me get the repair done without adding extra stress.",
+      "pronunciation": "đat heo mi gét đờ repâyr đăn quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi sửa xong việc đó mà không thêm căng thẳng.",
+      "start": 26.46,
+      "end": 31.38
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 31.54,
+      "end": 37.09
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the service appointment before I made a final choice.",
+      "pronunciation": "ai chékt đờ sờ-vịt ờ-poi-mần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra lịch hẹn dịch vụ trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.2
+    },
+    {
+      "index": 2,
+      "text": "One late technician made the situation less simple than it looked.",
+      "pronunciation": "quăn lêit tekhnisian mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Thợ đến muộn làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.36,
+      "end": 9.94
+    },
+    {
+      "index": 3,
+      "text": "I decided to describe the problem before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu deskribe đờ pro-blầm bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định mô tả vấn đề trước khi tiếp tục.",
+      "start": 10.1,
+      "end": 12.55
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short follow up message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt pha-lâu-ấp mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn hỏi lại ngắn để người kia hiểu tôi.",
+      "start": 12.71,
+      "end": 19.54
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the time window instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ taim quyn-đâu in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận khung giờ thay vì đoán.",
+      "start": 19.7,
+      "end": 24.02
+    },
+    {
+      "index": 6,
+      "text": "That helped me get the repair done without adding extra stress.",
+      "pronunciation": "đat heo mi gét đờ repâyr đăn quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi sửa xong việc đó mà không thêm căng thẳng.",
+      "start": 24.18,
+      "end": 28.53
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.69,
+      "end": 33.24
+    }
+  ]
+}

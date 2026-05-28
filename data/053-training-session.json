@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "053-training-session",
+  "title": "Story 053 - Buổi training",
+  "story": "stories/053-training-session.md",
+  "audio": "audio/053-training-session.mp3",
+  "duration": 30.33,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/053-training-session.mp3",
+  "durationMale": 30.6,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the training session so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ trây-ning se-shần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở buổi training để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 6.34
+    },
+    {
+      "index": 2,
+      "text": "The goal was to walk through the flow without losing important details.",
+      "pronunciation": "đờ gâu wờz tu walk thru đờ flâu quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là đi từng bước qua flow mà không làm mất các chi tiết quan trọng.",
+      "start": 6.5,
+      "end": 11.4
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the common mistake and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ kommon mis-têik en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra lỗi thường gặp và hỏi ai nên xử lý tiếp.",
+      "start": 11.56,
+      "end": 16.07
+    },
+    {
+      "index": 4,
+      "text": "We agreed to answer live questions before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu an-sờ live ques-chầnz bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất trả lời câu hỏi trực tiếp trước khi có ai đi tiếp.",
+      "start": 16.23,
+      "end": 20.43
+    },
+    {
+      "index": 5,
+      "text": "I shared the practice account after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ praktise ờ-kao áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ tài khoản thực hành sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 20.59,
+      "end": 26.21
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us prepare users well later in the day.",
+      "pronunciation": "đat smol step heo ớs pri-pea yu-zờrz queo lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi chuẩn bị tốt cho người dùng về sau trong ngày.",
+      "start": 26.37,
+      "end": 30.52
+    }
+  ],
+  "audioMale1": "audio_male_1/053-training-session.mp3",
+  "durationMale1": 33.51,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the training session so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ trây-ning se-shần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở buổi training để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 6.76
+    },
+    {
+      "index": 2,
+      "text": "The goal was to walk through the flow without losing important details.",
+      "pronunciation": "đờ gâu wờz tu walk thru đờ flâu quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là đi từng bước qua flow mà không làm mất các chi tiết quan trọng.",
+      "start": 6.92,
+      "end": 12.12
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the common mistake and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ kommon mis-têik en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra lỗi thường gặp và hỏi ai nên xử lý tiếp.",
+      "start": 12.28,
+      "end": 17.18
+    },
+    {
+      "index": 4,
+      "text": "We agreed to answer live questions before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu an-sờ live ques-chầnz bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất trả lời câu hỏi trực tiếp trước khi có ai đi tiếp.",
+      "start": 17.34,
+      "end": 21.97
+    },
+    {
+      "index": 5,
+      "text": "I shared the practice account after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ praktise ờ-kao áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ tài khoản thực hành sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 22.13,
+      "end": 28.12
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us prepare users well later in the day.",
+      "pronunciation": "đat smol step heo ớs pri-pea yu-zờrz queo lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi chuẩn bị tốt cho người dùng về sau trong ngày.",
+      "start": 28.28,
+      "end": 33.43
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the training session so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ trây-ning se-shần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở buổi training để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.43
+    },
+    {
+      "index": 2,
+      "text": "The goal was to walk through the flow without losing important details.",
+      "pronunciation": "đờ gâu wờz tu walk thru đờ flâu quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là đi từng bước qua flow mà không làm mất các chi tiết quan trọng.",
+      "start": 5.59,
+      "end": 10.3
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the common mistake and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ kommon mis-têik en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra lỗi thường gặp và hỏi ai nên xử lý tiếp.",
+      "start": 10.46,
+      "end": 15.04
+    },
+    {
+      "index": 4,
+      "text": "We agreed to answer live questions before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu an-sờ live ques-chầnz bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất trả lời câu hỏi trực tiếp trước khi có ai đi tiếp.",
+      "start": 15.2,
+      "end": 19.6
+    },
+    {
+      "index": 5,
+      "text": "I shared the practice account after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ praktise ờ-kao áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ tài khoản thực hành sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 19.76,
+      "end": 25.15
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us prepare users well later in the day.",
+      "pronunciation": "đat smol step heo ớs pri-pea yu-zờrz queo lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi chuẩn bị tốt cho người dùng về sau trong ngày.",
+      "start": 25.31,
+      "end": 30.25
+    }
+  ]
+}

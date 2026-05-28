@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "182-requirement-gap",
+  "title": "Story 182 - Ghi lại khoảng trống requirement",
+  "story": "stories/182-requirement-gap.md",
+  "audio": "audio/182-requirement-gap.mp3",
+  "duration": 29.67,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/182-requirement-gap.mp3",
+  "durationMale": 27.78,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the requirement gap before I made a final choice.",
+      "pronunciation": "ai chékt đờ ri-quai-ờ-mần gap bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra khoảng trống requirement trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.71
+    },
+    {
+      "index": 2,
+      "text": "One missing rule made the situation less simple than it looked.",
+      "pronunciation": "quăn mis-sing rul mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Thiếu rule làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.87,
+      "end": 7.66
+    },
+    {
+      "index": 3,
+      "text": "I decided to document the gap before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu đók-yu-mần đờ gap bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định ghi lại khoảng trống trước khi tiếp tục.",
+      "start": 7.82,
+      "end": 11.33
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short requirement note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ri-quai-ờ-mần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú requirement ngắn để người kia hiểu tôi.",
+      "start": 11.49,
+      "end": 15.69
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the example case instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ ig-zam-pồ kêis in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra case ví dụ thay vì đoán.",
+      "start": 15.85,
+      "end": 19.69
+    },
+    {
+      "index": 6,
+      "text": "That helped me prevent rework without adding extra stress.",
+      "pronunciation": "đat heo mi pri-vent ri-quớrk quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi ngăn làm lại mà không thêm căng thẳng.",
+      "start": 19.85,
+      "end": 23.41
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 23.57,
+      "end": 27.7
+    }
+  ],
+  "audioMale1": "audio_male_1/182-requirement-gap.mp3",
+  "durationMale1": 35.67,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the requirement gap before I made a final choice.",
+      "pronunciation": "ai chékt đờ ri-quai-ờ-mần gap bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra khoảng trống requirement trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.31
+    },
+    {
+      "index": 2,
+      "text": "One missing rule made the situation less simple than it looked.",
+      "pronunciation": "quăn mis-sing rul mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Thiếu rule làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.47,
+      "end": 9.95
+    },
+    {
+      "index": 3,
+      "text": "I decided to document the gap before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu đók-yu-mần đờ gap bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định ghi lại khoảng trống trước khi tiếp tục.",
+      "start": 10.11,
+      "end": 14.62
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short requirement note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ri-quai-ờ-mần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú requirement ngắn để người kia hiểu tôi.",
+      "start": 14.78,
+      "end": 19.7
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the example case instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ ig-zam-pồ kêis in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra case ví dụ thay vì đoán.",
+      "start": 19.86,
+      "end": 26.51
+    },
+    {
+      "index": 6,
+      "text": "That helped me prevent rework without adding extra stress.",
+      "pronunciation": "đat heo mi pri-vent ri-quớrk quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi ngăn làm lại mà không thêm căng thẳng.",
+      "start": 26.67,
+      "end": 30.11
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.27,
+      "end": 35.59
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the requirement gap before I made a final choice.",
+      "pronunciation": "ai chékt đờ ri-quai-ờ-mần gap bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra khoảng trống requirement trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.7
+    },
+    {
+      "index": 2,
+      "text": "One missing rule made the situation less simple than it looked.",
+      "pronunciation": "quăn mis-sing rul mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Thiếu rule làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.86,
+      "end": 7.62
+    },
+    {
+      "index": 3,
+      "text": "I decided to document the gap before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu đók-yu-mần đờ gap bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định ghi lại khoảng trống trước khi tiếp tục.",
+      "start": 7.78,
+      "end": 11.65
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short requirement note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ri-quai-ờ-mần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú requirement ngắn để người kia hiểu tôi.",
+      "start": 11.81,
+      "end": 16.26
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the example case instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ ig-zam-pồ kêis in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra case ví dụ thay vì đoán.",
+      "start": 16.42,
+      "end": 20.5
+    },
+    {
+      "index": 6,
+      "text": "That helped me prevent rework without adding extra stress.",
+      "pronunciation": "đat heo mi pri-vent ri-quớrk quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi ngăn làm lại mà không thêm căng thẳng.",
+      "start": 20.66,
+      "end": 24.42
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 24.58,
+      "end": 29.59
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "048-dependency",
+  "title": "Story 048 - Nói về phần phụ thuộc",
+  "story": "stories/048-dependency.md",
+  "audio": "audio/048-dependency.mp3",
+  "duration": 29.51,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/048-dependency.mp3",
+  "durationMale": 31.73,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the dependency list so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ dependensi list sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở danh sách phần phụ thuộc để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.8
+    },
+    {
+      "index": 2,
+      "text": "The goal was to track the endpoint without losing important details.",
+      "pronunciation": "đờ gâu wờz tu trék đờ en-poin quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là theo dõi endpoint mà không làm mất các chi tiết quan trọng.",
+      "start": 5.96,
+      "end": 10.6
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the blocked item and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ blókt item en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra hạng mục bị chặn và hỏi ai nên xử lý tiếp.",
+      "start": 10.76,
+      "end": 15.96
+    },
+    {
+      "index": 4,
+      "text": "We agreed to confirm the dependency before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu kờn-phơrm đờ dependensi bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất xác nhận phần phụ thuộc trước khi có ai đi tiếp.",
+      "start": 16.12,
+      "end": 20.5
+    },
+    {
+      "index": 5,
+      "text": "I shared the temporary plan after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ tem-pờ-re-ri plen áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ kế hoạch tạm thời sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 20.66,
+      "end": 26.53
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us move forward safely later in the day.",
+      "pronunciation": "đat smol step heo ớs muv pho-quờrd safeli lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi đi tiếp an toàn về sau trong ngày.",
+      "start": 26.69,
+      "end": 31.65
+    }
+  ],
+  "audioMale1": "audio_male_1/048-dependency.mp3",
+  "durationMale1": 37.22,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the dependency list so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ dependensi list sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở danh sách phần phụ thuộc để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 7.33
+    },
+    {
+      "index": 2,
+      "text": "The goal was to track the endpoint without losing important details.",
+      "pronunciation": "đờ gâu wờz tu trék đờ en-poin quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là theo dõi endpoint mà không làm mất các chi tiết quan trọng.",
+      "start": 7.49,
+      "end": 13.14
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the blocked item and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ blókt item en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra hạng mục bị chặn và hỏi ai nên xử lý tiếp.",
+      "start": 13.3,
+      "end": 18.59
+    },
+    {
+      "index": 4,
+      "text": "We agreed to confirm the dependency before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu kờn-phơrm đờ dependensi bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất xác nhận phần phụ thuộc trước khi có ai đi tiếp.",
+      "start": 18.75,
+      "end": 23.96
+    },
+    {
+      "index": 5,
+      "text": "I shared the temporary plan after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ tem-pờ-re-ri plen áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ kế hoạch tạm thời sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 24.12,
+      "end": 30.73
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us move forward safely later in the day.",
+      "pronunciation": "đat smol step heo ớs muv pho-quờrd safeli lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi đi tiếp an toàn về sau trong ngày.",
+      "start": 30.89,
+      "end": 37.14
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the dependency list so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ dependensi list sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở danh sách phần phụ thuộc để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.55
+    },
+    {
+      "index": 2,
+      "text": "The goal was to track the endpoint without losing important details.",
+      "pronunciation": "đờ gâu wờz tu trék đờ en-poin quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là theo dõi endpoint mà không làm mất các chi tiết quan trọng.",
+      "start": 5.71,
+      "end": 10.42
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the blocked item and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ blókt item en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra hạng mục bị chặn và hỏi ai nên xử lý tiếp.",
+      "start": 10.58,
+      "end": 15.24
+    },
+    {
+      "index": 4,
+      "text": "We agreed to confirm the dependency before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu kờn-phơrm đờ dependensi bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất xác nhận phần phụ thuộc trước khi có ai đi tiếp.",
+      "start": 15.4,
+      "end": 19.59
+    },
+    {
+      "index": 5,
+      "text": "I shared the temporary plan after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ tem-pờ-re-ri plen áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ kế hoạch tạm thời sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 19.75,
+      "end": 24.97
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us move forward safely later in the day.",
+      "pronunciation": "đat smol step heo ớs muv pho-quờrd safeli lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi đi tiếp an toàn về sau trong ngày.",
+      "start": 25.13,
+      "end": 29.43
+    }
+  ]
+}

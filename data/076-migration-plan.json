@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "076-migration-plan",
+  "title": "Story 076 - Chuẩn bị migration",
+  "story": "stories/076-migration-plan.md",
+  "audio": "audio/076-migration-plan.mp3",
+  "duration": 31.16,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/076-migration-plan.mp3",
+  "durationMale": 32.54,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the migration plan in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ mai-grây-shần plen in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả kế hoạch migration bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.36
+    },
+    {
+      "index": 2,
+      "text": "I asked about the old records before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ âu re-kờrdz bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về record cũ trước khi đề xuất bất cứ điều gì.",
+      "start": 5.52,
+      "end": 9.34
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the broken mapping, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ brâu-kần map-ping, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là mapping bị sai, không chỉ là yêu cầu đầu tiên.",
+      "start": 9.5,
+      "end": 12.52
+    },
+    {
+      "index": 4,
+      "text": "We agreed to test a small batch and check it with one example.",
+      "pronunciation": "quy ờ-grid tu test ờ smol bétch en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất test một batch nhỏ và kiểm tra bằng một ví dụ.",
+      "start": 12.68,
+      "end": 19.15
+    },
+    {
+      "index": 5,
+      "text": "I wrote the migration log so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ mai-grây-shần log sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết log migration để mọi người có thể xem cùng một quyết định.",
+      "start": 19.31,
+      "end": 24.06
+    },
+    {
+      "index": 6,
+      "text": "That helped us protect the data without adding extra work.",
+      "pronunciation": "đat heo ớs prờ-tekt đờ đây-tờ quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi bảo vệ dữ liệu mà không thêm việc dư.",
+      "start": 24.22,
+      "end": 27.44
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 27.6,
+      "end": 32.46
+    }
+  ],
+  "audioMale1": "audio_male_1/076-migration-plan.mp3",
+  "durationMale1": 35.99,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the migration plan in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ mai-grây-shần plen in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả kế hoạch migration bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.9
+    },
+    {
+      "index": 2,
+      "text": "I asked about the old records before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ âu re-kờrdz bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về record cũ trước khi đề xuất bất cứ điều gì.",
+      "start": 6.06,
+      "end": 10.67
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the broken mapping, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ brâu-kần map-ping, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là mapping bị sai, không chỉ là yêu cầu đầu tiên.",
+      "start": 10.83,
+      "end": 14.2
+    },
+    {
+      "index": 4,
+      "text": "We agreed to test a small batch and check it with one example.",
+      "pronunciation": "quy ờ-grid tu test ờ smol bétch en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất test một batch nhỏ và kiểm tra bằng một ví dụ.",
+      "start": 14.36,
+      "end": 19.25
+    },
+    {
+      "index": 5,
+      "text": "I wrote the migration log so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ mai-grây-shần log sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết log migration để mọi người có thể xem cùng một quyết định.",
+      "start": 19.41,
+      "end": 24.12
+    },
+    {
+      "index": 6,
+      "text": "That helped us protect the data without adding extra work.",
+      "pronunciation": "đat heo ớs prờ-tekt đờ đây-tờ quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi bảo vệ dữ liệu mà không thêm việc dư.",
+      "start": 24.28,
+      "end": 29.09
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 29.25,
+      "end": 35.91
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the migration plan in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ mai-grây-shần plen in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả kế hoạch migration bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.35
+    },
+    {
+      "index": 2,
+      "text": "I asked about the old records before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ âu re-kờrdz bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về record cũ trước khi đề xuất bất cứ điều gì.",
+      "start": 5.51,
+      "end": 8.77
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the broken mapping, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ brâu-kần map-ping, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là mapping bị sai, không chỉ là yêu cầu đầu tiên.",
+      "start": 8.93,
+      "end": 13.38
+    },
+    {
+      "index": 4,
+      "text": "We agreed to test a small batch and check it with one example.",
+      "pronunciation": "quy ờ-grid tu test ờ smol bétch en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất test một batch nhỏ và kiểm tra bằng một ví dụ.",
+      "start": 13.54,
+      "end": 18.08
+    },
+    {
+      "index": 5,
+      "text": "I wrote the migration log so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ mai-grây-shần log sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết log migration để mọi người có thể xem cùng một quyết định.",
+      "start": 18.24,
+      "end": 22.72
+    },
+    {
+      "index": 6,
+      "text": "That helped us protect the data without adding extra work.",
+      "pronunciation": "đat heo ớs prờ-tekt đờ đây-tờ quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi bảo vệ dữ liệu mà không thêm việc dư.",
+      "start": 22.88,
+      "end": 26
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 26.16,
+      "end": 31.08
+    }
+  ]
+}

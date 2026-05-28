@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "019-low-battery",
+  "title": "Story 019 - Điện thoại sắp hết pin",
+  "story": "stories/019-low-battery.md",
+  "audio": "audio/019-low-battery.mp3",
+  "duration": 26.61,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/019-low-battery.mp3",
+  "durationMale": 21.87,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "My phone battery was running low while I was outside.",
+      "pronunciation": "mai phôn bá-tờ-ri wờz răn-ning lâu quai ai wờz ao-sai.",
+      "vi": "Pin điện thoại của tôi đang sắp hết khi tôi ở ngoài.",
+      "start": 0.02,
+      "end": 3.49
+    },
+    {
+      "index": 2,
+      "text": "I turned off Bluetooth to save battery.",
+      "pronunciation": "ai tơnd of blu-tuth tu sêiv bá-tờ-ri.",
+      "vi": "Tôi tắt Bluetooth để tiết kiệm pin.",
+      "start": 3.65,
+      "end": 6.56
+    },
+    {
+      "index": 3,
+      "text": "Then I looked around for a place to plug in my phone.",
+      "pronunciation": "đen ai lúc ờ-rao fo ờ plêis tu plớ-gin mai phôn.",
+      "vi": "Rồi tôi nhìn quanh tìm chỗ cắm sạc điện thoại.",
+      "start": 6.72,
+      "end": 10.03
+    },
+    {
+      "index": 4,
+      "text": "There was an outlet near the corner, but someone was already using it.",
+      "pronunciation": "đeờ wờz ờn ao-let niờ đờ ko-nờ, bớt săm-quan wờz ol-re-đi yu-zing ịt.",
+      "vi": "Có một ổ cắm gần góc phòng, nhưng ai đó đang dùng rồi.",
+      "start": 10.19,
+      "end": 14.39
+    },
+    {
+      "index": 5,
+      "text": "I waited a few minutes and charged it up just enough.",
+      "pronunciation": "ai quây-tịt ờ phiu mi-nits en chardjd ịt ấp jớst i-nớf.",
+      "vi": "Tôi đợi vài phút và sạc vừa đủ.",
+      "start": 14.55,
+      "end": 17.76
+    },
+    {
+      "index": 6,
+      "text": "I was glad the phone did not die on me before I got home.",
+      "pronunciation": "ai wờz glad đờ phôn đi nót đai on mi bi-fo ai gat hôm.",
+      "vi": "Tôi mừng là điện thoại không sập nguồn trước khi tôi về nhà.",
+      "start": 17.92,
+      "end": 21.79
+    }
+  ],
+  "audioMale1": "audio_male_1/019-low-battery.mp3",
+  "durationMale1": 25.67,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "My phone battery was running low while I was outside.",
+      "pronunciation": "mai phôn bá-tờ-ri wờz răn-ning lâu quai ai wờz ao-sai.",
+      "vi": "Pin điện thoại của tôi đang sắp hết khi tôi ở ngoài.",
+      "start": 0.02,
+      "end": 4.64
+    },
+    {
+      "index": 2,
+      "text": "I turned off Bluetooth to save battery.",
+      "pronunciation": "ai tơnd of blu-tuth tu sêiv bá-tờ-ri.",
+      "vi": "Tôi tắt Bluetooth để tiết kiệm pin.",
+      "start": 4.8,
+      "end": 6.67
+    },
+    {
+      "index": 3,
+      "text": "Then I looked around for a place to plug in my phone.",
+      "pronunciation": "đen ai lúc ờ-rao fo ờ plêis tu plớ-gin mai phôn.",
+      "vi": "Rồi tôi nhìn quanh tìm chỗ cắm sạc điện thoại.",
+      "start": 6.83,
+      "end": 11.79
+    },
+    {
+      "index": 4,
+      "text": "There was an outlet near the corner, but someone was already using it.",
+      "pronunciation": "đeờ wờz ờn ao-let niờ đờ ko-nờ, bớt săm-quan wờz ol-re-đi yu-zing ịt.",
+      "vi": "Có một ổ cắm gần góc phòng, nhưng ai đó đang dùng rồi.",
+      "start": 11.95,
+      "end": 16.63
+    },
+    {
+      "index": 5,
+      "text": "I waited a few minutes and charged it up just enough.",
+      "pronunciation": "ai quây-tịt ờ phiu mi-nits en chardjd ịt ấp jớst i-nớf.",
+      "vi": "Tôi đợi vài phút và sạc vừa đủ.",
+      "start": 16.79,
+      "end": 20.79
+    },
+    {
+      "index": 6,
+      "text": "I was glad the phone did not die on me before I got home.",
+      "pronunciation": "ai wờz glad đờ phôn đi nót đai on mi bi-fo ai gat hôm.",
+      "vi": "Tôi mừng là điện thoại không sập nguồn trước khi tôi về nhà.",
+      "start": 20.95,
+      "end": 25.59
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "My phone battery was running low while I was outside.",
+      "pronunciation": "mai phôn bá-tờ-ri wờz răn-ning lâu quai ai wờz ao-sai.",
+      "vi": "Pin điện thoại của tôi đang sắp hết khi tôi ở ngoài.",
+      "start": 0.02,
+      "end": 4.4
+    },
+    {
+      "index": 2,
+      "text": "I turned off Bluetooth to save battery.",
+      "pronunciation": "ai tơnd of blu-tuth tu sêiv bá-tờ-ri.",
+      "vi": "Tôi tắt Bluetooth để tiết kiệm pin.",
+      "start": 4.56,
+      "end": 8.05
+    },
+    {
+      "index": 3,
+      "text": "Then I looked around for a place to plug in my phone.",
+      "pronunciation": "đen ai lúc ờ-rao fo ờ plêis tu plớ-gin mai phôn.",
+      "vi": "Rồi tôi nhìn quanh tìm chỗ cắm sạc điện thoại.",
+      "start": 8.21,
+      "end": 11.99
+    },
+    {
+      "index": 4,
+      "text": "There was an outlet near the corner, but someone was already using it.",
+      "pronunciation": "đeờ wờz ờn ao-let niờ đờ ko-nờ, bớt săm-quan wờz ol-re-đi yu-zing ịt.",
+      "vi": "Có một ổ cắm gần góc phòng, nhưng ai đó đang dùng rồi.",
+      "start": 12.15,
+      "end": 17.2
+    },
+    {
+      "index": 5,
+      "text": "I waited a few minutes and charged it up just enough.",
+      "pronunciation": "ai quây-tịt ờ phiu mi-nits en chardjd ịt ấp jớst i-nớf.",
+      "vi": "Tôi đợi vài phút và sạc vừa đủ.",
+      "start": 17.36,
+      "end": 21.84
+    },
+    {
+      "index": 6,
+      "text": "I was glad the phone did not die on me before I got home.",
+      "pronunciation": "ai wờz glad đờ phôn đi nót đai on mi bi-fo ai gat hôm.",
+      "vi": "Tôi mừng là điện thoại không sập nguồn trước khi tôi về nhà.",
+      "start": 22,
+      "end": 26.53
+    }
+  ]
+}

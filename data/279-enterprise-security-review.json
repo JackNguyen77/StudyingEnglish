@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "279-enterprise-security-review",
+  "title": "Story 279 - Review security doanh nghiệp",
+  "story": "stories/279-enterprise-security-review.md",
+  "audio": "audio/279-enterprise-security-review.mp3",
+  "duration": 31.16,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/279-enterprise-security-review.mp3",
+  "durationMale": 32.29,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the enterprise security review before the meeting started.",
+      "pronunciation": "ai quókt thru đờ enterprise sờ-kyu-rờ-ti ri-viu bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through review security doanh nghiệp trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.08
+    },
+    {
+      "index": 2,
+      "text": "One weak access control made the decision harder than expected.",
+      "pronunciation": "quăn wik ak-ses kờn-trâu mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một access control yếu làm decision khó hơn dự kiến.",
+      "start": 5.24,
+      "end": 9.63
+    },
+    {
+      "index": 3,
+      "text": "I tried to tighten admin permissions so the team had a clearer path.",
+      "pronunciation": "ai traid tu tâyten admin pờr-mish-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố siết permission admin để team có hướng rõ hơn.",
+      "start": 9.79,
+      "end": 14.73
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short security review note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt sờ-kyu-rờ-ti ri-viu note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú review security ngắn để capture các key points.",
+      "start": 14.89,
+      "end": 19.26
+    },
+    {
+      "index": 5,
+      "text": "I also had to check audit findings before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék audit findings bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra finding audit trước khi chúng tôi thống nhất next step.",
+      "start": 19.42,
+      "end": 23.96
+    },
+    {
+      "index": 6,
+      "text": "That helped us lower breach risk without losing momentum.",
+      "pronunciation": "đat heo ớs laoer brich rít-sờk quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi giảm risk breach mà không mất momentum.",
+      "start": 24.12,
+      "end": 27.96
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 28.12,
+      "end": 32.21
+    }
+  ],
+  "audioMale1": "audio_male_1/279-enterprise-security-review.mp3",
+  "durationMale1": 38.11,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the enterprise security review before the meeting started.",
+      "pronunciation": "ai quókt thru đờ enterprise sờ-kyu-rờ-ti ri-viu bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through review security doanh nghiệp trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.05
+    },
+    {
+      "index": 2,
+      "text": "One weak access control made the decision harder than expected.",
+      "pronunciation": "quăn wik ak-ses kờn-trâu mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một access control yếu làm decision khó hơn dự kiến.",
+      "start": 4.21,
+      "end": 8.75
+    },
+    {
+      "index": 3,
+      "text": "I tried to tighten admin permissions so the team had a clearer path.",
+      "pronunciation": "ai traid tu tâyten admin pờr-mish-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố siết permission admin để team có hướng rõ hơn.",
+      "start": 8.91,
+      "end": 14.98
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short security review note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt sờ-kyu-rờ-ti ri-viu note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú review security ngắn để capture các key points.",
+      "start": 15.14,
+      "end": 23.18
+    },
+    {
+      "index": 5,
+      "text": "I also had to check audit findings before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék audit findings bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra finding audit trước khi chúng tôi thống nhất next step.",
+      "start": 23.34,
+      "end": 28.81
+    },
+    {
+      "index": 6,
+      "text": "That helped us lower breach risk without losing momentum.",
+      "pronunciation": "đat heo ớs laoer brich rít-sờk quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi giảm risk breach mà không mất momentum.",
+      "start": 28.97,
+      "end": 33.15
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 33.31,
+      "end": 38.03
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the enterprise security review before the meeting started.",
+      "pronunciation": "ai quókt thru đờ enterprise sờ-kyu-rờ-ti ri-viu bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through review security doanh nghiệp trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.42
+    },
+    {
+      "index": 2,
+      "text": "One weak access control made the decision harder than expected.",
+      "pronunciation": "quăn wik ak-ses kờn-trâu mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một access control yếu làm decision khó hơn dự kiến.",
+      "start": 4.58,
+      "end": 8.95
+    },
+    {
+      "index": 3,
+      "text": "I tried to tighten admin permissions so the team had a clearer path.",
+      "pronunciation": "ai traid tu tâyten admin pờr-mish-shầnz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố siết permission admin để team có hướng rõ hơn.",
+      "start": 9.11,
+      "end": 13.93
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short security review note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt sờ-kyu-rờ-ti ri-viu note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú review security ngắn để capture các key points.",
+      "start": 14.09,
+      "end": 18.48
+    },
+    {
+      "index": 5,
+      "text": "I also had to check audit findings before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék audit findings bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra finding audit trước khi chúng tôi thống nhất next step.",
+      "start": 18.64,
+      "end": 23.08
+    },
+    {
+      "index": 6,
+      "text": "That helped us lower breach risk without losing momentum.",
+      "pronunciation": "đat heo ớs laoer brich rít-sờk quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi giảm risk breach mà không mất momentum.",
+      "start": 23.24,
+      "end": 26.96
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 27.12,
+      "end": 31.08
+    }
+  ]
+}

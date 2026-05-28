@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "127-online-payment",
+  "title": "Story 127 - Thanh toán online",
+  "story": "stories/127-online-payment.md",
+  "audio": "audio/127-online-payment.mp3",
+  "duration": 37.07,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/127-online-payment.mp3",
+  "durationMale": 31.62,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I chose a payment method before I confirmed the order.",
+      "pronunciation": "ai chôz ờ pây-mần me-thờd bi-fo ai kờn-phơrmd đờ o-dờ.",
+      "vi": "Tôi chọn phương thức thanh toán trước khi xác nhận đơn hàng.",
+      "start": 0.02,
+      "end": 3.98
+    },
+    {
+      "index": 2,
+      "text": "The first payment failed, but the app did not explain why.",
+      "pronunciation": "đờ phớrst pây-mần fâyld, bớt đờ áp đi nót eksplâyn quai.",
+      "vi": "Lần thanh toán đầu thất bại, nhưng app không giải thích vì sao.",
+      "start": 4.14,
+      "end": 8.41
+    },
+    {
+      "index": 3,
+      "text": "I had to update card details because the old card had expired.",
+      "pronunciation": "ai had tu ấp-đêit kard đi-têuz bi-kóz đờ âu kard had ekspirt.",
+      "vi": "Tôi phải cập nhật thông tin thẻ vì thẻ cũ đã hết hạn.",
+      "start": 8.57,
+      "end": 13.33
+    },
+    {
+      "index": 4,
+      "text": "A digital receipt arrived after the second try went through.",
+      "pronunciation": "ờ đi-ji-tồ ri-sit ờ-raivd áp-tờ đờ sekond trai quent thru.",
+      "vi": "Hóa đơn điện tử đến sau khi lần thử thứ hai thành công.",
+      "start": 13.49,
+      "end": 17.66
+    },
+    {
+      "index": 5,
+      "text": "I checked the transaction history to make sure I paid only once.",
+      "pronunciation": "ai chékt đờ tran-zak-shần his-tờ-ri tu mêik shua ai pêid âu-li quănss.",
+      "vi": "Tôi kiểm tra lịch sử giao dịch để chắc mình chỉ trả tiền một lần.",
+      "start": 17.82,
+      "end": 21.9
+    },
+    {
+      "index": 6,
+      "text": "When the page froze again, I decided to try again later.",
+      "pronunciation": "quen đờ pêij phrôz ờ-gen, ai đi-sai-địt tu trai ờ-gen lêi-tờ.",
+      "vi": "Khi trang lại bị đơ, tôi quyết định thử lại sau.",
+      "start": 22.06,
+      "end": 26.27
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 26.43,
+      "end": 31.54
+    }
+  ],
+  "audioMale1": "audio_male_1/127-online-payment.mp3",
+  "durationMale1": 33.31,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I chose a payment method before I confirmed the order.",
+      "pronunciation": "ai chôz ờ pây-mần me-thờd bi-fo ai kờn-phơrmd đờ o-dờ.",
+      "vi": "Tôi chọn phương thức thanh toán trước khi xác nhận đơn hàng.",
+      "start": 0.02,
+      "end": 3.89
+    },
+    {
+      "index": 2,
+      "text": "The first payment failed, but the app did not explain why.",
+      "pronunciation": "đờ phớrst pây-mần fâyld, bớt đờ áp đi nót eksplâyn quai.",
+      "vi": "Lần thanh toán đầu thất bại, nhưng app không giải thích vì sao.",
+      "start": 4.05,
+      "end": 8.26
+    },
+    {
+      "index": 3,
+      "text": "I had to update card details because the old card had expired.",
+      "pronunciation": "ai had tu ấp-đêit kard đi-têuz bi-kóz đờ âu kard had ekspirt.",
+      "vi": "Tôi phải cập nhật thông tin thẻ vì thẻ cũ đã hết hạn.",
+      "start": 8.42,
+      "end": 13.15
+    },
+    {
+      "index": 4,
+      "text": "A digital receipt arrived after the second try went through.",
+      "pronunciation": "ờ đi-ji-tồ ri-sit ờ-raivd áp-tờ đờ sekond trai quent thru.",
+      "vi": "Hóa đơn điện tử đến sau khi lần thử thứ hai thành công.",
+      "start": 13.31,
+      "end": 17.53
+    },
+    {
+      "index": 5,
+      "text": "I checked the transaction history to make sure I paid only once.",
+      "pronunciation": "ai chékt đờ tran-zak-shần his-tờ-ri tu mêik shua ai pêid âu-li quănss.",
+      "vi": "Tôi kiểm tra lịch sử giao dịch để chắc mình chỉ trả tiền một lần.",
+      "start": 17.69,
+      "end": 22.57
+    },
+    {
+      "index": 6,
+      "text": "When the page froze again, I decided to try again later.",
+      "pronunciation": "quen đờ pêij phrôz ờ-gen, ai đi-sai-địt tu trai ờ-gen lêi-tờ.",
+      "vi": "Khi trang lại bị đơ, tôi quyết định thử lại sau.",
+      "start": 22.73,
+      "end": 27.36
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 27.52,
+      "end": 33.23
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I chose a payment method before I confirmed the order.",
+      "pronunciation": "ai chôz ờ pây-mần me-thờd bi-fo ai kờn-phơrmd đờ o-dờ.",
+      "vi": "Tôi chọn phương thức thanh toán trước khi xác nhận đơn hàng.",
+      "start": 0,
+      "end": 3.84
+    },
+    {
+      "index": 2,
+      "text": "The first payment failed, but the app did not explain why.",
+      "pronunciation": "đờ phớrst pây-mần fâyld, bớt đờ áp đi nót eksplâyn quai.",
+      "vi": "Lần thanh toán đầu thất bại, nhưng app không giải thích vì sao.",
+      "start": 3.95,
+      "end": 8.79
+    },
+    {
+      "index": 3,
+      "text": "I had to update card details because the old card had expired.",
+      "pronunciation": "ai had tu ấp-đêit kard đi-têuz bi-kóz đờ âu kard had ekspirt.",
+      "vi": "Tôi phải cập nhật thông tin thẻ vì thẻ cũ đã hết hạn.",
+      "start": 8.9,
+      "end": 14.96
+    },
+    {
+      "index": 4,
+      "text": "A digital receipt arrived after the second try went through.",
+      "pronunciation": "ờ đi-ji-tồ ri-sit ờ-raivd áp-tờ đờ sekond trai quent thru.",
+      "vi": "Hóa đơn điện tử đến sau khi lần thử thứ hai thành công.",
+      "start": 15.07,
+      "end": 20.26
+    },
+    {
+      "index": 5,
+      "text": "I checked the transaction history to make sure I paid only once.",
+      "pronunciation": "ai chékt đờ tran-zak-shần his-tờ-ri tu mêik shua ai pêid âu-li quănss.",
+      "vi": "Tôi kiểm tra lịch sử giao dịch để chắc mình chỉ trả tiền một lần.",
+      "start": 20.37,
+      "end": 25.71
+    },
+    {
+      "index": 6,
+      "text": "When the page froze again, I decided to try again later.",
+      "pronunciation": "quen đờ pêij phrôz ờ-gen, ai đi-sai-địt tu trai ờ-gen lêi-tờ.",
+      "vi": "Khi trang lại bị đơ, tôi quyết định thử lại sau.",
+      "start": 25.82,
+      "end": 31.62
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 31.73,
+      "end": 37.07
+    }
+  ]
+}

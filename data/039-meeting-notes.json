@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "039-meeting-notes",
+  "title": "Story 039 - Ghi lại quyết định sau họp",
+  "story": "stories/039-meeting-notes.md",
+  "audio": "audio/039-meeting-notes.mp3",
+  "duration": 20.18,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/039-meeting-notes.mp3",
+  "durationMale": 19.11,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "After the meeting, I reviewed my meeting notes.",
+      "pronunciation": "áp-tờ đờ mi-ting, ai ri-viud mai mi-ting nouts.",
+      "vi": "Sau cuộc họp, tôi xem lại ghi chú cuộc họp của mình.",
+      "start": 0.02,
+      "end": 3.18
+    },
+    {
+      "index": 2,
+      "text": "I wanted to capture the details before I forgot them.",
+      "pronunciation": "ai quăn-tịt tu káp-chờ đờ đi-têuz bi-fo ai fo-got đem.",
+      "vi": "Tôi muốn ghi lại các chi tiết trước khi quên mất.",
+      "start": 3.34,
+      "end": 6.68
+    },
+    {
+      "index": 3,
+      "text": "I wrote down the decisions and assigned tasks.",
+      "pronunciation": "ai râu daun đờ đi-si-zhầnz en ờ-saind tát-sờks.",
+      "vi": "Tôi ghi lại các quyết định và phân công công việc.",
+      "start": 6.84,
+      "end": 10.03
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a recap to the team.",
+      "pronunciation": "đen ai sent ờ ri-kap tu đờ tim.",
+      "vi": "Sau đó, tôi gửi một bản tóm tắt cho cả nhóm.",
+      "start": 10.19,
+      "end": 12.57
+    },
+    {
+      "index": 5,
+      "text": "I asked everyone to tell me if I missed anything.",
+      "pronunciation": "ai áskt ev-ri-quan tu tel mi if ai mist e-ni-thinh.",
+      "vi": "Tôi nhờ mọi người nói cho tôi biết nếu tôi bỏ sót gì.",
+      "start": 12.73,
+      "end": 15.72
+    },
+    {
+      "index": 6,
+      "text": "Keeping a record made the next meeting much smoother.",
+      "pronunciation": "ki-ping ờ re-kờrd mêid đờ nekst mi-ting mớch smu-đờr.",
+      "vi": "Việc giữ lại hồ sơ giúp cuộc họp kế tiếp trơn tru hơn nhiều.",
+      "start": 15.88,
+      "end": 19.03
+    }
+  ],
+  "audioMale1": "audio_male_1/039-meeting-notes.mp3",
+  "durationMale1": 21.78,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "After the meeting, I reviewed my meeting notes.",
+      "pronunciation": "áp-tờ đờ mi-ting, ai ri-viud mai mi-ting nouts.",
+      "vi": "Sau cuộc họp, tôi xem lại ghi chú cuộc họp của mình.",
+      "start": 0.02,
+      "end": 3.78
+    },
+    {
+      "index": 2,
+      "text": "I wanted to capture the details before I forgot them.",
+      "pronunciation": "ai quăn-tịt tu káp-chờ đờ đi-têuz bi-fo ai fo-got đem.",
+      "vi": "Tôi muốn ghi lại các chi tiết trước khi quên mất.",
+      "start": 3.94,
+      "end": 7.8
+    },
+    {
+      "index": 3,
+      "text": "I wrote down the decisions and assigned tasks.",
+      "pronunciation": "ai râu daun đờ đi-si-zhầnz en ờ-saind tát-sờks.",
+      "vi": "Tôi ghi lại các quyết định và phân công công việc.",
+      "start": 7.96,
+      "end": 11.17
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a recap to the team.",
+      "pronunciation": "đen ai sent ờ ri-kap tu đờ tim.",
+      "vi": "Sau đó, tôi gửi một bản tóm tắt cho cả nhóm.",
+      "start": 11.33,
+      "end": 13.98
+    },
+    {
+      "index": 5,
+      "text": "I asked everyone to tell me if I missed anything.",
+      "pronunciation": "ai áskt ev-ri-quan tu tel mi if ai mist e-ni-thinh.",
+      "vi": "Tôi nhờ mọi người nói cho tôi biết nếu tôi bỏ sót gì.",
+      "start": 14.14,
+      "end": 17.52
+    },
+    {
+      "index": 6,
+      "text": "Keeping a record made the next meeting much smoother.",
+      "pronunciation": "ki-ping ờ re-kờrd mêid đờ nekst mi-ting mớch smu-đờr.",
+      "vi": "Việc giữ lại hồ sơ giúp cuộc họp kế tiếp trơn tru hơn nhiều.",
+      "start": 17.68,
+      "end": 21.7
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "After the meeting, I reviewed my meeting notes.",
+      "pronunciation": "áp-tờ đờ mi-ting, ai ri-viud mai mi-ting nouts.",
+      "vi": "Sau cuộc họp, tôi xem lại ghi chú cuộc họp của mình.",
+      "start": 0.02,
+      "end": 2.83
+    },
+    {
+      "index": 2,
+      "text": "I wanted to capture the details before I forgot them.",
+      "pronunciation": "ai quăn-tịt tu káp-chờ đờ đi-têuz bi-fo ai fo-got đem.",
+      "vi": "Tôi muốn ghi lại các chi tiết trước khi quên mất.",
+      "start": 2.99,
+      "end": 6.11
+    },
+    {
+      "index": 3,
+      "text": "I wrote down the decisions and assigned tasks.",
+      "pronunciation": "ai râu daun đờ đi-si-zhầnz en ờ-saind tát-sờks.",
+      "vi": "Tôi ghi lại các quyết định và phân công công việc.",
+      "start": 6.27,
+      "end": 10.14
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a recap to the team.",
+      "pronunciation": "đen ai sent ờ ri-kap tu đờ tim.",
+      "vi": "Sau đó, tôi gửi một bản tóm tắt cho cả nhóm.",
+      "start": 10.3,
+      "end": 12.65
+    },
+    {
+      "index": 5,
+      "text": "I asked everyone to tell me if I missed anything.",
+      "pronunciation": "ai áskt ev-ri-quan tu tel mi if ai mist e-ni-thinh.",
+      "vi": "Tôi nhờ mọi người nói cho tôi biết nếu tôi bỏ sót gì.",
+      "start": 12.81,
+      "end": 16.11
+    },
+    {
+      "index": 6,
+      "text": "Keeping a record made the next meeting much smoother.",
+      "pronunciation": "ki-ping ờ re-kờrd mêid đờ nekst mi-ting mớch smu-đờr.",
+      "vi": "Việc giữ lại hồ sơ giúp cuộc họp kế tiếp trơn tru hơn nhiều.",
+      "start": 16.27,
+      "end": 20.1
+    }
+  ]
+}

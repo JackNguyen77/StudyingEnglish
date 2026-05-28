@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "004-small-talk",
+  "title": "Story 004 - Nói chuyện xã giao",
+  "story": "stories/004-small-talk.md",
+  "audio": "audio/004-small-talk.mp3",
+  "duration": 12.38,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/004-small-talk.mp3",
+  "durationMale": 15.94,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I ran into an old friend at the store.",
+      "pronunciation": "ai răn in-tu ờn âu phren at đờ sto.",
+      "vi": "Tôi tình cờ gặp một người bạn cũ ở cửa hàng.",
+      "start": 0.02,
+      "end": 3.87
+    },
+    {
+      "index": 2,
+      "text": "We had not talked in a while.",
+      "pronunciation": "quy had nót tokt in ờ quai.",
+      "vi": "Chúng tôi đã lâu không nói chuyện.",
+      "start": 4.03,
+      "end": 6.22
+    },
+    {
+      "index": 3,
+      "text": "She asked how I was doing.",
+      "pronunciation": "shi áskt hao ai wờz du-ing.",
+      "vi": "Cô ấy hỏi dạo này tôi thế nào.",
+      "start": 6.38,
+      "end": 8.55
+    },
+    {
+      "index": 4,
+      "text": "I said I had been busy lately.",
+      "pronunciation": "ai sed ai had bin bi-zi lêit-li.",
+      "vi": "Tôi nói gần đây tôi khá bận.",
+      "start": 8.71,
+      "end": 11.24
+    },
+    {
+      "index": 5,
+      "text": "We caught up for a few minutes.",
+      "pronunciation": "quy kot ấp fo rờ phiu mi-nits.",
+      "vi": "Chúng tôi trò chuyện cập nhật tình hình vài phút.",
+      "start": 11.4,
+      "end": 13.52
+    },
+    {
+      "index": 6,
+      "text": "Then we said we should keep in touch.",
+      "pronunciation": "đen quy sed quy shud ki-pin tớch.",
+      "vi": "Rồi chúng tôi nói nên giữ liên lạc.",
+      "start": 13.68,
+      "end": 15.86
+    }
+  ],
+  "audioMale1": "audio_male_1/004-small-talk.mp3",
+  "durationMale1": 17.51,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I ran into an old friend at the store.",
+      "pronunciation": "ai răn in-tu ờn âu phren at đờ sto.",
+      "vi": "Tôi tình cờ gặp một người bạn cũ ở cửa hàng.",
+      "start": 0.02,
+      "end": 3.74
+    },
+    {
+      "index": 2,
+      "text": "We had not talked in a while.",
+      "pronunciation": "quy had nót tokt in ờ quai.",
+      "vi": "Chúng tôi đã lâu không nói chuyện.",
+      "start": 3.9,
+      "end": 6.04
+    },
+    {
+      "index": 3,
+      "text": "She asked how I was doing.",
+      "pronunciation": "shi áskt hao ai wờz du-ing.",
+      "vi": "Cô ấy hỏi dạo này tôi thế nào.",
+      "start": 6.2,
+      "end": 8.57
+    },
+    {
+      "index": 4,
+      "text": "I said I had been busy lately.",
+      "pronunciation": "ai sed ai had bin bi-zi lêit-li.",
+      "vi": "Tôi nói gần đây tôi khá bận.",
+      "start": 8.73,
+      "end": 11.3
+    },
+    {
+      "index": 5,
+      "text": "We caught up for a few minutes.",
+      "pronunciation": "quy kot ấp fo rờ phiu mi-nits.",
+      "vi": "Chúng tôi trò chuyện cập nhật tình hình vài phút.",
+      "start": 11.46,
+      "end": 13.97
+    },
+    {
+      "index": 6,
+      "text": "Then we said we should keep in touch.",
+      "pronunciation": "đen quy sed quy shud ki-pin tớch.",
+      "vi": "Rồi chúng tôi nói nên giữ liên lạc.",
+      "start": 14.13,
+      "end": 17.43
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I ran into an old friend at the store.",
+      "pronunciation": "ai răn in-tu ờn âu phren at đờ sto.",
+      "vi": "Tôi tình cờ gặp một người bạn cũ ở cửa hàng.",
+      "start": 0.02,
+      "end": 2.45
+    },
+    {
+      "index": 2,
+      "text": "We had not talked in a while.",
+      "pronunciation": "quy had nót tokt in ờ quai.",
+      "vi": "Chúng tôi đã lâu không nói chuyện.",
+      "start": 2.61,
+      "end": 4.42
+    },
+    {
+      "index": 3,
+      "text": "She asked how I was doing.",
+      "pronunciation": "shi áskt hao ai wờz du-ing.",
+      "vi": "Cô ấy hỏi dạo này tôi thế nào.",
+      "start": 4.58,
+      "end": 6.11
+    },
+    {
+      "index": 4,
+      "text": "I said I had been busy lately.",
+      "pronunciation": "ai sed ai had bin bi-zi lêit-li.",
+      "vi": "Tôi nói gần đây tôi khá bận.",
+      "start": 6.27,
+      "end": 8.08
+    },
+    {
+      "index": 5,
+      "text": "We caught up for a few minutes.",
+      "pronunciation": "quy kot ấp fo rờ phiu mi-nits.",
+      "vi": "Chúng tôi trò chuyện cập nhật tình hình vài phút.",
+      "start": 8.24,
+      "end": 10.05
+    },
+    {
+      "index": 6,
+      "text": "Then we said we should keep in touch.",
+      "pronunciation": "đen quy sed quy shud ki-pin tớch.",
+      "vi": "Rồi chúng tôi nói nên giữ liên lạc.",
+      "start": 10.21,
+      "end": 12.3
+    }
+  ]
+}

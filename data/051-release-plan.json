@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "051-release-plan",
+  "title": "Story 051 - Chuẩn bị release",
+  "story": "stories/051-release-plan.md",
+  "audio": "audio/051-release-plan.mp3",
+  "duration": 29.99,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/051-release-plan.mp3",
+  "durationMale": 34.45,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the release plan so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ ri-lis plen sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở kế hoạch release để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 6.86
+    },
+    {
+      "index": 2,
+      "text": "The goal was to prepare the checklist without losing important details.",
+      "pronunciation": "đờ gâu wờz tu pri-pea đờ chék-list quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là chuẩn bị checklist mà không làm mất các chi tiết quan trọng.",
+      "start": 7.02,
+      "end": 12
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the cut-off time and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ kớt-of taim en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra giờ chốt và hỏi ai nên xử lý tiếp.",
+      "start": 12.16,
+      "end": 17.29
+    },
+    {
+      "index": 4,
+      "text": "We agreed to confirm the release window before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu kờn-phơrm đờ ri-lis quyn-đâu bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất xác nhận khung giờ release trước khi có ai đi tiếp.",
+      "start": 17.45,
+      "end": 22.51
+    },
+    {
+      "index": 5,
+      "text": "I shared the rollback option after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ râu-bak áp-shần áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ phương án rollback sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 22.67,
+      "end": 28.57
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us reduce release risk later in the day.",
+      "pronunciation": "đat smol step heo ớs ri-đus ri-lis rít-sờk lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi giảm rủi ro release về sau trong ngày.",
+      "start": 28.73,
+      "end": 34.37
+    }
+  ],
+  "audioMale1": "audio_male_1/051-release-plan.mp3",
+  "durationMale1": 32.23,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the release plan so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ ri-lis plen sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở kế hoạch release để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 6.02
+    },
+    {
+      "index": 2,
+      "text": "The goal was to prepare the checklist without losing important details.",
+      "pronunciation": "đờ gâu wờz tu pri-pea đờ chék-list quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là chuẩn bị checklist mà không làm mất các chi tiết quan trọng.",
+      "start": 6.18,
+      "end": 11.58
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the cut-off time and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ kớt-of taim en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra giờ chốt và hỏi ai nên xử lý tiếp.",
+      "start": 11.74,
+      "end": 16.59
+    },
+    {
+      "index": 4,
+      "text": "We agreed to confirm the release window before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu kờn-phơrm đờ ri-lis quyn-đâu bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất xác nhận khung giờ release trước khi có ai đi tiếp.",
+      "start": 16.75,
+      "end": 21.41
+    },
+    {
+      "index": 5,
+      "text": "I shared the rollback option after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ râu-bak áp-shần áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ phương án rollback sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 21.57,
+      "end": 27.11
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us reduce release risk later in the day.",
+      "pronunciation": "đat smol step heo ớs ri-đus ri-lis rít-sờk lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi giảm rủi ro release về sau trong ngày.",
+      "start": 27.27,
+      "end": 32.15
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the release plan so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ ri-lis plen sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở kế hoạch release để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.44
+    },
+    {
+      "index": 2,
+      "text": "The goal was to prepare the checklist without losing important details.",
+      "pronunciation": "đờ gâu wờz tu pri-pea đờ chék-list quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là chuẩn bị checklist mà không làm mất các chi tiết quan trọng.",
+      "start": 5.6,
+      "end": 10.09
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the cut-off time and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ kớt-of taim en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra giờ chốt và hỏi ai nên xử lý tiếp.",
+      "start": 10.25,
+      "end": 14.91
+    },
+    {
+      "index": 4,
+      "text": "We agreed to confirm the release window before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu kờn-phơrm đờ ri-lis quyn-đâu bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất xác nhận khung giờ release trước khi có ai đi tiếp.",
+      "start": 15.07,
+      "end": 19.77
+    },
+    {
+      "index": 5,
+      "text": "I shared the rollback option after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ râu-bak áp-shần áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ phương án rollback sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 19.93,
+      "end": 25.72
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us reduce release risk later in the day.",
+      "pronunciation": "đat smol step heo ớs ri-đus ri-lis rít-sờk lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi giảm rủi ro release về sau trong ngày.",
+      "start": 25.88,
+      "end": 29.91
+    }
+  ]
+}

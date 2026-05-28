@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "038-share-screen",
+  "title": "Story 038 - Chia sẻ màn hình để giải thích",
+  "story": "stories/038-share-screen.md",
+  "audio": "audio/038-share-screen.mp3",
+  "duration": 22.45,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/038-share-screen.mp3",
+  "durationMale": 23.83,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "During the call, I shared my screen with the client.",
+      "pronunciation": "đu-ring đờ kol, ai she(r)d mai skrin quít đờ klai-ờnt.",
+      "vi": "Trong cuộc gọi, tôi chia sẻ màn hình với khách hàng.",
+      "start": 0.02,
+      "end": 4.58
+    },
+    {
+      "index": 2,
+      "text": "I went through the flow step by step.",
+      "pronunciation": "ai quent thru đờ flâu step bai step.",
+      "vi": "Tôi đi qua luồng từng bước một.",
+      "start": 4.74,
+      "end": 7.94
+    },
+    {
+      "index": 3,
+      "text": "Then I switched tabs to show the issue.",
+      "pronunciation": "đen ai switkht tabz tu sâu đi í-shu.",
+      "vi": "Sau đó, tôi chuyển tab để cho họ thấy vấn đề.",
+      "start": 8.1,
+      "end": 11.29
+    },
+    {
+      "index": 4,
+      "text": "The client asked if I could reproduce the problem.",
+      "pronunciation": "đờ klai-ờnt áskt if ai kud ri-prờ-đus đờ pro-blầm.",
+      "vi": "Khách hàng hỏi liệu tôi có thể tái hiện vấn đề không.",
+      "start": 11.45,
+      "end": 15.22
+    },
+    {
+      "index": 5,
+      "text": "I clicked the same button again, and the error appeared.",
+      "pronunciation": "ai klíkt đờ sêim bớt-tần ờ-gen, en đi e-rờ ờ-piờrd.",
+      "vi": "Tôi bấm lại cùng nút đó, và lỗi xuất hiện.",
+      "start": 15.38,
+      "end": 19.74
+    },
+    {
+      "index": 6,
+      "text": "Seeing it on screen made the problem easier to explain.",
+      "pronunciation": "siing ịt on skrin mêid đờ pro-blầm i-zi-ờ tu ích-splêin.",
+      "vi": "Nhìn thấy nó trên màn hình làm vấn đề dễ giải thích hơn.",
+      "start": 19.9,
+      "end": 23.75
+    }
+  ],
+  "audioMale1": "audio_male_1/038-share-screen.mp3",
+  "durationMale1": 22.6,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "During the call, I shared my screen with the client.",
+      "pronunciation": "đu-ring đờ kol, ai she(r)d mai skrin quít đờ klai-ờnt.",
+      "vi": "Trong cuộc gọi, tôi chia sẻ màn hình với khách hàng.",
+      "start": 0.02,
+      "end": 4.12
+    },
+    {
+      "index": 2,
+      "text": "I went through the flow step by step.",
+      "pronunciation": "ai quent thru đờ flâu step bai step.",
+      "vi": "Tôi đi qua luồng từng bước một.",
+      "start": 4.28,
+      "end": 7.03
+    },
+    {
+      "index": 3,
+      "text": "Then I switched tabs to show the issue.",
+      "pronunciation": "đen ai switkht tabz tu sâu đi í-shu.",
+      "vi": "Sau đó, tôi chuyển tab để cho họ thấy vấn đề.",
+      "start": 7.19,
+      "end": 10.24
+    },
+    {
+      "index": 4,
+      "text": "The client asked if I could reproduce the problem.",
+      "pronunciation": "đờ klai-ờnt áskt if ai kud ri-prờ-đus đờ pro-blầm.",
+      "vi": "Khách hàng hỏi liệu tôi có thể tái hiện vấn đề không.",
+      "start": 10.4,
+      "end": 13.85
+    },
+    {
+      "index": 5,
+      "text": "I clicked the same button again, and the error appeared.",
+      "pronunciation": "ai klíkt đờ sêim bớt-tần ờ-gen, en đi e-rờ ờ-piờrd.",
+      "vi": "Tôi bấm lại cùng nút đó, và lỗi xuất hiện.",
+      "start": 14.01,
+      "end": 18.05
+    },
+    {
+      "index": 6,
+      "text": "Seeing it on screen made the problem easier to explain.",
+      "pronunciation": "siing ịt on skrin mêid đờ pro-blầm i-zi-ờ tu ích-splêin.",
+      "vi": "Nhìn thấy nó trên màn hình làm vấn đề dễ giải thích hơn.",
+      "start": 18.21,
+      "end": 22.52
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "During the call, I shared my screen with the client.",
+      "pronunciation": "đu-ring đờ kol, ai she(r)d mai skrin quít đờ klai-ờnt.",
+      "vi": "Trong cuộc gọi, tôi chia sẻ màn hình với khách hàng.",
+      "start": 0.02,
+      "end": 3.64
+    },
+    {
+      "index": 2,
+      "text": "I went through the flow step by step.",
+      "pronunciation": "ai quent thru đờ flâu step bai step.",
+      "vi": "Tôi đi qua luồng từng bước một.",
+      "start": 3.8,
+      "end": 6.84
+    },
+    {
+      "index": 3,
+      "text": "Then I switched tabs to show the issue.",
+      "pronunciation": "đen ai switkht tabz tu sâu đi í-shu.",
+      "vi": "Sau đó, tôi chuyển tab để cho họ thấy vấn đề.",
+      "start": 7,
+      "end": 10.28
+    },
+    {
+      "index": 4,
+      "text": "The client asked if I could reproduce the problem.",
+      "pronunciation": "đờ klai-ờnt áskt if ai kud ri-prờ-đus đờ pro-blầm.",
+      "vi": "Khách hàng hỏi liệu tôi có thể tái hiện vấn đề không.",
+      "start": 10.44,
+      "end": 13.73
+    },
+    {
+      "index": 5,
+      "text": "I clicked the same button again, and the error appeared.",
+      "pronunciation": "ai klíkt đờ sêim bớt-tần ờ-gen, en đi e-rờ ờ-piờrd.",
+      "vi": "Tôi bấm lại cùng nút đó, và lỗi xuất hiện.",
+      "start": 13.89,
+      "end": 17.96
+    },
+    {
+      "index": 6,
+      "text": "Seeing it on screen made the problem easier to explain.",
+      "pronunciation": "siing ịt on skrin mêid đờ pro-blầm i-zi-ờ tu ích-splêin.",
+      "vi": "Nhìn thấy nó trên màn hình làm vấn đề dễ giải thích hơn.",
+      "start": 18.12,
+      "end": 22.37
+    }
+  ]
+}

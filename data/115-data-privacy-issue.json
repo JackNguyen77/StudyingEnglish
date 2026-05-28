@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "115-data-privacy-issue",
+  "title": "Story 115 - Nghe về privacy dữ liệu",
+  "story": "stories/115-data-privacy-issue.md",
+  "audio": "audio/115-data-privacy-issue.mp3",
+  "duration": 31.56,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/115-data-privacy-issue.mp3",
+  "durationMale": 30.55,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the data privacy issue in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ đây-tờ prai-vờ-si í-shu in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả vấn đề privacy dữ liệu bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.13
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the leaked information, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ likt in-fờ-mây-shần, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là thông tin bị lộ, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.29,
+      "end": 11.1
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the user trust because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ yu-zờ trớst bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về niềm tin người dùng vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.26,
+      "end": 16.19
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the security review as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ sờ-kyu-rờ-ti ri-viu as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến review bảo mật như một chi tiết quan trọng.",
+      "start": 16.35,
+      "end": 20.53
+    },
+    {
+      "index": 5,
+      "text": "Experts said the privacy rule would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ prai-vờ-si rul quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói quy định privacy sẽ quan trọng trong vài tháng tới.",
+      "start": 20.69,
+      "end": 24.75
+    },
+    {
+      "index": 6,
+      "text": "The story helped me remember to protect personal data instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ri-mem-bờ tu prờ-tekt pơ-sờ-nồ đây-tờ in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi nhớ bảo vệ dữ liệu cá nhân thay vì chỉ đọc tiêu đề.",
+      "start": 24.91,
+      "end": 30.47
+    }
+  ],
+  "audioMale1": "audio_male_1/115-data-privacy-issue.mp3",
+  "durationMale1": 35,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the data privacy issue in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ đây-tờ prai-vờ-si í-shu in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả vấn đề privacy dữ liệu bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.98
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the leaked information, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ likt in-fờ-mây-shần, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là thông tin bị lộ, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 6.14,
+      "end": 12.74
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the user trust because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ yu-zờ trớst bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về niềm tin người dùng vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12.9,
+      "end": 18.28
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the security review as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ sờ-kyu-rờ-ti ri-viu as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến review bảo mật như một chi tiết quan trọng.",
+      "start": 18.44,
+      "end": 23.28
+    },
+    {
+      "index": 5,
+      "text": "Experts said the privacy rule would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ prai-vờ-si rul quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói quy định privacy sẽ quan trọng trong vài tháng tới.",
+      "start": 23.44,
+      "end": 28.03
+    },
+    {
+      "index": 6,
+      "text": "The story helped me remember to protect personal data instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ri-mem-bờ tu prờ-tekt pơ-sờ-nồ đây-tờ in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi nhớ bảo vệ dữ liệu cá nhân thay vì chỉ đọc tiêu đề.",
+      "start": 28.19,
+      "end": 34.92
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the data privacy issue in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ đây-tờ prai-vờ-si í-shu in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả vấn đề privacy dữ liệu bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.05
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the leaked information, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ likt in-fờ-mây-shần, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là thông tin bị lộ, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.21,
+      "end": 11.1
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the user trust because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ yu-zờ trớst bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về niềm tin người dùng vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.26,
+      "end": 16.01
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the security review as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ sờ-kyu-rờ-ti ri-viu as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến review bảo mật như một chi tiết quan trọng.",
+      "start": 16.17,
+      "end": 20.42
+    },
+    {
+      "index": 5,
+      "text": "Experts said the privacy rule would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ prai-vờ-si rul quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói quy định privacy sẽ quan trọng trong vài tháng tới.",
+      "start": 20.58,
+      "end": 24.94
+    },
+    {
+      "index": 6,
+      "text": "The story helped me remember to protect personal data instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ri-mem-bờ tu prờ-tekt pơ-sờ-nồ đây-tờ in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi nhớ bảo vệ dữ liệu cá nhân thay vì chỉ đọc tiêu đề.",
+      "start": 25.1,
+      "end": 31.48
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "005-order-coffee",
+  "title": "Story 005 - Gọi cà phê",
+  "story": "stories/005-order-coffee.md",
+  "audio": "audio/005-order-coffee.mp3",
+  "duration": 18.17,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/005-order-coffee.mp3",
+  "durationMale": 15.46,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I stopped by a coffee shop before work.",
+      "pronunciation": "ai stópt bai ờ ko-fi shop bi-fo quớrk.",
+      "vi": "Tôi ghé một quán cà phê trước khi đi làm.",
+      "start": 0.02,
+      "end": 2.44
+    },
+    {
+      "index": 2,
+      "text": "There were a few people in line.",
+      "pronunciation": "đeờ quờr ờ phiu pi-pồ in lain.",
+      "vi": "Có vài người đang xếp hàng.",
+      "start": 2.6,
+      "end": 5.19
+    },
+    {
+      "index": 3,
+      "text": "When it was my turn, I went with an iced latte.",
+      "pronunciation": "quen ịt wờz mai tơn, ai quent quít ờn aist la-tê.",
+      "vi": "Khi đến lượt tôi, tôi chọn một ly latte đá.",
+      "start": 5.35,
+      "end": 8.61
+    },
+    {
+      "index": 4,
+      "text": "The cashier asked if it was for here or to go.",
+      "pronunciation": "đờ ka-shiờ áskt if ịt wờz fo hiờ o tu gâu.",
+      "vi": "Thu ngân hỏi tôi uống tại đây hay mang đi.",
+      "start": 8.77,
+      "end": 11.67
+    },
+    {
+      "index": 5,
+      "text": "I paid by card and waited near the counter.",
+      "pronunciation": "ai pêid bai kard en quây-tịt niờ đờ kao-tờ.",
+      "vi": "Tôi trả bằng thẻ và đợi gần quầy.",
+      "start": 11.83,
+      "end": 13.22
+    },
+    {
+      "index": 6,
+      "text": "My drink came out a few minutes later.",
+      "pronunciation": "mai dringk kêim ao ờ phiu mi-nits lêi-tờ.",
+      "vi": "Vài phút sau đồ uống của tôi có.",
+      "start": 13.38,
+      "end": 15.38
+    }
+  ],
+  "audioMale1": "audio_male_1/005-order-coffee.mp3",
+  "durationMale1": 22.6,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I stopped by a coffee shop before work.",
+      "pronunciation": "ai stópt bai ờ ko-fi shop bi-fo quớrk.",
+      "vi": "Tôi ghé một quán cà phê trước khi đi làm.",
+      "start": 0.02,
+      "end": 2.82
+    },
+    {
+      "index": 2,
+      "text": "There were a few people in line.",
+      "pronunciation": "đeờ quờr ờ phiu pi-pồ in lain.",
+      "vi": "Có vài người đang xếp hàng.",
+      "start": 2.98,
+      "end": 6.47
+    },
+    {
+      "index": 3,
+      "text": "When it was my turn, I went with an iced latte.",
+      "pronunciation": "quen ịt wờz mai tơn, ai quent quít ờn aist la-tê.",
+      "vi": "Khi đến lượt tôi, tôi chọn một ly latte đá.",
+      "start": 6.63,
+      "end": 10.88
+    },
+    {
+      "index": 4,
+      "text": "The cashier asked if it was for here or to go.",
+      "pronunciation": "đờ ka-shiờ áskt if ịt wờz fo hiờ o tu gâu.",
+      "vi": "Thu ngân hỏi tôi uống tại đây hay mang đi.",
+      "start": 11.04,
+      "end": 15.38
+    },
+    {
+      "index": 5,
+      "text": "I paid by card and waited near the counter.",
+      "pronunciation": "ai pêid bai kard en quây-tịt niờ đờ kao-tờ.",
+      "vi": "Tôi trả bằng thẻ và đợi gần quầy.",
+      "start": 15.54,
+      "end": 19.29
+    },
+    {
+      "index": 6,
+      "text": "My drink came out a few minutes later.",
+      "pronunciation": "mai dringk kêim ao ờ phiu mi-nits lêi-tờ.",
+      "vi": "Vài phút sau đồ uống của tôi có.",
+      "start": 19.45,
+      "end": 22.52
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I stopped by a coffee shop before work.",
+      "pronunciation": "ai stópt bai ờ ko-fi shop bi-fo quớrk.",
+      "vi": "Tôi ghé một quán cà phê trước khi đi làm.",
+      "start": 0.02,
+      "end": 2.91
+    },
+    {
+      "index": 2,
+      "text": "There were a few people in line.",
+      "pronunciation": "đeờ quờr ờ phiu pi-pồ in lain.",
+      "vi": "Có vài người đang xếp hàng.",
+      "start": 3.07,
+      "end": 5.19
+    },
+    {
+      "index": 3,
+      "text": "When it was my turn, I went with an iced latte.",
+      "pronunciation": "quen ịt wờz mai tơn, ai quent quít ờn aist la-tê.",
+      "vi": "Khi đến lượt tôi, tôi chọn một ly latte đá.",
+      "start": 5.35,
+      "end": 8.78
+    },
+    {
+      "index": 4,
+      "text": "The cashier asked if it was for here or to go.",
+      "pronunciation": "đờ ka-shiờ áskt if ịt wờz fo hiờ o tu gâu.",
+      "vi": "Thu ngân hỏi tôi uống tại đây hay mang đi.",
+      "start": 8.94,
+      "end": 12.36
+    },
+    {
+      "index": 5,
+      "text": "I paid by card and waited near the counter.",
+      "pronunciation": "ai pêid bai kard en quây-tịt niờ đờ kao-tờ.",
+      "vi": "Tôi trả bằng thẻ và đợi gần quầy.",
+      "start": 12.52,
+      "end": 15.63
+    },
+    {
+      "index": 6,
+      "text": "My drink came out a few minutes later.",
+      "pronunciation": "mai dringk kêim ao ờ phiu mi-nits lêi-tờ.",
+      "vi": "Vài phút sau đồ uống của tôi có.",
+      "start": 15.79,
+      "end": 18.09
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "093-public-concern",
+  "title": "Story 093 - Hiểu mối lo của công chúng",
+  "story": "stories/093-public-concern.md",
+  "audio": "audio/093-public-concern.mp3",
+  "duration": 34.11,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/093-public-concern.mp3",
+  "durationMale": 31.22,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the public concern in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ pớ-blik kờn-sơn in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả mối lo của công chúng bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.29
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the safety question, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ safeti quesshần, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là câu hỏi về an toàn, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.45,
+      "end": 11.28
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the crowded area because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ krao-địt ari bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về khu vực đông đúc vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.44,
+      "end": 16.22
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the emergency plan as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ emerjensi plen as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến kế hoạch khẩn cấp như một chi tiết quan trọng.",
+      "start": 16.38,
+      "end": 20.87
+    },
+    {
+      "index": 5,
+      "text": "Experts said the local response would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ lâu-kồ ri-spons quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói phản ứng địa phương sẽ quan trọng trong vài tháng tới.",
+      "start": 21.03,
+      "end": 25.5
+    },
+    {
+      "index": 6,
+      "text": "The story helped me explain the concern clearly instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi eksplâyn đờ kờn-sơn kliờ-li in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi giải thích mối lo rõ ràng thay vì chỉ đọc tiêu đề.",
+      "start": 25.66,
+      "end": 31.14
+    }
+  ],
+  "audioMale1": "audio_male_1/093-public-concern.mp3",
+  "durationMale1": 39.33,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the public concern in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ pớ-blik kờn-sơn in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả mối lo của công chúng bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 6.06
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the safety question, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ safeti quesshần, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là câu hỏi về an toàn, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 6.22,
+      "end": 15.28
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the crowded area because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ krao-địt ari bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về khu vực đông đúc vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 15.44,
+      "end": 21.33
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the emergency plan as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ emerjensi plen as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến kế hoạch khẩn cấp như một chi tiết quan trọng.",
+      "start": 21.49,
+      "end": 27.09
+    },
+    {
+      "index": 5,
+      "text": "Experts said the local response would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ lâu-kồ ri-spons quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói phản ứng địa phương sẽ quan trọng trong vài tháng tới.",
+      "start": 27.25,
+      "end": 32.33
+    },
+    {
+      "index": 6,
+      "text": "The story helped me explain the concern clearly instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi eksplâyn đờ kờn-sơn kliờ-li in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi giải thích mối lo rõ ràng thay vì chỉ đọc tiêu đề.",
+      "start": 32.49,
+      "end": 39.25
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the public concern in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ pớ-blik kờn-sơn in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả mối lo của công chúng bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.37
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the safety question, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ safeti quesshần, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là câu hỏi về an toàn, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.53,
+      "end": 12.06
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the crowded area because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ krao-địt ari bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về khu vực đông đúc vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12.22,
+      "end": 17.65
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the emergency plan as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ emerjensi plen as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến kế hoạch khẩn cấp như một chi tiết quan trọng.",
+      "start": 17.81,
+      "end": 22.62
+    },
+    {
+      "index": 5,
+      "text": "Experts said the local response would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ lâu-kồ ri-spons quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói phản ứng địa phương sẽ quan trọng trong vài tháng tới.",
+      "start": 22.78,
+      "end": 27.52
+    },
+    {
+      "index": 6,
+      "text": "The story helped me explain the concern clearly instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi eksplâyn đờ kờn-sơn kliờ-li in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi giải thích mối lo rõ ràng thay vì chỉ đọc tiêu đề.",
+      "start": 27.68,
+      "end": 34.03
+    }
+  ]
+}

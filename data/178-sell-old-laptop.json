@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "178-sell-old-laptop",
+  "title": "Story 178 - Bán laptop cũ",
+  "story": "stories/178-sell-old-laptop.md",
+  "audio": "audio/178-sell-old-laptop.mp3",
+  "duration": 29.83,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/178-sell-old-laptop.mp3",
+  "durationMale": 31.61,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the laptop listing before I made a final choice.",
+      "pronunciation": "ai chékt đờ láp-top listing bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tin đăng laptop trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.6
+    },
+    {
+      "index": 2,
+      "text": "One low offer made the situation less simple than it looked.",
+      "pronunciation": "quăn lâu offer mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Giá trả thấp làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.76,
+      "end": 8.68
+    },
+    {
+      "index": 3,
+      "text": "I decided to describe the condition before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu deskribe đờ kondishần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định mô tả tình trạng trước khi tiếp tục.",
+      "start": 8.84,
+      "end": 12.96
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short sale message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt sêil mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn bán hàng ngắn để người kia hiểu tôi.",
+      "start": 13.12,
+      "end": 17.91
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the pickup place instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ pikup plêis in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận chỗ lấy hàng thay vì đoán.",
+      "start": 18.07,
+      "end": 22.34
+    },
+    {
+      "index": 6,
+      "text": "That helped me sell it safely without adding extra stress.",
+      "pronunciation": "đat heo mi sell ịt safeli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bán an toàn mà không thêm căng thẳng.",
+      "start": 22.5,
+      "end": 26.52
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.68,
+      "end": 31.53
+    }
+  ],
+  "audioMale1": "audio_male_1/178-sell-old-laptop.mp3",
+  "durationMale1": 36.71,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the laptop listing before I made a final choice.",
+      "pronunciation": "ai chékt đờ láp-top listing bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tin đăng laptop trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.49
+    },
+    {
+      "index": 2,
+      "text": "One low offer made the situation less simple than it looked.",
+      "pronunciation": "quăn lâu offer mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Giá trả thấp làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.65,
+      "end": 10.33
+    },
+    {
+      "index": 3,
+      "text": "I decided to describe the condition before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu deskribe đờ kondishần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định mô tả tình trạng trước khi tiếp tục.",
+      "start": 10.49,
+      "end": 15.54
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short sale message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt sêil mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn bán hàng ngắn để người kia hiểu tôi.",
+      "start": 15.7,
+      "end": 20.63
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the pickup place instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ pikup plêis in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận chỗ lấy hàng thay vì đoán.",
+      "start": 20.79,
+      "end": 25.26
+    },
+    {
+      "index": 6,
+      "text": "That helped me sell it safely without adding extra stress.",
+      "pronunciation": "đat heo mi sell ịt safeli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bán an toàn mà không thêm căng thẳng.",
+      "start": 25.42,
+      "end": 30.15
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.31,
+      "end": 36.63
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the laptop listing before I made a final choice.",
+      "pronunciation": "ai chékt đờ láp-top listing bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tin đăng laptop trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4
+    },
+    {
+      "index": 2,
+      "text": "One low offer made the situation less simple than it looked.",
+      "pronunciation": "quăn lâu offer mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Giá trả thấp làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.16,
+      "end": 8.04
+    },
+    {
+      "index": 3,
+      "text": "I decided to describe the condition before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu deskribe đờ kondishần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định mô tả tình trạng trước khi tiếp tục.",
+      "start": 8.2,
+      "end": 12.02
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short sale message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt sêil mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn bán hàng ngắn để người kia hiểu tôi.",
+      "start": 12.18,
+      "end": 16.54
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the pickup place instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ pikup plêis in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận chỗ lấy hàng thay vì đoán.",
+      "start": 16.7,
+      "end": 20.59
+    },
+    {
+      "index": 6,
+      "text": "That helped me sell it safely without adding extra stress.",
+      "pronunciation": "đat heo mi sell ịt safeli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bán an toàn mà không thêm căng thẳng.",
+      "start": 20.75,
+      "end": 24.84
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25,
+      "end": 29.75
+    }
+  ]
+}

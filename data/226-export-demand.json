@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "226-export-demand",
+  "title": "Story 226 - Theo dõi nhu cầu xuất khẩu",
+  "story": "stories/226-export-demand.md",
+  "audio": "audio/226-export-demand.mp3",
+  "duration": 33.32,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/226-export-demand.mp3",
+  "durationMale": 28.39,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the export demand before I made a final choice.",
+      "pronunciation": "ai chékt đờ eksport đi-mand bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra nhu cầu xuất khẩu trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.89
+    },
+    {
+      "index": 2,
+      "text": "One currency swing made the situation less simple than it looked.",
+      "pronunciation": "quăn kurrensi swing mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Dao động tiền tệ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.05,
+      "end": 7.91
+    },
+    {
+      "index": 3,
+      "text": "I decided to monitor foreign orders before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu monitor foreign orders bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi đơn hàng nước ngoài trước khi tiếp tục.",
+      "start": 8.07,
+      "end": 11.84
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short trade note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt trade note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú thương mại ngắn để người kia hiểu tôi.",
+      "start": 12,
+      "end": 16.32
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check shipping costs instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék ship-ping kosts in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra chi phí shipping thay vì đoán.",
+      "start": 16.48,
+      "end": 19.88
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect profit margins without adding extra stress.",
+      "pronunciation": "đat heo mi protekt profit marjins quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bảo vệ biên lợi nhuận mà không thêm căng thẳng.",
+      "start": 20.04,
+      "end": 23.96
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 24.12,
+      "end": 28.31
+    }
+  ],
+  "audioMale1": "audio_male_1/226-export-demand.mp3",
+  "durationMale1": 36.03,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the export demand before I made a final choice.",
+      "pronunciation": "ai chékt đờ eksport đi-mand bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra nhu cầu xuất khẩu trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.61
+    },
+    {
+      "index": 2,
+      "text": "One currency swing made the situation less simple than it looked.",
+      "pronunciation": "quăn kurrensi swing mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Dao động tiền tệ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.77,
+      "end": 10.33
+    },
+    {
+      "index": 3,
+      "text": "I decided to monitor foreign orders before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu monitor foreign orders bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi đơn hàng nước ngoài trước khi tiếp tục.",
+      "start": 10.49,
+      "end": 15.51
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short trade note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt trade note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú thương mại ngắn để người kia hiểu tôi.",
+      "start": 15.67,
+      "end": 20.35
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check shipping costs instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék ship-ping kosts in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra chi phí shipping thay vì đoán.",
+      "start": 20.51,
+      "end": 25.03
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect profit margins without adding extra stress.",
+      "pronunciation": "đat heo mi protekt profit marjins quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bảo vệ biên lợi nhuận mà không thêm căng thẳng.",
+      "start": 25.19,
+      "end": 30.42
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.58,
+      "end": 35.95
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the export demand before I made a final choice.",
+      "pronunciation": "ai chékt đờ eksport đi-mand bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra nhu cầu xuất khẩu trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.52
+    },
+    {
+      "index": 2,
+      "text": "One currency swing made the situation less simple than it looked.",
+      "pronunciation": "quăn kurrensi swing mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Dao động tiền tệ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.68,
+      "end": 9.23
+    },
+    {
+      "index": 3,
+      "text": "I decided to monitor foreign orders before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu monitor foreign orders bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi đơn hàng nước ngoài trước khi tiếp tục.",
+      "start": 9.39,
+      "end": 13.93
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short trade note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt trade note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú thương mại ngắn để người kia hiểu tôi.",
+      "start": 14.09,
+      "end": 18.73
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check shipping costs instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék ship-ping kosts in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra chi phí shipping thay vì đoán.",
+      "start": 18.89,
+      "end": 22.88
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect profit margins without adding extra stress.",
+      "pronunciation": "đat heo mi protekt profit marjins quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bảo vệ biên lợi nhuận mà không thêm căng thẳng.",
+      "start": 23.04,
+      "end": 27.82
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.98,
+      "end": 33.24
+    }
+  ]
+}

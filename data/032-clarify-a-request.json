@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "032-clarify-a-request",
+  "title": "Story 032 - Làm rõ yêu cầu",
+  "story": "stories/032-clarify-a-request.md",
+  "audio": "audio/032-clarify-a-request.mp3",
+  "duration": 25.82,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/032-clarify-a-request.mp3",
+  "durationMale": 25.27,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "After the meeting, I reread the request from the client.",
+      "pronunciation": "áp-tờ đờ mi-ting, ai ri-red đờ ri-quest phrom đờ klai-ờnt.",
+      "vi": "Sau cuộc họp, tôi đọc lại yêu cầu từ khách hàng.",
+      "start": 0.02,
+      "end": 4.02
+    },
+    {
+      "index": 2,
+      "text": "One part was not clear, so I did not make assumptions.",
+      "pronunciation": "quăn paart wờz nót kliờ, sâu ai đi nót mêik ờ-săm-shầnz.",
+      "vi": "Một phần chưa rõ, nên tôi không tự đoán.",
+      "start": 4.18,
+      "end": 8.07
+    },
+    {
+      "index": 3,
+      "text": "I sent a short message to clarify what they needed.",
+      "pronunciation": "ai sent ờ soọt mé-sij tu kle-rờ-fai quát đây ni-địt.",
+      "vi": "Tôi gửi một tin nhắn ngắn để làm rõ họ cần gì.",
+      "start": 8.23,
+      "end": 11.61
+    },
+    {
+      "index": 4,
+      "text": "I asked them to confirm the deadline and the expected result.",
+      "pronunciation": "ai áskt đem tu kờn-phơrm đờ đét-lain en đờ ích-spek-tịt ri-zờlt.",
+      "vi": "Tôi nhờ họ xác nhận hạn chót và kết quả mong đợi.",
+      "start": 11.77,
+      "end": 15.97
+    },
+    {
+      "index": 5,
+      "text": "The client replied with more context and a simple example.",
+      "pronunciation": "đờ klai-ờnt ri-plaid quít mo kón-tekst en ờ sim-pồ ig-zam-pồ.",
+      "vi": "Khách hàng trả lời thêm ngữ cảnh và một ví dụ đơn giản.",
+      "start": 16.13,
+      "end": 20.23
+    },
+    {
+      "index": 6,
+      "text": "After that, the task made sense, and I could move forward with confidence.",
+      "pronunciation": "áp-tờ đat, đờ tát-sờk mêid sens, en ai kud muv pho-quờrd quít kón-phờ-đầnss.",
+      "vi": "Sau đó, việc này trở nên dễ hiểu, và tôi có thể tiếp tục tự tin hơn.",
+      "start": 20.39,
+      "end": 25.19
+    }
+  ],
+  "audioMale1": "audio_male_1/032-clarify-a-request.mp3",
+  "durationMale1": 29.99,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "After the meeting, I reread the request from the client.",
+      "pronunciation": "áp-tờ đờ mi-ting, ai ri-red đờ ri-quest phrom đờ klai-ờnt.",
+      "vi": "Sau cuộc họp, tôi đọc lại yêu cầu từ khách hàng.",
+      "start": 0.02,
+      "end": 5.08
+    },
+    {
+      "index": 2,
+      "text": "One part was not clear, so I did not make assumptions.",
+      "pronunciation": "quăn paart wờz nót kliờ, sâu ai đi nót mêik ờ-săm-shầnz.",
+      "vi": "Một phần chưa rõ, nên tôi không tự đoán.",
+      "start": 5.24,
+      "end": 9.93
+    },
+    {
+      "index": 3,
+      "text": "I sent a short message to clarify what they needed.",
+      "pronunciation": "ai sent ờ soọt mé-sij tu kle-rờ-fai quát đây ni-địt.",
+      "vi": "Tôi gửi một tin nhắn ngắn để làm rõ họ cần gì.",
+      "start": 10.09,
+      "end": 13.82
+    },
+    {
+      "index": 4,
+      "text": "I asked them to confirm the deadline and the expected result.",
+      "pronunciation": "ai áskt đem tu kờn-phơrm đờ đét-lain en đờ ích-spek-tịt ri-zờlt.",
+      "vi": "Tôi nhờ họ xác nhận hạn chót và kết quả mong đợi.",
+      "start": 13.98,
+      "end": 18.75
+    },
+    {
+      "index": 5,
+      "text": "The client replied with more context and a simple example.",
+      "pronunciation": "đờ klai-ờnt ri-plaid quít mo kón-tekst en ờ sim-pồ ig-zam-pồ.",
+      "vi": "Khách hàng trả lời thêm ngữ cảnh và một ví dụ đơn giản.",
+      "start": 18.91,
+      "end": 23.72
+    },
+    {
+      "index": 6,
+      "text": "After that, the task made sense, and I could move forward with confidence.",
+      "pronunciation": "áp-tờ đat, đờ tát-sờk mêid sens, en ai kud muv pho-quờrd quít kón-phờ-đầnss.",
+      "vi": "Sau đó, việc này trở nên dễ hiểu, và tôi có thể tiếp tục tự tin hơn.",
+      "start": 23.88,
+      "end": 29.91
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "After the meeting, I reread the request from the client.",
+      "pronunciation": "áp-tờ đờ mi-ting, ai ri-red đờ ri-quest phrom đờ klai-ờnt.",
+      "vi": "Sau cuộc họp, tôi đọc lại yêu cầu từ khách hàng.",
+      "start": 0.02,
+      "end": 3.67
+    },
+    {
+      "index": 2,
+      "text": "One part was not clear, so I did not make assumptions.",
+      "pronunciation": "quăn paart wờz nót kliờ, sâu ai đi nót mêik ờ-săm-shầnz.",
+      "vi": "Một phần chưa rõ, nên tôi không tự đoán.",
+      "start": 3.83,
+      "end": 7.97
+    },
+    {
+      "index": 3,
+      "text": "I sent a short message to clarify what they needed.",
+      "pronunciation": "ai sent ờ soọt mé-sij tu kle-rờ-fai quát đây ni-địt.",
+      "vi": "Tôi gửi một tin nhắn ngắn để làm rõ họ cần gì.",
+      "start": 8.13,
+      "end": 11.6
+    },
+    {
+      "index": 4,
+      "text": "I asked them to confirm the deadline and the expected result.",
+      "pronunciation": "ai áskt đem tu kờn-phơrm đờ đét-lain en đờ ích-spek-tịt ri-zờlt.",
+      "vi": "Tôi nhờ họ xác nhận hạn chót và kết quả mong đợi.",
+      "start": 11.76,
+      "end": 15.87
+    },
+    {
+      "index": 5,
+      "text": "The client replied with more context and a simple example.",
+      "pronunciation": "đờ klai-ờnt ri-plaid quít mo kón-tekst en ờ sim-pồ ig-zam-pồ.",
+      "vi": "Khách hàng trả lời thêm ngữ cảnh và một ví dụ đơn giản.",
+      "start": 16.03,
+      "end": 20.2
+    },
+    {
+      "index": 6,
+      "text": "After that, the task made sense, and I could move forward with confidence.",
+      "pronunciation": "áp-tờ đat, đờ tát-sờk mêid sens, en ai kud muv pho-quờrd quít kón-phờ-đầnss.",
+      "vi": "Sau đó, việc này trở nên dễ hiểu, và tôi có thể tiếp tục tự tin hơn.",
+      "start": 20.36,
+      "end": 25.74
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "104-budget-plan",
+  "title": "Story 104 - Đọc kế hoạch ngân sách",
+  "story": "stories/104-budget-plan.md",
+  "audio": "audio/104-budget-plan.mp3",
+  "duration": 30.23,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/104-budget-plan.mp3",
+  "durationMale": 29.46,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the budget plan in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ bớt-jịt plen in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả kế hoạch ngân sách bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.07
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the funding gap, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ phăn-ding gap, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là khoảng thiếu ngân sách, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.23,
+      "end": 11.08
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the spending limit because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ spen-ding li-mịt bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về giới hạn chi tiêu vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.24,
+      "end": 15.71
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the priority area as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ prioriti ari as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến khu vực ưu tiên như một chi tiết quan trọng.",
+      "start": 15.87,
+      "end": 20.07
+    },
+    {
+      "index": 5,
+      "text": "Experts said the cost review would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ kost ri-viu quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói xem lại chi phí sẽ quan trọng trong vài tháng tới.",
+      "start": 20.23,
+      "end": 24.61
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand budget choices instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan bớt-jịt choi-siz in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu các lựa chọn ngân sách thay vì chỉ đọc tiêu đề.",
+      "start": 24.77,
+      "end": 29.38
+    }
+  ],
+  "audioMale1": "audio_male_1/104-budget-plan.mp3",
+  "durationMale1": 36.66,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the budget plan in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ bớt-jịt plen in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả kế hoạch ngân sách bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.81
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the funding gap, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ phăn-ding gap, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là khoảng thiếu ngân sách, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.97,
+      "end": 12.79
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the spending limit because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ spen-ding li-mịt bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về giới hạn chi tiêu vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12.95,
+      "end": 19.31
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the priority area as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ prioriti ari as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến khu vực ưu tiên như một chi tiết quan trọng.",
+      "start": 19.47,
+      "end": 23.53
+    },
+    {
+      "index": 5,
+      "text": "Experts said the cost review would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ kost ri-viu quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói xem lại chi phí sẽ quan trọng trong vài tháng tới.",
+      "start": 23.69,
+      "end": 30.99
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand budget choices instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan bớt-jịt choi-siz in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu các lựa chọn ngân sách thay vì chỉ đọc tiêu đề.",
+      "start": 31.15,
+      "end": 36.58
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the budget plan in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ bớt-jịt plen in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả kế hoạch ngân sách bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 4.86
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the funding gap, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ phăn-ding gap, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là khoảng thiếu ngân sách, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.02,
+      "end": 10.77
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the spending limit because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ spen-ding li-mịt bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về giới hạn chi tiêu vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 10.93,
+      "end": 15.89
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the priority area as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ prioriti ari as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến khu vực ưu tiên như một chi tiết quan trọng.",
+      "start": 16.05,
+      "end": 20.56
+    },
+    {
+      "index": 5,
+      "text": "Experts said the cost review would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ kost ri-viu quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói xem lại chi phí sẽ quan trọng trong vài tháng tới.",
+      "start": 20.72,
+      "end": 24.79
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand budget choices instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan bớt-jịt choi-siz in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu các lựa chọn ngân sách thay vì chỉ đọc tiêu đề.",
+      "start": 24.95,
+      "end": 30.15
+    }
+  ]
+}

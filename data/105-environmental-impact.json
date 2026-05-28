@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "105-environmental-impact",
+  "title": "Story 105 - Nói về tác động môi trường",
+  "story": "stories/105-environmental-impact.md",
+  "audio": "audio/105-environmental-impact.mp3",
+  "duration": 30.45,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/105-environmental-impact.mp3",
+  "durationMale": 34.5,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the environmental impact in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ en-vai-rần-men-tồ impakt in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả tác động môi trường bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 6.29
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the waste problem, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ quâyst pro-blầm, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là vấn đề rác thải, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 6.45,
+      "end": 12.45
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the clean-up effort because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ klin-ấp e-phờrt bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về nỗ lực dọn sạch vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12.61,
+      "end": 17.67
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the policy debate as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ po-lờ-si đi-bêit as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến tranh luận chính sách như một chi tiết quan trọng.",
+      "start": 17.83,
+      "end": 23.23
+    },
+    {
+      "index": 5,
+      "text": "Experts said the long-term damage would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ long tờm đa-mij quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói thiệt hại dài hạn sẽ quan trọng trong vài tháng tới.",
+      "start": 23.39,
+      "end": 28.49
+    },
+    {
+      "index": 6,
+      "text": "The story helped me see why protection matters instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi si quai protekshần ma-tờrz in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi thấy vì sao bảo vệ là quan trọng thay vì chỉ đọc tiêu đề.",
+      "start": 28.65,
+      "end": 34.42
+    }
+  ],
+  "audioMale1": "audio_male_1/105-environmental-impact.mp3",
+  "durationMale1": 34.55,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the environmental impact in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ en-vai-rần-men-tồ impakt in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả tác động môi trường bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 4.12
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the waste problem, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ quâyst pro-blầm, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là vấn đề rác thải, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 4.28,
+      "end": 13.38
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the clean-up effort because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ klin-ấp e-phờrt bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về nỗ lực dọn sạch vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 13.54,
+      "end": 18.79
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the policy debate as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ po-lờ-si đi-bêit as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến tranh luận chính sách như một chi tiết quan trọng.",
+      "start": 18.95,
+      "end": 23.39
+    },
+    {
+      "index": 5,
+      "text": "Experts said the long-term damage would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ long tờm đa-mij quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói thiệt hại dài hạn sẽ quan trọng trong vài tháng tới.",
+      "start": 23.55,
+      "end": 28.59
+    },
+    {
+      "index": 6,
+      "text": "The story helped me see why protection matters instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi si quai protekshần ma-tờrz in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi thấy vì sao bảo vệ là quan trọng thay vì chỉ đọc tiêu đề.",
+      "start": 28.75,
+      "end": 34.47
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the environmental impact in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ en-vai-rần-men-tồ impakt in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả tác động môi trường bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.01
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the waste problem, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ quâyst pro-blầm, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là vấn đề rác thải, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.17,
+      "end": 10.81
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the clean-up effort because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ klin-ấp e-phờrt bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về nỗ lực dọn sạch vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 10.97,
+      "end": 15.66
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the policy debate as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ po-lờ-si đi-bêit as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến tranh luận chính sách như một chi tiết quan trọng.",
+      "start": 15.82,
+      "end": 20.22
+    },
+    {
+      "index": 5,
+      "text": "Experts said the long-term damage would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ long tờm đa-mij quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói thiệt hại dài hạn sẽ quan trọng trong vài tháng tới.",
+      "start": 20.38,
+      "end": 24.87
+    },
+    {
+      "index": 6,
+      "text": "The story helped me see why protection matters instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi si quai protekshần ma-tờrz in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi thấy vì sao bảo vệ là quan trọng thay vì chỉ đọc tiêu đề.",
+      "start": 25.03,
+      "end": 30.37
+    }
+  ]
+}

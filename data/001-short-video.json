@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "001-short-video",
+  "title": "Story 001 - Lướt short video quá lâu",
+  "story": "stories/001-short-video.md",
+  "audio": "audio/001-short-video.mp3",
+  "duration": 16.65,
+  "timingMethod": "manual-silence-assisted",
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I was going to study English for 20 minutes.",
+      "vi": "Tôi định học tiếng Anh 20 phút.",
+      "start": 0.02,
+      "end": 3.1,
+      "pronunciation": "ai wờz gâu-ing tu sta-đi ing-glish fo twen-ti mi-nits."
+    },
+    {
+      "index": 2,
+      "text": "But I picked up my phone and opened TikTok.",
+      "vi": "Nhưng tôi cầm điện thoại lên và mở TikTok.",
+      "start": 3.55,
+      "end": 6.08,
+      "pronunciation": "bớt ai bíc-tấp mai phôn en âu-pần tik-tok."
+    },
+    {
+      "index": 3,
+      "text": "At first, I only watched one video.",
+      "vi": "Lúc đầu, tôi chỉ xem một video.",
+      "start": 6.58,
+      "end": 9.25,
+      "pronunciation": "at phớrst, ai âu-li quátcht quăn vi-đi-ô."
+    },
+    {
+      "index": 4,
+      "text": "Then I got hooked.",
+      "vi": "Rồi tôi bị cuốn vào.",
+      "start": 9.75,
+      "end": 11,
+      "pronunciation": "đen ai gat hukt."
+    },
+    {
+      "index": 5,
+      "text": "I ended up watching videos for two hours.",
+      "vi": "Cuối cùng tôi lại xem video suốt hai tiếng.",
+      "start": 11.42,
+      "end": 14.13,
+      "pronunciation": "ai en-đập quát-ching vi-đi-ôz fo tu ao-ờrz."
+    },
+    {
+      "index": 6,
+      "text": "Now I need to get back to studying.",
+      "vi": "Giờ tôi cần quay lại học.",
+      "start": 14.61,
+      "end": 16.55,
+      "pronunciation": "nao ai nid tu gét béc tu sta-đi-ing."
+    }
+  ],
+  "audioMale": "audio_male/001-short-video.mp3",
+  "durationMale": 20.6,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I was going to study English for 20 minutes.",
+      "pronunciation": "ai wờz gâu-ing tu sta-đi ing-glish fo twen-ti mi-nits.",
+      "vi": "Tôi định học tiếng Anh 20 phút.",
+      "start": 0.02,
+      "end": 4.46
+    },
+    {
+      "index": 2,
+      "text": "But I picked up my phone and opened TikTok.",
+      "pronunciation": "bớt ai bíc-tấp mai phôn en âu-pần tik-tok.",
+      "vi": "Nhưng tôi cầm điện thoại lên và mở TikTok.",
+      "start": 4.62,
+      "end": 8.84
+    },
+    {
+      "index": 3,
+      "text": "At first, I only watched one video.",
+      "pronunciation": "at phớrst, ai âu-li quátcht quăn vi-đi-ô.",
+      "vi": "Lúc đầu, tôi chỉ xem một video.",
+      "start": 9,
+      "end": 12.52
+    },
+    {
+      "index": 4,
+      "text": "Then I got hooked.",
+      "pronunciation": "đen ai gat hukt.",
+      "vi": "Rồi tôi bị cuốn vào.",
+      "start": 12.68,
+      "end": 13.77
+    },
+    {
+      "index": 5,
+      "text": "I ended up watching videos for two hours.",
+      "pronunciation": "ai en-đập quát-ching vi-đi-ôz fo tu ao-ờrz.",
+      "vi": "Cuối cùng tôi lại xem video suốt hai tiếng.",
+      "start": 13.93,
+      "end": 17.77
+    },
+    {
+      "index": 6,
+      "text": "Now I need to get back to studying.",
+      "pronunciation": "nao ai nid tu gét béc tu sta-đi-ing.",
+      "vi": "Giờ tôi cần quay lại học.",
+      "start": 17.93,
+      "end": 20.52
+    }
+  ],
+  "audioMale1": "audio_male_1/001-short-video.mp3",
+  "durationMale1": 20.18,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I was going to study English for 20 minutes.",
+      "pronunciation": "ai wờz gâu-ing tu sta-đi ing-glish fo twen-ti mi-nits.",
+      "vi": "Tôi định học tiếng Anh 20 phút.",
+      "start": 0.02,
+      "end": 3.92
+    },
+    {
+      "index": 2,
+      "text": "But I picked up my phone and opened TikTok.",
+      "pronunciation": "bớt ai bíc-tấp mai phôn en âu-pần tik-tok.",
+      "vi": "Nhưng tôi cầm điện thoại lên và mở TikTok.",
+      "start": 4.08,
+      "end": 8.11
+    },
+    {
+      "index": 3,
+      "text": "At first, I only watched one video.",
+      "pronunciation": "at phớrst, ai âu-li quátcht quăn vi-đi-ô.",
+      "vi": "Lúc đầu, tôi chỉ xem một video.",
+      "start": 8.27,
+      "end": 11.68
+    },
+    {
+      "index": 4,
+      "text": "Then I got hooked.",
+      "pronunciation": "đen ai gat hukt.",
+      "vi": "Rồi tôi bị cuốn vào.",
+      "start": 11.84,
+      "end": 13.43
+    },
+    {
+      "index": 5,
+      "text": "I ended up watching videos for two hours.",
+      "pronunciation": "ai en-đập quát-ching vi-đi-ôz fo tu ao-ờrz.",
+      "vi": "Cuối cùng tôi lại xem video suốt hai tiếng.",
+      "start": 13.59,
+      "end": 17.14
+    },
+    {
+      "index": 6,
+      "text": "Now I need to get back to studying.",
+      "pronunciation": "nao ai nid tu gét béc tu sta-đi-ing.",
+      "vi": "Giờ tôi cần quay lại học.",
+      "start": 17.3,
+      "end": 20.1
+    }
+  ]
+}

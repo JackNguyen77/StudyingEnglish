@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "023-work-chat",
+  "title": "Story 023 - Trao đổi với đồng nghiệp",
+  "story": "stories/023-work-chat.md",
+  "audio": "audio/023-work-chat.mp3",
+  "duration": 20.28,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/023-work-chat.mp3",
+  "durationMale": 19.21,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "My coworker messaged me about a small issue at work.",
+      "pronunciation": "mai kâu-quớr-kờ mé-sijd mi ờ-bao ờ smol í-shu at quớrk.",
+      "vi": "Đồng nghiệp nhắn tôi về một vấn đề nhỏ ở công việc.",
+      "start": 0.02,
+      "end": 3.56
+    },
+    {
+      "index": 2,
+      "text": "We decided to go over it after lunch.",
+      "pronunciation": "quy đi-sai-địt tu gâu âu-vờ ịt áp-tờ lănch.",
+      "vi": "Chúng tôi quyết định xem lại sau bữa trưa.",
+      "start": 3.72,
+      "end": 6.01
+    },
+    {
+      "index": 3,
+      "text": "I brought up one possible solution.",
+      "pronunciation": "ai brot ấp quăn pó-sờ-bồ sờ-lu-shần.",
+      "vi": "Tôi nêu ra một giải pháp có thể dùng.",
+      "start": 6.17,
+      "end": 8.46
+    },
+    {
+      "index": 4,
+      "text": "She pointed out a problem I had not noticed.",
+      "pronunciation": "shi poin-tịt ao ờ pro-blầm ai had nót nâu-tist.",
+      "vi": "Cô ấy chỉ ra một vấn đề tôi chưa để ý.",
+      "start": 8.62,
+      "end": 11.46
+    },
+    {
+      "index": 5,
+      "text": "After a short discussion, we sorted it out together.",
+      "pronunciation": "áp-tờ ờ soọt đis-kớ-shần, quy so-tịt ịt ao tu-ge-đờ.",
+      "vi": "Sau một cuộc trao đổi ngắn, chúng tôi cùng xử lý xong.",
+      "start": 11.62,
+      "end": 15.3
+    },
+    {
+      "index": 6,
+      "text": "Now we are on the same page before the deadline.",
+      "pronunciation": "nao quy ar on đờ sêim pêij bi-fo đờ đét-lain.",
+      "vi": "Giờ chúng tôi đã hiểu thống nhất trước hạn chót.",
+      "start": 15.46,
+      "end": 19.13
+    }
+  ],
+  "audioMale1": "audio_male_1/023-work-chat.mp3",
+  "durationMale1": 24.84,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "My coworker messaged me about a small issue at work.",
+      "pronunciation": "mai kâu-quớr-kờ mé-sijd mi ờ-bao ờ smol í-shu at quớrk.",
+      "vi": "Đồng nghiệp nhắn tôi về một vấn đề nhỏ ở công việc.",
+      "start": 0.02,
+      "end": 4.99
+    },
+    {
+      "index": 2,
+      "text": "We decided to go over it after lunch.",
+      "pronunciation": "quy đi-sai-địt tu gâu âu-vờ ịt áp-tờ lănch.",
+      "vi": "Chúng tôi quyết định xem lại sau bữa trưa.",
+      "start": 5.15,
+      "end": 8.48
+    },
+    {
+      "index": 3,
+      "text": "I brought up one possible solution.",
+      "pronunciation": "ai brot ấp quăn pó-sờ-bồ sờ-lu-shần.",
+      "vi": "Tôi nêu ra một giải pháp có thể dùng.",
+      "start": 8.64,
+      "end": 11.63
+    },
+    {
+      "index": 4,
+      "text": "She pointed out a problem I had not noticed.",
+      "pronunciation": "shi poin-tịt ao ờ pro-blầm ai had nót nâu-tist.",
+      "vi": "Cô ấy chỉ ra một vấn đề tôi chưa để ý.",
+      "start": 11.79,
+      "end": 15.59
+    },
+    {
+      "index": 5,
+      "text": "After a short discussion, we sorted it out together.",
+      "pronunciation": "áp-tờ ờ soọt đis-kớ-shần, quy so-tịt ịt ao tu-ge-đờ.",
+      "vi": "Sau một cuộc trao đổi ngắn, chúng tôi cùng xử lý xong.",
+      "start": 15.75,
+      "end": 20.11
+    },
+    {
+      "index": 6,
+      "text": "Now we are on the same page before the deadline.",
+      "pronunciation": "nao quy ar on đờ sêim pêij bi-fo đờ đét-lain.",
+      "vi": "Giờ chúng tôi đã hiểu thống nhất trước hạn chót.",
+      "start": 20.27,
+      "end": 24.76
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "My coworker messaged me about a small issue at work.",
+      "pronunciation": "mai kâu-quớr-kờ mé-sijd mi ờ-bao ờ smol í-shu at quớrk.",
+      "vi": "Đồng nghiệp nhắn tôi về một vấn đề nhỏ ở công việc.",
+      "start": 0.02,
+      "end": 4
+    },
+    {
+      "index": 2,
+      "text": "We decided to go over it after lunch.",
+      "pronunciation": "quy đi-sai-địt tu gâu âu-vờ ịt áp-tờ lănch.",
+      "vi": "Chúng tôi quyết định xem lại sau bữa trưa.",
+      "start": 4.16,
+      "end": 6.71
+    },
+    {
+      "index": 3,
+      "text": "I brought up one possible solution.",
+      "pronunciation": "ai brot ấp quăn pó-sờ-bồ sờ-lu-shần.",
+      "vi": "Tôi nêu ra một giải pháp có thể dùng.",
+      "start": 6.87,
+      "end": 9.55
+    },
+    {
+      "index": 4,
+      "text": "She pointed out a problem I had not noticed.",
+      "pronunciation": "shi poin-tịt ao ờ pro-blầm ai had nót nâu-tist.",
+      "vi": "Cô ấy chỉ ra một vấn đề tôi chưa để ý.",
+      "start": 9.71,
+      "end": 12.87
+    },
+    {
+      "index": 5,
+      "text": "After a short discussion, we sorted it out together.",
+      "pronunciation": "áp-tờ ờ soọt đis-kớ-shần, quy so-tịt ịt ao tu-ge-đờ.",
+      "vi": "Sau một cuộc trao đổi ngắn, chúng tôi cùng xử lý xong.",
+      "start": 13.03,
+      "end": 16.58
+    },
+    {
+      "index": 6,
+      "text": "Now we are on the same page before the deadline.",
+      "pronunciation": "nao quy ar on đờ sêim pêij bi-fo đờ đét-lain.",
+      "vi": "Giờ chúng tôi đã hiểu thống nhất trước hạn chót.",
+      "start": 16.74,
+      "end": 20.2
+    }
+  ]
+}

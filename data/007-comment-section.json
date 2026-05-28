@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "007-comment-section",
+  "title": "Story 007 - Đọc phần bình luận",
+  "story": "stories/007-comment-section.md",
+  "audio": "audio/007-comment-section.mp3",
+  "duration": 16.28,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/007-comment-section.mp3",
+  "durationMale": 16.29,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I watched a short video about learning English.",
+      "pronunciation": "ai quátcht ờ soọt vi-đi-ô ờ-bao lơ-ning ing-glish.",
+      "vi": "Tôi xem một video ngắn về việc học tiếng Anh.",
+      "start": 0.02,
+      "end": 3.34
+    },
+    {
+      "index": 2,
+      "text": "Then I scrolled through the comments.",
+      "pronunciation": "đen ai skrâld thru đờ ko-ments.",
+      "vi": "Rồi tôi lướt qua phần bình luận.",
+      "start": 3.5,
+      "end": 5.85
+    },
+    {
+      "index": 3,
+      "text": "Some people agreed with the creator.",
+      "pronunciation": "săm pi-pồ ờ-grid quít đờ kri-ây-tờ.",
+      "vi": "Một số người đồng ý với người làm video.",
+      "start": 6.01,
+      "end": 8.23
+    },
+    {
+      "index": 4,
+      "text": "One person pointed out a small mistake.",
+      "pronunciation": "quăn pơ-sần poin-tịt ao ờ smol mis-têik.",
+      "vi": "Một người chỉ ra một lỗi nhỏ.",
+      "start": 8.39,
+      "end": 11.31
+    },
+    {
+      "index": 5,
+      "text": "The creator did not take it personally.",
+      "pronunciation": "đờ kri-ây-tờ đi nót têi-kịt pờr-sờ-nờ-li.",
+      "vi": "Người làm video không để bụng chuyện đó.",
+      "start": 11.47,
+      "end": 14.03
+    },
+    {
+      "index": 6,
+      "text": "She thanked them and moved on.",
+      "pronunciation": "shi thankt đem en muvd on.",
+      "vi": "Cô ấy cảm ơn họ rồi bỏ qua để tiếp tục.",
+      "start": 14.19,
+      "end": 16.21
+    }
+  ],
+  "audioMale1": "audio_male_1/007-comment-section.mp3",
+  "durationMale1": 17.67,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I watched a short video about learning English.",
+      "pronunciation": "ai quátcht ờ soọt vi-đi-ô ờ-bao lơ-ning ing-glish.",
+      "vi": "Tôi xem một video ngắn về việc học tiếng Anh.",
+      "start": 0.02,
+      "end": 3.54
+    },
+    {
+      "index": 2,
+      "text": "Then I scrolled through the comments.",
+      "pronunciation": "đen ai skrâld thru đờ ko-ments.",
+      "vi": "Rồi tôi lướt qua phần bình luận.",
+      "start": 3.7,
+      "end": 6.14
+    },
+    {
+      "index": 3,
+      "text": "Some people agreed with the creator.",
+      "pronunciation": "săm pi-pồ ờ-grid quít đờ kri-ây-tờ.",
+      "vi": "Một số người đồng ý với người làm video.",
+      "start": 6.3,
+      "end": 8.89
+    },
+    {
+      "index": 4,
+      "text": "One person pointed out a small mistake.",
+      "pronunciation": "quăn pơ-sần poin-tịt ao ờ smol mis-têik.",
+      "vi": "Một người chỉ ra một lỗi nhỏ.",
+      "start": 9.05,
+      "end": 12.22
+    },
+    {
+      "index": 5,
+      "text": "The creator did not take it personally.",
+      "pronunciation": "đờ kri-ây-tờ đi nót têi-kịt pờr-sờ-nờ-li.",
+      "vi": "Người làm video không để bụng chuyện đó.",
+      "start": 12.38,
+      "end": 15.13
+    },
+    {
+      "index": 6,
+      "text": "She thanked them and moved on.",
+      "pronunciation": "shi thankt đem en muvd on.",
+      "vi": "Cô ấy cảm ơn họ rồi bỏ qua để tiếp tục.",
+      "start": 15.29,
+      "end": 17.59
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I watched a short video about learning English.",
+      "pronunciation": "ai quátcht ờ soọt vi-đi-ô ờ-bao lơ-ning ing-glish.",
+      "vi": "Tôi xem một video ngắn về việc học tiếng Anh.",
+      "start": 0.02,
+      "end": 3.47
+    },
+    {
+      "index": 2,
+      "text": "Then I scrolled through the comments.",
+      "pronunciation": "đen ai skrâld thru đờ ko-ments.",
+      "vi": "Rồi tôi lướt qua phần bình luận.",
+      "start": 3.63,
+      "end": 5.88
+    },
+    {
+      "index": 3,
+      "text": "Some people agreed with the creator.",
+      "pronunciation": "săm pi-pồ ờ-grid quít đờ kri-ây-tờ.",
+      "vi": "Một số người đồng ý với người làm video.",
+      "start": 6.04,
+      "end": 8.2
+    },
+    {
+      "index": 4,
+      "text": "One person pointed out a small mistake.",
+      "pronunciation": "quăn pơ-sần poin-tịt ao ờ smol mis-têik.",
+      "vi": "Một người chỉ ra một lỗi nhỏ.",
+      "start": 8.36,
+      "end": 11.09
+    },
+    {
+      "index": 5,
+      "text": "The creator did not take it personally.",
+      "pronunciation": "đờ kri-ây-tờ đi nót têi-kịt pờr-sờ-nờ-li.",
+      "vi": "Người làm video không để bụng chuyện đó.",
+      "start": 11.25,
+      "end": 13.79
+    },
+    {
+      "index": 6,
+      "text": "She thanked them and moved on.",
+      "pronunciation": "shi thankt đem en muvd on.",
+      "vi": "Cô ấy cảm ơn họ rồi bỏ qua để tiếp tục.",
+      "start": 13.95,
+      "end": 16.2
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "192-release-note",
+  "title": "Story 192 - Viết release note",
+  "story": "stories/192-release-note.md",
+  "audio": "audio/192-release-note.mp3",
+  "duration": 31.37,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/192-release-note.mp3",
+  "durationMale": 32.61,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the release note before I made a final choice.",
+      "pronunciation": "ai chékt đờ ri-lis note bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra ghi chú phát hành trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.55
+    },
+    {
+      "index": 2,
+      "text": "One last minute fix made the situation less simple than it looked.",
+      "pronunciation": "quăn last mi-nịt fiks mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Bản sửa phút cuối làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.71,
+      "end": 9.32
+    },
+    {
+      "index": 3,
+      "text": "I decided to write the change summary before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu rait đờ chênj săm-mờ-ri bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định viết tóm tắt thay đổi trước khi tiếp tục.",
+      "start": 9.48,
+      "end": 13.91
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short release message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ri-lis mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn release ngắn để người kia hiểu tôi.",
+      "start": 14.07,
+      "end": 18.81
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the version number instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ vơr-zhần năm-bờr in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra số version thay vì đoán.",
+      "start": 18.97,
+      "end": 22.94
+    },
+    {
+      "index": 6,
+      "text": "That helped me inform the users without adding extra stress.",
+      "pronunciation": "đat heo mi inform đờ yu-zờrz quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi báo cho người dùng mà không thêm căng thẳng.",
+      "start": 23.1,
+      "end": 27.47
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.63,
+      "end": 32.53
+    }
+  ],
+  "audioMale1": "audio_male_1/192-release-note.mp3",
+  "durationMale1": 36.61,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the release note before I made a final choice.",
+      "pronunciation": "ai chékt đờ ri-lis note bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra ghi chú phát hành trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.32
+    },
+    {
+      "index": 2,
+      "text": "One last minute fix made the situation less simple than it looked.",
+      "pronunciation": "quăn last mi-nịt fiks mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Bản sửa phút cuối làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.48,
+      "end": 9.82
+    },
+    {
+      "index": 3,
+      "text": "I decided to write the change summary before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu rait đờ chênj săm-mờ-ri bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định viết tóm tắt thay đổi trước khi tiếp tục.",
+      "start": 9.98,
+      "end": 15.18
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short release message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ri-lis mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn release ngắn để người kia hiểu tôi.",
+      "start": 15.34,
+      "end": 20.59
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the version number instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ vơr-zhần năm-bờr in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra số version thay vì đoán.",
+      "start": 20.75,
+      "end": 25.37
+    },
+    {
+      "index": 6,
+      "text": "That helped me inform the users without adding extra stress.",
+      "pronunciation": "đat heo mi inform đờ yu-zờrz quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi báo cho người dùng mà không thêm căng thẳng.",
+      "start": 25.53,
+      "end": 30.29
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.45,
+      "end": 36.53
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the release note before I made a final choice.",
+      "pronunciation": "ai chékt đờ ri-lis note bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra ghi chú phát hành trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.57
+    },
+    {
+      "index": 2,
+      "text": "One last minute fix made the situation less simple than it looked.",
+      "pronunciation": "quăn last mi-nịt fiks mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Bản sửa phút cuối làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.73,
+      "end": 8.98
+    },
+    {
+      "index": 3,
+      "text": "I decided to write the change summary before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu rait đờ chênj săm-mờ-ri bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định viết tóm tắt thay đổi trước khi tiếp tục.",
+      "start": 9.14,
+      "end": 13.65
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short release message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ri-lis mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn release ngắn để người kia hiểu tôi.",
+      "start": 13.81,
+      "end": 18.4
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the version number instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ vơr-zhần năm-bờr in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra số version thay vì đoán.",
+      "start": 18.56,
+      "end": 22.2
+    },
+    {
+      "index": 6,
+      "text": "That helped me inform the users without adding extra stress.",
+      "pronunciation": "đat heo mi inform đờ yu-zờrz quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi báo cho người dùng mà không thêm căng thẳng.",
+      "start": 22.36,
+      "end": 26.51
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.67,
+      "end": 31.29
+    }
+  ]
+}

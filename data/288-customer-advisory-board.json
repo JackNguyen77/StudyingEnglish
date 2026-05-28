@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "288-customer-advisory-board",
+  "title": "Story 288 - Chuẩn bị customer advisory board",
+  "story": "stories/288-customer-advisory-board.md",
+  "audio": "audio/288-customer-advisory-board.mp3",
+  "duration": 32.39,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/288-customer-advisory-board.mp3",
+  "durationMale": 31.99,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the customer advisory board before the meeting started.",
+      "pronunciation": "ai quókt thru đờ kớs-tờ-mờr advisori board bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through customer advisory board trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.73
+    },
+    {
+      "index": 2,
+      "text": "One mixed feedback made the decision harder than expected.",
+      "pronunciation": "quăn mikst phid-bak mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một feedback lẫn lộn làm decision khó hơn dự kiến.",
+      "start": 4.89,
+      "end": 8.55
+    },
+    {
+      "index": 3,
+      "text": "I tried to group themes clearly so the team had a clearer path.",
+      "pronunciation": "ai traid tu graop themes kliờ-li sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố gom theme cho rõ để team có hướng rõ hơn.",
+      "start": 8.71,
+      "end": 13.55
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short advisory board note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt advisori board note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú advisory board ngắn để capture các key points.",
+      "start": 13.71,
+      "end": 18.14
+    },
+    {
+      "index": 5,
+      "text": "I also had to check product requests before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék produkt requests bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra request sản phẩm trước khi chúng tôi thống nhất next step.",
+      "start": 18.3,
+      "end": 22.88
+    },
+    {
+      "index": 6,
+      "text": "That helped us turn feedback into priorities without losing momentum.",
+      "pronunciation": "đat heo ớs tơn phid-bak in-tu prai-o-rờ-tiz quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi biến feedback thành priority mà không mất momentum.",
+      "start": 23.04,
+      "end": 27.58
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 27.74,
+      "end": 31.91
+    }
+  ],
+  "audioMale1": "audio_male_1/288-customer-advisory-board.mp3",
+  "durationMale1": 35.83,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the customer advisory board before the meeting started.",
+      "pronunciation": "ai quókt thru đờ kớs-tờ-mờr advisori board bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through customer advisory board trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.88
+    },
+    {
+      "index": 2,
+      "text": "One mixed feedback made the decision harder than expected.",
+      "pronunciation": "quăn mikst phid-bak mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một feedback lẫn lộn làm decision khó hơn dự kiến.",
+      "start": 5.04,
+      "end": 9.42
+    },
+    {
+      "index": 3,
+      "text": "I tried to group themes clearly so the team had a clearer path.",
+      "pronunciation": "ai traid tu graop themes kliờ-li sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố gom theme cho rõ để team có hướng rõ hơn.",
+      "start": 9.58,
+      "end": 14.96
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short advisory board note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt advisori board note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú advisory board ngắn để capture các key points.",
+      "start": 15.12,
+      "end": 20.35
+    },
+    {
+      "index": 5,
+      "text": "I also had to check product requests before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék produkt requests bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra request sản phẩm trước khi chúng tôi thống nhất next step.",
+      "start": 20.51,
+      "end": 25.66
+    },
+    {
+      "index": 6,
+      "text": "That helped us turn feedback into priorities without losing momentum.",
+      "pronunciation": "đat heo ớs tơn phid-bak in-tu prai-o-rờ-tiz quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi biến feedback thành priority mà không mất momentum.",
+      "start": 25.82,
+      "end": 31.01
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 31.17,
+      "end": 35.75
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the customer advisory board before the meeting started.",
+      "pronunciation": "ai quókt thru đờ kớs-tờ-mờr advisori board bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through customer advisory board trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.46
+    },
+    {
+      "index": 2,
+      "text": "One mixed feedback made the decision harder than expected.",
+      "pronunciation": "quăn mikst phid-bak mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một feedback lẫn lộn làm decision khó hơn dự kiến.",
+      "start": 4.62,
+      "end": 8.51
+    },
+    {
+      "index": 3,
+      "text": "I tried to group themes clearly so the team had a clearer path.",
+      "pronunciation": "ai traid tu graop themes kliờ-li sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố gom theme cho rõ để team có hướng rõ hơn.",
+      "start": 8.67,
+      "end": 13.47
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short advisory board note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt advisori board note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú advisory board ngắn để capture các key points.",
+      "start": 13.63,
+      "end": 17.95
+    },
+    {
+      "index": 5,
+      "text": "I also had to check product requests before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék produkt requests bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra request sản phẩm trước khi chúng tôi thống nhất next step.",
+      "start": 18.11,
+      "end": 23
+    },
+    {
+      "index": 6,
+      "text": "That helped us turn feedback into priorities without losing momentum.",
+      "pronunciation": "đat heo ớs tơn phid-bak in-tu prai-o-rờ-tiz quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi biến feedback thành priority mà không mất momentum.",
+      "start": 23.16,
+      "end": 27.9
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 28.06,
+      "end": 32.31
+    }
+  ]
+}

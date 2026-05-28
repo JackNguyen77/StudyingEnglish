@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "041-set-expectations",
+  "title": "Story 041 - Đặt kỳ vọng rõ ràng",
+  "story": "stories/041-set-expectations.md",
+  "audio": "audio/041-set-expectations.mp3",
+  "duration": 31.72,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/041-set-expectations.mp3",
+  "durationMale": 36.39,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "On Monday morning, the team realized that the client expected the demo to focus on the checkout screen.",
+      "pronunciation": "on mondâi mo-ning, đờ tim ri-ờ-laizd đat đờ klai-ờnt ích-spek-tịt đờ đe-mô tu phâu-kớt on đờ chét-ao skrin.",
+      "vi": "Sáng thứ Hai, cả nhóm nhận ra rằng khách hàng mong bản demo tập trung vào màn hình checkout.",
+      "start": 0.02,
+      "end": 8.14
+    },
+    {
+      "index": 2,
+      "text": "Before giving an answer, I asked what success would look like by Friday.",
+      "pronunciation": "bi-fo gi-ving ờn an-sờ, ai áskt quát sờk-ses quud lúk laik bai phrai-đây.",
+      "vi": "Trước khi trả lời, tôi hỏi thành công vào thứ Sáu sẽ trông như thế nào.",
+      "start": 8.3,
+      "end": 14.03
+    },
+    {
+      "index": 3,
+      "text": "We broke the work into a first check, a build step, and a final review.",
+      "pronunciation": "quy brôk đờ quớrk in-tu ờ phớrst chék, ờ biu step, en ờ phai-nồ ri-viu.",
+      "vi": "Chúng tôi chia công việc thành một bước kiểm tra đầu tiên, một bước build, và một lần review cuối.",
+      "start": 14.19,
+      "end": 18.12
+    },
+    {
+      "index": 4,
+      "text": "One teammate pointed out a possible delay, so we kept the plan flexible.",
+      "pronunciation": "quăn tim-mêit poin-tịt ao ờ pó-sờ-bồ đi-lây, sâu quy képt đờ plen phlek-sờ-bồ.",
+      "vi": "Một đồng đội chỉ ra một khả năng bị trễ, nên chúng tôi giữ kế hoạch linh hoạt.",
+      "start": 18.28,
+      "end": 23.63
+    },
+    {
+      "index": 5,
+      "text": "I wrote the limits in the channel and sent a short recap after the call.",
+      "pronunciation": "ai râu đờ li-mits in đờ chen-nồ en sent ờ soọt ri-kap áp-tờ đờ kol.",
+      "vi": "Tôi viết rõ các giới hạn trong channel và gửi một bản tóm tắt ngắn sau cuộc gọi.",
+      "start": 23.79,
+      "end": 30.35
+    },
+    {
+      "index": 6,
+      "text": "By the end of the day, everyone knew what to do next and what could wait.",
+      "pronunciation": "bai đi end ờv đờ đây, ev-ri-quan niu quát tu đu nekst en quát kud quây.",
+      "vi": "Đến cuối ngày, mọi người biết việc gì cần làm tiếp và việc gì có thể để sau.",
+      "start": 30.51,
+      "end": 36.31
+    }
+  ],
+  "audioMale1": "audio_male_1/041-set-expectations.mp3",
+  "durationMale1": 39.61,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "On Monday morning, the team realized that the client expected the demo to focus on the checkout screen.",
+      "pronunciation": "on mondâi mo-ning, đờ tim ri-ờ-laizd đat đờ klai-ờnt ích-spek-tịt đờ đe-mô tu phâu-kớt on đờ chét-ao skrin.",
+      "vi": "Sáng thứ Hai, cả nhóm nhận ra rằng khách hàng mong bản demo tập trung vào màn hình checkout.",
+      "start": 0.02,
+      "end": 8.65
+    },
+    {
+      "index": 2,
+      "text": "Before giving an answer, I asked what success would look like by Friday.",
+      "pronunciation": "bi-fo gi-ving ờn an-sờ, ai áskt quát sờk-ses quud lúk laik bai phrai-đây.",
+      "vi": "Trước khi trả lời, tôi hỏi thành công vào thứ Sáu sẽ trông như thế nào.",
+      "start": 8.81,
+      "end": 13.81
+    },
+    {
+      "index": 3,
+      "text": "We broke the work into a first check, a build step, and a final review.",
+      "pronunciation": "quy brôk đờ quớrk in-tu ờ phớrst chék, ờ biu step, en ờ phai-nồ ri-viu.",
+      "vi": "Chúng tôi chia công việc thành một bước kiểm tra đầu tiên, một bước build, và một lần review cuối.",
+      "start": 13.97,
+      "end": 19.48
+    },
+    {
+      "index": 4,
+      "text": "One teammate pointed out a possible delay, so we kept the plan flexible.",
+      "pronunciation": "quăn tim-mêit poin-tịt ao ờ pó-sờ-bồ đi-lây, sâu quy képt đờ plen phlek-sờ-bồ.",
+      "vi": "Một đồng đội chỉ ra một khả năng bị trễ, nên chúng tôi giữ kế hoạch linh hoạt.",
+      "start": 19.64,
+      "end": 24.97
+    },
+    {
+      "index": 5,
+      "text": "I wrote the limits in the channel and sent a short recap after the call.",
+      "pronunciation": "ai râu đờ li-mits in đờ chen-nồ en sent ờ soọt ri-kap áp-tờ đờ kol.",
+      "vi": "Tôi viết rõ các giới hạn trong channel và gửi một bản tóm tắt ngắn sau cuộc gọi.",
+      "start": 25.13,
+      "end": 31.99
+    },
+    {
+      "index": 6,
+      "text": "By the end of the day, everyone knew what to do next and what could wait.",
+      "pronunciation": "bai đi end ờv đờ đây, ev-ri-quan niu quát tu đu nekst en quát kud quây.",
+      "vi": "Đến cuối ngày, mọi người biết việc gì cần làm tiếp và việc gì có thể để sau.",
+      "start": 32.15,
+      "end": 39.53
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "On Monday morning, the team realized that the client expected the demo to focus on the checkout screen.",
+      "pronunciation": "on mondâi mo-ning, đờ tim ri-ờ-laizd đat đờ klai-ờnt ích-spek-tịt đờ đe-mô tu phâu-kớt on đờ chét-ao skrin.",
+      "vi": "Sáng thứ Hai, cả nhóm nhận ra rằng khách hàng mong bản demo tập trung vào màn hình checkout.",
+      "start": 0.02,
+      "end": 6.24
+    },
+    {
+      "index": 2,
+      "text": "Before giving an answer, I asked what success would look like by Friday.",
+      "pronunciation": "bi-fo gi-ving ờn an-sờ, ai áskt quát sờk-ses quud lúk laik bai phrai-đây.",
+      "vi": "Trước khi trả lời, tôi hỏi thành công vào thứ Sáu sẽ trông như thế nào.",
+      "start": 6.4,
+      "end": 11.44
+    },
+    {
+      "index": 3,
+      "text": "We broke the work into a first check, a build step, and a final review.",
+      "pronunciation": "quy brôk đờ quớrk in-tu ờ phớrst chék, ờ biu step, en ờ phai-nồ ri-viu.",
+      "vi": "Chúng tôi chia công việc thành một bước kiểm tra đầu tiên, một bước build, và một lần review cuối.",
+      "start": 11.6,
+      "end": 15.31
+    },
+    {
+      "index": 4,
+      "text": "One teammate pointed out a possible delay, so we kept the plan flexible.",
+      "pronunciation": "quăn tim-mêit poin-tịt ao ờ pó-sờ-bồ đi-lây, sâu quy képt đờ plen phlek-sờ-bồ.",
+      "vi": "Một đồng đội chỉ ra một khả năng bị trễ, nên chúng tôi giữ kế hoạch linh hoạt.",
+      "start": 15.47,
+      "end": 20.06
+    },
+    {
+      "index": 5,
+      "text": "I wrote the limits in the channel and sent a short recap after the call.",
+      "pronunciation": "ai râu đờ li-mits in đờ chen-nồ en sent ờ soọt ri-kap áp-tờ đờ kol.",
+      "vi": "Tôi viết rõ các giới hạn trong channel và gửi một bản tóm tắt ngắn sau cuộc gọi.",
+      "start": 20.22,
+      "end": 26.73
+    },
+    {
+      "index": 6,
+      "text": "By the end of the day, everyone knew what to do next and what could wait.",
+      "pronunciation": "bai đi end ờv đờ đây, ev-ri-quan niu quát tu đu nekst en quát kud quây.",
+      "vi": "Đến cuối ngày, mọi người biết việc gì cần làm tiếp và việc gì có thể để sau.",
+      "start": 26.89,
+      "end": 31.64
+    }
+  ]
+}

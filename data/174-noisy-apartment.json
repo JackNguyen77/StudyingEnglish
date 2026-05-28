@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "174-noisy-apartment",
+  "title": "Story 174 - Xử lý căn hộ ồn",
+  "story": "stories/174-noisy-apartment.md",
+  "audio": "audio/174-noisy-apartment.mp3",
+  "duration": 26.6,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/174-noisy-apartment.mp3",
+  "durationMale": 30.39,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the noise complaint before I made a final choice.",
+      "pronunciation": "ai chékt đờ noise kờm-plêint bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra phàn nàn tiếng ồn trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.1
+    },
+    {
+      "index": 2,
+      "text": "One loud music made the situation less simple than it looked.",
+      "pronunciation": "quăn lao musik mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Nhạc lớn làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.26,
+      "end": 8.46
+    },
+    {
+      "index": 3,
+      "text": "I decided to talk to the neighbor before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu talk tu đờ neâybor bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định nói với hàng xóm trước khi tiếp tục.",
+      "start": 8.62,
+      "end": 12.56
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short building note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt building note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú tòa nhà ngắn để người kia hiểu tôi.",
+      "start": 12.72,
+      "end": 17.39
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the quiet hours instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ quai-ịt ao-ờrz in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra giờ yên tĩnh thay vì đoán.",
+      "start": 17.55,
+      "end": 21.23
+    },
+    {
+      "index": 6,
+      "text": "That helped me solve it politely without adding extra stress.",
+      "pronunciation": "đat heo mi solv ịt politeli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giải quyết lịch sự mà không thêm căng thẳng.",
+      "start": 21.39,
+      "end": 25.43
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.59,
+      "end": 30.31
+    }
+  ],
+  "audioMale1": "audio_male_1/174-noisy-apartment.mp3",
+  "durationMale1": 33.5,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the noise complaint before I made a final choice.",
+      "pronunciation": "ai chékt đờ noise kờm-plêint bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra phàn nàn tiếng ồn trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.78
+    },
+    {
+      "index": 2,
+      "text": "One loud music made the situation less simple than it looked.",
+      "pronunciation": "quăn lao musik mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Nhạc lớn làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.94,
+      "end": 9.46
+    },
+    {
+      "index": 3,
+      "text": "I decided to talk to the neighbor before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu talk tu đờ neâybor bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định nói với hàng xóm trước khi tiếp tục.",
+      "start": 9.62,
+      "end": 13.55
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short building note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt building note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú tòa nhà ngắn để người kia hiểu tôi.",
+      "start": 13.71,
+      "end": 18.48
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the quiet hours instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ quai-ịt ao-ờrz in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra giờ yên tĩnh thay vì đoán.",
+      "start": 18.64,
+      "end": 24.63
+    },
+    {
+      "index": 6,
+      "text": "That helped me solve it politely without adding extra stress.",
+      "pronunciation": "đat heo mi solv ịt politeli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giải quyết lịch sự mà không thêm căng thẳng.",
+      "start": 24.79,
+      "end": 28.97
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 29.13,
+      "end": 33.42
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the noise complaint before I made a final choice.",
+      "pronunciation": "ai chékt đờ noise kờm-plêint bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra phàn nàn tiếng ồn trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.55
+    },
+    {
+      "index": 2,
+      "text": "One loud music made the situation less simple than it looked.",
+      "pronunciation": "quăn lao musik mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Nhạc lớn làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.71,
+      "end": 7.12
+    },
+    {
+      "index": 3,
+      "text": "I decided to talk to the neighbor before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu talk tu đờ neâybor bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định nói với hàng xóm trước khi tiếp tục.",
+      "start": 7.28,
+      "end": 10.27
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short building note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt building note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú tòa nhà ngắn để người kia hiểu tôi.",
+      "start": 10.43,
+      "end": 14.56
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the quiet hours instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ quai-ịt ao-ờrz in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra giờ yên tĩnh thay vì đoán.",
+      "start": 14.72,
+      "end": 18.34
+    },
+    {
+      "index": 6,
+      "text": "That helped me solve it politely without adding extra stress.",
+      "pronunciation": "đat heo mi solv ịt politeli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giải quyết lịch sự mà không thêm căng thẳng.",
+      "start": 18.5,
+      "end": 22.34
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 22.5,
+      "end": 26.52
+    }
+  ]
+}

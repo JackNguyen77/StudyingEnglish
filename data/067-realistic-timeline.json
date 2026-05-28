@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "067-realistic-timeline",
+  "title": "Story 067 - Đưa timeline thực tế",
+  "story": "stories/067-realistic-timeline.md",
+  "audio": "audio/067-realistic-timeline.mp3",
+  "duration": 33.94,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/067-realistic-timeline.mp3",
+  "durationMale": 31.56,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the realistic timeline in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ ri-ờ-lis-tik taim-lain in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả timeline thực tế bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.38
+    },
+    {
+      "index": 2,
+      "text": "I asked about the key dependency before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ ki dependensi bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về phần phụ thuộc chính trước khi đề xuất bất cứ điều gì.",
+      "start": 5.54,
+      "end": 9.52
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the approval delay, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ ờ-pru-vồ đi-lây, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là độ trễ approval, không chỉ là yêu cầu đầu tiên.",
+      "start": 9.68,
+      "end": 14.33
+    },
+    {
+      "index": 4,
+      "text": "We agreed to split the delivery and check it with one example.",
+      "pronunciation": "quy ờ-grid tu split đờ đi-li-vờ-ri en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất chia nhỏ phần giao và kiểm tra bằng một ví dụ.",
+      "start": 14.49,
+      "end": 18.5
+    },
+    {
+      "index": 5,
+      "text": "I wrote the first milestone so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ phớrst mail-stoun sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết milestone đầu tiên để mọi người có thể xem cùng một quyết định.",
+      "start": 18.66,
+      "end": 23.34
+    },
+    {
+      "index": 6,
+      "text": "That helped us reduce pressure without adding extra work.",
+      "pronunciation": "đat heo ớs ri-đus pre-shờr quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi giảm áp lực mà không thêm việc dư.",
+      "start": 23.5,
+      "end": 27.12
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 27.28,
+      "end": 31.48
+    }
+  ],
+  "audioMale1": "audio_male_1/067-realistic-timeline.mp3",
+  "durationMale1": 35.72,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the realistic timeline in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ ri-ờ-lis-tik taim-lain in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả timeline thực tế bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.99
+    },
+    {
+      "index": 2,
+      "text": "I asked about the key dependency before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ ki dependensi bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về phần phụ thuộc chính trước khi đề xuất bất cứ điều gì.",
+      "start": 6.15,
+      "end": 8.72
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the approval delay, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ ờ-pru-vồ đi-lây, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là độ trễ approval, không chỉ là yêu cầu đầu tiên.",
+      "start": 8.88,
+      "end": 14.12
+    },
+    {
+      "index": 4,
+      "text": "We agreed to split the delivery and check it with one example.",
+      "pronunciation": "quy ờ-grid tu split đờ đi-li-vờ-ri en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất chia nhỏ phần giao và kiểm tra bằng một ví dụ.",
+      "start": 14.28,
+      "end": 21.01
+    },
+    {
+      "index": 5,
+      "text": "I wrote the first milestone so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ phớrst mail-stoun sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết milestone đầu tiên để mọi người có thể xem cùng một quyết định.",
+      "start": 21.17,
+      "end": 26.5
+    },
+    {
+      "index": 6,
+      "text": "That helped us reduce pressure without adding extra work.",
+      "pronunciation": "đat heo ớs ri-đus pre-shờr quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi giảm áp lực mà không thêm việc dư.",
+      "start": 26.66,
+      "end": 28.75
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 28.91,
+      "end": 35.64
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the realistic timeline in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ ri-ờ-lis-tik taim-lain in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả timeline thực tế bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 6.33
+    },
+    {
+      "index": 2,
+      "text": "I asked about the key dependency before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ ki dependensi bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về phần phụ thuộc chính trước khi đề xuất bất cứ điều gì.",
+      "start": 6.49,
+      "end": 8.95
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the approval delay, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ ờ-pru-vồ đi-lây, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là độ trễ approval, không chỉ là yêu cầu đầu tiên.",
+      "start": 9.11,
+      "end": 13.69
+    },
+    {
+      "index": 4,
+      "text": "We agreed to split the delivery and check it with one example.",
+      "pronunciation": "quy ờ-grid tu split đờ đi-li-vờ-ri en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất chia nhỏ phần giao và kiểm tra bằng một ví dụ.",
+      "start": 13.85,
+      "end": 18.22
+    },
+    {
+      "index": 5,
+      "text": "I wrote the first milestone so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ phớrst mail-stoun sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết milestone đầu tiên để mọi người có thể xem cùng một quyết định.",
+      "start": 18.38,
+      "end": 24.76
+    },
+    {
+      "index": 6,
+      "text": "That helped us reduce pressure without adding extra work.",
+      "pronunciation": "đat heo ớs ri-đus pre-shờr quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi giảm áp lực mà không thêm việc dư.",
+      "start": 24.92,
+      "end": 28.43
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 28.59,
+      "end": 33.86
+    }
+  ]
+}

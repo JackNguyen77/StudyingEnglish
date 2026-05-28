@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "015-share-progress",
+  "title": "Story 015 - Kể về tiến bộ của mình",
+  "story": "stories/015-share-progress.md",
+  "audio": "audio/015-share-progress.mp3",
+  "duration": 25.72,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/015-share-progress.mp3",
+  "durationMale": 25.17,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Last month, I could barely understand short English videos.",
+      "pronunciation": "last mănth, ai kud be-li ăn-đờ-stan soọt ing-glish vi-đi-ôz.",
+      "vi": "Tháng trước, tôi gần như không hiểu nổi video tiếng Anh ngắn.",
+      "start": 0.02,
+      "end": 3.09
+    },
+    {
+      "index": 2,
+      "text": "Now I can catch more phrases, especially when the speaker talks clearly.",
+      "pronunciation": "nao ai ken kétch mo phrây-ziz, i-spe-shờ-li quen đờ spi-kờr toks kliờ-li.",
+      "vi": "Bây giờ tôi nghe ra được nhiều cụm hơn, nhất là khi người nói nói rõ.",
+      "start": 3.25,
+      "end": 6.97
+    },
+    {
+      "index": 3,
+      "text": "I still miss a lot, but I do not panic like before.",
+      "pronunciation": "ai stil mis ờ lot, bớt ai đu nót pa-nik laik bi-fo.",
+      "vi": "Tôi vẫn bỏ lỡ nhiều, nhưng không hoảng như trước.",
+      "start": 7.13,
+      "end": 13.17
+    },
+    {
+      "index": 4,
+      "text": "I write down useful phrases and review them later.",
+      "pronunciation": "ai rait daun yus-phồ phrây-ziz en ri-viu đem lêi-tờ.",
+      "vi": "Tôi ghi lại những cụm hữu ích và ôn lại sau.",
+      "start": 13.33,
+      "end": 17.45
+    },
+    {
+      "index": 5,
+      "text": "Little by little, listening feels less scary.",
+      "pronunciation": "li-đồ bai li-đồ, lis-sờ-ning phiuz les ske-ri.",
+      "vi": "Từng chút một, việc nghe bớt đáng sợ hơn.",
+      "start": 17.61,
+      "end": 20.83
+    },
+    {
+      "index": 6,
+      "text": "I know I have a long way to go, but I can see real progress.",
+      "pronunciation": "ai nâu ai hav ờ long quây tu gâu, bớt ai ken si riu pró-gres.",
+      "vi": "Tôi biết mình còn một chặng đường dài, nhưng tôi thấy tiến bộ thật.",
+      "start": 20.99,
+      "end": 25.09
+    }
+  ],
+  "audioMale1": "audio_male_1/015-share-progress.mp3",
+  "durationMale1": 29.84,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Last month, I could barely understand short English videos.",
+      "pronunciation": "last mănth, ai kud be-li ăn-đờ-stan soọt ing-glish vi-đi-ôz.",
+      "vi": "Tháng trước, tôi gần như không hiểu nổi video tiếng Anh ngắn.",
+      "start": 0.02,
+      "end": 3.78
+    },
+    {
+      "index": 2,
+      "text": "Now I can catch more phrases, especially when the speaker talks clearly.",
+      "pronunciation": "nao ai ken kétch mo phrây-ziz, i-spe-shờ-li quen đờ spi-kờr toks kliờ-li.",
+      "vi": "Bây giờ tôi nghe ra được nhiều cụm hơn, nhất là khi người nói nói rõ.",
+      "start": 3.94,
+      "end": 8.12
+    },
+    {
+      "index": 3,
+      "text": "I still miss a lot, but I do not panic like before.",
+      "pronunciation": "ai stil mis ờ lot, bớt ai đu nót pa-nik laik bi-fo.",
+      "vi": "Tôi vẫn bỏ lỡ nhiều, nhưng không hoảng như trước.",
+      "start": 8.28,
+      "end": 14.98
+    },
+    {
+      "index": 4,
+      "text": "I write down useful phrases and review them later.",
+      "pronunciation": "ai rait daun yus-phồ phrây-ziz en ri-viu đem lêi-tờ.",
+      "vi": "Tôi ghi lại những cụm hữu ích và ôn lại sau.",
+      "start": 15.14,
+      "end": 18.61
+    },
+    {
+      "index": 5,
+      "text": "Little by little, listening feels less scary.",
+      "pronunciation": "li-đồ bai li-đồ, lis-sờ-ning phiuz les ske-ri.",
+      "vi": "Từng chút một, việc nghe bớt đáng sợ hơn.",
+      "start": 18.77,
+      "end": 22
+    },
+    {
+      "index": 6,
+      "text": "I know I have a long way to go, but I can see real progress.",
+      "pronunciation": "ai nâu ai hav ờ long quây tu gâu, bớt ai ken si riu pró-gres.",
+      "vi": "Tôi biết mình còn một chặng đường dài, nhưng tôi thấy tiến bộ thật.",
+      "start": 22.16,
+      "end": 29.76
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Last month, I could barely understand short English videos.",
+      "pronunciation": "last mănth, ai kud be-li ăn-đờ-stan soọt ing-glish vi-đi-ôz.",
+      "vi": "Tháng trước, tôi gần như không hiểu nổi video tiếng Anh ngắn.",
+      "start": 0.02,
+      "end": 4.38
+    },
+    {
+      "index": 2,
+      "text": "Now I can catch more phrases, especially when the speaker talks clearly.",
+      "pronunciation": "nao ai ken kétch mo phrây-ziz, i-spe-shờ-li quen đờ spi-kờr toks kliờ-li.",
+      "vi": "Bây giờ tôi nghe ra được nhiều cụm hơn, nhất là khi người nói nói rõ.",
+      "start": 4.54,
+      "end": 9.41
+    },
+    {
+      "index": 3,
+      "text": "I still miss a lot, but I do not panic like before.",
+      "pronunciation": "ai stil mis ờ lot, bớt ai đu nót pa-nik laik bi-fo.",
+      "vi": "Tôi vẫn bỏ lỡ nhiều, nhưng không hoảng như trước.",
+      "start": 9.57,
+      "end": 13.72
+    },
+    {
+      "index": 4,
+      "text": "I write down useful phrases and review them later.",
+      "pronunciation": "ai rait daun yus-phồ phrây-ziz en ri-viu đem lêi-tờ.",
+      "vi": "Tôi ghi lại những cụm hữu ích và ôn lại sau.",
+      "start": 13.88,
+      "end": 16.11
+    },
+    {
+      "index": 5,
+      "text": "Little by little, listening feels less scary.",
+      "pronunciation": "li-đồ bai li-đồ, lis-sờ-ning phiuz les ske-ri.",
+      "vi": "Từng chút một, việc nghe bớt đáng sợ hơn.",
+      "start": 16.27,
+      "end": 19.25
+    },
+    {
+      "index": 6,
+      "text": "I know I have a long way to go, but I can see real progress.",
+      "pronunciation": "ai nâu ai hav ờ long quây tu gâu, bớt ai ken si riu pró-gres.",
+      "vi": "Tôi biết mình còn một chặng đường dài, nhưng tôi thấy tiến bộ thật.",
+      "start": 19.41,
+      "end": 25.64
+    }
+  ]
+}

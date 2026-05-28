@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "184-migration-effort",
+  "title": "Story 184 - Ước lượng migration",
+  "story": "stories/184-migration-effort.md",
+  "audio": "audio/184-migration-effort.mp3",
+  "duration": 32.84,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/184-migration-effort.mp3",
+  "durationMale": 30.23,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the migration scope before I made a final choice.",
+      "pronunciation": "ai chékt đờ mai-grây-shần skoup bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra phạm vi migration trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.13
+    },
+    {
+      "index": 2,
+      "text": "One legacy records made the situation less simple than it looked.",
+      "pronunciation": "quăn legasi re-kờrdz mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Record legacy làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.29,
+      "end": 8.06
+    },
+    {
+      "index": 3,
+      "text": "I decided to estimate the effort before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu es-tờ-mịt đờ e-phờrt bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định ước lượng effort trước khi tiếp tục.",
+      "start": 8.22,
+      "end": 11.93
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short migration note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt mai-grây-shần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú migration ngắn để người kia hiểu tôi.",
+      "start": 12.09,
+      "end": 16.56
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the sample data instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ sam-pồ đây-tờ in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra data mẫu thay vì đoán.",
+      "start": 16.72,
+      "end": 20.27
+    },
+    {
+      "index": 6,
+      "text": "That helped me plan the work realistically without adding extra stress.",
+      "pronunciation": "đat heo mi plen đờ quớrk rilistikalli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi lên kế hoạch thực tế mà không thêm căng thẳng.",
+      "start": 20.43,
+      "end": 25.03
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.19,
+      "end": 30.15
+    }
+  ],
+  "audioMale1": "audio_male_1/184-migration-effort.mp3",
+  "durationMale1": 38,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the migration scope before I made a final choice.",
+      "pronunciation": "ai chékt đờ mai-grây-shần skoup bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra phạm vi migration trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.66
+    },
+    {
+      "index": 2,
+      "text": "One legacy records made the situation less simple than it looked.",
+      "pronunciation": "quăn legasi re-kờrdz mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Record legacy làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.82,
+      "end": 10.53
+    },
+    {
+      "index": 3,
+      "text": "I decided to estimate the effort before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu es-tờ-mịt đờ e-phờrt bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định ước lượng effort trước khi tiếp tục.",
+      "start": 10.69,
+      "end": 15.34
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short migration note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt mai-grây-shần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú migration ngắn để người kia hiểu tôi.",
+      "start": 15.5,
+      "end": 21.07
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the sample data instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ sam-pồ đây-tờ in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra data mẫu thay vì đoán.",
+      "start": 21.23,
+      "end": 25.86
+    },
+    {
+      "index": 6,
+      "text": "That helped me plan the work realistically without adding extra stress.",
+      "pronunciation": "đat heo mi plen đờ quớrk rilistikalli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi lên kế hoạch thực tế mà không thêm căng thẳng.",
+      "start": 26.02,
+      "end": 31.5
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 31.66,
+      "end": 37.92
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the migration scope before I made a final choice.",
+      "pronunciation": "ai chékt đờ mai-grây-shần skoup bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra phạm vi migration trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.7
+    },
+    {
+      "index": 2,
+      "text": "One legacy records made the situation less simple than it looked.",
+      "pronunciation": "quăn legasi re-kờrdz mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Record legacy làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.86,
+      "end": 9.62
+    },
+    {
+      "index": 3,
+      "text": "I decided to estimate the effort before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu es-tờ-mịt đờ e-phờrt bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định ước lượng effort trước khi tiếp tục.",
+      "start": 9.78,
+      "end": 13.88
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short migration note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt mai-grây-shần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú migration ngắn để người kia hiểu tôi.",
+      "start": 14.04,
+      "end": 18.76
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the sample data instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ sam-pồ đây-tờ in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra data mẫu thay vì đoán.",
+      "start": 18.92,
+      "end": 22.66
+    },
+    {
+      "index": 6,
+      "text": "That helped me plan the work realistically without adding extra stress.",
+      "pronunciation": "đat heo mi plen đờ quớrk rilistikalli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi lên kế hoạch thực tế mà không thêm căng thẳng.",
+      "start": 22.82,
+      "end": 27.84
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28,
+      "end": 32.76
+    }
+  ]
+}

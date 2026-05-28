@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "198-manual-workflow",
+  "title": "Story 198 - Giảm việc thủ công",
+  "story": "stories/198-manual-workflow.md",
+  "audio": "audio/198-manual-workflow.mp3",
+  "duration": 35.57,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/198-manual-workflow.mp3",
+  "durationMale": 30.6,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the manual workflow before I made a final choice.",
+      "pronunciation": "ai chékt đờ ma-nyu-ồ quớrk-flâu bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra workflow thủ công trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.04
+    },
+    {
+      "index": 2,
+      "text": "One repeated step made the situation less simple than it looked.",
+      "pronunciation": "quăn ri-pi-tịt step mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Bước lặp lại làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.2,
+      "end": 8.44
+    },
+    {
+      "index": 3,
+      "text": "I decided to automate the task before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu automate đờ tát-sờk bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định tự động hóa task trước khi tiếp tục.",
+      "start": 8.6,
+      "end": 12.49
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short workflow note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt quớrk-flâu note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú workflow ngắn để người kia hiểu tôi.",
+      "start": 12.65,
+      "end": 17.13
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the exception case instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ ekssepshần kêis in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra case ngoại lệ thay vì đoán.",
+      "start": 17.29,
+      "end": 21.29
+    },
+    {
+      "index": 6,
+      "text": "That helped me save team time without adding extra stress.",
+      "pronunciation": "đat heo mi sêiv tim taim quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tiết kiệm thời gian team mà không thêm căng thẳng.",
+      "start": 21.45,
+      "end": 25.61
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.77,
+      "end": 30.52
+    }
+  ],
+  "audioMale1": "audio_male_1/198-manual-workflow.mp3",
+  "durationMale1": 38.78,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the manual workflow before I made a final choice.",
+      "pronunciation": "ai chékt đờ ma-nyu-ồ quớrk-flâu bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra workflow thủ công trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.74
+    },
+    {
+      "index": 2,
+      "text": "One repeated step made the situation less simple than it looked.",
+      "pronunciation": "quăn ri-pi-tịt step mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Bước lặp lại làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.9,
+      "end": 11.4
+    },
+    {
+      "index": 3,
+      "text": "I decided to automate the task before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu automate đờ tát-sờk bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định tự động hóa task trước khi tiếp tục.",
+      "start": 11.56,
+      "end": 16.36
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short workflow note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt quớrk-flâu note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú workflow ngắn để người kia hiểu tôi.",
+      "start": 16.52,
+      "end": 22.2
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the exception case instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ ekssepshần kêis in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra case ngoại lệ thay vì đoán.",
+      "start": 22.36,
+      "end": 27.31
+    },
+    {
+      "index": 6,
+      "text": "That helped me save team time without adding extra stress.",
+      "pronunciation": "đat heo mi sêiv tim taim quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tiết kiệm thời gian team mà không thêm căng thẳng.",
+      "start": 27.47,
+      "end": 32.55
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 32.71,
+      "end": 38.7
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the manual workflow before I made a final choice.",
+      "pronunciation": "ai chékt đờ ma-nyu-ồ quớrk-flâu bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra workflow thủ công trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.31
+    },
+    {
+      "index": 2,
+      "text": "One repeated step made the situation less simple than it looked.",
+      "pronunciation": "quăn ri-pi-tịt step mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Bước lặp lại làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.47,
+      "end": 10.52
+    },
+    {
+      "index": 3,
+      "text": "I decided to automate the task before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu automate đờ tát-sờk bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định tự động hóa task trước khi tiếp tục.",
+      "start": 10.68,
+      "end": 15.18
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short workflow note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt quớrk-flâu note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú workflow ngắn để người kia hiểu tôi.",
+      "start": 15.34,
+      "end": 20.85
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the exception case instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ ekssepshần kêis in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra case ngoại lệ thay vì đoán.",
+      "start": 21.01,
+      "end": 25.34
+    },
+    {
+      "index": 6,
+      "text": "That helped me save team time without adding extra stress.",
+      "pronunciation": "đat heo mi sêiv tim taim quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tiết kiệm thời gian team mà không thêm căng thẳng.",
+      "start": 25.5,
+      "end": 30.06
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.22,
+      "end": 35.49
+    }
+  ]
+}

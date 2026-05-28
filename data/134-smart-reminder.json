@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "134-smart-reminder",
+  "title": "Story 134 - Tạo nhắc nhở thông minh",
+  "story": "stories/134-smart-reminder.md",
+  "audio": "audio/134-smart-reminder.mp3",
+  "duration": 36.83,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/134-smart-reminder.mp3",
+  "durationMale": 30.5,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I created a smart reminder for a task I kept forgetting.",
+      "pronunciation": "ai kri-ây-tịt ờ smart ri-main-dờr fo ờ tát-sờk ai képt forjetting.",
+      "vi": "Tôi tạo nhắc nhở thông minh cho một việc tôi cứ quên.",
+      "start": 0.02,
+      "end": 4.32
+    },
+    {
+      "index": 2,
+      "text": "It became a recurring task that appeared every Monday morning.",
+      "pronunciation": "ịt bi-kêim ờ ri-kơ-ring tát-sờk đat ờ-piờrd ev-ri mondâi mo-ning.",
+      "vi": "Nó trở thành việc lặp lại hiện ra mỗi sáng thứ Hai.",
+      "start": 4.48,
+      "end": 8.55
+    },
+    {
+      "index": 3,
+      "text": "I added a due date so the reminder felt more real.",
+      "pronunciation": "ai a-địt ờ đu đêit sâu đờ ri-main-dờr felt mo riu.",
+      "vi": "Tôi thêm hạn cần xong để lời nhắc có cảm giác thật hơn.",
+      "start": 8.71,
+      "end": 12.68
+    },
+    {
+      "index": 4,
+      "text": "A push notification appeared before I opened social media.",
+      "pronunciation": "ờ push nâu-tờ-fờ-kây-shần ờ-piờrd bi-fo ai âu-pần sosial media.",
+      "vi": "Một thông báo đẩy hiện ra trước khi tôi mở mạng xã hội.",
+      "start": 12.84,
+      "end": 17.16
+    },
+    {
+      "index": 5,
+      "text": "After I finished, I marked it done and moved on.",
+      "pronunciation": "áp-tờ ai finisht, ai máct ịt đăn en muvd on.",
+      "vi": "Sau khi làm xong, tôi đánh dấu đã xong và chuyển tiếp.",
+      "start": 17.32,
+      "end": 21.07
+    },
+    {
+      "index": 6,
+      "text": "If I was busy, I could snooze it for thirty minutes.",
+      "pronunciation": "if ai wờz bi-zi, ai kud snuz ịt fo thơ-ti mi-nits.",
+      "vi": "Nếu bận, tôi có thể hoãn nhắc lại ba mươi phút.",
+      "start": 21.23,
+      "end": 25.09
+    },
+    {
+      "index": 7,
+      "text": "That small habit made the tool feel useful without taking over my thinking.",
+      "pronunciation": "đat smol ha-bit mêid đờ tul phiu yus-phồ quì-thao têi-king âu-vờ mai thing-king.",
+      "vi": "Thói quen nhỏ đó làm công cụ hữu ích mà không thay tôi suy nghĩ.",
+      "start": 25.25,
+      "end": 30.42
+    }
+  ],
+  "audioMale1": "audio_male_1/134-smart-reminder.mp3",
+  "durationMale1": 34.45,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I created a smart reminder for a task I kept forgetting.",
+      "pronunciation": "ai kri-ây-tịt ờ smart ri-main-dờr fo ờ tát-sờk ai képt forjetting.",
+      "vi": "Tôi tạo nhắc nhở thông minh cho một việc tôi cứ quên.",
+      "start": 0.02,
+      "end": 4.9
+    },
+    {
+      "index": 2,
+      "text": "It became a recurring task that appeared every Monday morning.",
+      "pronunciation": "ịt bi-kêim ờ ri-kơ-ring tát-sờk đat ờ-piờrd ev-ri mondâi mo-ning.",
+      "vi": "Nó trở thành việc lặp lại hiện ra mỗi sáng thứ Hai.",
+      "start": 5.06,
+      "end": 10.17
+    },
+    {
+      "index": 3,
+      "text": "I added a due date so the reminder felt more real.",
+      "pronunciation": "ai a-địt ờ đu đêit sâu đờ ri-main-dờr felt mo riu.",
+      "vi": "Tôi thêm hạn cần xong để lời nhắc có cảm giác thật hơn.",
+      "start": 10.33,
+      "end": 14.94
+    },
+    {
+      "index": 4,
+      "text": "A push notification appeared before I opened social media.",
+      "pronunciation": "ờ push nâu-tờ-fờ-kây-shần ờ-piờrd bi-fo ai âu-pần sosial media.",
+      "vi": "Một thông báo đẩy hiện ra trước khi tôi mở mạng xã hội.",
+      "start": 15.1,
+      "end": 19.97
+    },
+    {
+      "index": 5,
+      "text": "After I finished, I marked it done and moved on.",
+      "pronunciation": "áp-tờ ai finisht, ai máct ịt đăn en muvd on.",
+      "vi": "Sau khi làm xong, tôi đánh dấu đã xong và chuyển tiếp.",
+      "start": 20.13,
+      "end": 23.29
+    },
+    {
+      "index": 6,
+      "text": "If I was busy, I could snooze it for thirty minutes.",
+      "pronunciation": "if ai wờz bi-zi, ai kud snuz ịt fo thơ-ti mi-nits.",
+      "vi": "Nếu bận, tôi có thể hoãn nhắc lại ba mươi phút.",
+      "start": 23.45,
+      "end": 28.85
+    },
+    {
+      "index": 7,
+      "text": "That small habit made the tool feel useful without taking over my thinking.",
+      "pronunciation": "đat smol ha-bit mêid đờ tul phiu yus-phồ quì-thao têi-king âu-vờ mai thing-king.",
+      "vi": "Thói quen nhỏ đó làm công cụ hữu ích mà không thay tôi suy nghĩ.",
+      "start": 29.01,
+      "end": 34.37
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I created a smart reminder for a task I kept forgetting.",
+      "pronunciation": "ai kri-ây-tịt ờ smart ri-main-dờr fo ờ tát-sờk ai képt forjetting.",
+      "vi": "Tôi tạo nhắc nhở thông minh cho một việc tôi cứ quên.",
+      "start": 0,
+      "end": 6.4
+    },
+    {
+      "index": 2,
+      "text": "It became a recurring task that appeared every Monday morning.",
+      "pronunciation": "ịt bi-kêim ờ ri-kơ-ring tát-sờk đat ờ-piờrd ev-ri mondâi mo-ning.",
+      "vi": "Nó trở thành việc lặp lại hiện ra mỗi sáng thứ Hai.",
+      "start": 6.51,
+      "end": 11.5
+    },
+    {
+      "index": 3,
+      "text": "I added a due date so the reminder felt more real.",
+      "pronunciation": "ai a-địt ờ đu đêit sâu đờ ri-main-dờr felt mo riu.",
+      "vi": "Tôi thêm hạn cần xong để lời nhắc có cảm giác thật hơn.",
+      "start": 11.61,
+      "end": 16.56
+    },
+    {
+      "index": 4,
+      "text": "A push notification appeared before I opened social media.",
+      "pronunciation": "ờ push nâu-tờ-fờ-kây-shần ờ-piờrd bi-fo ai âu-pần sosial media.",
+      "vi": "Một thông báo đẩy hiện ra trước khi tôi mở mạng xã hội.",
+      "start": 16.67,
+      "end": 22.21
+    },
+    {
+      "index": 5,
+      "text": "After I finished, I marked it done and moved on.",
+      "pronunciation": "áp-tờ ai finisht, ai máct ịt đăn en muvd on.",
+      "vi": "Sau khi làm xong, tôi đánh dấu đã xong và chuyển tiếp.",
+      "start": 22.32,
+      "end": 26.32
+    },
+    {
+      "index": 6,
+      "text": "If I was busy, I could snooze it for thirty minutes.",
+      "pronunciation": "if ai wờz bi-zi, ai kud snuz ịt fo thơ-ti mi-nits.",
+      "vi": "Nếu bận, tôi có thể hoãn nhắc lại ba mươi phút.",
+      "start": 26.43,
+      "end": 30.61
+    },
+    {
+      "index": 7,
+      "text": "That small habit made the tool feel useful without taking over my thinking.",
+      "pronunciation": "đat smol ha-bit mêid đờ tul phiu yus-phồ quì-thao têi-king âu-vờ mai thing-king.",
+      "vi": "Thói quen nhỏ đó làm công cụ hữu ích mà không thay tôi suy nghĩ.",
+      "start": 30.72,
+      "end": 36.83
+    }
+  ]
+}

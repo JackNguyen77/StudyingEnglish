@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "124-app-permissions",
+  "title": "Story 124 - Kiểm tra quyền app",
+  "story": "stories/124-app-permissions.md",
+  "audio": "audio/124-app-permissions.mp3",
+  "duration": 39.42,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/124-app-permissions.mp3",
+  "durationMale": 31.22,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the app permissions before I used the new scanner.",
+      "pronunciation": "ai chékt đờ áp pờr-mish-shầnz bi-fo ai yuzd đờ niu skan-nờr.",
+      "vi": "Tôi kiểm tra quyền của app trước khi dùng máy quét mới.",
+      "start": 0.02,
+      "end": 3.88
+    },
+    {
+      "index": 2,
+      "text": "The app asked for location access even though it did not need my map.",
+      "pronunciation": "đờ áp áskt fo lâu-kây-shần ak-ses i-vần thâu ịt đi nót nid mai map.",
+      "vi": "App hỏi quyền truy cập vị trí dù nó không cần bản đồ của tôi.",
+      "start": 4.04,
+      "end": 8.54
+    },
+    {
+      "index": 3,
+      "text": "Camera access made sense because I wanted to scan a document.",
+      "pronunciation": "ka-mờ-rờ ak-ses mêid sens bi-kóz ai quăn-tịt tu skan ờ đók-yu-mần.",
+      "vi": "Quyền truy cập camera thì hợp lý vì tôi muốn quét tài liệu.",
+      "start": 8.7,
+      "end": 12.75
+    },
+    {
+      "index": 4,
+      "text": "I chose allow once because I was not sure I would keep the app.",
+      "pronunciation": "ai chôz ờ-lao quănss bi-kóz ai wờz nót shua ai quud kip đờ áp.",
+      "vi": "Tôi chọn cho phép một lần vì chưa chắc sẽ giữ app.",
+      "start": 12.91,
+      "end": 16.96
+    },
+    {
+      "index": 5,
+      "text": "Later, I opened the privacy setting and changed two choices.",
+      "pronunciation": "lêi-tờ, ai âu-pần đờ prai-vờ-si se-ting en chênjd tu choi-siz.",
+      "vi": "Sau đó, tôi mở cài đặt quyền riêng tư và đổi hai lựa chọn.",
+      "start": 17.12,
+      "end": 21.17
+    },
+    {
+      "index": 6,
+      "text": "Now I review permissions whenever an app asks for too much.",
+      "pronunciation": "nao ai ri-viu pờr-mish-shầnz whenever ờn áp asks fo tu mớch.",
+      "vi": "Bây giờ tôi xem lại quyền mỗi khi app hỏi quá nhiều.",
+      "start": 21.33,
+      "end": 25.33
+    },
+    {
+      "index": 7,
+      "text": "That extra check made the account feel safer the next time I opened the app.",
+      "pronunciation": "đat ek-strờ chék mêid đờ ờ-kao phiu sây-fờ đờ nekst taim ai âu-pần đờ áp.",
+      "vi": "Bước kiểm tra thêm đó làm tài khoản an toàn hơn vào lần sau tôi mở app.",
+      "start": 25.49,
+      "end": 31.14
+    }
+  ],
+  "audioMale1": "audio_male_1/124-app-permissions.mp3",
+  "durationMale1": 34.49,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the app permissions before I used the new scanner.",
+      "pronunciation": "ai chékt đờ áp pờr-mish-shầnz bi-fo ai yuzd đờ niu skan-nờr.",
+      "vi": "Tôi kiểm tra quyền của app trước khi dùng máy quét mới.",
+      "start": 0.02,
+      "end": 4.12
+    },
+    {
+      "index": 2,
+      "text": "The app asked for location access even though it did not need my map.",
+      "pronunciation": "đờ áp áskt fo lâu-kây-shần ak-ses i-vần thâu ịt đi nót nid mai map.",
+      "vi": "App hỏi quyền truy cập vị trí dù nó không cần bản đồ của tôi.",
+      "start": 4.28,
+      "end": 8.89
+    },
+    {
+      "index": 3,
+      "text": "Camera access made sense because I wanted to scan a document.",
+      "pronunciation": "ka-mờ-rờ ak-ses mêid sens bi-kóz ai quăn-tịt tu skan ờ đók-yu-mần.",
+      "vi": "Quyền truy cập camera thì hợp lý vì tôi muốn quét tài liệu.",
+      "start": 9.05,
+      "end": 13.48
+    },
+    {
+      "index": 4,
+      "text": "I chose allow once because I was not sure I would keep the app.",
+      "pronunciation": "ai chôz ờ-lao quănss bi-kóz ai wờz nót shua ai quud kip đờ áp.",
+      "vi": "Tôi chọn cho phép một lần vì chưa chắc sẽ giữ app.",
+      "start": 13.64,
+      "end": 19.16
+    },
+    {
+      "index": 5,
+      "text": "Later, I opened the privacy setting and changed two choices.",
+      "pronunciation": "lêi-tờ, ai âu-pần đờ prai-vờ-si se-ting en chênjd tu choi-siz.",
+      "vi": "Sau đó, tôi mở cài đặt quyền riêng tư và đổi hai lựa chọn.",
+      "start": 19.32,
+      "end": 23.16
+    },
+    {
+      "index": 6,
+      "text": "Now I review permissions whenever an app asks for too much.",
+      "pronunciation": "nao ai ri-viu pờr-mish-shầnz whenever ờn áp asks fo tu mớch.",
+      "vi": "Bây giờ tôi xem lại quyền mỗi khi app hỏi quá nhiều.",
+      "start": 23.32,
+      "end": 27.76
+    },
+    {
+      "index": 7,
+      "text": "That extra check made the account feel safer the next time I opened the app.",
+      "pronunciation": "đat ek-strờ chék mêid đờ ờ-kao phiu sây-fờ đờ nekst taim ai âu-pần đờ áp.",
+      "vi": "Bước kiểm tra thêm đó làm tài khoản an toàn hơn vào lần sau tôi mở app.",
+      "start": 27.92,
+      "end": 34.41
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the app permissions before I used the new scanner.",
+      "pronunciation": "ai chékt đờ áp pờr-mish-shầnz bi-fo ai yuzd đờ niu skan-nờr.",
+      "vi": "Tôi kiểm tra quyền của app trước khi dùng máy quét mới.",
+      "start": 0,
+      "end": 5.38
+    },
+    {
+      "index": 2,
+      "text": "The app asked for location access even though it did not need my map.",
+      "pronunciation": "đờ áp áskt fo lâu-kây-shần ak-ses i-vần thâu ịt đi nót nid mai map.",
+      "vi": "App hỏi quyền truy cập vị trí dù nó không cần bản đồ của tôi.",
+      "start": 5.49,
+      "end": 10.99
+    },
+    {
+      "index": 3,
+      "text": "Camera access made sense because I wanted to scan a document.",
+      "pronunciation": "ka-mờ-rờ ak-ses mêid sens bi-kóz ai quăn-tịt tu skan ờ đók-yu-mần.",
+      "vi": "Quyền truy cập camera thì hợp lý vì tôi muốn quét tài liệu.",
+      "start": 11.1,
+      "end": 15.68
+    },
+    {
+      "index": 4,
+      "text": "I chose allow once because I was not sure I would keep the app.",
+      "pronunciation": "ai chôz ờ-lao quănss bi-kóz ai wờz nót shua ai quud kip đờ áp.",
+      "vi": "Tôi chọn cho phép một lần vì chưa chắc sẽ giữ app.",
+      "start": 15.79,
+      "end": 21.74
+    },
+    {
+      "index": 5,
+      "text": "Later, I opened the privacy setting and changed two choices.",
+      "pronunciation": "lêi-tờ, ai âu-pần đờ prai-vờ-si se-ting en chênjd tu choi-siz.",
+      "vi": "Sau đó, tôi mở cài đặt quyền riêng tư và đổi hai lựa chọn.",
+      "start": 21.85,
+      "end": 27.74
+    },
+    {
+      "index": 6,
+      "text": "Now I review permissions whenever an app asks for too much.",
+      "pronunciation": "nao ai ri-viu pờr-mish-shầnz whenever ờn áp asks fo tu mớch.",
+      "vi": "Bây giờ tôi xem lại quyền mỗi khi app hỏi quá nhiều.",
+      "start": 27.85,
+      "end": 32.85
+    },
+    {
+      "index": 7,
+      "text": "That extra check made the account feel safer the next time I opened the app.",
+      "pronunciation": "đat ek-strờ chék mêid đờ ờ-kao phiu sây-fờ đờ nekst taim ai âu-pần đờ áp.",
+      "vi": "Bước kiểm tra thêm đó làm tài khoản an toàn hơn vào lần sau tôi mở app.",
+      "start": 32.96,
+      "end": 39.42
+    }
+  ]
+}

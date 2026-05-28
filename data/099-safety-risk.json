@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "099-safety-risk",
+  "title": "Story 099 - Nhận diện rủi ro an toàn",
+  "story": "stories/099-safety-risk.md",
+  "audio": "audio/099-safety-risk.mp3",
+  "duration": 31.88,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/099-safety-risk.mp3",
+  "durationMale": 31.56,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the safety risk in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ safeti rít-sờk in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả rủi ro an toàn bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.47
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the human error, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ hyu-mần e-rờ, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là lỗi con người, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.63,
+      "end": 11.67
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the warning sign because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ wo(r)-ning sain bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về dấu hiệu cảnh báo vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.83,
+      "end": 16.54
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the safety inspection as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ safeti inspekshần as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến kiểm tra an toàn như một chi tiết quan trọng.",
+      "start": 16.7,
+      "end": 21.82
+    },
+    {
+      "index": 5,
+      "text": "Experts said the risk level would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ rít-sờk le-vồ quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói mức độ rủi ro sẽ quan trọng trong vài tháng tới.",
+      "start": 21.98,
+      "end": 26.16
+    },
+    {
+      "index": 6,
+      "text": "The story helped me prevent more damage instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi pri-vent mo đa-mij in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi ngăn thiệt hại thêm thay vì chỉ đọc tiêu đề.",
+      "start": 26.32,
+      "end": 31.48
+    }
+  ],
+  "audioMale1": "audio_male_1/099-safety-risk.mp3",
+  "durationMale1": 33.55,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the safety risk in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ safeti rít-sờk in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả rủi ro an toàn bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.67
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the human error, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ hyu-mần e-rờ, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là lỗi con người, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.83,
+      "end": 11.99
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the warning sign because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ wo(r)-ning sain bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về dấu hiệu cảnh báo vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12.15,
+      "end": 17.93
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the safety inspection as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ safeti inspekshần as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến kiểm tra an toàn như một chi tiết quan trọng.",
+      "start": 18.09,
+      "end": 23.17
+    },
+    {
+      "index": 5,
+      "text": "Experts said the risk level would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ rít-sờk le-vồ quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói mức độ rủi ro sẽ quan trọng trong vài tháng tới.",
+      "start": 23.33,
+      "end": 27.84
+    },
+    {
+      "index": 6,
+      "text": "The story helped me prevent more damage instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi pri-vent mo đa-mij in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi ngăn thiệt hại thêm thay vì chỉ đọc tiêu đề.",
+      "start": 28,
+      "end": 33.47
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the safety risk in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ safeti rít-sờk in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả rủi ro an toàn bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.44
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the human error, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ hyu-mần e-rờ, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là lỗi con người, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.6,
+      "end": 11.56
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the warning sign because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ wo(r)-ning sain bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về dấu hiệu cảnh báo vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.72,
+      "end": 16.87
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the safety inspection as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ safeti inspekshần as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến kiểm tra an toàn như một chi tiết quan trọng.",
+      "start": 17.03,
+      "end": 22.06
+    },
+    {
+      "index": 5,
+      "text": "Experts said the risk level would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ rít-sờk le-vồ quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói mức độ rủi ro sẽ quan trọng trong vài tháng tới.",
+      "start": 22.22,
+      "end": 26.83
+    },
+    {
+      "index": 6,
+      "text": "The story helped me prevent more damage instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi pri-vent mo đa-mij in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi ngăn thiệt hại thêm thay vì chỉ đọc tiêu đề.",
+      "start": 26.99,
+      "end": 31.8
+    }
+  ]
+}

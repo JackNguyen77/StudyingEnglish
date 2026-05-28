@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "136-email-filter",
+  "title": "Story 136 - Lọc email bớt rối",
+  "story": "stories/136-email-filter.md",
+  "audio": "audio/136-email-filter.mp3",
+  "duration": 39.22,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/136-email-filter.mp3",
+  "durationMale": 29.83,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I set up an email filter because my inbox felt noisy.",
+      "pronunciation": "ai se-tấp ờn i-mêil phíl-tờr bi-kóz mai in-boks felt noisi.",
+      "vi": "Tôi thiết lập bộ lọc email vì hộp thư quá ồn.",
+      "start": 0.02,
+      "end": 4.4
+    },
+    {
+      "index": 2,
+      "text": "Some real messages went to the spam folder by mistake.",
+      "pronunciation": "săm riu mé-sijiz quent tu đờ spam fâu-dờr bai mis-têik.",
+      "vi": "Một vài tin nhắn thật đi nhầm vào thư mục spam.",
+      "start": 4.56,
+      "end": 8.46
+    },
+    {
+      "index": 3,
+      "text": "I marked my manager as an important sender so I would not miss updates.",
+      "pronunciation": "ai máct mai ma-nờ-jờ as ờn im-po-tần sen-dờr sâu ai quud nót mis ấp-đêits.",
+      "vi": "Tôi đánh dấu quản lý là người gửi quan trọng để không lỡ cập nhật.",
+      "start": 8.62,
+      "end": 13.47
+    },
+    {
+      "index": 4,
+      "text": "Later, I searched the inbox and found the missing file.",
+      "pronunciation": "lêi-tờ, ai sirkht đờ in-boks en phao đờ mis-sing phai-ồ.",
+      "vi": "Sau đó, tôi tìm trong hộp thư và thấy file bị thiếu.",
+      "start": 13.63,
+      "end": 17.49
+    },
+    {
+      "index": 5,
+      "text": "I used the unsubscribe link for newsletters I never read.",
+      "pronunciation": "ai yuzd đờ ăn-sờb-skraib lingk fo newsletters ai never rid.",
+      "vi": "Tôi dùng link hủy đăng ký cho những newsletter tôi không bao giờ đọc.",
+      "start": 17.65,
+      "end": 21.77
+    },
+    {
+      "index": 6,
+      "text": "The small habit helped me keep the inbox clean during work.",
+      "pronunciation": "đờ smol ha-bit heo mi kip đi in-boks klin đu-ring quớrk.",
+      "vi": "Thói quen nhỏ giúp tôi giữ hộp thư gọn trong lúc làm việc.",
+      "start": 21.93,
+      "end": 25.93
+    },
+    {
+      "index": 7,
+      "text": "That small cleanup made the next task easier to start.",
+      "pronunciation": "đat smol klin-ấp mêid đờ nekst tát-sờk i-zi-ờ tu staart.",
+      "vi": "Việc dọn gọn nhỏ đó làm nhiệm vụ tiếp theo dễ bắt đầu hơn.",
+      "start": 26.09,
+      "end": 29.75
+    }
+  ],
+  "audioMale1": "audio_male_1/136-email-filter.mp3",
+  "durationMale1": 35.36,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I set up an email filter because my inbox felt noisy.",
+      "pronunciation": "ai se-tấp ờn i-mêil phíl-tờr bi-kóz mai in-boks felt noisi.",
+      "vi": "Tôi thiết lập bộ lọc email vì hộp thư quá ồn.",
+      "start": 0.02,
+      "end": 5.28
+    },
+    {
+      "index": 2,
+      "text": "Some real messages went to the spam folder by mistake.",
+      "pronunciation": "săm riu mé-sijiz quent tu đờ spam fâu-dờr bai mis-têik.",
+      "vi": "Một vài tin nhắn thật đi nhầm vào thư mục spam.",
+      "start": 5.44,
+      "end": 9.86
+    },
+    {
+      "index": 3,
+      "text": "I marked my manager as an important sender so I would not miss updates.",
+      "pronunciation": "ai máct mai ma-nờ-jờ as ờn im-po-tần sen-dờr sâu ai quud nót mis ấp-đêits.",
+      "vi": "Tôi đánh dấu quản lý là người gửi quan trọng để không lỡ cập nhật.",
+      "start": 10.02,
+      "end": 15.8
+    },
+    {
+      "index": 4,
+      "text": "Later, I searched the inbox and found the missing file.",
+      "pronunciation": "lêi-tờ, ai sirkht đờ in-boks en phao đờ mis-sing phai-ồ.",
+      "vi": "Sau đó, tôi tìm trong hộp thư và thấy file bị thiếu.",
+      "start": 15.96,
+      "end": 20.58
+    },
+    {
+      "index": 5,
+      "text": "I used the unsubscribe link for newsletters I never read.",
+      "pronunciation": "ai yuzd đờ ăn-sờb-skraib lingk fo newsletters ai never rid.",
+      "vi": "Tôi dùng link hủy đăng ký cho những newsletter tôi không bao giờ đọc.",
+      "start": 20.74,
+      "end": 25.61
+    },
+    {
+      "index": 6,
+      "text": "The small habit helped me keep the inbox clean during work.",
+      "pronunciation": "đờ smol ha-bit heo mi kip đi in-boks klin đu-ring quớrk.",
+      "vi": "Thói quen nhỏ giúp tôi giữ hộp thư gọn trong lúc làm việc.",
+      "start": 25.77,
+      "end": 30.63
+    },
+    {
+      "index": 7,
+      "text": "That small cleanup made the next task easier to start.",
+      "pronunciation": "đat smol klin-ấp mêid đờ nekst tát-sờk i-zi-ờ tu staart.",
+      "vi": "Việc dọn gọn nhỏ đó làm nhiệm vụ tiếp theo dễ bắt đầu hơn.",
+      "start": 30.79,
+      "end": 35.28
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I set up an email filter because my inbox felt noisy.",
+      "pronunciation": "ai se-tấp ờn i-mêil phíl-tờr bi-kóz mai in-boks felt noisi.",
+      "vi": "Tôi thiết lập bộ lọc email vì hộp thư quá ồn.",
+      "start": 0,
+      "end": 5.54
+    },
+    {
+      "index": 2,
+      "text": "Some real messages went to the spam folder by mistake.",
+      "pronunciation": "săm riu mé-sijiz quent tu đờ spam fâu-dờr bai mis-têik.",
+      "vi": "Một vài tin nhắn thật đi nhầm vào thư mục spam.",
+      "start": 5.65,
+      "end": 10.7
+    },
+    {
+      "index": 3,
+      "text": "I marked my manager as an important sender so I would not miss updates.",
+      "pronunciation": "ai máct mai ma-nờ-jờ as ờn im-po-tần sen-dờr sâu ai quud nót mis ấp-đêits.",
+      "vi": "Tôi đánh dấu quản lý là người gửi quan trọng để không lỡ cập nhật.",
+      "start": 10.81,
+      "end": 17.2
+    },
+    {
+      "index": 4,
+      "text": "Later, I searched the inbox and found the missing file.",
+      "pronunciation": "lêi-tờ, ai sirkht đờ in-boks en phao đờ mis-sing phai-ồ.",
+      "vi": "Sau đó, tôi tìm trong hộp thư và thấy file bị thiếu.",
+      "start": 17.31,
+      "end": 22.7
+    },
+    {
+      "index": 5,
+      "text": "I used the unsubscribe link for newsletters I never read.",
+      "pronunciation": "ai yuzd đờ ăn-sờb-skraib lingk fo newsletters ai never rid.",
+      "vi": "Tôi dùng link hủy đăng ký cho những newsletter tôi không bao giờ đọc.",
+      "start": 22.81,
+      "end": 28.43
+    },
+    {
+      "index": 6,
+      "text": "The small habit helped me keep the inbox clean during work.",
+      "pronunciation": "đờ smol ha-bit heo mi kip đi in-boks klin đu-ring quớrk.",
+      "vi": "Thói quen nhỏ giúp tôi giữ hộp thư gọn trong lúc làm việc.",
+      "start": 28.54,
+      "end": 34.15
+    },
+    {
+      "index": 7,
+      "text": "That small cleanup made the next task easier to start.",
+      "pronunciation": "đat smol klin-ấp mêid đờ nekst tát-sờk i-zi-ờ tu staart.",
+      "vi": "Việc dọn gọn nhỏ đó làm nhiệm vụ tiếp theo dễ bắt đầu hơn.",
+      "start": 34.26,
+      "end": 39.22
+    }
+  ]
+}

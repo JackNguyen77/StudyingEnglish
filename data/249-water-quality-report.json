@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "249-water-quality-report",
+  "title": "Story 249 - Đọc report chất lượng nước",
+  "story": "stories/249-water-quality-report.md",
+  "audio": "audio/249-water-quality-report.mp3",
+  "duration": 31.83,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/249-water-quality-report.mp3",
+  "durationMale": 31.22,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I listened to the water quality report before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ quo-đờ qua-lờ-ti ri-po(r)t bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe report chất lượng nước trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.39
+    },
+    {
+      "index": 2,
+      "text": "One chemical reading made the update harder to explain.",
+      "pronunciation": "quăn khemikal ri-ding mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một chỉ số hóa chất làm phần update khó giải thích hơn.",
+      "start": 4.55,
+      "end": 8.4
+    },
+    {
+      "index": 3,
+      "text": "I tried to collect lab results instead of reacting too quickly.",
+      "pronunciation": "ai traid tu kollekt lab results in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố thu thập kết quả lab thay vì phản ứng quá vội.",
+      "start": 8.56,
+      "end": 12.74
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short water report note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt quo-đờ ri-po(r)t note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú report nước ngắn để các facts rõ ràng.",
+      "start": 12.9,
+      "end": 17.66
+    },
+    {
+      "index": 5,
+      "text": "I also had to check affected neighborhoods before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék affektt neâyborhuds bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra khu bị ảnh hưởng trước khi lặp lại claim đó.",
+      "start": 17.82,
+      "end": 22.4
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect public health without making the conversation tense.",
+      "pronunciation": "đat heo mi protekt pớ-blik helth quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi bảo vệ sức khỏe cộng đồng mà không làm cuộc trao đổi căng thẳng.",
+      "start": 22.56,
+      "end": 27.61
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 27.77,
+      "end": 31.14
+    }
+  ],
+  "audioMale1": "audio_male_1/249-water-quality-report.mp3",
+  "durationMale1": 36.5,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I listened to the water quality report before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ quo-đờ qua-lờ-ti ri-po(r)t bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe report chất lượng nước trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 6.03
+    },
+    {
+      "index": 2,
+      "text": "One chemical reading made the update harder to explain.",
+      "pronunciation": "quăn khemikal ri-ding mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một chỉ số hóa chất làm phần update khó giải thích hơn.",
+      "start": 6.19,
+      "end": 10.82
+    },
+    {
+      "index": 3,
+      "text": "I tried to collect lab results instead of reacting too quickly.",
+      "pronunciation": "ai traid tu kollekt lab results in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố thu thập kết quả lab thay vì phản ứng quá vội.",
+      "start": 10.98,
+      "end": 16.09
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short water report note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt quo-đờ ri-po(r)t note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú report nước ngắn để các facts rõ ràng.",
+      "start": 16.25,
+      "end": 21.2
+    },
+    {
+      "index": 5,
+      "text": "I also had to check affected neighborhoods before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék affektt neâyborhuds bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra khu bị ảnh hưởng trước khi lặp lại claim đó.",
+      "start": 21.36,
+      "end": 26.35
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect public health without making the conversation tense.",
+      "pronunciation": "đat heo mi protekt pớ-blik helth quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi bảo vệ sức khỏe cộng đồng mà không làm cuộc trao đổi căng thẳng.",
+      "start": 26.51,
+      "end": 32
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 32.16,
+      "end": 36.42
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I listened to the water quality report before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ quo-đờ qua-lờ-ti ri-po(r)t bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe report chất lượng nước trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 5.11
+    },
+    {
+      "index": 2,
+      "text": "One chemical reading made the update harder to explain.",
+      "pronunciation": "quăn khemikal ri-ding mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một chỉ số hóa chất làm phần update khó giải thích hơn.",
+      "start": 5.27,
+      "end": 8.97
+    },
+    {
+      "index": 3,
+      "text": "I tried to collect lab results instead of reacting too quickly.",
+      "pronunciation": "ai traid tu kollekt lab results in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố thu thập kết quả lab thay vì phản ứng quá vội.",
+      "start": 9.13,
+      "end": 13.16
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short water report note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt quo-đờ ri-po(r)t note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú report nước ngắn để các facts rõ ràng.",
+      "start": 13.32,
+      "end": 18.11
+    },
+    {
+      "index": 5,
+      "text": "I also had to check affected neighborhoods before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék affektt neâyborhuds bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra khu bị ảnh hưởng trước khi lặp lại claim đó.",
+      "start": 18.27,
+      "end": 23.03
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect public health without making the conversation tense.",
+      "pronunciation": "đat heo mi protekt pớ-blik helth quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi bảo vệ sức khỏe cộng đồng mà không làm cuộc trao đổi căng thẳng.",
+      "start": 23.19,
+      "end": 27.89
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 28.05,
+      "end": 31.75
+    }
+  ]
+}

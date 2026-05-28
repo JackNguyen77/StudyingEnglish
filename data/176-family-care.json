@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "176-family-care",
+  "title": "Story 176 - Chăm người nhà bị ốm",
+  "story": "stories/176-family-care.md",
+  "audio": "audio/176-family-care.mp3",
+  "duration": 33.31,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/176-family-care.mp3",
+  "durationMale": 31.21,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the fever check before I made a final choice.",
+      "pronunciation": "ai chékt đờ fever chék bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra kiểm tra sốt trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.53
+    },
+    {
+      "index": 2,
+      "text": "One long night made the situation less simple than it looked.",
+      "pronunciation": "quăn long nait mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Đêm dài làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.69,
+      "end": 8.99
+    },
+    {
+      "index": 3,
+      "text": "I decided to call the clinic before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kol đờ kli-nik bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định gọi phòng khám trước khi tiếp tục.",
+      "start": 9.15,
+      "end": 12.93
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short care note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kare note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú chăm sóc ngắn để người kia hiểu tôi.",
+      "start": 13.09,
+      "end": 17.78
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the temperature instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ temperakhờ in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra nhiệt độ thay vì đoán.",
+      "start": 17.94,
+      "end": 21.6
+    },
+    {
+      "index": 6,
+      "text": "That helped me look after my family without adding extra stress.",
+      "pronunciation": "đat heo mi luk áp-tờ mai famili quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi chăm sóc gia đình mà không thêm căng thẳng.",
+      "start": 21.76,
+      "end": 25.91
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.07,
+      "end": 31.13
+    }
+  ],
+  "audioMale1": "audio_male_1/176-family-care.mp3",
+  "durationMale1": 31.62,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the fever check before I made a final choice.",
+      "pronunciation": "ai chékt đờ fever chék bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra kiểm tra sốt trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.68
+    },
+    {
+      "index": 2,
+      "text": "One long night made the situation less simple than it looked.",
+      "pronunciation": "quăn long nait mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Đêm dài làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.84,
+      "end": 8.96
+    },
+    {
+      "index": 3,
+      "text": "I decided to call the clinic before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kol đờ kli-nik bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định gọi phòng khám trước khi tiếp tục.",
+      "start": 9.12,
+      "end": 12.54
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short care note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kare note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú chăm sóc ngắn để người kia hiểu tôi.",
+      "start": 12.7,
+      "end": 17.05
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the temperature instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ temperakhờ in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra nhiệt độ thay vì đoán.",
+      "start": 17.21,
+      "end": 21.12
+    },
+    {
+      "index": 6,
+      "text": "That helped me look after my family without adding extra stress.",
+      "pronunciation": "đat heo mi luk áp-tờ mai famili quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi chăm sóc gia đình mà không thêm căng thẳng.",
+      "start": 21.28,
+      "end": 27.05
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.21,
+      "end": 31.54
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the fever check before I made a final choice.",
+      "pronunciation": "ai chékt đờ fever chék bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra kiểm tra sốt trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.38
+    },
+    {
+      "index": 2,
+      "text": "One long night made the situation less simple than it looked.",
+      "pronunciation": "quăn long nait mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Đêm dài làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.54,
+      "end": 8.94
+    },
+    {
+      "index": 3,
+      "text": "I decided to call the clinic before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kol đờ kli-nik bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định gọi phòng khám trước khi tiếp tục.",
+      "start": 9.1,
+      "end": 13.45
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short care note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kare note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú chăm sóc ngắn để người kia hiểu tôi.",
+      "start": 13.61,
+      "end": 18.65
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the temperature instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ temperakhờ in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra nhiệt độ thay vì đoán.",
+      "start": 18.81,
+      "end": 22.66
+    },
+    {
+      "index": 6,
+      "text": "That helped me look after my family without adding extra stress.",
+      "pronunciation": "đat heo mi luk áp-tờ mai famili quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi chăm sóc gia đình mà không thêm căng thẳng.",
+      "start": 22.82,
+      "end": 28.29
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.45,
+      "end": 33.23
+    }
+  ]
+}

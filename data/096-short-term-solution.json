@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "096-short-term-solution",
+  "title": "Story 096 - Tìm giải pháp ngắn hạn",
+  "story": "stories/096-short-term-solution.md",
+  "audio": "audio/096-short-term-solution.mp3",
+  "duration": 29.72,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/096-short-term-solution.mp3",
+  "durationMale": 31.2,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the short-term solution in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ so tờm sờ-lu-shần in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả giải pháp ngắn hạn bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.77
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the immediate problem, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ i-mi-đi-ịt pro-blầm, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là vấn đề trước mắt, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.93,
+      "end": 12
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the limited budget because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ limitt bớt-jịt bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về ngân sách hạn chế vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12.16,
+      "end": 17.31
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the temporary measure as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ tem-pờ-re-ri me-zhờr as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến biện pháp tạm thời như một chi tiết quan trọng.",
+      "start": 17.47,
+      "end": 22.15
+    },
+    {
+      "index": 5,
+      "text": "Experts said the follow-up plan would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ pha-lâu-ấp plen quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói kế hoạch follow-up sẽ quan trọng trong vài tháng tới.",
+      "start": 22.31,
+      "end": 26.59
+    },
+    {
+      "index": 6,
+      "text": "The story helped me reduce the pressure instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ri-đus đờ pre-shờr in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi giảm áp lực thay vì chỉ đọc tiêu đề.",
+      "start": 26.75,
+      "end": 31.12
+    }
+  ],
+  "audioMale1": "audio_male_1/096-short-term-solution.mp3",
+  "durationMale1": 33.78,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the short-term solution in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ so tờm sờ-lu-shần in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả giải pháp ngắn hạn bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.91
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the immediate problem, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ i-mi-đi-ịt pro-blầm, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là vấn đề trước mắt, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 6.07,
+      "end": 13.17
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the limited budget because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ limitt bớt-jịt bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về ngân sách hạn chế vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 13.33,
+      "end": 18.86
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the temporary measure as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ tem-pờ-re-ri me-zhờr as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến biện pháp tạm thời như một chi tiết quan trọng.",
+      "start": 19.02,
+      "end": 23.67
+    },
+    {
+      "index": 5,
+      "text": "Experts said the follow-up plan would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ pha-lâu-ấp plen quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói kế hoạch follow-up sẽ quan trọng trong vài tháng tới.",
+      "start": 23.83,
+      "end": 28.56
+    },
+    {
+      "index": 6,
+      "text": "The story helped me reduce the pressure instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ri-đus đờ pre-shờr in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi giảm áp lực thay vì chỉ đọc tiêu đề.",
+      "start": 28.72,
+      "end": 33.7
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the short-term solution in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ so tờm sờ-lu-shần in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả giải pháp ngắn hạn bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.28
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the immediate problem, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ i-mi-đi-ịt pro-blầm, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là vấn đề trước mắt, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.44,
+      "end": 11.29
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the limited budget because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ limitt bớt-jịt bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về ngân sách hạn chế vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.45,
+      "end": 16.18
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the temporary measure as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ tem-pờ-re-ri me-zhờr as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến biện pháp tạm thời như một chi tiết quan trọng.",
+      "start": 16.34,
+      "end": 20.71
+    },
+    {
+      "index": 5,
+      "text": "Experts said the follow-up plan would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ pha-lâu-ấp plen quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói kế hoạch follow-up sẽ quan trọng trong vài tháng tới.",
+      "start": 20.87,
+      "end": 24.94
+    },
+    {
+      "index": 6,
+      "text": "The story helped me reduce the pressure instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ri-đus đờ pre-shờr in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi giảm áp lực thay vì chỉ đọc tiêu đề.",
+      "start": 25.1,
+      "end": 29.64
+    }
+  ]
+}

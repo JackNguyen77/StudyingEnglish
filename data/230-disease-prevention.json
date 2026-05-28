@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "230-disease-prevention",
+  "title": "Story 230 - Nghe hướng dẫn phòng bệnh",
+  "story": "stories/230-disease-prevention.md",
+  "audio": "audio/230-disease-prevention.mp3",
+  "duration": 33,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/230-disease-prevention.mp3",
+  "durationMale": 31.62,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the disease prevention before I made a final choice.",
+      "pronunciation": "ai chékt đờ disise prevenshần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra phòng bệnh trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.54
+    },
+    {
+      "index": 2,
+      "text": "One health warning made the situation less simple than it looked.",
+      "pronunciation": "quăn helth wo(r)-ning mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Cảnh báo sức khỏe làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.7,
+      "end": 8.83
+    },
+    {
+      "index": 3,
+      "text": "I decided to share clear guidance before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu share kliờ gai-đầnss bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định chia sẻ hướng dẫn rõ ràng trước khi tiếp tục.",
+      "start": 8.99,
+      "end": 12.98
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short prevention note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt prevenshần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú phòng ngừa ngắn để người kia hiểu tôi.",
+      "start": 13.14,
+      "end": 17.28
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check vaccination access instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék vaksinashần ak-ses in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra khả năng tiếp cận vaccine thay vì đoán.",
+      "start": 17.44,
+      "end": 22.06
+    },
+    {
+      "index": 6,
+      "text": "That helped me reduce public risk without adding extra stress.",
+      "pronunciation": "đat heo mi ri-đus pớ-blik rít-sờk quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giảm rủi ro cộng đồng mà không thêm căng thẳng.",
+      "start": 22.22,
+      "end": 26.67
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.83,
+      "end": 31.54
+    }
+  ],
+  "audioMale1": "audio_male_1/230-disease-prevention.mp3",
+  "durationMale1": 33.88,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the disease prevention before I made a final choice.",
+      "pronunciation": "ai chékt đờ disise prevenshần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra phòng bệnh trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.15
+    },
+    {
+      "index": 2,
+      "text": "One health warning made the situation less simple than it looked.",
+      "pronunciation": "quăn helth wo(r)-ning mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Cảnh báo sức khỏe làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.31,
+      "end": 9.79
+    },
+    {
+      "index": 3,
+      "text": "I decided to share clear guidance before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu share kliờ gai-đầnss bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định chia sẻ hướng dẫn rõ ràng trước khi tiếp tục.",
+      "start": 9.95,
+      "end": 14.15
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short prevention note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt prevenshần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú phòng ngừa ngắn để người kia hiểu tôi.",
+      "start": 14.31,
+      "end": 19.11
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check vaccination access instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék vaksinashần ak-ses in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra khả năng tiếp cận vaccine thay vì đoán.",
+      "start": 19.27,
+      "end": 23.66
+    },
+    {
+      "index": 6,
+      "text": "That helped me reduce public risk without adding extra stress.",
+      "pronunciation": "đat heo mi ri-đus pớ-blik rít-sờk quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giảm rủi ro cộng đồng mà không thêm căng thẳng.",
+      "start": 23.82,
+      "end": 28.49
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.65,
+      "end": 33.8
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the disease prevention before I made a final choice.",
+      "pronunciation": "ai chékt đờ disise prevenshần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra phòng bệnh trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5
+    },
+    {
+      "index": 2,
+      "text": "One health warning made the situation less simple than it looked.",
+      "pronunciation": "quăn helth wo(r)-ning mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Cảnh báo sức khỏe làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.16,
+      "end": 9.02
+    },
+    {
+      "index": 3,
+      "text": "I decided to share clear guidance before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu share kliờ gai-đầnss bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định chia sẻ hướng dẫn rõ ràng trước khi tiếp tục.",
+      "start": 9.18,
+      "end": 13.3
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short prevention note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt prevenshần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú phòng ngừa ngắn để người kia hiểu tôi.",
+      "start": 13.46,
+      "end": 18.22
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check vaccination access instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék vaksinashần ak-ses in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra khả năng tiếp cận vaccine thay vì đoán.",
+      "start": 18.38,
+      "end": 23.25
+    },
+    {
+      "index": 6,
+      "text": "That helped me reduce public risk without adding extra stress.",
+      "pronunciation": "đat heo mi ri-đus pớ-blik rít-sờk quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giảm rủi ro cộng đồng mà không thêm căng thẳng.",
+      "start": 23.41,
+      "end": 28.06
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.22,
+      "end": 32.92
+    }
+  ]
+}

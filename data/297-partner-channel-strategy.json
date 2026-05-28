@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "297-partner-channel-strategy",
+  "title": "Story 297 - Đọc strategy kênh partner",
+  "story": "stories/297-partner-channel-strategy.md",
+  "audio": "audio/297-partner-channel-strategy.mp3",
+  "duration": 31.46,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/297-partner-channel-strategy.mp3",
+  "durationMale": 31.05,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the partner channel strategy before the meeting started.",
+      "pronunciation": "ai quókt thru đờ partner chen-nồ strateji bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through strategy kênh partner trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.47
+    },
+    {
+      "index": 2,
+      "text": "One channel conflict made the decision harder than expected.",
+      "pronunciation": "quăn chen-nồ konflikt mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một conflict trong channel làm decision khó hơn dự kiến.",
+      "start": 4.63,
+      "end": 8.2
+    },
+    {
+      "index": 3,
+      "text": "I tried to define partner roles so the team had a clearer path.",
+      "pronunciation": "ai traid tu define partner roles sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố define role partner để team có hướng rõ hơn.",
+      "start": 8.36,
+      "end": 13.23
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short channel strategy note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt chen-nồ strateji note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú strategy channel ngắn để capture các key points.",
+      "start": 13.39,
+      "end": 17.82
+    },
+    {
+      "index": 5,
+      "text": "I also had to check revenue sharing before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék revenue sharing bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra chia sẻ revenue trước khi chúng tôi thống nhất next step.",
+      "start": 17.98,
+      "end": 22.56
+    },
+    {
+      "index": 6,
+      "text": "That helped us grow through partners without losing momentum.",
+      "pronunciation": "đat heo ớs grao thru partners quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi grow thông qua partner mà không mất momentum.",
+      "start": 22.72,
+      "end": 27.05
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 27.21,
+      "end": 30.97
+    }
+  ],
+  "audioMale1": "audio_male_1/297-partner-channel-strategy.mp3",
+  "durationMale1": 35.28,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the partner channel strategy before the meeting started.",
+      "pronunciation": "ai quókt thru đờ partner chen-nồ strateji bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through strategy kênh partner trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.17
+    },
+    {
+      "index": 2,
+      "text": "One channel conflict made the decision harder than expected.",
+      "pronunciation": "quăn chen-nồ konflikt mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một conflict trong channel làm decision khó hơn dự kiến.",
+      "start": 5.33,
+      "end": 9.95
+    },
+    {
+      "index": 3,
+      "text": "I tried to define partner roles so the team had a clearer path.",
+      "pronunciation": "ai traid tu define partner roles sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố define role partner để team có hướng rõ hơn.",
+      "start": 10.11,
+      "end": 15.14
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short channel strategy note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt chen-nồ strateji note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú strategy channel ngắn để capture các key points.",
+      "start": 15.3,
+      "end": 20.42
+    },
+    {
+      "index": 5,
+      "text": "I also had to check revenue sharing before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék revenue sharing bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra chia sẻ revenue trước khi chúng tôi thống nhất next step.",
+      "start": 20.58,
+      "end": 25.72
+    },
+    {
+      "index": 6,
+      "text": "That helped us grow through partners without losing momentum.",
+      "pronunciation": "đat heo ớs grao thru partners quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi grow thông qua partner mà không mất momentum.",
+      "start": 25.88,
+      "end": 30.2
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 30.36,
+      "end": 35.2
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the partner channel strategy before the meeting started.",
+      "pronunciation": "ai quókt thru đờ partner chen-nồ strateji bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through strategy kênh partner trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.43
+    },
+    {
+      "index": 2,
+      "text": "One channel conflict made the decision harder than expected.",
+      "pronunciation": "quăn chen-nồ konflikt mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một conflict trong channel làm decision khó hơn dự kiến.",
+      "start": 4.59,
+      "end": 8.47
+    },
+    {
+      "index": 3,
+      "text": "I tried to define partner roles so the team had a clearer path.",
+      "pronunciation": "ai traid tu define partner roles sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố define role partner để team có hướng rõ hơn.",
+      "start": 8.63,
+      "end": 13.2
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short channel strategy note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt chen-nồ strateji note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú strategy channel ngắn để capture các key points.",
+      "start": 13.36,
+      "end": 18.01
+    },
+    {
+      "index": 5,
+      "text": "I also had to check revenue sharing before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék revenue sharing bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra chia sẻ revenue trước khi chúng tôi thống nhất next step.",
+      "start": 18.17,
+      "end": 23.84
+    },
+    {
+      "index": 6,
+      "text": "That helped us grow through partners without losing momentum.",
+      "pronunciation": "đat heo ớs grao thru partners quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi grow thông qua partner mà không mất momentum.",
+      "start": 24,
+      "end": 27.09
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 27.25,
+      "end": 31.38
+    }
+  ]
+}

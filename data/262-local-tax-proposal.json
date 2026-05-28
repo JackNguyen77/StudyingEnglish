@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "262-local-tax-proposal",
+  "title": "Story 262 - Đọc proposal thuế địa phương",
+  "story": "stories/262-local-tax-proposal.md",
+  "audio": "audio/262-local-tax-proposal.mp3",
+  "duration": 30.9,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/262-local-tax-proposal.mp3",
+  "durationMale": 30.89,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I listened to the local tax proposal before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ lâu-kồ taks proposal bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe proposal thuế địa phương trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.5
+    },
+    {
+      "index": 2,
+      "text": "One resident pushback made the update harder to explain.",
+      "pronunciation": "quăn resident pushbak mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một pushback từ cư dân làm phần update khó giải thích hơn.",
+      "start": 4.66,
+      "end": 8.7
+    },
+    {
+      "index": 3,
+      "text": "I tried to review public comments instead of reacting too quickly.",
+      "pronunciation": "ai traid tu ri-viu pớ-blik ko-ments in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố xem lại comment công chúng thay vì phản ứng quá vội.",
+      "start": 8.86,
+      "end": 13.02
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short tax proposal note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt taks proposal note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú proposal thuế ngắn để các facts rõ ràng.",
+      "start": 13.18,
+      "end": 17.56
+    },
+    {
+      "index": 5,
+      "text": "I also had to check revenue needs before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék revenue nids bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra nhu cầu revenue trước khi lặp lại claim đó.",
+      "start": 17.72,
+      "end": 21.81
+    },
+    {
+      "index": 6,
+      "text": "That helped me fund essential services without making the conversation tense.",
+      "pronunciation": "đat heo mi fund essential servises quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi fund các dịch vụ thiết yếu mà không làm cuộc trao đổi căng thẳng.",
+      "start": 21.97,
+      "end": 27.3
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 27.46,
+      "end": 30.81
+    }
+  ],
+  "audioMale1": "audio_male_1/262-local-tax-proposal.mp3",
+  "durationMale1": 36.23,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I listened to the local tax proposal before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ lâu-kồ taks proposal bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe proposal thuế địa phương trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 5.39
+    },
+    {
+      "index": 2,
+      "text": "One resident pushback made the update harder to explain.",
+      "pronunciation": "quăn resident pushbak mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một pushback từ cư dân làm phần update khó giải thích hơn.",
+      "start": 5.55,
+      "end": 9.42
+    },
+    {
+      "index": 3,
+      "text": "I tried to review public comments instead of reacting too quickly.",
+      "pronunciation": "ai traid tu ri-viu pớ-blik ko-ments in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố xem lại comment công chúng thay vì phản ứng quá vội.",
+      "start": 9.58,
+      "end": 14.5
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short tax proposal note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt taks proposal note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú proposal thuế ngắn để các facts rõ ràng.",
+      "start": 14.66,
+      "end": 20.23
+    },
+    {
+      "index": 5,
+      "text": "I also had to check revenue needs before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék revenue nids bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra nhu cầu revenue trước khi lặp lại claim đó.",
+      "start": 20.39,
+      "end": 25.5
+    },
+    {
+      "index": 6,
+      "text": "That helped me fund essential services without making the conversation tense.",
+      "pronunciation": "đat heo mi fund essential servises quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi fund các dịch vụ thiết yếu mà không làm cuộc trao đổi căng thẳng.",
+      "start": 25.66,
+      "end": 31.34
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 31.5,
+      "end": 36.15
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I listened to the local tax proposal before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ lâu-kồ taks proposal bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe proposal thuế địa phương trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 3.85
+    },
+    {
+      "index": 2,
+      "text": "One resident pushback made the update harder to explain.",
+      "pronunciation": "quăn resident pushbak mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một pushback từ cư dân làm phần update khó giải thích hơn.",
+      "start": 4.01,
+      "end": 7.87
+    },
+    {
+      "index": 3,
+      "text": "I tried to review public comments instead of reacting too quickly.",
+      "pronunciation": "ai traid tu ri-viu pớ-blik ko-ments in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố xem lại comment công chúng thay vì phản ứng quá vội.",
+      "start": 8.03,
+      "end": 12.36
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short tax proposal note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt taks proposal note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú proposal thuế ngắn để các facts rõ ràng.",
+      "start": 12.52,
+      "end": 17.12
+    },
+    {
+      "index": 5,
+      "text": "I also had to check revenue needs before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék revenue nids bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra nhu cầu revenue trước khi lặp lại claim đó.",
+      "start": 17.28,
+      "end": 21.33
+    },
+    {
+      "index": 6,
+      "text": "That helped me fund essential services without making the conversation tense.",
+      "pronunciation": "đat heo mi fund essential servises quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi fund các dịch vụ thiết yếu mà không làm cuộc trao đổi căng thẳng.",
+      "start": 21.49,
+      "end": 26.5
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 26.66,
+      "end": 30.82
+    }
+  ]
+}

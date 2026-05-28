@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "242-factory-safety-audit",
+  "title": "Story 242 - Theo dõi audit an toàn nhà máy",
+  "story": "stories/242-factory-safety-audit.md",
+  "audio": "audio/242-factory-safety-audit.mp3",
+  "duration": 34.49,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/242-factory-safety-audit.mp3",
+  "durationMale": 34.18,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I listened to the factory safety audit before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ faktori safeti audit bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe audit an toàn nhà máy trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.36
+    },
+    {
+      "index": 2,
+      "text": "One blocked emergency exit made the update harder to explain.",
+      "pronunciation": "quăn blókt emerjensi eksit mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một lối thoát khẩn cấp bị chặn làm phần update khó giải thích hơn.",
+      "start": 4.52,
+      "end": 9.42
+    },
+    {
+      "index": 3,
+      "text": "I tried to interview floor workers instead of reacting too quickly.",
+      "pronunciation": "ai traid tu interview flur workers in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố phỏng vấn công nhân tại xưởng thay vì phản ứng quá vội.",
+      "start": 9.58,
+      "end": 13.92
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short safety audit note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt safeti audit note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú audit an toàn ngắn để các facts rõ ràng.",
+      "start": 14.08,
+      "end": 20.9
+    },
+    {
+      "index": 5,
+      "text": "I also had to check incident records before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék insident re-kờrdz bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra record sự cố trước khi lặp lại claim đó.",
+      "start": 21.06,
+      "end": 25.88
+    },
+    {
+      "index": 6,
+      "text": "That helped me reduce workplace risk without making the conversation tense.",
+      "pronunciation": "đat heo mi ri-đus workplase rít-sờk quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giảm rủi ro nơi làm việc mà không làm cuộc trao đổi căng thẳng.",
+      "start": 26.04,
+      "end": 29.69
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 29.85,
+      "end": 34.1
+    }
+  ],
+  "audioMale1": "audio_male_1/242-factory-safety-audit.mp3",
+  "durationMale1": 33.11,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I listened to the factory safety audit before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ faktori safeti audit bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe audit an toàn nhà máy trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.72
+    },
+    {
+      "index": 2,
+      "text": "One blocked emergency exit made the update harder to explain.",
+      "pronunciation": "quăn blókt emerjensi eksit mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một lối thoát khẩn cấp bị chặn làm phần update khó giải thích hơn.",
+      "start": 4.88,
+      "end": 9.2
+    },
+    {
+      "index": 3,
+      "text": "I tried to interview floor workers instead of reacting too quickly.",
+      "pronunciation": "ai traid tu interview flur workers in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố phỏng vấn công nhân tại xưởng thay vì phản ứng quá vội.",
+      "start": 9.36,
+      "end": 13.86
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short safety audit note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt safeti audit note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú audit an toàn ngắn để các facts rõ ràng.",
+      "start": 14.02,
+      "end": 18.67
+    },
+    {
+      "index": 5,
+      "text": "I also had to check incident records before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék insident re-kờrdz bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra record sự cố trước khi lặp lại claim đó.",
+      "start": 18.83,
+      "end": 23.07
+    },
+    {
+      "index": 6,
+      "text": "That helped me reduce workplace risk without making the conversation tense.",
+      "pronunciation": "đat heo mi ri-đus workplase rít-sờk quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giảm rủi ro nơi làm việc mà không làm cuộc trao đổi căng thẳng.",
+      "start": 23.23,
+      "end": 28.61
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 28.77,
+      "end": 33.03
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I listened to the factory safety audit before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ faktori safeti audit bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe audit an toàn nhà máy trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.72
+    },
+    {
+      "index": 2,
+      "text": "One blocked emergency exit made the update harder to explain.",
+      "pronunciation": "quăn blókt emerjensi eksit mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một lối thoát khẩn cấp bị chặn làm phần update khó giải thích hơn.",
+      "start": 4.88,
+      "end": 9.62
+    },
+    {
+      "index": 3,
+      "text": "I tried to interview floor workers instead of reacting too quickly.",
+      "pronunciation": "ai traid tu interview flur workers in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố phỏng vấn công nhân tại xưởng thay vì phản ứng quá vội.",
+      "start": 9.78,
+      "end": 14.6
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short safety audit note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt safeti audit note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú audit an toàn ngắn để các facts rõ ràng.",
+      "start": 14.76,
+      "end": 19.9
+    },
+    {
+      "index": 5,
+      "text": "I also had to check incident records before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék insident re-kờrdz bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra record sự cố trước khi lặp lại claim đó.",
+      "start": 20.06,
+      "end": 24.56
+    },
+    {
+      "index": 6,
+      "text": "That helped me reduce workplace risk without making the conversation tense.",
+      "pronunciation": "đat heo mi ri-đus workplase rít-sờk quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giảm rủi ro nơi làm việc mà không làm cuộc trao đổi căng thẳng.",
+      "start": 24.72,
+      "end": 29.84
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 30,
+      "end": 34.41
+    }
+  ]
+}

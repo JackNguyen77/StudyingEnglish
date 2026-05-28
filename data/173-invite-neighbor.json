@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "173-invite-neighbor",
+  "title": "Story 173 - Mời hàng xóm nói chuyện",
+  "story": "stories/173-invite-neighbor.md",
+  "audio": "audio/173-invite-neighbor.mp3",
+  "duration": 30.05,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/173-invite-neighbor.mp3",
+  "durationMale": 33.99,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the neighbor chat before I made a final choice.",
+      "pronunciation": "ai chékt đờ neâybor khat bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra cuộc trò chuyện với hàng xóm trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.14
+    },
+    {
+      "index": 2,
+      "text": "One awkward silence made the situation less simple than it looked.",
+      "pronunciation": "quăn awkward silense mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Khoảng im lặng ngượng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.3,
+      "end": 9.44
+    },
+    {
+      "index": 3,
+      "text": "I decided to invite the neighbor before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu in-vait đờ neâybor bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định mời hàng xóm trước khi tiếp tục.",
+      "start": 9.6,
+      "end": 14.54
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short friendly message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt friendli mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn thân thiện ngắn để người kia hiểu tôi.",
+      "start": 14.7,
+      "end": 19.75
+    },
+    {
+      "index": 5,
+      "text": "I also needed to choose a good time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu khuse ờ gut taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần chọn thời điểm tốt thay vì đoán.",
+      "start": 19.91,
+      "end": 23.81
+    },
+    {
+      "index": 6,
+      "text": "That helped me build a better connection without adding extra stress.",
+      "pronunciation": "đat heo mi biu ờ be-tờ kờ-nek-shần quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi xây kết nối tốt hơn mà không thêm căng thẳng.",
+      "start": 23.97,
+      "end": 28.99
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 29.15,
+      "end": 33.91
+    }
+  ],
+  "audioMale1": "audio_male_1/173-invite-neighbor.mp3",
+  "durationMale1": 34.04,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the neighbor chat before I made a final choice.",
+      "pronunciation": "ai chékt đờ neâybor khat bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra cuộc trò chuyện với hàng xóm trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.11
+    },
+    {
+      "index": 2,
+      "text": "One awkward silence made the situation less simple than it looked.",
+      "pronunciation": "quăn awkward silense mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Khoảng im lặng ngượng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.27,
+      "end": 8.72
+    },
+    {
+      "index": 3,
+      "text": "I decided to invite the neighbor before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu in-vait đờ neâybor bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định mời hàng xóm trước khi tiếp tục.",
+      "start": 8.88,
+      "end": 13.67
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short friendly message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt friendli mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn thân thiện ngắn để người kia hiểu tôi.",
+      "start": 13.83,
+      "end": 18.11
+    },
+    {
+      "index": 5,
+      "text": "I also needed to choose a good time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu khuse ờ gut taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần chọn thời điểm tốt thay vì đoán.",
+      "start": 18.27,
+      "end": 24.94
+    },
+    {
+      "index": 6,
+      "text": "That helped me build a better connection without adding extra stress.",
+      "pronunciation": "đat heo mi biu ờ be-tờ kờ-nek-shần quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi xây kết nối tốt hơn mà không thêm căng thẳng.",
+      "start": 25.1,
+      "end": 29.69
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 29.85,
+      "end": 33.96
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the neighbor chat before I made a final choice.",
+      "pronunciation": "ai chékt đờ neâybor khat bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra cuộc trò chuyện với hàng xóm trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.82
+    },
+    {
+      "index": 2,
+      "text": "One awkward silence made the situation less simple than it looked.",
+      "pronunciation": "quăn awkward silense mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Khoảng im lặng ngượng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.98,
+      "end": 8.19
+    },
+    {
+      "index": 3,
+      "text": "I decided to invite the neighbor before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu in-vait đờ neâybor bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định mời hàng xóm trước khi tiếp tục.",
+      "start": 8.35,
+      "end": 12.19
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short friendly message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt friendli mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn thân thiện ngắn để người kia hiểu tôi.",
+      "start": 12.35,
+      "end": 16.75
+    },
+    {
+      "index": 5,
+      "text": "I also needed to choose a good time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu khuse ờ gut taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần chọn thời điểm tốt thay vì đoán.",
+      "start": 16.91,
+      "end": 20.45
+    },
+    {
+      "index": 6,
+      "text": "That helped me build a better connection without adding extra stress.",
+      "pronunciation": "đat heo mi biu ờ be-tờ kờ-nek-shần quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi xây kết nối tốt hơn mà không thêm căng thẳng.",
+      "start": 20.61,
+      "end": 25.25
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.41,
+      "end": 29.97
+    }
+  ]
+}

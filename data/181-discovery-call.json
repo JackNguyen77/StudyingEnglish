@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "181-discovery-call",
+  "title": "Story 181 - Hỏi trong discovery call",
+  "story": "stories/181-discovery-call.md",
+  "audio": "audio/181-discovery-call.mp3",
+  "duration": 32.5,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/181-discovery-call.mp3",
+  "durationMale": 32.95,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the discovery question before I made a final choice.",
+      "pronunciation": "ai chékt đờ diskoveri quesshần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra câu hỏi khám phá trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.45
+    },
+    {
+      "index": 2,
+      "text": "One vague answer made the situation less simple than it looked.",
+      "pronunciation": "quăn vêig an-sờ mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Câu trả lời mơ hồ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.61,
+      "end": 9.16
+    },
+    {
+      "index": 3,
+      "text": "I decided to ask a follow up before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu át-sờk ờ pha-lâu-ấp bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định hỏi thêm trước khi tiếp tục.",
+      "start": 9.32,
+      "end": 13.69
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short call summary so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kol săm-mờ-ri sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tóm tắt cuộc gọi ngắn để người kia hiểu tôi.",
+      "start": 13.85,
+      "end": 18.31
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the business need instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ biz-nịt nid in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận nhu cầu kinh doanh thay vì đoán.",
+      "start": 18.47,
+      "end": 22.6
+    },
+    {
+      "index": 6,
+      "text": "That helped me understand the real problem without adding extra stress.",
+      "pronunciation": "đat heo mi ăn-đờ-stan đờ riu pro-blầm quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hiểu vấn đề thật mà không thêm căng thẳng.",
+      "start": 22.76,
+      "end": 27.34
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.5,
+      "end": 32.87
+    }
+  ],
+  "audioMale1": "audio_male_1/181-discovery-call.mp3",
+  "durationMale1": 36.45,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the discovery question before I made a final choice.",
+      "pronunciation": "ai chékt đờ diskoveri quesshần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra câu hỏi khám phá trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.17
+    },
+    {
+      "index": 2,
+      "text": "One vague answer made the situation less simple than it looked.",
+      "pronunciation": "quăn vêig an-sờ mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Câu trả lời mơ hồ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.33,
+      "end": 10.19
+    },
+    {
+      "index": 3,
+      "text": "I decided to ask a follow up before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu át-sờk ờ pha-lâu-ấp bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định hỏi thêm trước khi tiếp tục.",
+      "start": 10.35,
+      "end": 14.9
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short call summary so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kol săm-mờ-ri sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tóm tắt cuộc gọi ngắn để người kia hiểu tôi.",
+      "start": 15.06,
+      "end": 20.2
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the business need instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ biz-nịt nid in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận nhu cầu kinh doanh thay vì đoán.",
+      "start": 20.36,
+      "end": 25.07
+    },
+    {
+      "index": 6,
+      "text": "That helped me understand the real problem without adding extra stress.",
+      "pronunciation": "đat heo mi ăn-đờ-stan đờ riu pro-blầm quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hiểu vấn đề thật mà không thêm căng thẳng.",
+      "start": 25.23,
+      "end": 30.5
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.66,
+      "end": 36.37
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the discovery question before I made a final choice.",
+      "pronunciation": "ai chékt đờ diskoveri quesshần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra câu hỏi khám phá trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.76
+    },
+    {
+      "index": 2,
+      "text": "One vague answer made the situation less simple than it looked.",
+      "pronunciation": "quăn vêig an-sờ mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Câu trả lời mơ hồ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.92,
+      "end": 9.28
+    },
+    {
+      "index": 3,
+      "text": "I decided to ask a follow up before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu át-sờk ờ pha-lâu-ấp bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định hỏi thêm trước khi tiếp tục.",
+      "start": 9.44,
+      "end": 13.65
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short call summary so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kol săm-mờ-ri sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tóm tắt cuộc gọi ngắn để người kia hiểu tôi.",
+      "start": 13.81,
+      "end": 18.6
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the business need instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ biz-nịt nid in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận nhu cầu kinh doanh thay vì đoán.",
+      "start": 18.76,
+      "end": 22.89
+    },
+    {
+      "index": 6,
+      "text": "That helped me understand the real problem without adding extra stress.",
+      "pronunciation": "đat heo mi ăn-đờ-stan đờ riu pro-blầm quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hiểu vấn đề thật mà không thêm căng thẳng.",
+      "start": 23.05,
+      "end": 27.67
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.83,
+      "end": 32.42
+    }
+  ]
+}

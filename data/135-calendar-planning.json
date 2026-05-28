@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "135-calendar-planning",
+  "title": "Story 135 - Sắp lịch thông minh",
+  "story": "stories/135-calendar-planning.md",
+  "audio": "audio/135-calendar-planning.mp3",
+  "duration": 35.9,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/135-calendar-planning.mp3",
+  "durationMale": 29.46,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I sent a calendar invite after we agreed on the time.",
+      "pronunciation": "ai sent ờ ka-lần-dờr in-vait áp-tờ quy ờ-grid on đờ taim.",
+      "vi": "Tôi gửi lời mời lịch sau khi chúng tôi thống nhất giờ.",
+      "start": 0.02,
+      "end": 3.84
+    },
+    {
+      "index": 2,
+      "text": "The time zone was different, so I checked it twice.",
+      "pronunciation": "đờ taim zoun wờz dif-rần, sâu ai chékt ịt twai.",
+      "vi": "Múi giờ khác nhau, nên tôi kiểm tra hai lần.",
+      "start": 4,
+      "end": 7.52
+    },
+    {
+      "index": 3,
+      "text": "The app suggested an available slot that worked for everyone.",
+      "pronunciation": "đờ áp sờ-jes-tịt ờn ờ-vei-lờ-bồ slot đat quớrkt fo ev-ri-quan.",
+      "vi": "App gợi ý một khung giờ trống phù hợp với mọi người.",
+      "start": 7.68,
+      "end": 11.36
+    },
+    {
+      "index": 4,
+      "text": "I kept a meeting reminder ten minutes before the call.",
+      "pronunciation": "ai képt ờ mi-ting ri-main-dờr ten mi-nits bi-fo đờ kol.",
+      "vi": "Tôi giữ nhắc họp mười phút trước cuộc gọi.",
+      "start": 11.52,
+      "end": 14.84
+    },
+    {
+      "index": 5,
+      "text": "I moved one task to avoid overlap with another meeting.",
+      "pronunciation": "ai muvd quăn tát-sờk tu ờ-void âu-vờ-lap quít ờ-nớ-đờ mi-ting.",
+      "vi": "Tôi dời một việc để tránh trùng lịch với cuộc họp khác.",
+      "start": 15,
+      "end": 19.21
+    },
+    {
+      "index": 6,
+      "text": "When the plan changed, I sent an update instead of a new invite.",
+      "pronunciation": "quen đờ plen chênjd, ai sent ờn ấp-đêit in-sted ờv ờ niu in-vait.",
+      "vi": "Khi kế hoạch đổi, tôi gửi cập nhật thay vì lời mời mới.",
+      "start": 19.37,
+      "end": 24.12
+    },
+    {
+      "index": 7,
+      "text": "That small habit made the tool feel useful without taking over my thinking.",
+      "pronunciation": "đat smol ha-bit mêid đờ tul phiu yus-phồ quì-thao têi-king âu-vờ mai thing-king.",
+      "vi": "Thói quen nhỏ đó làm công cụ hữu ích mà không thay tôi suy nghĩ.",
+      "start": 24.28,
+      "end": 29.38
+    }
+  ],
+  "audioMale1": "audio_male_1/135-calendar-planning.mp3",
+  "durationMale1": 31.62,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I sent a calendar invite after we agreed on the time.",
+      "pronunciation": "ai sent ờ ka-lần-dờr in-vait áp-tờ quy ờ-grid on đờ taim.",
+      "vi": "Tôi gửi lời mời lịch sau khi chúng tôi thống nhất giờ.",
+      "start": 0.02,
+      "end": 4.1
+    },
+    {
+      "index": 2,
+      "text": "The time zone was different, so I checked it twice.",
+      "pronunciation": "đờ taim zoun wờz dif-rần, sâu ai chékt ịt twai.",
+      "vi": "Múi giờ khác nhau, nên tôi kiểm tra hai lần.",
+      "start": 4.26,
+      "end": 7.9
+    },
+    {
+      "index": 3,
+      "text": "The app suggested an available slot that worked for everyone.",
+      "pronunciation": "đờ áp sờ-jes-tịt ờn ờ-vei-lờ-bồ slot đat quớrkt fo ev-ri-quan.",
+      "vi": "App gợi ý một khung giờ trống phù hợp với mọi người.",
+      "start": 8.06,
+      "end": 12.36
+    },
+    {
+      "index": 4,
+      "text": "I kept a meeting reminder ten minutes before the call.",
+      "pronunciation": "ai képt ờ mi-ting ri-main-dờr ten mi-nits bi-fo đờ kol.",
+      "vi": "Tôi giữ nhắc họp mười phút trước cuộc gọi.",
+      "start": 12.52,
+      "end": 16.31
+    },
+    {
+      "index": 5,
+      "text": "I moved one task to avoid overlap with another meeting.",
+      "pronunciation": "ai muvd quăn tát-sờk tu ờ-void âu-vờ-lap quít ờ-nớ-đờ mi-ting.",
+      "vi": "Tôi dời một việc để tránh trùng lịch với cuộc họp khác.",
+      "start": 16.47,
+      "end": 20.56
+    },
+    {
+      "index": 6,
+      "text": "When the plan changed, I sent an update instead of a new invite.",
+      "pronunciation": "quen đờ plen chênjd, ai sent ờn ấp-đêit in-sted ờv ờ niu in-vait.",
+      "vi": "Khi kế hoạch đổi, tôi gửi cập nhật thay vì lời mời mới.",
+      "start": 20.72,
+      "end": 25.92
+    },
+    {
+      "index": 7,
+      "text": "That small habit made the tool feel useful without taking over my thinking.",
+      "pronunciation": "đat smol ha-bit mêid đờ tul phiu yus-phồ quì-thao têi-king âu-vờ mai thing-king.",
+      "vi": "Thói quen nhỏ đó làm công cụ hữu ích mà không thay tôi suy nghĩ.",
+      "start": 26.08,
+      "end": 31.54
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I sent a calendar invite after we agreed on the time.",
+      "pronunciation": "ai sent ờ ka-lần-dờr in-vait áp-tờ quy ờ-grid on đờ taim.",
+      "vi": "Tôi gửi lời mời lịch sau khi chúng tôi thống nhất giờ.",
+      "start": 0,
+      "end": 4.61
+    },
+    {
+      "index": 2,
+      "text": "The time zone was different, so I checked it twice.",
+      "pronunciation": "đờ taim zoun wờz dif-rần, sâu ai chékt ịt twai.",
+      "vi": "Múi giờ khác nhau, nên tôi kiểm tra hai lần.",
+      "start": 4.72,
+      "end": 8.89
+    },
+    {
+      "index": 3,
+      "text": "The app suggested an available slot that worked for everyone.",
+      "pronunciation": "đờ áp sờ-jes-tịt ờn ờ-vei-lờ-bồ slot đat quớrkt fo ev-ri-quan.",
+      "vi": "App gợi ý một khung giờ trống phù hợp với mọi người.",
+      "start": 9,
+      "end": 14.35
+    },
+    {
+      "index": 4,
+      "text": "I kept a meeting reminder ten minutes before the call.",
+      "pronunciation": "ai képt ờ mi-ting ri-main-dờr ten mi-nits bi-fo đờ kol.",
+      "vi": "Tôi giữ nhắc họp mười phút trước cuộc gọi.",
+      "start": 14.46,
+      "end": 19.19
+    },
+    {
+      "index": 5,
+      "text": "I moved one task to avoid overlap with another meeting.",
+      "pronunciation": "ai muvd quăn tát-sờk tu ờ-void âu-vờ-lap quít ờ-nớ-đờ mi-ting.",
+      "vi": "Tôi dời một việc để tránh trùng lịch với cuộc họp khác.",
+      "start": 19.3,
+      "end": 25.1
+    },
+    {
+      "index": 6,
+      "text": "When the plan changed, I sent an update instead of a new invite.",
+      "pronunciation": "quen đờ plen chênjd, ai sent ờn ấp-đêit in-sted ờv ờ niu in-vait.",
+      "vi": "Khi kế hoạch đổi, tôi gửi cập nhật thay vì lời mời mới.",
+      "start": 25.21,
+      "end": 30.34
+    },
+    {
+      "index": 7,
+      "text": "That small habit made the tool feel useful without taking over my thinking.",
+      "pronunciation": "đat smol ha-bit mêid đờ tul phiu yus-phồ quì-thao têi-king âu-vờ mai thing-king.",
+      "vi": "Thói quen nhỏ đó làm công cụ hữu ích mà không thay tôi suy nghĩ.",
+      "start": 30.45,
+      "end": 35.9
+    }
+  ]
+}

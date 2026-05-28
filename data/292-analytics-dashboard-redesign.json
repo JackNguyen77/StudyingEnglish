@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "292-analytics-dashboard-redesign",
+  "title": "Story 292 - Redesign analytics dashboard",
+  "story": "stories/292-analytics-dashboard-redesign.md",
+  "audio": "audio/292-analytics-dashboard-redesign.mp3",
+  "duration": 31.22,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/292-analytics-dashboard-redesign.mp3",
+  "durationMale": 31.67,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the analytics dashboard redesign before the meeting started.",
+      "pronunciation": "ai quókt thru đờ analytiks đash-bo(r)d redesign bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through redesign dashboard analytics trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.73
+    },
+    {
+      "index": 2,
+      "text": "One confusing metric made the decision harder than expected.",
+      "pronunciation": "quăn kờn-phiu-zing metrik mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một metric gây rối làm decision khó hơn dự kiến.",
+      "start": 4.89,
+      "end": 8.33
+    },
+    {
+      "index": 3,
+      "text": "I tried to simplify the layout so the team had a clearer path.",
+      "pronunciation": "ai traid tu sim-plờ-fai đờ lây-ao sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố đơn giản hóa layout để team có hướng rõ hơn.",
+      "start": 8.49,
+      "end": 13.04
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short dashboard redesign note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt đash-bo(r)d redesign note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú redesign dashboard ngắn để capture các key points.",
+      "start": 13.2,
+      "end": 17.88
+    },
+    {
+      "index": 5,
+      "text": "I also had to check user behavior before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék yu-zờ bi-hâyv-yờr bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra behavior user trước khi chúng tôi thống nhất next step.",
+      "start": 18.04,
+      "end": 24.26
+    },
+    {
+      "index": 6,
+      "text": "That helped us make insight easier without losing momentum.",
+      "pronunciation": "đat heo ớs mêik insâyt i-zi-ờ quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi làm insight dễ hiểu hơn mà không mất momentum.",
+      "start": 24.42,
+      "end": 27.62
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 27.78,
+      "end": 31.59
+    }
+  ],
+  "audioMale1": "audio_male_1/292-analytics-dashboard-redesign.mp3",
+  "durationMale1": 36.55,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the analytics dashboard redesign before the meeting started.",
+      "pronunciation": "ai quókt thru đờ analytiks đash-bo(r)d redesign bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through redesign dashboard analytics trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.92
+    },
+    {
+      "index": 2,
+      "text": "One confusing metric made the decision harder than expected.",
+      "pronunciation": "quăn kờn-phiu-zing metrik mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một metric gây rối làm decision khó hơn dự kiến.",
+      "start": 6.08,
+      "end": 10.93
+    },
+    {
+      "index": 3,
+      "text": "I tried to simplify the layout so the team had a clearer path.",
+      "pronunciation": "ai traid tu sim-plờ-fai đờ lây-ao sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố đơn giản hóa layout để team có hướng rõ hơn.",
+      "start": 11.09,
+      "end": 16.09
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short dashboard redesign note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt đash-bo(r)d redesign note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú redesign dashboard ngắn để capture các key points.",
+      "start": 16.25,
+      "end": 21.63
+    },
+    {
+      "index": 5,
+      "text": "I also had to check user behavior before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék yu-zờ bi-hâyv-yờr bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra behavior user trước khi chúng tôi thống nhất next step.",
+      "start": 21.79,
+      "end": 27.2
+    },
+    {
+      "index": 6,
+      "text": "That helped us make insight easier without losing momentum.",
+      "pronunciation": "đat heo ớs mêik insâyt i-zi-ờ quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi làm insight dễ hiểu hơn mà không mất momentum.",
+      "start": 27.36,
+      "end": 32.04
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 32.2,
+      "end": 36.47
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the analytics dashboard redesign before the meeting started.",
+      "pronunciation": "ai quókt thru đờ analytiks đash-bo(r)d redesign bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through redesign dashboard analytics trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.57
+    },
+    {
+      "index": 2,
+      "text": "One confusing metric made the decision harder than expected.",
+      "pronunciation": "quăn kờn-phiu-zing metrik mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một metric gây rối làm decision khó hơn dự kiến.",
+      "start": 4.73,
+      "end": 8.53
+    },
+    {
+      "index": 3,
+      "text": "I tried to simplify the layout so the team had a clearer path.",
+      "pronunciation": "ai traid tu sim-plờ-fai đờ lây-ao sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố đơn giản hóa layout để team có hướng rõ hơn.",
+      "start": 8.69,
+      "end": 13.07
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short dashboard redesign note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt đash-bo(r)d redesign note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú redesign dashboard ngắn để capture các key points.",
+      "start": 13.23,
+      "end": 18.12
+    },
+    {
+      "index": 5,
+      "text": "I also had to check user behavior before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék yu-zờ bi-hâyv-yờr bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra behavior user trước khi chúng tôi thống nhất next step.",
+      "start": 18.28,
+      "end": 22.71
+    },
+    {
+      "index": 6,
+      "text": "That helped us make insight easier without losing momentum.",
+      "pronunciation": "đat heo ớs mêik insâyt i-zi-ờ quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi làm insight dễ hiểu hơn mà không mất momentum.",
+      "start": 22.87,
+      "end": 26.99
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 27.15,
+      "end": 31.14
+    }
+  ]
+}

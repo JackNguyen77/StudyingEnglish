@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "162-visa-form",
+  "title": "Story 162 - Điền form visa",
+  "story": "stories/162-visa-form.md",
+  "audio": "audio/162-visa-form.mp3",
+  "duration": 33.38,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/162-visa-form.mp3",
+  "durationMale": 27.83,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the visa form before I made a final choice.",
+      "pronunciation": "ai chékt đờ visa foom bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra form visa trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.35
+    },
+    {
+      "index": 2,
+      "text": "One blank field made the situation less simple than it looked.",
+      "pronunciation": "quăn blangk phild mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Ô trống làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.51,
+      "end": 7.57
+    },
+    {
+      "index": 3,
+      "text": "I decided to upload the document before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ấp-lâu đờ đók-yu-mần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định tải giấy tờ lên trước khi tiếp tục.",
+      "start": 7.73,
+      "end": 11.49
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short application note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt applikashần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú hồ sơ ngắn để người kia hiểu tôi.",
+      "start": 11.65,
+      "end": 15.98
+    },
+    {
+      "index": 5,
+      "text": "I also needed to review the details instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu ri-viu đờ đi-têuz in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xem lại chi tiết thay vì đoán.",
+      "start": 16.14,
+      "end": 19.72
+    },
+    {
+      "index": 6,
+      "text": "That helped me submit it correctly without adding extra stress.",
+      "pronunciation": "đat heo mi submit ịt korrektli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi gửi đúng cách mà không thêm căng thẳng.",
+      "start": 19.88,
+      "end": 23.66
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 23.82,
+      "end": 27.75
+    }
+  ],
+  "audioMale1": "audio_male_1/162-visa-form.mp3",
+  "durationMale1": 33,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the visa form before I made a final choice.",
+      "pronunciation": "ai chékt đờ visa foom bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra form visa trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.66
+    },
+    {
+      "index": 2,
+      "text": "One blank field made the situation less simple than it looked.",
+      "pronunciation": "quăn blangk phild mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Ô trống làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.82,
+      "end": 9.24
+    },
+    {
+      "index": 3,
+      "text": "I decided to upload the document before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ấp-lâu đờ đók-yu-mần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định tải giấy tờ lên trước khi tiếp tục.",
+      "start": 9.4,
+      "end": 13.61
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short application note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt applikashần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú hồ sơ ngắn để người kia hiểu tôi.",
+      "start": 13.77,
+      "end": 18.63
+    },
+    {
+      "index": 5,
+      "text": "I also needed to review the details instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu ri-viu đờ đi-têuz in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xem lại chi tiết thay vì đoán.",
+      "start": 18.79,
+      "end": 22.66
+    },
+    {
+      "index": 6,
+      "text": "That helped me submit it correctly without adding extra stress.",
+      "pronunciation": "đat heo mi submit ịt korrektli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi gửi đúng cách mà không thêm căng thẳng.",
+      "start": 22.82,
+      "end": 27.59
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.75,
+      "end": 32.92
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the visa form before I made a final choice.",
+      "pronunciation": "ai chékt đờ visa foom bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra form visa trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.49
+    },
+    {
+      "index": 2,
+      "text": "One blank field made the situation less simple than it looked.",
+      "pronunciation": "quăn blangk phild mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Ô trống làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.65,
+      "end": 9.37
+    },
+    {
+      "index": 3,
+      "text": "I decided to upload the document before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ấp-lâu đờ đók-yu-mần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định tải giấy tờ lên trước khi tiếp tục.",
+      "start": 9.53,
+      "end": 13.89
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short application note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt applikashần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú hồ sơ ngắn để người kia hiểu tôi.",
+      "start": 14.05,
+      "end": 19.33
+    },
+    {
+      "index": 5,
+      "text": "I also needed to review the details instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu ri-viu đờ đi-têuz in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xem lại chi tiết thay vì đoán.",
+      "start": 19.49,
+      "end": 23.48
+    },
+    {
+      "index": 6,
+      "text": "That helped me submit it correctly without adding extra stress.",
+      "pronunciation": "đat heo mi submit ịt korrektli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi gửi đúng cách mà không thêm căng thẳng.",
+      "start": 23.64,
+      "end": 28.23
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.39,
+      "end": 33.3
+    }
+  ]
+}

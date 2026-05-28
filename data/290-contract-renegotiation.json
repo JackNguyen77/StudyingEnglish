@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "290-contract-renegotiation",
+  "title": "Story 290 - Chuẩn bị renegotiation hợp đồng",
+  "story": "stories/290-contract-renegotiation.md",
+  "audio": "audio/290-contract-renegotiation.mp3",
+  "duration": 32.04,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/290-contract-renegotiation.mp3",
+  "durationMale": 30.5,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the contract renegotiation before the meeting started.",
+      "pronunciation": "ai quókt thru đờ kontrakt renegotiashần bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through renegotiation hợp đồng trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.59
+    },
+    {
+      "index": 2,
+      "text": "One cost escalation made the decision harder than expected.",
+      "pronunciation": "quăn kost eskalashần mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một cost escalation làm decision khó hơn dự kiến.",
+      "start": 4.75,
+      "end": 8.2
+    },
+    {
+      "index": 3,
+      "text": "I tried to propose revised terms so the team had a clearer path.",
+      "pronunciation": "ai traid tu prờ-pâuz revist terms sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố đề xuất term chỉnh sửa để team có hướng rõ hơn.",
+      "start": 8.36,
+      "end": 13.17
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short renegotiation note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt renegotiashần note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú renegotiation ngắn để capture các key points.",
+      "start": 13.33,
+      "end": 17.7
+    },
+    {
+      "index": 5,
+      "text": "I also had to check legal boundaries before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék legal bao-đờ-riz bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra ranh giới legal trước khi chúng tôi thống nhất next step.",
+      "start": 17.86,
+      "end": 23.33
+    },
+    {
+      "index": 6,
+      "text": "That helped us preserve the relationship without losing momentum.",
+      "pronunciation": "đat heo ớs preserve đờ relationship quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi giữ relationship mà không mất momentum.",
+      "start": 23.49,
+      "end": 26.53
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 26.69,
+      "end": 30.42
+    }
+  ],
+  "audioMale1": "audio_male_1/290-contract-renegotiation.mp3",
+  "durationMale1": 32.66,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the contract renegotiation before the meeting started.",
+      "pronunciation": "ai quókt thru đờ kontrakt renegotiashần bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through renegotiation hợp đồng trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.87
+    },
+    {
+      "index": 2,
+      "text": "One cost escalation made the decision harder than expected.",
+      "pronunciation": "quăn kost eskalashần mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một cost escalation làm decision khó hơn dự kiến.",
+      "start": 5.03,
+      "end": 8.64
+    },
+    {
+      "index": 3,
+      "text": "I tried to propose revised terms so the team had a clearer path.",
+      "pronunciation": "ai traid tu prờ-pâuz revist terms sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố đề xuất term chỉnh sửa để team có hướng rõ hơn.",
+      "start": 8.8,
+      "end": 14.43
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short renegotiation note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt renegotiashần note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú renegotiation ngắn để capture các key points.",
+      "start": 14.59,
+      "end": 19.02
+    },
+    {
+      "index": 5,
+      "text": "I also had to check legal boundaries before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék legal bao-đờ-riz bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra ranh giới legal trước khi chúng tôi thống nhất next step.",
+      "start": 19.18,
+      "end": 25.02
+    },
+    {
+      "index": 6,
+      "text": "That helped us preserve the relationship without losing momentum.",
+      "pronunciation": "đat heo ớs preserve đờ relationship quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi giữ relationship mà không mất momentum.",
+      "start": 25.18,
+      "end": 28.36
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 28.52,
+      "end": 32.58
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the contract renegotiation before the meeting started.",
+      "pronunciation": "ai quókt thru đờ kontrakt renegotiashần bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through renegotiation hợp đồng trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.69
+    },
+    {
+      "index": 2,
+      "text": "One cost escalation made the decision harder than expected.",
+      "pronunciation": "quăn kost eskalashần mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một cost escalation làm decision khó hơn dự kiến.",
+      "start": 4.85,
+      "end": 9.11
+    },
+    {
+      "index": 3,
+      "text": "I tried to propose revised terms so the team had a clearer path.",
+      "pronunciation": "ai traid tu prờ-pâuz revist terms sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố đề xuất term chỉnh sửa để team có hướng rõ hơn.",
+      "start": 9.27,
+      "end": 13.97
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short renegotiation note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt renegotiashần note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú renegotiation ngắn để capture các key points.",
+      "start": 14.13,
+      "end": 18.37
+    },
+    {
+      "index": 5,
+      "text": "I also had to check legal boundaries before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék legal bao-đờ-riz bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra ranh giới legal trước khi chúng tôi thống nhất next step.",
+      "start": 18.53,
+      "end": 22.74
+    },
+    {
+      "index": 6,
+      "text": "That helped us preserve the relationship without losing momentum.",
+      "pronunciation": "đat heo ớs preserve đờ relationship quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi giữ relationship mà không mất momentum.",
+      "start": 22.9,
+      "end": 28.09
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 28.25,
+      "end": 31.96
+    }
+  ]
+}

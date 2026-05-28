@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "058-open-question",
+  "title": "Story 058 - Xử lý câu hỏi còn mở",
+  "story": "stories/058-open-question.md",
+  "audio": "audio/058-open-question.mp3",
+  "duration": 29.94,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/058-open-question.mp3",
+  "durationMale": 30.12,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the open question so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ âu-pần quesshần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở câu hỏi còn mở để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.68
+    },
+    {
+      "index": 2,
+      "text": "The goal was to collect more context without losing important details.",
+      "pronunciation": "đờ gâu wờz tu kollekt mo kón-tekst quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là thu thập thêm bối cảnh mà không làm mất các chi tiết quan trọng.",
+      "start": 5.84,
+      "end": 10.53
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the missing detail and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ mis-sing đi-têu en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra chi tiết còn thiếu và hỏi ai nên xử lý tiếp.",
+      "start": 10.69,
+      "end": 15.37
+    },
+    {
+      "index": 4,
+      "text": "We agreed to send a follow-up before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu send ờ pha-lâu-ấp bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất gửi follow-up trước khi có ai đi tiếp.",
+      "start": 15.53,
+      "end": 19.75
+    },
+    {
+      "index": 5,
+      "text": "I shared the answer deadline after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ an-sờ đét-lain áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ hạn trả lời sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 19.91,
+      "end": 25.57
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us unblock the discussion later in the day.",
+      "pronunciation": "đat smol step heo ớs unblok đờ đis-kớ-shần lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi gỡ chặn cuộc thảo luận về sau trong ngày.",
+      "start": 25.73,
+      "end": 30.04
+    }
+  ],
+  "audioMale1": "audio_male_1/058-open-question.mp3",
+  "durationMale1": 35.56,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the open question so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ âu-pần quesshần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở câu hỏi còn mở để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 6.62
+    },
+    {
+      "index": 2,
+      "text": "The goal was to collect more context without losing important details.",
+      "pronunciation": "đờ gâu wờz tu kollekt mo kón-tekst quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là thu thập thêm bối cảnh mà không làm mất các chi tiết quan trọng.",
+      "start": 6.78,
+      "end": 12.89
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the missing detail and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ mis-sing đi-têu en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra chi tiết còn thiếu và hỏi ai nên xử lý tiếp.",
+      "start": 13.05,
+      "end": 18.62
+    },
+    {
+      "index": 4,
+      "text": "We agreed to send a follow-up before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu send ờ pha-lâu-ấp bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất gửi follow-up trước khi có ai đi tiếp.",
+      "start": 18.78,
+      "end": 23.46
+    },
+    {
+      "index": 5,
+      "text": "I shared the answer deadline after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ an-sờ đét-lain áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ hạn trả lời sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 23.62,
+      "end": 29.66
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us unblock the discussion later in the day.",
+      "pronunciation": "đat smol step heo ớs unblok đờ đis-kớ-shần lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi gỡ chặn cuộc thảo luận về sau trong ngày.",
+      "start": 29.82,
+      "end": 35.48
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the open question so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ âu-pần quesshần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở câu hỏi còn mở để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.66
+    },
+    {
+      "index": 2,
+      "text": "The goal was to collect more context without losing important details.",
+      "pronunciation": "đờ gâu wờz tu kollekt mo kón-tekst quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là thu thập thêm bối cảnh mà không làm mất các chi tiết quan trọng.",
+      "start": 5.82,
+      "end": 10.36
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the missing detail and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ mis-sing đi-têu en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra chi tiết còn thiếu và hỏi ai nên xử lý tiếp.",
+      "start": 10.52,
+      "end": 15.28
+    },
+    {
+      "index": 4,
+      "text": "We agreed to send a follow-up before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu send ờ pha-lâu-ấp bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất gửi follow-up trước khi có ai đi tiếp.",
+      "start": 15.44,
+      "end": 19.55
+    },
+    {
+      "index": 5,
+      "text": "I shared the answer deadline after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ an-sờ đét-lain áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ hạn trả lời sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 19.71,
+      "end": 25.26
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us unblock the discussion later in the day.",
+      "pronunciation": "đat smol step heo ớs unblok đờ đis-kớ-shần lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi gỡ chặn cuộc thảo luận về sau trong ngày.",
+      "start": 25.42,
+      "end": 29.86
+    }
+  ]
+}

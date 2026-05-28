@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "293-enterprise-onboarding-delay",
+  "title": "Story 293 - Xử lý onboarding delay enterprise",
+  "story": "stories/293-enterprise-onboarding-delay.md",
+  "audio": "audio/293-enterprise-onboarding-delay.mp3",
+  "duration": 34.84,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/293-enterprise-onboarding-delay.mp3",
+  "durationMale": 32.23,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the enterprise onboarding delay before the meeting started.",
+      "pronunciation": "ai quókt thru đờ enterprise onboarding đi-lây bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through delay onboarding enterprise trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.63
+    },
+    {
+      "index": 2,
+      "text": "One approval hold up made the decision harder than expected.",
+      "pronunciation": "quăn ờ-pru-vồ hold ấp mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một approval bị hold up làm decision khó hơn dự kiến.",
+      "start": 4.79,
+      "end": 8.25
+    },
+    {
+      "index": 3,
+      "text": "I tried to remove process blockers so the team had a clearer path.",
+      "pronunciation": "ai traid tu ri-muv pro-ses blokers sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố gỡ blocker quy trình để team có hướng rõ hơn.",
+      "start": 8.41,
+      "end": 13.49
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short onboarding delay note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt onboarding đi-lây note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú delay onboarding ngắn để capture các key points.",
+      "start": 13.65,
+      "end": 18.44
+    },
+    {
+      "index": 5,
+      "text": "I also had to check stakeholder availability before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék stakeholder ờ-vei-lờ-bi-lờ-ti bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra availability stakeholder trước khi chúng tôi thống nhất next step.",
+      "start": 18.6,
+      "end": 23.78
+    },
+    {
+      "index": 6,
+      "text": "That helped us get the launch moving without losing momentum.",
+      "pronunciation": "đat heo ớs gét đờ launkh mu-ving quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi làm launch chạy tiếp mà không mất momentum.",
+      "start": 23.94,
+      "end": 27.87
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 28.03,
+      "end": 32.15
+    }
+  ],
+  "audioMale1": "audio_male_1/293-enterprise-onboarding-delay.mp3",
+  "durationMale1": 36.55,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the enterprise onboarding delay before the meeting started.",
+      "pronunciation": "ai quókt thru đờ enterprise onboarding đi-lây bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through delay onboarding enterprise trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.49
+    },
+    {
+      "index": 2,
+      "text": "One approval hold up made the decision harder than expected.",
+      "pronunciation": "quăn ờ-pru-vồ hold ấp mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một approval bị hold up làm decision khó hơn dự kiến.",
+      "start": 5.65,
+      "end": 10.48
+    },
+    {
+      "index": 3,
+      "text": "I tried to remove process blockers so the team had a clearer path.",
+      "pronunciation": "ai traid tu ri-muv pro-ses blokers sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố gỡ blocker quy trình để team có hướng rõ hơn.",
+      "start": 10.64,
+      "end": 16.2
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short onboarding delay note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt onboarding đi-lây note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú delay onboarding ngắn để capture các key points.",
+      "start": 16.36,
+      "end": 21.19
+    },
+    {
+      "index": 5,
+      "text": "I also had to check stakeholder availability before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék stakeholder ờ-vei-lờ-bi-lờ-ti bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra availability stakeholder trước khi chúng tôi thống nhất next step.",
+      "start": 21.35,
+      "end": 27.04
+    },
+    {
+      "index": 6,
+      "text": "That helped us get the launch moving without losing momentum.",
+      "pronunciation": "đat heo ớs gét đờ launkh mu-ving quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi làm launch chạy tiếp mà không mất momentum.",
+      "start": 27.2,
+      "end": 31.48
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 31.64,
+      "end": 36.47
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the enterprise onboarding delay before the meeting started.",
+      "pronunciation": "ai quókt thru đờ enterprise onboarding đi-lây bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through delay onboarding enterprise trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.21
+    },
+    {
+      "index": 2,
+      "text": "One approval hold up made the decision harder than expected.",
+      "pronunciation": "quăn ờ-pru-vồ hold ấp mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một approval bị hold up làm decision khó hơn dự kiến.",
+      "start": 5.37,
+      "end": 9.79
+    },
+    {
+      "index": 3,
+      "text": "I tried to remove process blockers so the team had a clearer path.",
+      "pronunciation": "ai traid tu ri-muv pro-ses blokers sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố gỡ blocker quy trình để team có hướng rõ hơn.",
+      "start": 9.95,
+      "end": 14.93
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short onboarding delay note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt onboarding đi-lây note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú delay onboarding ngắn để capture các key points.",
+      "start": 15.09,
+      "end": 20.18
+    },
+    {
+      "index": 5,
+      "text": "I also had to check stakeholder availability before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék stakeholder ờ-vei-lờ-bi-lờ-ti bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra availability stakeholder trước khi chúng tôi thống nhất next step.",
+      "start": 20.34,
+      "end": 25.97
+    },
+    {
+      "index": 6,
+      "text": "That helped us get the launch moving without losing momentum.",
+      "pronunciation": "đat heo ớs gét đờ launkh mu-ving quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi làm launch chạy tiếp mà không mất momentum.",
+      "start": 26.13,
+      "end": 30.57
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 30.73,
+      "end": 34.76
+    }
+  ]
+}

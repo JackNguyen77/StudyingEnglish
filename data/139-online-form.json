@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "139-online-form",
+  "title": "Story 139 - Điền form online",
+  "story": "stories/139-online-form.md",
+  "audio": "audio/139-online-form.mp3",
+  "duration": 38.29,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/139-online-form.mp3",
+  "durationMale": 28.55,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I filled out an online form to join the training session.",
+      "pronunciation": "ai phil-dao ờn on-lain foom tu join đờ trây-ning se-shần.",
+      "vi": "Tôi điền form online để tham gia buổi training.",
+      "start": 0.02,
+      "end": 3.95
+    },
+    {
+      "index": 2,
+      "text": "A required field was empty, so the page would not submit.",
+      "pronunciation": "ờ ri-quai-ờrd phild wờz empti, sâu đờ pêij quud nót submit.",
+      "vi": "Một trường bắt buộc còn trống, nên trang không gửi được.",
+      "start": 4.11,
+      "end": 8.03
+    },
+    {
+      "index": 3,
+      "text": "I chose the closest dropdown option because my job title was not listed.",
+      "pronunciation": "ai chôz đờ klosest drop-daun áp-shần bi-kóz mai job title wờz nót lis-tịt.",
+      "vi": "Tôi chọn lựa chọn dropdown gần nhất vì chức danh của tôi không có trong danh sách.",
+      "start": 8.19,
+      "end": 13.16
+    },
+    {
+      "index": 4,
+      "text": "Before I submitted the form, I checked my phone number again.",
+      "pronunciation": "bi-fo ai submittt đờ foom, ai chékt mai phôn năm-bờr ờ-gen.",
+      "vi": "Trước khi gửi form, tôi kiểm tra lại số điện thoại.",
+      "start": 13.32,
+      "end": 16.9
+    },
+    {
+      "index": 5,
+      "text": "The confirmation page showed the date, time, and meeting link.",
+      "pronunciation": "đờ kon-fờr-mây-shần pêij sâud đờ đêit, taim, en mi-ting lingk.",
+      "vi": "Trang xác nhận hiển thị ngày, giờ và link họp.",
+      "start": 17.06,
+      "end": 20.86
+    },
+    {
+      "index": 6,
+      "text": "Later, I used the link to edit the response and add one detail.",
+      "pronunciation": "lêi-tờ, ai yuzd đờ lingk tu e-địt đờ ri-spons en add quăn đi-têu.",
+      "vi": "Sau đó, tôi dùng link để sửa phản hồi và thêm một chi tiết.",
+      "start": 21.02,
+      "end": 24.81
+    },
+    {
+      "index": 7,
+      "text": "That small cleanup made the next task easier to start.",
+      "pronunciation": "đat smol klin-ấp mêid đờ nekst tát-sờk i-zi-ờ tu staart.",
+      "vi": "Việc dọn gọn nhỏ đó làm nhiệm vụ tiếp theo dễ bắt đầu hơn.",
+      "start": 24.97,
+      "end": 28.47
+    }
+  ],
+  "audioMale1": "audio_male_1/139-online-form.mp3",
+  "durationMale1": 40.27,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I filled out an online form to join the training session.",
+      "pronunciation": "ai phil-dao ờn on-lain foom tu join đờ trây-ning se-shần.",
+      "vi": "Tôi điền form online để tham gia buổi training.",
+      "start": 0.02,
+      "end": 5.24
+    },
+    {
+      "index": 2,
+      "text": "A required field was empty, so the page would not submit.",
+      "pronunciation": "ờ ri-quai-ờrd phild wờz empti, sâu đờ pêij quud nót submit.",
+      "vi": "Một trường bắt buộc còn trống, nên trang không gửi được.",
+      "start": 5.4,
+      "end": 10.91
+    },
+    {
+      "index": 3,
+      "text": "I chose the closest dropdown option because my job title was not listed.",
+      "pronunciation": "ai chôz đờ klosest drop-daun áp-shần bi-kóz mai job title wờz nót lis-tịt.",
+      "vi": "Tôi chọn lựa chọn dropdown gần nhất vì chức danh của tôi không có trong danh sách.",
+      "start": 11.07,
+      "end": 17.52
+    },
+    {
+      "index": 4,
+      "text": "Before I submitted the form, I checked my phone number again.",
+      "pronunciation": "bi-fo ai submittt đờ foom, ai chékt mai phôn năm-bờr ờ-gen.",
+      "vi": "Trước khi gửi form, tôi kiểm tra lại số điện thoại.",
+      "start": 17.68,
+      "end": 22.66
+    },
+    {
+      "index": 5,
+      "text": "The confirmation page showed the date, time, and meeting link.",
+      "pronunciation": "đờ kon-fờr-mây-shần pêij sâud đờ đêit, taim, en mi-ting lingk.",
+      "vi": "Trang xác nhận hiển thị ngày, giờ và link họp.",
+      "start": 22.82,
+      "end": 28.46
+    },
+    {
+      "index": 6,
+      "text": "Later, I used the link to edit the response and add one detail.",
+      "pronunciation": "lêi-tờ, ai yuzd đờ lingk tu e-địt đờ ri-spons en add quăn đi-têu.",
+      "vi": "Sau đó, tôi dùng link để sửa phản hồi và thêm một chi tiết.",
+      "start": 28.62,
+      "end": 34.91
+    },
+    {
+      "index": 7,
+      "text": "That small cleanup made the next task easier to start.",
+      "pronunciation": "đat smol klin-ấp mêid đờ nekst tát-sờk i-zi-ờ tu staart.",
+      "vi": "Việc dọn gọn nhỏ đó làm nhiệm vụ tiếp theo dễ bắt đầu hơn.",
+      "start": 35.07,
+      "end": 40.19
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I filled out an online form to join the training session.",
+      "pronunciation": "ai phil-dao ờn on-lain foom tu join đờ trây-ning se-shần.",
+      "vi": "Tôi điền form online để tham gia buổi training.",
+      "start": 0,
+      "end": 5.28
+    },
+    {
+      "index": 2,
+      "text": "A required field was empty, so the page would not submit.",
+      "pronunciation": "ờ ri-quai-ờrd phild wờz empti, sâu đờ pêij quud nót submit.",
+      "vi": "Một trường bắt buộc còn trống, nên trang không gửi được.",
+      "start": 5.39,
+      "end": 10.29
+    },
+    {
+      "index": 3,
+      "text": "I chose the closest dropdown option because my job title was not listed.",
+      "pronunciation": "ai chôz đờ klosest drop-daun áp-shần bi-kóz mai job title wờz nót lis-tịt.",
+      "vi": "Tôi chọn lựa chọn dropdown gần nhất vì chức danh của tôi không có trong danh sách.",
+      "start": 10.4,
+      "end": 16.4
+    },
+    {
+      "index": 4,
+      "text": "Before I submitted the form, I checked my phone number again.",
+      "pronunciation": "bi-fo ai submittt đờ foom, ai chékt mai phôn năm-bờr ờ-gen.",
+      "vi": "Trước khi gửi form, tôi kiểm tra lại số điện thoại.",
+      "start": 16.51,
+      "end": 21.4
+    },
+    {
+      "index": 5,
+      "text": "The confirmation page showed the date, time, and meeting link.",
+      "pronunciation": "đờ kon-fờr-mây-shần pêij sâud đờ đêit, taim, en mi-ting lingk.",
+      "vi": "Trang xác nhận hiển thị ngày, giờ và link họp.",
+      "start": 21.51,
+      "end": 27.22
+    },
+    {
+      "index": 6,
+      "text": "Later, I used the link to edit the response and add one detail.",
+      "pronunciation": "lêi-tờ, ai yuzd đờ lingk tu e-địt đờ ri-spons en add quăn đi-têu.",
+      "vi": "Sau đó, tôi dùng link để sửa phản hồi và thêm một chi tiết.",
+      "start": 27.33,
+      "end": 32.74
+    },
+    {
+      "index": 7,
+      "text": "That small cleanup made the next task easier to start.",
+      "pronunciation": "đat smol klin-ấp mêid đờ nekst tát-sờk i-zi-ờ tu staart.",
+      "vi": "Việc dọn gọn nhỏ đó làm nhiệm vụ tiếp theo dễ bắt đầu hơn.",
+      "start": 32.85,
+      "end": 38.29
+    }
+  ]
+}

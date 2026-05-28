@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "059-handover-note",
+  "title": "Story 059 - Viết ghi chú handover",
+  "story": "stories/059-handover-note.md",
+  "audio": "audio/059-handover-note.mp3",
+  "duration": 30.34,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/059-handover-note.mp3",
+  "durationMale": 30.9,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the handover note so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ hen-đâu-vờr note sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở ghi chú handover để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.3
+    },
+    {
+      "index": 2,
+      "text": "The goal was to pass the context without losing important details.",
+      "pronunciation": "đờ gâu wờz tu pas đờ kón-tekst quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là truyền lại bối cảnh mà không làm mất các chi tiết quan trọng.",
+      "start": 5.46,
+      "end": 10.07
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the unfinished item and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ unfinisht item en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra hạng mục chưa xong và hỏi ai nên xử lý tiếp.",
+      "start": 10.23,
+      "end": 15.17
+    },
+    {
+      "index": 4,
+      "text": "We agreed to list the next steps before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu list đờ nekst stepts bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất liệt kê các bước tiếp theo trước khi có ai đi tiếp.",
+      "start": 15.33,
+      "end": 19.98
+    },
+    {
+      "index": 5,
+      "text": "I shared the support contact after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ sờ-po(r)t kon-takt áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ người liên hệ hỗ trợ sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 20.14,
+      "end": 26.06
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us make the handover smooth later in the day.",
+      "pronunciation": "đat smol step heo ớs mêik đờ hen-đâu-vờr smuth lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi làm bàn giao trơn tru về sau trong ngày.",
+      "start": 26.22,
+      "end": 30.82
+    }
+  ],
+  "audioMale1": "audio_male_1/059-handover-note.mp3",
+  "durationMale1": 31.66,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the handover note so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ hen-đâu-vờr note sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở ghi chú handover để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 6.16
+    },
+    {
+      "index": 2,
+      "text": "The goal was to pass the context without losing important details.",
+      "pronunciation": "đờ gâu wờz tu pas đờ kón-tekst quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là truyền lại bối cảnh mà không làm mất các chi tiết quan trọng.",
+      "start": 6.32,
+      "end": 11.27
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the unfinished item and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ unfinisht item en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra hạng mục chưa xong và hỏi ai nên xử lý tiếp.",
+      "start": 11.43,
+      "end": 16.27
+    },
+    {
+      "index": 4,
+      "text": "We agreed to list the next steps before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu list đờ nekst stepts bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất liệt kê các bước tiếp theo trước khi có ai đi tiếp.",
+      "start": 16.43,
+      "end": 20.39
+    },
+    {
+      "index": 5,
+      "text": "I shared the support contact after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ sờ-po(r)t kon-takt áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ người liên hệ hỗ trợ sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 20.55,
+      "end": 26.52
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us make the handover smooth later in the day.",
+      "pronunciation": "đat smol step heo ớs mêik đờ hen-đâu-vờr smuth lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi làm bàn giao trơn tru về sau trong ngày.",
+      "start": 26.68,
+      "end": 31.58
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the handover note so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ hen-đâu-vờr note sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở ghi chú handover để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.74
+    },
+    {
+      "index": 2,
+      "text": "The goal was to pass the context without losing important details.",
+      "pronunciation": "đờ gâu wờz tu pas đờ kón-tekst quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là truyền lại bối cảnh mà không làm mất các chi tiết quan trọng.",
+      "start": 5.9,
+      "end": 10.29
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the unfinished item and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ unfinisht item en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra hạng mục chưa xong và hỏi ai nên xử lý tiếp.",
+      "start": 10.45,
+      "end": 15.33
+    },
+    {
+      "index": 4,
+      "text": "We agreed to list the next steps before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu list đờ nekst stepts bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất liệt kê các bước tiếp theo trước khi có ai đi tiếp.",
+      "start": 15.49,
+      "end": 19.78
+    },
+    {
+      "index": 5,
+      "text": "I shared the support contact after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ sờ-po(r)t kon-takt áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ người liên hệ hỗ trợ sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 19.94,
+      "end": 25.34
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us make the handover smooth later in the day.",
+      "pronunciation": "đat smol step heo ớs mêik đờ hen-đâu-vờr smuth lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi làm bàn giao trơn tru về sau trong ngày.",
+      "start": 25.5,
+      "end": 30.26
+    }
+  ]
+}

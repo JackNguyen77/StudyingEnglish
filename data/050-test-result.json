@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "050-test-result",
+  "title": "Story 050 - Kiểm tra kết quả test",
+  "story": "stories/050-test-result.md",
+  "audio": "audio/050-test-result.mp3",
+  "duration": 28.04,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/050-test-result.mp3",
+  "durationMale": 29.94,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the test result so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ test ri-zờlt sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở kết quả test để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 6.1
+    },
+    {
+      "index": 2,
+      "text": "The goal was to rerun the case without losing important details.",
+      "pronunciation": "đờ gâu wờz tu ri-răn đờ kêis quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là chạy lại case đó mà không làm mất các chi tiết quan trọng.",
+      "start": 6.26,
+      "end": 10.66
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the failed step and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ fâyld step en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra bước bị fail và hỏi ai nên xử lý tiếp.",
+      "start": 10.82,
+      "end": 15.39
+    },
+    {
+      "index": 4,
+      "text": "We agreed to capture the evidence before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu kapkhờ đờ e-vờ-đầnss bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất ghi lại bằng chứng trước khi có ai đi tiếp.",
+      "start": 15.55,
+      "end": 19.66
+    },
+    {
+      "index": 5,
+      "text": "I shared the bug summary after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ bug săm-mờ-ri áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ tóm tắt bug sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 19.82,
+      "end": 24.85
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us fix the issue faster later in the day.",
+      "pronunciation": "đat smol step heo ớs fiks đờ í-shu fas-tờr lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi sửa lỗi nhanh hơn về sau trong ngày.",
+      "start": 25.01,
+      "end": 29.86
+    }
+  ],
+  "audioMale1": "audio_male_1/050-test-result.mp3",
+  "durationMale1": 32.43,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the test result so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ test ri-zờlt sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở kết quả test để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.79
+    },
+    {
+      "index": 2,
+      "text": "The goal was to rerun the case without losing important details.",
+      "pronunciation": "đờ gâu wờz tu ri-răn đờ kêis quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là chạy lại case đó mà không làm mất các chi tiết quan trọng.",
+      "start": 5.95,
+      "end": 11.17
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the failed step and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ fâyld step en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra bước bị fail và hỏi ai nên xử lý tiếp.",
+      "start": 11.33,
+      "end": 16.42
+    },
+    {
+      "index": 4,
+      "text": "We agreed to capture the evidence before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu kapkhờ đờ e-vờ-đầnss bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất ghi lại bằng chứng trước khi có ai đi tiếp.",
+      "start": 16.58,
+      "end": 21.48
+    },
+    {
+      "index": 5,
+      "text": "I shared the bug summary after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ bug săm-mờ-ri áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ tóm tắt bug sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 21.64,
+      "end": 27.2
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us fix the issue faster later in the day.",
+      "pronunciation": "đat smol step heo ớs fiks đờ í-shu fas-tờr lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi sửa lỗi nhanh hơn về sau trong ngày.",
+      "start": 27.36,
+      "end": 32.35
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the test result so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ test ri-zờlt sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở kết quả test để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 4.88
+    },
+    {
+      "index": 2,
+      "text": "The goal was to rerun the case without losing important details.",
+      "pronunciation": "đờ gâu wờz tu ri-răn đờ kêis quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là chạy lại case đó mà không làm mất các chi tiết quan trọng.",
+      "start": 5.04,
+      "end": 9.35
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the failed step and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ fâyld step en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra bước bị fail và hỏi ai nên xử lý tiếp.",
+      "start": 9.51,
+      "end": 14.04
+    },
+    {
+      "index": 4,
+      "text": "We agreed to capture the evidence before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu kapkhờ đờ e-vờ-đầnss bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất ghi lại bằng chứng trước khi có ai đi tiếp.",
+      "start": 14.2,
+      "end": 18.21
+    },
+    {
+      "index": 5,
+      "text": "I shared the bug summary after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ bug săm-mờ-ri áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ tóm tắt bug sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 18.37,
+      "end": 23.63
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us fix the issue faster later in the day.",
+      "pronunciation": "đat smol step heo ớs fiks đờ í-shu fas-tờr lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi sửa lỗi nhanh hơn về sau trong ngày.",
+      "start": 23.79,
+      "end": 27.96
+    }
+  ]
+}

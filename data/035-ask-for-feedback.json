@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "035-ask-for-feedback",
+  "title": "Story 035 - Xin góp ý trước khi gửi",
+  "story": "stories/035-ask-for-feedback.md",
+  "audio": "audio/035-ask-for-feedback.mp3",
+  "duration": 22.04,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/035-ask-for-feedback.mp3",
+  "durationMale": 22.04,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before I sent the final answer, I asked a coworker for feedback.",
+      "pronunciation": "bi-fo ai sent đờ phai-nồ an-sờ, ai áskt ờ kâu-quớr-kờ fo phid-bak.",
+      "vi": "Trước khi gửi câu trả lời cuối cùng, tôi nhờ một đồng nghiệp góp ý.",
+      "start": 0.02,
+      "end": 4.94
+    },
+    {
+      "index": 2,
+      "text": "I wanted to make sure my explanation was clear and polite.",
+      "pronunciation": "ai quăn-tịt tu mêik shua mai ích-splờ-nêi-shần wờz kliờ en pờ-lait.",
+      "vi": "Tôi muốn chắc phần giải thích của mình rõ ràng và lịch sự.",
+      "start": 5.1,
+      "end": 9.13
+    },
+    {
+      "index": 3,
+      "text": "She pointed out one sentence that sounded too vague.",
+      "pronunciation": "shi poin-tịt ao quăn sen-tầnss đat sao-địt tu vêig.",
+      "vi": "Cô ấy chỉ ra một câu nghe còn quá mơ hồ.",
+      "start": 9.29,
+      "end": 12.58
+    },
+    {
+      "index": 4,
+      "text": "I changed the wording and added a short reason.",
+      "pronunciation": "ai chênjd đờ quớr-ding en a-địt ờ soọt ri-zần.",
+      "vi": "Tôi sửa cách diễn đạt và thêm một lý do ngắn.",
+      "start": 12.74,
+      "end": 15.76
+    },
+    {
+      "index": 5,
+      "text": "The reply became easier to understand.",
+      "pronunciation": "đờ ri-plai bi-kêim i-zi-ờ tu ăn-đờ-stan.",
+      "vi": "Câu trả lời trở nên dễ hiểu hơn.",
+      "start": 15.92,
+      "end": 18.6
+    },
+    {
+      "index": 6,
+      "text": "When I sent it to the client, I felt more professional.",
+      "pronunciation": "quen ai sent ịt tu đờ klai-ờnt, ai felt mo prờ-fe-shờ-nồ.",
+      "vi": "Khi gửi nó cho khách hàng, tôi thấy mình chuyên nghiệp hơn.",
+      "start": 18.76,
+      "end": 21.96
+    }
+  ],
+  "audioMale1": "audio_male_1/035-ask-for-feedback.mp3",
+  "durationMale1": 26.45,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before I sent the final answer, I asked a coworker for feedback.",
+      "pronunciation": "bi-fo ai sent đờ phai-nồ an-sờ, ai áskt ờ kâu-quớr-kờ fo phid-bak.",
+      "vi": "Trước khi gửi câu trả lời cuối cùng, tôi nhờ một đồng nghiệp góp ý.",
+      "start": 0.02,
+      "end": 5.56
+    },
+    {
+      "index": 2,
+      "text": "I wanted to make sure my explanation was clear and polite.",
+      "pronunciation": "ai quăn-tịt tu mêik shua mai ích-splờ-nêi-shần wờz kliờ en pờ-lait.",
+      "vi": "Tôi muốn chắc phần giải thích của mình rõ ràng và lịch sự.",
+      "start": 5.72,
+      "end": 10.4
+    },
+    {
+      "index": 3,
+      "text": "She pointed out one sentence that sounded too vague.",
+      "pronunciation": "shi poin-tịt ao quăn sen-tầnss đat sao-địt tu vêig.",
+      "vi": "Cô ấy chỉ ra một câu nghe còn quá mơ hồ.",
+      "start": 10.56,
+      "end": 14.53
+    },
+    {
+      "index": 4,
+      "text": "I changed the wording and added a short reason.",
+      "pronunciation": "ai chênjd đờ quớr-ding en a-địt ờ soọt ri-zần.",
+      "vi": "Tôi sửa cách diễn đạt và thêm một lý do ngắn.",
+      "start": 14.69,
+      "end": 18.54
+    },
+    {
+      "index": 5,
+      "text": "The reply became easier to understand.",
+      "pronunciation": "đờ ri-plai bi-kêim i-zi-ờ tu ăn-đờ-stan.",
+      "vi": "Câu trả lời trở nên dễ hiểu hơn.",
+      "start": 18.7,
+      "end": 21.88
+    },
+    {
+      "index": 6,
+      "text": "When I sent it to the client, I felt more professional.",
+      "pronunciation": "quen ai sent ịt tu đờ klai-ờnt, ai felt mo prờ-fe-shờ-nồ.",
+      "vi": "Khi gửi nó cho khách hàng, tôi thấy mình chuyên nghiệp hơn.",
+      "start": 22.04,
+      "end": 26.37
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before I sent the final answer, I asked a coworker for feedback.",
+      "pronunciation": "bi-fo ai sent đờ phai-nồ an-sờ, ai áskt ờ kâu-quớr-kờ fo phid-bak.",
+      "vi": "Trước khi gửi câu trả lời cuối cùng, tôi nhờ một đồng nghiệp góp ý.",
+      "start": 0.02,
+      "end": 4.59
+    },
+    {
+      "index": 2,
+      "text": "I wanted to make sure my explanation was clear and polite.",
+      "pronunciation": "ai quăn-tịt tu mêik shua mai ích-splờ-nêi-shần wờz kliờ en pờ-lait.",
+      "vi": "Tôi muốn chắc phần giải thích của mình rõ ràng và lịch sự.",
+      "start": 4.75,
+      "end": 8.51
+    },
+    {
+      "index": 3,
+      "text": "She pointed out one sentence that sounded too vague.",
+      "pronunciation": "shi poin-tịt ao quăn sen-tầnss đat sao-địt tu vêig.",
+      "vi": "Cô ấy chỉ ra một câu nghe còn quá mơ hồ.",
+      "start": 8.67,
+      "end": 12.09
+    },
+    {
+      "index": 4,
+      "text": "I changed the wording and added a short reason.",
+      "pronunciation": "ai chênjd đờ quớr-ding en a-địt ờ soọt ri-zần.",
+      "vi": "Tôi sửa cách diễn đạt và thêm một lý do ngắn.",
+      "start": 12.25,
+      "end": 15.59
+    },
+    {
+      "index": 5,
+      "text": "The reply became easier to understand.",
+      "pronunciation": "đờ ri-plai bi-kêim i-zi-ờ tu ăn-đờ-stan.",
+      "vi": "Câu trả lời trở nên dễ hiểu hơn.",
+      "start": 15.75,
+      "end": 18.5
+    },
+    {
+      "index": 6,
+      "text": "When I sent it to the client, I felt more professional.",
+      "pronunciation": "quen ai sent ịt tu đờ klai-ờnt, ai felt mo prờ-fe-shờ-nồ.",
+      "vi": "Khi gửi nó cho khách hàng, tôi thấy mình chuyên nghiệp hơn.",
+      "start": 18.66,
+      "end": 21.96
+    }
+  ]
+}

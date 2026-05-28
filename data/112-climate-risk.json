@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "112-climate-risk",
+  "title": "Story 112 - Nói về rủi ro khí hậu",
+  "story": "stories/112-climate-risk.md",
+  "audio": "audio/112-climate-risk.mp3",
+  "duration": 30.9,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/112-climate-risk.mp3",
+  "durationMale": 33.62,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the climate risk in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ klai-mịt rít-sờk in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả rủi ro khí hậu bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.16
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the extreme weather, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ ekstreme que-thờ, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là thời tiết cực đoan, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.32,
+      "end": 11.84
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the flood damage because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ flud đa-mij bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về thiệt hại do lũ vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12,
+      "end": 16.64
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the early warning system as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ irli wo(r)-ning sis-tầm as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến hệ thống cảnh báo sớm như một chi tiết quan trọng.",
+      "start": 16.8,
+      "end": 22.15
+    },
+    {
+      "index": 5,
+      "text": "Experts said the emergency response would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ emerjensi ri-spons quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói phản ứng khẩn cấp sẽ quan trọng trong vài tháng tới.",
+      "start": 22.31,
+      "end": 27.3
+    },
+    {
+      "index": 6,
+      "text": "The story helped me prepare for change instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi pri-pea fo chênj in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi chuẩn bị cho thay đổi thay vì chỉ đọc tiêu đề.",
+      "start": 27.46,
+      "end": 33.54
+    }
+  ],
+  "audioMale1": "audio_male_1/112-climate-risk.mp3",
+  "durationMale1": 36.6,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the climate risk in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ klai-mịt rít-sờk in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả rủi ro khí hậu bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 6.56
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the extreme weather, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ ekstreme que-thờ, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là thời tiết cực đoan, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 6.72,
+      "end": 13.83
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the flood damage because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ flud đa-mij bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về thiệt hại do lũ vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 13.99,
+      "end": 19.23
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the early warning system as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ irli wo(r)-ning sis-tầm as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến hệ thống cảnh báo sớm như một chi tiết quan trọng.",
+      "start": 19.39,
+      "end": 24.88
+    },
+    {
+      "index": 5,
+      "text": "Experts said the emergency response would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ emerjensi ri-spons quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói phản ứng khẩn cấp sẽ quan trọng trong vài tháng tới.",
+      "start": 25.04,
+      "end": 30.84
+    },
+    {
+      "index": 6,
+      "text": "The story helped me prepare for change instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi pri-pea fo chênj in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi chuẩn bị cho thay đổi thay vì chỉ đọc tiêu đề.",
+      "start": 31,
+      "end": 36.52
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the climate risk in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ klai-mịt rít-sờk in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả rủi ro khí hậu bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 4.59
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the extreme weather, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ ekstreme que-thờ, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là thời tiết cực đoan, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 4.75,
+      "end": 10.78
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the flood damage because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ flud đa-mij bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về thiệt hại do lũ vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 10.94,
+      "end": 15.82
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the early warning system as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ irli wo(r)-ning sis-tầm as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến hệ thống cảnh báo sớm như một chi tiết quan trọng.",
+      "start": 15.98,
+      "end": 20.73
+    },
+    {
+      "index": 5,
+      "text": "Experts said the emergency response would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ emerjensi ri-spons quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói phản ứng khẩn cấp sẽ quan trọng trong vài tháng tới.",
+      "start": 20.89,
+      "end": 25.85
+    },
+    {
+      "index": 6,
+      "text": "The story helped me prepare for change instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi pri-pea fo chênj in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi chuẩn bị cho thay đổi thay vì chỉ đọc tiêu đề.",
+      "start": 26.01,
+      "end": 30.82
+    }
+  ]
+}

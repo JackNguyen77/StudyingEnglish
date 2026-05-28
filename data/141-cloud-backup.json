@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "141-cloud-backup",
+  "title": "Story 141 - Sao lưu lên cloud",
+  "story": "stories/141-cloud-backup.md",
+  "audio": "audio/141-cloud-backup.mp3",
+  "duration": 37.14,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/141-cloud-backup.mp3",
+  "durationMale": 31.77,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I turned on cloud backup before changing to a new phone.",
+      "pronunciation": "ai tơnd on klaođ béc-ấp bi-fo chên-jing tu ờ niu phôn.",
+      "vi": "Tôi bật sao lưu cloud trước khi đổi sang điện thoại mới.",
+      "start": 0.02,
+      "end": 4.59
+    },
+    {
+      "index": 2,
+      "text": "Automatic backup ran at night when the Wi-Fi was stable.",
+      "pronunciation": "o-tờ-ma-tik béc-ấp răn at nait quen đờ quai-phai wờz stây-bồ.",
+      "vi": "Sao lưu tự động chạy ban đêm khi Wi-Fi ổn định.",
+      "start": 4.75,
+      "end": 8.81
+    },
+    {
+      "index": 3,
+      "text": "I needed to restore the file after I deleted the wrong copy.",
+      "pronunciation": "ai ni-địt tu ri-sto đờ phai-ồ áp-tờ ai đi-li-tịt đờ rong ká-pi.",
+      "vi": "Tôi cần khôi phục file sau khi xóa nhầm bản sao.",
+      "start": 8.97,
+      "end": 13.18
+    },
+    {
+      "index": 4,
+      "text": "The notes could sync across devices, which saved me time.",
+      "pronunciation": "đờ nouts kud singk ờ-kros đi-vai-siz, quýtch sêivd mi taim.",
+      "vi": "Ghi chú có thể đồng bộ giữa các thiết bị, giúp tôi tiết kiệm thời gian.",
+      "start": 13.34,
+      "end": 17.92
+    },
+    {
+      "index": 5,
+      "text": "I checked the storage plan before uploading all my videos.",
+      "pronunciation": "ai chékt đờ sto-rij plen bi-fo ấp-lâu-đing ol mai vi-đi-ôz.",
+      "vi": "Tôi kiểm tra gói lưu trữ trước khi tải tất cả video lên.",
+      "start": 18.08,
+      "end": 22.24
+    },
+    {
+      "index": 6,
+      "text": "When backup failed, I kept the app open and tried again.",
+      "pronunciation": "quen béc-ấp fâyld, ai képt đờ áp âu-pần en traid ờ-gen.",
+      "vi": "Khi sao lưu thất bại, tôi giữ app mở và thử lại.",
+      "start": 22.4,
+      "end": 26.7
+    },
+    {
+      "index": 7,
+      "text": "That backup habit made my files easier to trust the next time I needed them.",
+      "pronunciation": "đat béc-ấp ha-bit mêid mai phai-ồz i-zi-ờ tu trớst đờ nekst taim ai ni-địt đem.",
+      "vi": "Thói quen sao lưu đó làm tôi yên tâm hơn với file của mình khi cần lại.",
+      "start": 26.86,
+      "end": 31.69
+    }
+  ],
+  "audioMale1": "audio_male_1/141-cloud-backup.mp3",
+  "durationMale1": 35.67,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I turned on cloud backup before changing to a new phone.",
+      "pronunciation": "ai tơnd on klaođ béc-ấp bi-fo chên-jing tu ờ niu phôn.",
+      "vi": "Tôi bật sao lưu cloud trước khi đổi sang điện thoại mới.",
+      "start": 0.02,
+      "end": 4.9
+    },
+    {
+      "index": 2,
+      "text": "Automatic backup ran at night when the Wi-Fi was stable.",
+      "pronunciation": "o-tờ-ma-tik béc-ấp răn at nait quen đờ quai-phai wờz stây-bồ.",
+      "vi": "Sao lưu tự động chạy ban đêm khi Wi-Fi ổn định.",
+      "start": 5.06,
+      "end": 9.85
+    },
+    {
+      "index": 3,
+      "text": "I needed to restore the file after I deleted the wrong copy.",
+      "pronunciation": "ai ni-địt tu ri-sto đờ phai-ồ áp-tờ ai đi-li-tịt đờ rong ká-pi.",
+      "vi": "Tôi cần khôi phục file sau khi xóa nhầm bản sao.",
+      "start": 10.01,
+      "end": 15.17
+    },
+    {
+      "index": 4,
+      "text": "The notes could sync across devices, which saved me time.",
+      "pronunciation": "đờ nouts kud singk ờ-kros đi-vai-siz, quýtch sêivd mi taim.",
+      "vi": "Ghi chú có thể đồng bộ giữa các thiết bị, giúp tôi tiết kiệm thời gian.",
+      "start": 15.33,
+      "end": 20.17
+    },
+    {
+      "index": 5,
+      "text": "I checked the storage plan before uploading all my videos.",
+      "pronunciation": "ai chékt đờ sto-rij plen bi-fo ấp-lâu-đing ol mai vi-đi-ôz.",
+      "vi": "Tôi kiểm tra gói lưu trữ trước khi tải tất cả video lên.",
+      "start": 20.33,
+      "end": 24.48
+    },
+    {
+      "index": 6,
+      "text": "When backup failed, I kept the app open and tried again.",
+      "pronunciation": "quen béc-ấp fâyld, ai képt đờ áp âu-pần en traid ờ-gen.",
+      "vi": "Khi sao lưu thất bại, tôi giữ app mở và thử lại.",
+      "start": 24.64,
+      "end": 29.5
+    },
+    {
+      "index": 7,
+      "text": "That backup habit made my files easier to trust the next time I needed them.",
+      "pronunciation": "đat béc-ấp ha-bit mêid mai phai-ồz i-zi-ờ tu trớst đờ nekst taim ai ni-địt đem.",
+      "vi": "Thói quen sao lưu đó làm tôi yên tâm hơn với file của mình khi cần lại.",
+      "start": 29.66,
+      "end": 35.59
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I turned on cloud backup before changing to a new phone.",
+      "pronunciation": "ai tơnd on klaođ béc-ấp bi-fo chên-jing tu ờ niu phôn.",
+      "vi": "Tôi bật sao lưu cloud trước khi đổi sang điện thoại mới.",
+      "start": 0,
+      "end": 4.77
+    },
+    {
+      "index": 2,
+      "text": "Automatic backup ran at night when the Wi-Fi was stable.",
+      "pronunciation": "o-tờ-ma-tik béc-ấp răn at nait quen đờ quai-phai wờz stây-bồ.",
+      "vi": "Sao lưu tự động chạy ban đêm khi Wi-Fi ổn định.",
+      "start": 4.88,
+      "end": 9.77
+    },
+    {
+      "index": 3,
+      "text": "I needed to restore the file after I deleted the wrong copy.",
+      "pronunciation": "ai ni-địt tu ri-sto đờ phai-ồ áp-tờ ai đi-li-tịt đờ rong ká-pi.",
+      "vi": "Tôi cần khôi phục file sau khi xóa nhầm bản sao.",
+      "start": 9.88,
+      "end": 15.42
+    },
+    {
+      "index": 4,
+      "text": "The notes could sync across devices, which saved me time.",
+      "pronunciation": "đờ nouts kud singk ờ-kros đi-vai-siz, quýtch sêivd mi taim.",
+      "vi": "Ghi chú có thể đồng bộ giữa các thiết bị, giúp tôi tiết kiệm thời gian.",
+      "start": 15.53,
+      "end": 20.58
+    },
+    {
+      "index": 5,
+      "text": "I checked the storage plan before uploading all my videos.",
+      "pronunciation": "ai chékt đờ sto-rij plen bi-fo ấp-lâu-đing ol mai vi-đi-ôz.",
+      "vi": "Tôi kiểm tra gói lưu trữ trước khi tải tất cả video lên.",
+      "start": 20.69,
+      "end": 26.53
+    },
+    {
+      "index": 6,
+      "text": "When backup failed, I kept the app open and tried again.",
+      "pronunciation": "quen béc-ấp fâyld, ai képt đờ áp âu-pần en traid ờ-gen.",
+      "vi": "Khi sao lưu thất bại, tôi giữ app mở và thử lại.",
+      "start": 26.64,
+      "end": 31.59
+    },
+    {
+      "index": 7,
+      "text": "That backup habit made my files easier to trust the next time I needed them.",
+      "pronunciation": "đat béc-ấp ha-bit mêid mai phai-ồz i-zi-ờ tu trớst đờ nekst taim ai ni-địt đem.",
+      "vi": "Thói quen sao lưu đó làm tôi yên tâm hơn với file của mình khi cần lại.",
+      "start": 31.7,
+      "end": 37.14
+    }
+  ]
+}

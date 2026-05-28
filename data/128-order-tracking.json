@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "128-order-tracking",
+  "title": "Story 128 - Theo dõi đơn hàng",
+  "story": "stories/128-order-tracking.md",
+  "audio": "audio/128-order-tracking.mp3",
+  "duration": 36.83,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/128-order-tracking.mp3",
+  "durationMale": 33,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I opened the shop app to track an order for my headphones.",
+      "pronunciation": "ai âu-pần đờ shop áp tu trék ờn o-dờ fo mai hed-phônz.",
+      "vi": "Tôi mở app cửa hàng để theo dõi đơn tai nghe của mình.",
+      "start": 0.02,
+      "end": 4.94
+    },
+    {
+      "index": 2,
+      "text": "The shipping update said the package had left the warehouse.",
+      "pronunciation": "đờ ship-ping ấp-đêit sed đờ pa-kij had left đờ que(r)-hao.",
+      "vi": "Cập nhật vận chuyển nói gói hàng đã rời kho.",
+      "start": 5.1,
+      "end": 9.13
+    },
+    {
+      "index": 3,
+      "text": "The delivery window was short, so I stayed near my phone.",
+      "pronunciation": "đờ đi-li-vờ-ri quyn-đâu wờz soọt, sâu ai stâyd niờ mai phôn.",
+      "vi": "Khung giờ giao hàng khá ngắn, nên tôi ở gần điện thoại.",
+      "start": 9.29,
+      "end": 13.57
+    },
+    {
+      "index": 4,
+      "text": "I worried about a missed delivery because I had a meeting at noon.",
+      "pronunciation": "ai quơ-rid ờ-bao ờ mist đi-li-vờ-ri bi-kóz ai had ờ mi-ting at nun.",
+      "vi": "Tôi lo lỡ nhận hàng vì có cuộc họp lúc trưa.",
+      "start": 13.73,
+      "end": 17.77
+    },
+    {
+      "index": 5,
+      "text": "I contacted support and asked if the driver could call first.",
+      "pronunciation": "ai kontaktt sờ-po(r)t en áskt if đờ driver kud kol phớrst.",
+      "vi": "Tôi liên hệ hỗ trợ và hỏi liệu tài xế có thể gọi trước không.",
+      "start": 17.93,
+      "end": 22.38
+    },
+    {
+      "index": 6,
+      "text": "Later, the app showed proof of delivery with a clear photo.",
+      "pronunciation": "lêi-tờ, đờ áp sâud pruuf ờv đi-li-vờ-ri quít ờ kliờ photo.",
+      "vi": "Sau đó, app hiển thị bằng chứng giao hàng với ảnh rõ.",
+      "start": 22.54,
+      "end": 26.93
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 27.09,
+      "end": 32.92
+    }
+  ],
+  "audioMale1": "audio_male_1/128-order-tracking.mp3",
+  "durationMale1": 39.21,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I opened the shop app to track an order for my headphones.",
+      "pronunciation": "ai âu-pần đờ shop áp tu trék ờn o-dờ fo mai hed-phônz.",
+      "vi": "Tôi mở app cửa hàng để theo dõi đơn tai nghe của mình.",
+      "start": 0.02,
+      "end": 5.52
+    },
+    {
+      "index": 2,
+      "text": "The shipping update said the package had left the warehouse.",
+      "pronunciation": "đờ ship-ping ấp-đêit sed đờ pa-kij had left đờ que(r)-hao.",
+      "vi": "Cập nhật vận chuyển nói gói hàng đã rời kho.",
+      "start": 5.68,
+      "end": 10.72
+    },
+    {
+      "index": 3,
+      "text": "The delivery window was short, so I stayed near my phone.",
+      "pronunciation": "đờ đi-li-vờ-ri quyn-đâu wờz soọt, sâu ai stâyd niờ mai phôn.",
+      "vi": "Khung giờ giao hàng khá ngắn, nên tôi ở gần điện thoại.",
+      "start": 10.88,
+      "end": 16.24
+    },
+    {
+      "index": 4,
+      "text": "I worried about a missed delivery because I had a meeting at noon.",
+      "pronunciation": "ai quơ-rid ờ-bao ờ mist đi-li-vờ-ri bi-kóz ai had ờ mi-ting at nun.",
+      "vi": "Tôi lo lỡ nhận hàng vì có cuộc họp lúc trưa.",
+      "start": 16.4,
+      "end": 21.55
+    },
+    {
+      "index": 5,
+      "text": "I contacted support and asked if the driver could call first.",
+      "pronunciation": "ai kontaktt sờ-po(r)t en áskt if đờ driver kud kol phớrst.",
+      "vi": "Tôi liên hệ hỗ trợ và hỏi liệu tài xế có thể gọi trước không.",
+      "start": 21.71,
+      "end": 27.33
+    },
+    {
+      "index": 6,
+      "text": "Later, the app showed proof of delivery with a clear photo.",
+      "pronunciation": "lêi-tờ, đờ áp sâud pruuf ờv đi-li-vờ-ri quít ờ kliờ photo.",
+      "vi": "Sau đó, app hiển thị bằng chứng giao hàng với ảnh rõ.",
+      "start": 27.49,
+      "end": 32.68
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 32.84,
+      "end": 39.13
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I opened the shop app to track an order for my headphones.",
+      "pronunciation": "ai âu-pần đờ shop áp tu trék ờn o-dờ fo mai hed-phônz.",
+      "vi": "Tôi mở app cửa hàng để theo dõi đơn tai nghe của mình.",
+      "start": 0,
+      "end": 5.48
+    },
+    {
+      "index": 2,
+      "text": "The shipping update said the package had left the warehouse.",
+      "pronunciation": "đờ ship-ping ấp-đêit sed đờ pa-kij had left đờ que(r)-hao.",
+      "vi": "Cập nhật vận chuyển nói gói hàng đã rời kho.",
+      "start": 5.59,
+      "end": 10.59
+    },
+    {
+      "index": 3,
+      "text": "The delivery window was short, so I stayed near my phone.",
+      "pronunciation": "đờ đi-li-vờ-ri quyn-đâu wờz soọt, sâu ai stâyd niờ mai phôn.",
+      "vi": "Khung giờ giao hàng khá ngắn, nên tôi ở gần điện thoại.",
+      "start": 10.7,
+      "end": 15.38
+    },
+    {
+      "index": 4,
+      "text": "I worried about a missed delivery because I had a meeting at noon.",
+      "pronunciation": "ai quơ-rid ờ-bao ờ mist đi-li-vờ-ri bi-kóz ai had ờ mi-ting at nun.",
+      "vi": "Tôi lo lỡ nhận hàng vì có cuộc họp lúc trưa.",
+      "start": 15.49,
+      "end": 20.37
+    },
+    {
+      "index": 5,
+      "text": "I contacted support and asked if the driver could call first.",
+      "pronunciation": "ai kontaktt sờ-po(r)t en áskt if đờ driver kud kol phớrst.",
+      "vi": "Tôi liên hệ hỗ trợ và hỏi liệu tài xế có thể gọi trước không.",
+      "start": 20.48,
+      "end": 25.82
+    },
+    {
+      "index": 6,
+      "text": "Later, the app showed proof of delivery with a clear photo.",
+      "pronunciation": "lêi-tờ, đờ áp sâud pruuf ờv đi-li-vờ-ri quít ờ kliờ photo.",
+      "vi": "Sau đó, app hiển thị bằng chứng giao hàng với ảnh rõ.",
+      "start": 25.93,
+      "end": 30.77
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 30.88,
+      "end": 36.83
+    }
+  ]
+}

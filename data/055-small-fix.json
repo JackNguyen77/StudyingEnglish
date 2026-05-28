@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "055-small-fix",
+  "title": "Story 055 - Sửa lỗi nhỏ",
+  "story": "stories/055-small-fix.md",
+  "audio": "audio/055-small-fix.mp3",
+  "duration": 28.85,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/055-small-fix.mp3",
+  "durationMale": 28.34,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the small fix so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ smol fiks sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở bản sửa nhỏ để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.61
+    },
+    {
+      "index": 2,
+      "text": "The goal was to patch the issue without losing important details.",
+      "pronunciation": "đờ gâu wờz tu patkh đờ í-shu quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là vá lỗi mà không làm mất các chi tiết quan trọng.",
+      "start": 5.77,
+      "end": 9.86
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the side effect and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ said effekt en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra tác dụng phụ và hỏi ai nên xử lý tiếp.",
+      "start": 10.02,
+      "end": 14.23
+    },
+    {
+      "index": 4,
+      "text": "We agreed to test the change before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu test đờ chênj bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất test thay đổi trước khi có ai đi tiếp.",
+      "start": 14.39,
+      "end": 18.07
+    },
+    {
+      "index": 5,
+      "text": "I shared the quick note after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ quík note áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ ghi chú nhanh sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 18.23,
+      "end": 23.36
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us keep the scope small later in the day.",
+      "pronunciation": "đat smol step heo ớs kip đờ skoup smol lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi giữ scope nhỏ về sau trong ngày.",
+      "start": 23.52,
+      "end": 28.26
+    }
+  ],
+  "audioMale1": "audio_male_1/055-small-fix.mp3",
+  "durationMale1": 31.17,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the small fix so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ smol fiks sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở bản sửa nhỏ để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.47
+    },
+    {
+      "index": 2,
+      "text": "The goal was to patch the issue without losing important details.",
+      "pronunciation": "đờ gâu wờz tu patkh đờ í-shu quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là vá lỗi mà không làm mất các chi tiết quan trọng.",
+      "start": 5.63,
+      "end": 10.74
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the side effect and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ said effekt en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra tác dụng phụ và hỏi ai nên xử lý tiếp.",
+      "start": 10.9,
+      "end": 15.27
+    },
+    {
+      "index": 4,
+      "text": "We agreed to test the change before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu test đờ chênj bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất test thay đổi trước khi có ai đi tiếp.",
+      "start": 15.43,
+      "end": 19.94
+    },
+    {
+      "index": 5,
+      "text": "I shared the quick note after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ quík note áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ ghi chú nhanh sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 20.1,
+      "end": 25.2
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us keep the scope small later in the day.",
+      "pronunciation": "đat smol step heo ớs kip đờ skoup smol lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi giữ scope nhỏ về sau trong ngày.",
+      "start": 25.36,
+      "end": 31.09
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the small fix so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ smol fiks sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở bản sửa nhỏ để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.5
+    },
+    {
+      "index": 2,
+      "text": "The goal was to patch the issue without losing important details.",
+      "pronunciation": "đờ gâu wờz tu patkh đờ í-shu quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là vá lỗi mà không làm mất các chi tiết quan trọng.",
+      "start": 5.66,
+      "end": 9.89
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the side effect and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ said effekt en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra tác dụng phụ và hỏi ai nên xử lý tiếp.",
+      "start": 10.05,
+      "end": 14.81
+    },
+    {
+      "index": 4,
+      "text": "We agreed to test the change before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu test đờ chênj bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất test thay đổi trước khi có ai đi tiếp.",
+      "start": 14.97,
+      "end": 18.92
+    },
+    {
+      "index": 5,
+      "text": "I shared the quick note after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ quík note áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ ghi chú nhanh sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 19.08,
+      "end": 24.18
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us keep the scope small later in the day.",
+      "pronunciation": "đat smol step heo ớs kip đờ skoup smol lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi giữ scope nhỏ về sau trong ngày.",
+      "start": 24.34,
+      "end": 28.77
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "294-product-roadmap-shift",
+  "title": "Story 294 - Cập nhật roadmap sản phẩm",
+  "story": "stories/294-product-roadmap-shift.md",
+  "audio": "audio/294-product-roadmap-shift.mp3",
+  "duration": 32.79,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/294-product-roadmap-shift.mp3",
+  "durationMale": 33.27,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the product roadmap shift before the meeting started.",
+      "pronunciation": "ai quókt thru đờ produkt râu-map shift bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through roadmap sản phẩm đổi hướng trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.52
+    },
+    {
+      "index": 2,
+      "text": "One resource constraint made the decision harder than expected.",
+      "pronunciation": "quăn resaorse konstrâynt mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một constraint về resource làm decision khó hơn dự kiến.",
+      "start": 4.68,
+      "end": 8.35
+    },
+    {
+      "index": 3,
+      "text": "I tried to reorder roadmap items so the team had a clearer path.",
+      "pronunciation": "ai traid tu reorder râu-map ai-tầmz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố sắp lại item roadmap để team có hướng rõ hơn.",
+      "start": 8.51,
+      "end": 14.06
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short roadmap shift note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt râu-map shift note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú shift roadmap ngắn để capture các key points.",
+      "start": 14.22,
+      "end": 18.72
+    },
+    {
+      "index": 5,
+      "text": "I also had to check customer commitments before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék kớs-tờ-mờr kommitments bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra commitment với khách hàng trước khi chúng tôi thống nhất next step.",
+      "start": 18.88,
+      "end": 24.13
+    },
+    {
+      "index": 6,
+      "text": "That helped us protect strategic focus without losing momentum.",
+      "pronunciation": "đat heo ớs protekt stratejik fokus quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi bảo vệ focus chiến lược mà không mất momentum.",
+      "start": 24.29,
+      "end": 28.53
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 28.69,
+      "end": 33.19
+    }
+  ],
+  "audioMale1": "audio_male_1/294-product-roadmap-shift.mp3",
+  "durationMale1": 35.57,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the product roadmap shift before the meeting started.",
+      "pronunciation": "ai quókt thru đờ produkt râu-map shift bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through roadmap sản phẩm đổi hướng trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.92
+    },
+    {
+      "index": 2,
+      "text": "One resource constraint made the decision harder than expected.",
+      "pronunciation": "quăn resaorse konstrâynt mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một constraint về resource làm decision khó hơn dự kiến.",
+      "start": 5.08,
+      "end": 9.76
+    },
+    {
+      "index": 3,
+      "text": "I tried to reorder roadmap items so the team had a clearer path.",
+      "pronunciation": "ai traid tu reorder râu-map ai-tầmz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố sắp lại item roadmap để team có hướng rõ hơn.",
+      "start": 9.92,
+      "end": 15.06
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short roadmap shift note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt râu-map shift note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú shift roadmap ngắn để capture các key points.",
+      "start": 15.22,
+      "end": 20.43
+    },
+    {
+      "index": 5,
+      "text": "I also had to check customer commitments before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék kớs-tờ-mờr kommitments bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra commitment với khách hàng trước khi chúng tôi thống nhất next step.",
+      "start": 20.59,
+      "end": 27.11
+    },
+    {
+      "index": 6,
+      "text": "That helped us protect strategic focus without losing momentum.",
+      "pronunciation": "đat heo ớs protekt stratejik fokus quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi bảo vệ focus chiến lược mà không mất momentum.",
+      "start": 27.27,
+      "end": 30.63
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 30.79,
+      "end": 35.49
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the product roadmap shift before the meeting started.",
+      "pronunciation": "ai quókt thru đờ produkt râu-map shift bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through roadmap sản phẩm đổi hướng trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.45
+    },
+    {
+      "index": 2,
+      "text": "One resource constraint made the decision harder than expected.",
+      "pronunciation": "quăn resaorse konstrâynt mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một constraint về resource làm decision khó hơn dự kiến.",
+      "start": 4.61,
+      "end": 8.94
+    },
+    {
+      "index": 3,
+      "text": "I tried to reorder roadmap items so the team had a clearer path.",
+      "pronunciation": "ai traid tu reorder râu-map ai-tầmz sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố sắp lại item roadmap để team có hướng rõ hơn.",
+      "start": 9.1,
+      "end": 13.99
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short roadmap shift note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt râu-map shift note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú shift roadmap ngắn để capture các key points.",
+      "start": 14.15,
+      "end": 18.42
+    },
+    {
+      "index": 5,
+      "text": "I also had to check customer commitments before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék kớs-tờ-mờr kommitments bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra commitment với khách hàng trước khi chúng tôi thống nhất next step.",
+      "start": 18.58,
+      "end": 23.56
+    },
+    {
+      "index": 6,
+      "text": "That helped us protect strategic focus without losing momentum.",
+      "pronunciation": "đat heo ớs protekt stratejik fokus quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi bảo vệ focus chiến lược mà không mất momentum.",
+      "start": 23.72,
+      "end": 28.42
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 28.58,
+      "end": 32.71
+    }
+  ]
+}

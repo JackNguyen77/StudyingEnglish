@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "016-change-plans",
+  "title": "Story 016 - Đổi kế hoạch phút chót",
+  "story": "stories/016-change-plans.md",
+  "audio": "audio/016-change-plans.mp3",
+  "duration": 23.11,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/016-change-plans.mp3",
+  "durationMale": 26.17,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I was supposed to meet my friend after work, but something came up.",
+      "pronunciation": "ai wờz sờ-pâuzd tu mit mai phren áp-tờ quớrk, bớt săm-thinh kêim ấp.",
+      "vi": "Tôi đáng lẽ sẽ gặp bạn sau giờ làm, nhưng có chuyện phát sinh.",
+      "start": 0.02,
+      "end": 4.25
+    },
+    {
+      "index": 2,
+      "text": "She sent me a message and asked if we could push it back a little.",
+      "pronunciation": "shi sent mi ờ mé-sij en áskt if quy kud pu-shịt béc ờ li-đồ.",
+      "vi": "Cô ấy nhắn cho tôi và hỏi liệu chúng tôi có thể dời lại một chút không.",
+      "start": 4.41,
+      "end": 8.97
+    },
+    {
+      "index": 3,
+      "text": "At first, I was a bit annoyed because I had already left home.",
+      "pronunciation": "at phớrst, ai wờz ờ bít ờ-noid bi-kóz ai had ol-re-đi left hôm.",
+      "vi": "Lúc đầu, tôi hơi bực vì tôi đã ra khỏi nhà rồi.",
+      "start": 9.13,
+      "end": 13.43
+    },
+    {
+      "index": 4,
+      "text": "But then she explained that her meeting ran late.",
+      "pronunciation": "bớt đen shi ích-splêind đat hờr mi-ting răn lêit.",
+      "vi": "Nhưng rồi cô ấy giải thích rằng cuộc họp của cô ấy bị kéo dài.",
+      "start": 13.59,
+      "end": 16.89
+    },
+    {
+      "index": 5,
+      "text": "I told her it was no big deal and found a quiet place to wait.",
+      "pronunciation": "ai tâu hờr ịt wờz nâu big điêu en phao ờ quai-ịt plêis tu quây.",
+      "vi": "Tôi nói không sao đâu và tìm một chỗ yên tĩnh để đợi.",
+      "start": 17.05,
+      "end": 21.04
+    },
+    {
+      "index": 6,
+      "text": "We ended up meeting thirty minutes later, and everything worked out fine.",
+      "pronunciation": "quy en-đập mi-ting thơ-ti mi-nits lêi-tờ, en ev-ri-thinh quớrkt ao phain.",
+      "vi": "Cuối cùng chúng tôi gặp nhau muộn hơn ba mươi phút, và mọi chuyện vẫn ổn.",
+      "start": 21.2,
+      "end": 26.09
+    }
+  ],
+  "audioMale1": "audio_male_1/016-change-plans.mp3",
+  "durationMale1": 30,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I was supposed to meet my friend after work, but something came up.",
+      "pronunciation": "ai wờz sờ-pâuzd tu mit mai phren áp-tờ quớrk, bớt săm-thinh kêim ấp.",
+      "vi": "Tôi đáng lẽ sẽ gặp bạn sau giờ làm, nhưng có chuyện phát sinh.",
+      "start": 0.02,
+      "end": 5.35
+    },
+    {
+      "index": 2,
+      "text": "She sent me a message and asked if we could push it back a little.",
+      "pronunciation": "shi sent mi ờ mé-sij en áskt if quy kud pu-shịt béc ờ li-đồ.",
+      "vi": "Cô ấy nhắn cho tôi và hỏi liệu chúng tôi có thể dời lại một chút không.",
+      "start": 5.51,
+      "end": 10.99
+    },
+    {
+      "index": 3,
+      "text": "At first, I was a bit annoyed because I had already left home.",
+      "pronunciation": "at phớrst, ai wờz ờ bít ờ-noid bi-kóz ai had ol-re-đi left hôm.",
+      "vi": "Lúc đầu, tôi hơi bực vì tôi đã ra khỏi nhà rồi.",
+      "start": 11.15,
+      "end": 14.66
+    },
+    {
+      "index": 4,
+      "text": "But then she explained that her meeting ran late.",
+      "pronunciation": "bớt đen shi ích-splêind đat hờr mi-ting răn lêit.",
+      "vi": "Nhưng rồi cô ấy giải thích rằng cuộc họp của cô ấy bị kéo dài.",
+      "start": 14.82,
+      "end": 18.25
+    },
+    {
+      "index": 5,
+      "text": "I told her it was no big deal and found a quiet place to wait.",
+      "pronunciation": "ai tâu hờr ịt wờz nâu big điêu en phao ờ quai-ịt plêis tu quây.",
+      "vi": "Tôi nói không sao đâu và tìm một chỗ yên tĩnh để đợi.",
+      "start": 18.41,
+      "end": 26.33
+    },
+    {
+      "index": 6,
+      "text": "We ended up meeting thirty minutes later, and everything worked out fine.",
+      "pronunciation": "quy en-đập mi-ting thơ-ti mi-nits lêi-tờ, en ev-ri-thinh quớrkt ao phain.",
+      "vi": "Cuối cùng chúng tôi gặp nhau muộn hơn ba mươi phút, và mọi chuyện vẫn ổn.",
+      "start": 26.49,
+      "end": 29.92
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I was supposed to meet my friend after work, but something came up.",
+      "pronunciation": "ai wờz sờ-pâuzd tu mit mai phren áp-tờ quớrk, bớt săm-thinh kêim ấp.",
+      "vi": "Tôi đáng lẽ sẽ gặp bạn sau giờ làm, nhưng có chuyện phát sinh.",
+      "start": 0.02,
+      "end": 3.91
+    },
+    {
+      "index": 2,
+      "text": "She sent me a message and asked if we could push it back a little.",
+      "pronunciation": "shi sent mi ờ mé-sij en áskt if quy kud pu-shịt béc ờ li-đồ.",
+      "vi": "Cô ấy nhắn cho tôi và hỏi liệu chúng tôi có thể dời lại một chút không.",
+      "start": 4.07,
+      "end": 8.53
+    },
+    {
+      "index": 3,
+      "text": "At first, I was a bit annoyed because I had already left home.",
+      "pronunciation": "at phớrst, ai wờz ờ bít ờ-noid bi-kóz ai had ol-re-đi left hôm.",
+      "vi": "Lúc đầu, tôi hơi bực vì tôi đã ra khỏi nhà rồi.",
+      "start": 8.69,
+      "end": 11.65
+    },
+    {
+      "index": 4,
+      "text": "But then she explained that her meeting ran late.",
+      "pronunciation": "bớt đen shi ích-splêind đat hờr mi-ting răn lêit.",
+      "vi": "Nhưng rồi cô ấy giải thích rằng cuộc họp của cô ấy bị kéo dài.",
+      "start": 11.81,
+      "end": 14.6
+    },
+    {
+      "index": 5,
+      "text": "I told her it was no big deal and found a quiet place to wait.",
+      "pronunciation": "ai tâu hờr ịt wờz nâu big điêu en phao ờ quai-ịt plêis tu quây.",
+      "vi": "Tôi nói không sao đâu và tìm một chỗ yên tĩnh để đợi.",
+      "start": 14.76,
+      "end": 18.71
+    },
+    {
+      "index": 6,
+      "text": "We ended up meeting thirty minutes later, and everything worked out fine.",
+      "pronunciation": "quy en-đập mi-ting thơ-ti mi-nits lêi-tờ, en ev-ri-thinh quớrkt ao phain.",
+      "vi": "Cuối cùng chúng tôi gặp nhau muộn hơn ba mươi phút, và mọi chuyện vẫn ổn.",
+      "start": 18.87,
+      "end": 23.03
+    }
+  ]
+}

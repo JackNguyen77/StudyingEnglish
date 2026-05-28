@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "225-manufacturing-slowdown",
+  "title": "Story 225 - Nghe về sản xuất chậm lại",
+  "story": "stories/225-manufacturing-slowdown.md",
+  "audio": "audio/225-manufacturing-slowdown.mp3",
+  "duration": 32.23,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/225-manufacturing-slowdown.mp3",
+  "durationMale": 31.16,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the factory slowdown before I made a final choice.",
+      "pronunciation": "ai chékt đờ faktori slâu-daun bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra nhà máy chậm lại trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.09
+    },
+    {
+      "index": 2,
+      "text": "One weak orders made the situation less simple than it looked.",
+      "pronunciation": "quăn wik orders mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Đơn hàng yếu làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.25,
+      "end": 9.38
+    },
+    {
+      "index": 3,
+      "text": "I decided to review production data before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ri-viu prờ-đớk-shần đây-tờ bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định xem lại data sản xuất trước khi tiếp tục.",
+      "start": 9.54,
+      "end": 13.4
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short manufacturing note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt manufakturing note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú sản xuất ngắn để người kia hiểu tôi.",
+      "start": 13.56,
+      "end": 18.01
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check supplier impact instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék supplier impakt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra impact nhà cung cấp thay vì đoán.",
+      "start": 18.17,
+      "end": 21.81
+    },
+    {
+      "index": 6,
+      "text": "That helped me explain the slowdown without adding extra stress.",
+      "pronunciation": "đat heo mi eksplâyn đờ slâu-daun quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giải thích sự chậm lại mà không thêm căng thẳng.",
+      "start": 21.97,
+      "end": 25.87
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.03,
+      "end": 31.08
+    }
+  ],
+  "audioMale1": "audio_male_1/225-manufacturing-slowdown.mp3",
+  "durationMale1": 39.21,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the factory slowdown before I made a final choice.",
+      "pronunciation": "ai chékt đờ faktori slâu-daun bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra nhà máy chậm lại trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.51
+    },
+    {
+      "index": 2,
+      "text": "One weak orders made the situation less simple than it looked.",
+      "pronunciation": "quăn wik orders mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Đơn hàng yếu làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.67,
+      "end": 10.46
+    },
+    {
+      "index": 3,
+      "text": "I decided to review production data before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ri-viu prờ-đớk-shần đây-tờ bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định xem lại data sản xuất trước khi tiếp tục.",
+      "start": 10.62,
+      "end": 15.49
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short manufacturing note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt manufakturing note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú sản xuất ngắn để người kia hiểu tôi.",
+      "start": 15.65,
+      "end": 21.39
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check supplier impact instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék supplier impakt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra impact nhà cung cấp thay vì đoán.",
+      "start": 21.55,
+      "end": 28.96
+    },
+    {
+      "index": 6,
+      "text": "That helped me explain the slowdown without adding extra stress.",
+      "pronunciation": "đat heo mi eksplâyn đờ slâu-daun quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giải thích sự chậm lại mà không thêm căng thẳng.",
+      "start": 29.12,
+      "end": 33.1
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 33.26,
+      "end": 39.13
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the factory slowdown before I made a final choice.",
+      "pronunciation": "ai chékt đờ faktori slâu-daun bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra nhà máy chậm lại trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.22
+    },
+    {
+      "index": 2,
+      "text": "One weak orders made the situation less simple than it looked.",
+      "pronunciation": "quăn wik orders mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Đơn hàng yếu làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.38,
+      "end": 8.22
+    },
+    {
+      "index": 3,
+      "text": "I decided to review production data before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ri-viu prờ-đớk-shần đây-tờ bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định xem lại data sản xuất trước khi tiếp tục.",
+      "start": 8.38,
+      "end": 12.65
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short manufacturing note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt manufakturing note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú sản xuất ngắn để người kia hiểu tôi.",
+      "start": 12.81,
+      "end": 17.96
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check supplier impact instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék supplier impakt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra impact nhà cung cấp thay vì đoán.",
+      "start": 18.12,
+      "end": 22.56
+    },
+    {
+      "index": 6,
+      "text": "That helped me explain the slowdown without adding extra stress.",
+      "pronunciation": "đat heo mi eksplâyn đờ slâu-daun quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giải thích sự chậm lại mà không thêm căng thẳng.",
+      "start": 22.72,
+      "end": 27.16
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.32,
+      "end": 32.15
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "024-rain-check",
+  "title": "Story 024 - Hẹn lại hôm khác",
+  "story": "stories/024-rain-check.md",
+  "audio": "audio/024-rain-check.mp3",
+  "duration": 23,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/024-rain-check.mp3",
+  "durationMale": 18.6,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "My friend wanted to get dinner, but I was too tired.",
+      "pronunciation": "mai phren quăn-tịt tu gét đi-nờ, bớt ai wờz tu tai-ờrd.",
+      "vi": "Bạn tôi muốn đi ăn tối, nhưng tôi quá mệt.",
+      "start": 0.02,
+      "end": 3.89
+    },
+    {
+      "index": 2,
+      "text": "I did not want to cancel without saying why.",
+      "pronunciation": "ai đi nót quăn tu ken-sồ quì-thao sây-ing quai.",
+      "vi": "Tôi không muốn hủy mà không nói lý do.",
+      "start": 4.05,
+      "end": 6.68
+    },
+    {
+      "index": 3,
+      "text": "So I asked if we could take a rain check.",
+      "pronunciation": "sâu ai áskt if quy kud têik ờ rein chék.",
+      "vi": "Nên tôi hỏi liệu chúng tôi có thể hẹn dịp khác không.",
+      "start": 6.84,
+      "end": 9.38
+    },
+    {
+      "index": 4,
+      "text": "She understood and said we could move it to next week.",
+      "pronunciation": "shi ăn-đờ-stud en sed quy kud mu-vit tu nekst quik.",
+      "vi": "Cô ấy hiểu và nói chúng tôi có thể dời sang tuần sau.",
+      "start": 9.54,
+      "end": 13.09
+    },
+    {
+      "index": 5,
+      "text": "I thanked her for being flexible.",
+      "pronunciation": "ai thankt hờr fo bi-ing phlek-sờ-bồ.",
+      "vi": "Tôi cảm ơn cô ấy vì đã linh động.",
+      "start": 13.25,
+      "end": 15.2
+    },
+    {
+      "index": 6,
+      "text": "We settled on Friday night and kept the plan simple.",
+      "pronunciation": "quy se-đồd on phrai-đây nait en képt đờ plen sim-pồ.",
+      "vi": "Chúng tôi chốt tối thứ Sáu và giữ kế hoạch đơn giản.",
+      "start": 15.36,
+      "end": 18.52
+    }
+  ],
+  "audioMale1": "audio_male_1/024-rain-check.mp3",
+  "durationMale1": 25.89,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "My friend wanted to get dinner, but I was too tired.",
+      "pronunciation": "mai phren quăn-tịt tu gét đi-nờ, bớt ai wờz tu tai-ờrd.",
+      "vi": "Bạn tôi muốn đi ăn tối, nhưng tôi quá mệt.",
+      "start": 0.02,
+      "end": 5.19
+    },
+    {
+      "index": 2,
+      "text": "I did not want to cancel without saying why.",
+      "pronunciation": "ai đi nót quăn tu ken-sồ quì-thao sây-ing quai.",
+      "vi": "Tôi không muốn hủy mà không nói lý do.",
+      "start": 5.35,
+      "end": 9.1
+    },
+    {
+      "index": 3,
+      "text": "So I asked if we could take a rain check.",
+      "pronunciation": "sâu ai áskt if quy kud têik ờ rein chék.",
+      "vi": "Nên tôi hỏi liệu chúng tôi có thể hẹn dịp khác không.",
+      "start": 9.26,
+      "end": 13.28
+    },
+    {
+      "index": 4,
+      "text": "She understood and said we could move it to next week.",
+      "pronunciation": "shi ăn-đờ-stud en sed quy kud mu-vit tu nekst quik.",
+      "vi": "Cô ấy hiểu và nói chúng tôi có thể dời sang tuần sau.",
+      "start": 13.44,
+      "end": 18.17
+    },
+    {
+      "index": 5,
+      "text": "I thanked her for being flexible.",
+      "pronunciation": "ai thankt hờr fo bi-ing phlek-sờ-bồ.",
+      "vi": "Tôi cảm ơn cô ấy vì đã linh động.",
+      "start": 18.33,
+      "end": 21.03
+    },
+    {
+      "index": 6,
+      "text": "We settled on Friday night and kept the plan simple.",
+      "pronunciation": "quy se-đồd on phrai-đây nait en képt đờ plen sim-pồ.",
+      "vi": "Chúng tôi chốt tối thứ Sáu và giữ kế hoạch đơn giản.",
+      "start": 21.19,
+      "end": 25.81
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "My friend wanted to get dinner, but I was too tired.",
+      "pronunciation": "mai phren quăn-tịt tu gét đi-nờ, bớt ai wờz tu tai-ờrd.",
+      "vi": "Bạn tôi muốn đi ăn tối, nhưng tôi quá mệt.",
+      "start": 0.02,
+      "end": 4.62
+    },
+    {
+      "index": 2,
+      "text": "I did not want to cancel without saying why.",
+      "pronunciation": "ai đi nót quăn tu ken-sồ quì-thao sây-ing quai.",
+      "vi": "Tôi không muốn hủy mà không nói lý do.",
+      "start": 4.78,
+      "end": 7.98
+    },
+    {
+      "index": 3,
+      "text": "So I asked if we could take a rain check.",
+      "pronunciation": "sâu ai áskt if quy kud têik ờ rein chék.",
+      "vi": "Nên tôi hỏi liệu chúng tôi có thể hẹn dịp khác không.",
+      "start": 8.14,
+      "end": 11.33
+    },
+    {
+      "index": 4,
+      "text": "She understood and said we could move it to next week.",
+      "pronunciation": "shi ăn-đờ-stud en sed quy kud mu-vit tu nekst quik.",
+      "vi": "Cô ấy hiểu và nói chúng tôi có thể dời sang tuần sau.",
+      "start": 11.49,
+      "end": 15.43
+    },
+    {
+      "index": 5,
+      "text": "I thanked her for being flexible.",
+      "pronunciation": "ai thankt hờr fo bi-ing phlek-sờ-bồ.",
+      "vi": "Tôi cảm ơn cô ấy vì đã linh động.",
+      "start": 15.59,
+      "end": 18.28
+    },
+    {
+      "index": 6,
+      "text": "We settled on Friday night and kept the plan simple.",
+      "pronunciation": "quy se-đồd on phrai-đây nait en képt đờ plen sim-pồ.",
+      "vi": "Chúng tôi chốt tối thứ Sáu và giữ kế hoạch đơn giản.",
+      "start": 18.44,
+      "end": 22.92
+    }
+  ]
+}

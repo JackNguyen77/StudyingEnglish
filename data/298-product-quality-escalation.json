@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "298-product-quality-escalation",
+  "title": "Story 298 - Xử lý escalation chất lượng product",
+  "story": "stories/298-product-quality-escalation.md",
+  "audio": "audio/298-product-quality-escalation.mp3",
+  "duration": 33.22,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/298-product-quality-escalation.mp3",
+  "durationMale": 33.61,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the product quality escalation before the meeting started.",
+      "pronunciation": "ai quókt thru đờ produkt qua-lờ-ti eskalashần bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through escalation chất lượng product trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.88
+    },
+    {
+      "index": 2,
+      "text": "One repeat defect made the decision harder than expected.",
+      "pronunciation": "quăn repit defekt mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một defect lặp lại làm decision khó hơn dự kiến.",
+      "start": 5.04,
+      "end": 8.59
+    },
+    {
+      "index": 3,
+      "text": "I tried to trace failure patterns so the team had a clearer path.",
+      "pronunciation": "ai traid tu trase fâylure patterns sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố trace pattern lỗi để team có hướng rõ hơn.",
+      "start": 8.75,
+      "end": 14.4
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short quality escalation note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt qua-lờ-ti eskalashần note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú escalation chất lượng ngắn để capture các key points.",
+      "start": 14.56,
+      "end": 19.4
+    },
+    {
+      "index": 5,
+      "text": "I also had to check replacement options before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék replasement áp-shầnz bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra option thay thế trước khi chúng tôi thống nhất next step.",
+      "start": 19.56,
+      "end": 25.61
+    },
+    {
+      "index": 6,
+      "text": "That helped us protect customer confidence without losing momentum.",
+      "pronunciation": "đat heo ớs protekt kớs-tờ-mờr kón-phờ-đầnss quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi bảo vệ confidence của khách hàng mà không mất momentum.",
+      "start": 25.77,
+      "end": 29.47
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 29.63,
+      "end": 33.53
+    }
+  ],
+  "audioMale1": "audio_male_1/298-product-quality-escalation.mp3",
+  "durationMale1": 39.56,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the product quality escalation before the meeting started.",
+      "pronunciation": "ai quókt thru đờ produkt qua-lờ-ti eskalashần bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through escalation chất lượng product trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.78
+    },
+    {
+      "index": 2,
+      "text": "One repeat defect made the decision harder than expected.",
+      "pronunciation": "quăn repit defekt mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một defect lặp lại làm decision khó hơn dự kiến.",
+      "start": 5.94,
+      "end": 10.42
+    },
+    {
+      "index": 3,
+      "text": "I tried to trace failure patterns so the team had a clearer path.",
+      "pronunciation": "ai traid tu trase fâylure patterns sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố trace pattern lỗi để team có hướng rõ hơn.",
+      "start": 10.58,
+      "end": 17.03
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short quality escalation note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt qua-lờ-ti eskalashần note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú escalation chất lượng ngắn để capture các key points.",
+      "start": 17.19,
+      "end": 22.93
+    },
+    {
+      "index": 5,
+      "text": "I also had to check replacement options before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék replasement áp-shầnz bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra option thay thế trước khi chúng tôi thống nhất next step.",
+      "start": 23.09,
+      "end": 29
+    },
+    {
+      "index": 6,
+      "text": "That helped us protect customer confidence without losing momentum.",
+      "pronunciation": "đat heo ớs protekt kớs-tờ-mờr kón-phờ-đầnss quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi bảo vệ confidence của khách hàng mà không mất momentum.",
+      "start": 29.16,
+      "end": 34.45
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 34.61,
+      "end": 39.48
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the product quality escalation before the meeting started.",
+      "pronunciation": "ai quókt thru đờ produkt qua-lờ-ti eskalashần bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through escalation chất lượng product trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.45
+    },
+    {
+      "index": 2,
+      "text": "One repeat defect made the decision harder than expected.",
+      "pronunciation": "quăn repit defekt mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một defect lặp lại làm decision khó hơn dự kiến.",
+      "start": 5.61,
+      "end": 9.7
+    },
+    {
+      "index": 3,
+      "text": "I tried to trace failure patterns so the team had a clearer path.",
+      "pronunciation": "ai traid tu trase fâylure patterns sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố trace pattern lỗi để team có hướng rõ hơn.",
+      "start": 9.86,
+      "end": 14.58
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short quality escalation note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt qua-lờ-ti eskalashần note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú escalation chất lượng ngắn để capture các key points.",
+      "start": 14.74,
+      "end": 19.63
+    },
+    {
+      "index": 5,
+      "text": "I also had to check replacement options before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék replasement áp-shầnz bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra option thay thế trước khi chúng tôi thống nhất next step.",
+      "start": 19.79,
+      "end": 24.5
+    },
+    {
+      "index": 6,
+      "text": "That helped us protect customer confidence without losing momentum.",
+      "pronunciation": "đat heo ớs protekt kớs-tờ-mờr kón-phờ-đầnss quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi bảo vệ confidence của khách hàng mà không mất momentum.",
+      "start": 24.66,
+      "end": 29.07
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 29.23,
+      "end": 33.14
+    }
+  ]
+}

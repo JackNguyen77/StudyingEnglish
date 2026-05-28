@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "236-community-health-program",
+  "title": "Story 236 - Theo dõi chương trình sức khỏe cộng đồng",
+  "story": "stories/236-community-health-program.md",
+  "audio": "audio/236-community-health-program.mp3",
+  "duration": 30,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/236-community-health-program.mp3",
+  "durationMale": 32.12,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the health program before I made a final choice.",
+      "pronunciation": "ai chékt đờ helth prâu-gram bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra chương trình sức khỏe trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.47
+    },
+    {
+      "index": 2,
+      "text": "One local clinic made the situation less simple than it looked.",
+      "pronunciation": "quăn lâu-kồ kli-nik mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phòng khám địa phương làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.63,
+      "end": 9.21
+    },
+    {
+      "index": 3,
+      "text": "I decided to recruit volunteers before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu rekruit voluntirs bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định tuyển tình nguyện viên trước khi tiếp tục.",
+      "start": 9.37,
+      "end": 13.64
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short program note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt prâu-gram note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú chương trình ngắn để người kia hiểu tôi.",
+      "start": 13.8,
+      "end": 18.55
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check patient follow up instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék pây-shần pha-lâu-ấp in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra follow up bệnh nhân thay vì đoán.",
+      "start": 18.71,
+      "end": 22.8
+    },
+    {
+      "index": 6,
+      "text": "That helped me improve community care without adding extra stress.",
+      "pronunciation": "đat heo mi im-pruuv kommuniti kare quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi cải thiện chăm sóc cộng đồng mà không thêm căng thẳng.",
+      "start": 22.96,
+      "end": 27.36
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.52,
+      "end": 32.04
+    }
+  ],
+  "audioMale1": "audio_male_1/236-community-health-program.mp3",
+  "durationMale1": 32.29,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the health program before I made a final choice.",
+      "pronunciation": "ai chékt đờ helth prâu-gram bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra chương trình sức khỏe trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.46
+    },
+    {
+      "index": 2,
+      "text": "One local clinic made the situation less simple than it looked.",
+      "pronunciation": "quăn lâu-kồ kli-nik mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phòng khám địa phương làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.62,
+      "end": 9.21
+    },
+    {
+      "index": 3,
+      "text": "I decided to recruit volunteers before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu rekruit voluntirs bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định tuyển tình nguyện viên trước khi tiếp tục.",
+      "start": 9.37,
+      "end": 13.41
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short program note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt prâu-gram note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú chương trình ngắn để người kia hiểu tôi.",
+      "start": 13.57,
+      "end": 18.02
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check patient follow up instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék pây-shần pha-lâu-ấp in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra follow up bệnh nhân thay vì đoán.",
+      "start": 18.18,
+      "end": 21.91
+    },
+    {
+      "index": 6,
+      "text": "That helped me improve community care without adding extra stress.",
+      "pronunciation": "đat heo mi im-pruuv kommuniti kare quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi cải thiện chăm sóc cộng đồng mà không thêm căng thẳng.",
+      "start": 22.07,
+      "end": 26.67
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.83,
+      "end": 32.21
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the health program before I made a final choice.",
+      "pronunciation": "ai chékt đờ helth prâu-gram bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra chương trình sức khỏe trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.4
+    },
+    {
+      "index": 2,
+      "text": "One local clinic made the situation less simple than it looked.",
+      "pronunciation": "quăn lâu-kồ kli-nik mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phòng khám địa phương làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.56,
+      "end": 7.44
+    },
+    {
+      "index": 3,
+      "text": "I decided to recruit volunteers before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu rekruit voluntirs bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định tuyển tình nguyện viên trước khi tiếp tục.",
+      "start": 7.6,
+      "end": 11.2
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short program note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt prâu-gram note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú chương trình ngắn để người kia hiểu tôi.",
+      "start": 11.36,
+      "end": 16.14
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check patient follow up instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék pây-shần pha-lâu-ấp in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra follow up bệnh nhân thay vì đoán.",
+      "start": 16.3,
+      "end": 20.39
+    },
+    {
+      "index": 6,
+      "text": "That helped me improve community care without adding extra stress.",
+      "pronunciation": "đat heo mi im-pruuv kommuniti kare quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi cải thiện chăm sóc cộng đồng mà không thêm căng thẳng.",
+      "start": 20.55,
+      "end": 25.17
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.33,
+      "end": 29.92
+    }
+  ]
+}

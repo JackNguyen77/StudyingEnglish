@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "289-quarterly-business-review",
+  "title": "Story 289 - Chuẩn bị quarterly business review",
+  "story": "stories/289-quarterly-business-review.md",
+  "audio": "audio/289-quarterly-business-review.mp3",
+  "duration": 32.6,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/289-quarterly-business-review.mp3",
+  "durationMale": 32.39,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the quarterly business review before the meeting started.",
+      "pronunciation": "ai quókt thru đờ quarterli biz-nịt ri-viu bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through quarterly business review trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.66
+    },
+    {
+      "index": 2,
+      "text": "One missed target made the decision harder than expected.",
+      "pronunciation": "quăn mist tarjet mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một target bị miss làm decision khó hơn dự kiến.",
+      "start": 4.82,
+      "end": 8.31
+    },
+    {
+      "index": 3,
+      "text": "I tried to explain performance drivers so the team had a clearer path.",
+      "pronunciation": "ai traid tu eksplâyn pờr-fo-mầnss drivers sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố giải thích driver hiệu suất để team có hướng rõ hơn.",
+      "start": 8.47,
+      "end": 13.98
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short business review note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt biz-nịt ri-viu note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú business review ngắn để capture các key points.",
+      "start": 14.14,
+      "end": 18.76
+    },
+    {
+      "index": 5,
+      "text": "I also had to check next quarter risks before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék nekst quarter risks bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra risk quý sau trước khi chúng tôi thống nhất next step.",
+      "start": 18.92,
+      "end": 23.57
+    },
+    {
+      "index": 6,
+      "text": "That helped us reset the action list without losing momentum.",
+      "pronunciation": "đat heo ớs reset đờ ác-shần list quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi reset list hành động mà không mất momentum.",
+      "start": 23.73,
+      "end": 28.02
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 28.18,
+      "end": 32.31
+    }
+  ],
+  "audioMale1": "audio_male_1/289-quarterly-business-review.mp3",
+  "durationMale1": 35.77,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the quarterly business review before the meeting started.",
+      "pronunciation": "ai quókt thru đờ quarterli biz-nịt ri-viu bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through quarterly business review trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.11
+    },
+    {
+      "index": 2,
+      "text": "One missed target made the decision harder than expected.",
+      "pronunciation": "quăn mist tarjet mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một target bị miss làm decision khó hơn dự kiến.",
+      "start": 5.27,
+      "end": 9.25
+    },
+    {
+      "index": 3,
+      "text": "I tried to explain performance drivers so the team had a clearer path.",
+      "pronunciation": "ai traid tu eksplâyn pờr-fo-mầnss drivers sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố giải thích driver hiệu suất để team có hướng rõ hơn.",
+      "start": 9.41,
+      "end": 14.88
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short business review note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt biz-nịt ri-viu note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú business review ngắn để capture các key points.",
+      "start": 15.04,
+      "end": 19.74
+    },
+    {
+      "index": 5,
+      "text": "I also had to check next quarter risks before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék nekst quarter risks bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra risk quý sau trước khi chúng tôi thống nhất next step.",
+      "start": 19.9,
+      "end": 27.99
+    },
+    {
+      "index": 6,
+      "text": "That helped us reset the action list without losing momentum.",
+      "pronunciation": "đat heo ớs reset đờ ác-shần list quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi reset list hành động mà không mất momentum.",
+      "start": 28.15,
+      "end": 31.27
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 31.43,
+      "end": 35.69
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the quarterly business review before the meeting started.",
+      "pronunciation": "ai quókt thru đờ quarterli biz-nịt ri-viu bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through quarterly business review trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.7
+    },
+    {
+      "index": 2,
+      "text": "One missed target made the decision harder than expected.",
+      "pronunciation": "quăn mist tarjet mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một target bị miss làm decision khó hơn dự kiến.",
+      "start": 4.86,
+      "end": 8.44
+    },
+    {
+      "index": 3,
+      "text": "I tried to explain performance drivers so the team had a clearer path.",
+      "pronunciation": "ai traid tu eksplâyn pờr-fo-mầnss drivers sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố giải thích driver hiệu suất để team có hướng rõ hơn.",
+      "start": 8.6,
+      "end": 13.85
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short business review note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt biz-nịt ri-viu note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú business review ngắn để capture các key points.",
+      "start": 14.01,
+      "end": 18.82
+    },
+    {
+      "index": 5,
+      "text": "I also had to check next quarter risks before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék nekst quarter risks bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra risk quý sau trước khi chúng tôi thống nhất next step.",
+      "start": 18.98,
+      "end": 24.01
+    },
+    {
+      "index": 6,
+      "text": "That helped us reset the action list without losing momentum.",
+      "pronunciation": "đat heo ớs reset đờ ác-shần list quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi reset list hành động mà không mất momentum.",
+      "start": 24.17,
+      "end": 28.16
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 28.32,
+      "end": 32.52
+    }
+  ]
+}

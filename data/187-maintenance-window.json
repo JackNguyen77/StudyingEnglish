@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "187-maintenance-window",
+  "title": "Story 187 - Chọn maintenance window",
+  "story": "stories/187-maintenance-window.md",
+  "audio": "audio/187-maintenance-window.mp3",
+  "duration": 33.27,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/187-maintenance-window.mp3",
+  "durationMale": 30.55,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the maintenance window before I made a final choice.",
+      "pronunciation": "ai chékt đờ mâyntenanse quyn-đâu bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra khung bảo trì trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4
+    },
+    {
+      "index": 2,
+      "text": "One business hour conflict made the situation less simple than it looked.",
+      "pronunciation": "quăn biz-nịt ao-ờ konflikt mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Đụng giờ làm việc làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.16,
+      "end": 8.56
+    },
+    {
+      "index": 3,
+      "text": "I decided to schedule the downtime before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ske-jul đờ daontime bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định lên lịch downtime trước khi tiếp tục.",
+      "start": 8.72,
+      "end": 12.61
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short downtime note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt daontime note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú downtime ngắn để người kia hiểu tôi.",
+      "start": 12.77,
+      "end": 16.87
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the fallback plan instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ fallbak plen in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận phương án fallback thay vì đoán.",
+      "start": 17.03,
+      "end": 21.03
+    },
+    {
+      "index": 6,
+      "text": "That helped me reduce disruption without adding extra stress.",
+      "pronunciation": "đat heo mi ri-đus đis-rớp-shần quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giảm gián đoạn mà không thêm căng thẳng.",
+      "start": 21.19,
+      "end": 25.51
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.67,
+      "end": 30.47
+    }
+  ],
+  "audioMale1": "audio_male_1/187-maintenance-window.mp3",
+  "durationMale1": 37.88,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the maintenance window before I made a final choice.",
+      "pronunciation": "ai chékt đờ mâyntenanse quyn-đâu bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra khung bảo trì trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.99
+    },
+    {
+      "index": 2,
+      "text": "One business hour conflict made the situation less simple than it looked.",
+      "pronunciation": "quăn biz-nịt ao-ờ konflikt mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Đụng giờ làm việc làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.15,
+      "end": 10.85
+    },
+    {
+      "index": 3,
+      "text": "I decided to schedule the downtime before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ske-jul đờ daontime bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định lên lịch downtime trước khi tiếp tục.",
+      "start": 11.01,
+      "end": 15.8
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short downtime note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt daontime note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú downtime ngắn để người kia hiểu tôi.",
+      "start": 15.96,
+      "end": 21.81
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the fallback plan instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ fallbak plen in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận phương án fallback thay vì đoán.",
+      "start": 21.97,
+      "end": 27.04
+    },
+    {
+      "index": 6,
+      "text": "That helped me reduce disruption without adding extra stress.",
+      "pronunciation": "đat heo mi ri-đus đis-rớp-shần quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giảm gián đoạn mà không thêm căng thẳng.",
+      "start": 27.2,
+      "end": 32.23
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 32.39,
+      "end": 37.8
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the maintenance window before I made a final choice.",
+      "pronunciation": "ai chékt đờ mâyntenanse quyn-đâu bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra khung bảo trì trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.48
+    },
+    {
+      "index": 2,
+      "text": "One business hour conflict made the situation less simple than it looked.",
+      "pronunciation": "quăn biz-nịt ao-ờ konflikt mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Đụng giờ làm việc làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.64,
+      "end": 9.34
+    },
+    {
+      "index": 3,
+      "text": "I decided to schedule the downtime before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ske-jul đờ daontime bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định lên lịch downtime trước khi tiếp tục.",
+      "start": 9.5,
+      "end": 13.66
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short downtime note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt daontime note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú downtime ngắn để người kia hiểu tôi.",
+      "start": 13.82,
+      "end": 18.64
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the fallback plan instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ fallbak plen in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận phương án fallback thay vì đoán.",
+      "start": 18.8,
+      "end": 23.28
+    },
+    {
+      "index": 6,
+      "text": "That helped me reduce disruption without adding extra stress.",
+      "pronunciation": "đat heo mi ri-đus đis-rớp-shần quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giảm gián đoạn mà không thêm căng thẳng.",
+      "start": 23.44,
+      "end": 28.25
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.41,
+      "end": 33.19
+    }
+  ]
+}

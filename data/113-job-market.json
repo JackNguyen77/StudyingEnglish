@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "113-job-market",
+  "title": "Story 113 - Theo dõi thị trường việc làm",
+  "story": "stories/113-job-market.md",
+  "audio": "audio/113-job-market.mp3",
+  "duration": 29.78,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/113-job-market.mp3",
+  "durationMale": 29.67,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the job market in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ job ma-kịt in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả thị trường việc làm bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 4.75
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the hiring slowdown, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ hai-ring slâu-daun, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là tuyển dụng chậm lại, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 4.91,
+      "end": 11.17
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the skill gap because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ skil gap bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về khoảng cách kỹ năng vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.33,
+      "end": 15.75
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the training program as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ trây-ning prâu-gram as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến chương trình training như một chi tiết quan trọng.",
+      "start": 15.91,
+      "end": 20.35
+    },
+    {
+      "index": 5,
+      "text": "Experts said the career plan would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ kờ-riờr plen quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói kế hoạch nghề nghiệp sẽ quan trọng trong vài tháng tới.",
+      "start": 20.51,
+      "end": 24.84
+    },
+    {
+      "index": 6,
+      "text": "The story helped me adapt to new demand instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ờ-dapt tu niu đi-mand in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi thích nghi với nhu cầu mới thay vì chỉ đọc tiêu đề.",
+      "start": 25,
+      "end": 29.59
+    }
+  ],
+  "audioMale1": "audio_male_1/113-job-market.mp3",
+  "durationMale1": 34.5,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the job market in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ job ma-kịt in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả thị trường việc làm bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.87
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the hiring slowdown, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ hai-ring slâu-daun, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là tuyển dụng chậm lại, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 6.03,
+      "end": 12.45
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the skill gap because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ skil gap bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về khoảng cách kỹ năng vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12.61,
+      "end": 17.9
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the training program as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ trây-ning prâu-gram as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến chương trình training như một chi tiết quan trọng.",
+      "start": 18.06,
+      "end": 23.05
+    },
+    {
+      "index": 5,
+      "text": "Experts said the career plan would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ kờ-riờr plen quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói kế hoạch nghề nghiệp sẽ quan trọng trong vài tháng tới.",
+      "start": 23.21,
+      "end": 27.96
+    },
+    {
+      "index": 6,
+      "text": "The story helped me adapt to new demand instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ờ-dapt tu niu đi-mand in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi thích nghi với nhu cầu mới thay vì chỉ đọc tiêu đề.",
+      "start": 28.12,
+      "end": 34.42
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the job market in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ job ma-kịt in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả thị trường việc làm bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 4.56
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the hiring slowdown, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ hai-ring slâu-daun, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là tuyển dụng chậm lại, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 4.72,
+      "end": 10.55
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the skill gap because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ skil gap bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về khoảng cách kỹ năng vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 10.71,
+      "end": 15.54
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the training program as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ trây-ning prâu-gram as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến chương trình training như một chi tiết quan trọng.",
+      "start": 15.7,
+      "end": 20.12
+    },
+    {
+      "index": 5,
+      "text": "Experts said the career plan would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ kờ-riờr plen quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói kế hoạch nghề nghiệp sẽ quan trọng trong vài tháng tới.",
+      "start": 20.28,
+      "end": 24.61
+    },
+    {
+      "index": 6,
+      "text": "The story helped me adapt to new demand instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ờ-dapt tu niu đi-mand in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi thích nghi với nhu cầu mới thay vì chỉ đọc tiêu đề.",
+      "start": 24.77,
+      "end": 29.7
+    }
+  ]
+}

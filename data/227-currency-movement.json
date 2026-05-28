@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "227-currency-movement",
+  "title": "Story 227 - Theo dõi biến động tiền tệ",
+  "story": "stories/227-currency-movement.md",
+  "audio": "audio/227-currency-movement.mp3",
+  "duration": 33.94,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/227-currency-movement.mp3",
+  "durationMale": 30.12,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the currency movement before I made a final choice.",
+      "pronunciation": "ai chékt đờ kurrensi muv-mần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra biến động tiền tệ trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.9
+    },
+    {
+      "index": 2,
+      "text": "One market reaction made the situation less simple than it looked.",
+      "pronunciation": "quăn ma-kịt rikshần mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phản ứng thị trường làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.06,
+      "end": 8.14
+    },
+    {
+      "index": 3,
+      "text": "I decided to watch the exchange rate before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu watkh đờ ekskhanje rêit bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi tỷ giá trước khi tiếp tục.",
+      "start": 8.3,
+      "end": 12.36
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short finance note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt finanse note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú tài chính ngắn để người kia hiểu tôi.",
+      "start": 12.52,
+      "end": 17.22
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check import costs instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék im-po(r)t kosts in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra chi phí import thay vì đoán.",
+      "start": 17.38,
+      "end": 20.75
+    },
+    {
+      "index": 6,
+      "text": "That helped me understand business risk without adding extra stress.",
+      "pronunciation": "đat heo mi ăn-đờ-stan biz-nịt rít-sờk quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hiểu rủi ro kinh doanh mà không thêm căng thẳng.",
+      "start": 20.91,
+      "end": 25.07
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.23,
+      "end": 30.04
+    }
+  ],
+  "audioMale1": "audio_male_1/227-currency-movement.mp3",
+  "durationMale1": 38.77,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the currency movement before I made a final choice.",
+      "pronunciation": "ai chékt đờ kurrensi muv-mần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra biến động tiền tệ trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.42
+    },
+    {
+      "index": 2,
+      "text": "One market reaction made the situation less simple than it looked.",
+      "pronunciation": "quăn ma-kịt rikshần mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phản ứng thị trường làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.58,
+      "end": 10.75
+    },
+    {
+      "index": 3,
+      "text": "I decided to watch the exchange rate before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu watkh đờ ekskhanje rêit bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi tỷ giá trước khi tiếp tục.",
+      "start": 10.91,
+      "end": 16.09
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short finance note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt finanse note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú tài chính ngắn để người kia hiểu tôi.",
+      "start": 16.25,
+      "end": 23.4
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check import costs instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék im-po(r)t kosts in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra chi phí import thay vì đoán.",
+      "start": 23.56,
+      "end": 26.39
+    },
+    {
+      "index": 6,
+      "text": "That helped me understand business risk without adding extra stress.",
+      "pronunciation": "đat heo mi ăn-đờ-stan biz-nịt rít-sờk quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hiểu rủi ro kinh doanh mà không thêm căng thẳng.",
+      "start": 26.55,
+      "end": 32.18
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 32.34,
+      "end": 38.69
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the currency movement before I made a final choice.",
+      "pronunciation": "ai chékt đờ kurrensi muv-mần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra biến động tiền tệ trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.5
+    },
+    {
+      "index": 2,
+      "text": "One market reaction made the situation less simple than it looked.",
+      "pronunciation": "quăn ma-kịt rikshần mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phản ứng thị trường làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.66,
+      "end": 9.64
+    },
+    {
+      "index": 3,
+      "text": "I decided to watch the exchange rate before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu watkh đờ ekskhanje rêit bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi tỷ giá trước khi tiếp tục.",
+      "start": 9.8,
+      "end": 14.19
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short finance note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt finanse note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú tài chính ngắn để người kia hiểu tôi.",
+      "start": 14.35,
+      "end": 19.36
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check import costs instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék im-po(r)t kosts in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra chi phí import thay vì đoán.",
+      "start": 19.52,
+      "end": 24.09
+    },
+    {
+      "index": 6,
+      "text": "That helped me understand business risk without adding extra stress.",
+      "pronunciation": "đat heo mi ăn-đờ-stan biz-nịt rít-sờk quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hiểu rủi ro kinh doanh mà không thêm căng thẳng.",
+      "start": 24.25,
+      "end": 28.88
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 29.04,
+      "end": 33.86
+    }
+  ]
+}

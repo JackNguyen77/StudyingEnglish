@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "140-digital-habit",
+  "title": "Story 140 - Kiểm soát thời gian màn hình",
+  "story": "stories/140-digital-habit.md",
+  "audio": "audio/140-digital-habit.mp3",
+  "duration": 43.26,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/140-digital-habit.mp3",
+  "durationMale": 31.37,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked my screen time and felt surprised by the number.",
+      "pronunciation": "ai chékt mai skrin taim en felt surprist bai đờ năm-bờr.",
+      "vi": "Tôi kiểm tra thời gian màn hình và bất ngờ với con số đó.",
+      "start": 0.02,
+      "end": 4.26
+    },
+    {
+      "index": 2,
+      "text": "I set a usage limit for the app that stole most of my evening.",
+      "pronunciation": "ai set ờ yu-sij li-mịt fo đờ áp đat stole môust ờv mai iv-ning.",
+      "vi": "Tôi đặt giới hạn sử dụng cho app lấy mất phần lớn buổi tối.",
+      "start": 4.42,
+      "end": 8.73
+    },
+    {
+      "index": 3,
+      "text": "Bedtime mode made the screen less tempting after ten.",
+      "pronunciation": "bed-taim mâu mêid đờ skrin les tempting áp-tờ ten.",
+      "vi": "Chế độ giờ ngủ làm màn hình bớt hấp dẫn sau mười giờ.",
+      "start": 8.89,
+      "end": 12.7
+    },
+    {
+      "index": 4,
+      "text": "I moved social apps away to reduce distractions during study time.",
+      "pronunciation": "ai muvd sosial áps ờ-quây tu ri-đus đis-trak-shầnz đu-ring sta-đi taim.",
+      "vi": "Tôi chuyển app mạng xã hội ra xa để giảm xao nhãng lúc học.",
+      "start": 12.86,
+      "end": 17.6
+    },
+    {
+      "index": 5,
+      "text": "The goal was not to quit everything but to stay in control.",
+      "pronunciation": "đờ gâu wờz nót tu quit ev-ri-thinh bớt tu stây in kờn-trâu.",
+      "vi": "Mục tiêu không phải bỏ hết mọi thứ mà là giữ quyền kiểm soát.",
+      "start": 17.76,
+      "end": 21.88
+    },
+    {
+      "index": 6,
+      "text": "After one week, I had a healthier routine and slept earlier.",
+      "pronunciation": "áp-tờ quăn quik, ai had ờ hel-thi-ờr ru-tin en slept ơ-li-ờ.",
+      "vi": "Sau một tuần, tôi có thói quen lành mạnh hơn và ngủ sớm hơn.",
+      "start": 22.04,
+      "end": 25.95
+    },
+    {
+      "index": 7,
+      "text": "That small boundary helped me enjoy the evening without checking my phone again.",
+      "pronunciation": "đat smol bao-đờ-ri heo mi en-joy đờ iv-ning quì-thao ché-king mai phôn ờ-gen.",
+      "vi": "Ranh giới nhỏ đó giúp tôi tận hưởng buổi tối mà không kiểm tra điện thoại nữa.",
+      "start": 26.11,
+      "end": 31.29
+    }
+  ],
+  "audioMale1": "audio_male_1/140-digital-habit.mp3",
+  "durationMale1": 35.82,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked my screen time and felt surprised by the number.",
+      "pronunciation": "ai chékt mai skrin taim en felt surprist bai đờ năm-bờr.",
+      "vi": "Tôi kiểm tra thời gian màn hình và bất ngờ với con số đó.",
+      "start": 0.02,
+      "end": 4.92
+    },
+    {
+      "index": 2,
+      "text": "I set a usage limit for the app that stole most of my evening.",
+      "pronunciation": "ai set ờ yu-sij li-mịt fo đờ áp đat stole môust ờv mai iv-ning.",
+      "vi": "Tôi đặt giới hạn sử dụng cho app lấy mất phần lớn buổi tối.",
+      "start": 5.08,
+      "end": 9.85
+    },
+    {
+      "index": 3,
+      "text": "Bedtime mode made the screen less tempting after ten.",
+      "pronunciation": "bed-taim mâu mêid đờ skrin les tempting áp-tờ ten.",
+      "vi": "Chế độ giờ ngủ làm màn hình bớt hấp dẫn sau mười giờ.",
+      "start": 10.01,
+      "end": 14.38
+    },
+    {
+      "index": 4,
+      "text": "I moved social apps away to reduce distractions during study time.",
+      "pronunciation": "ai muvd sosial áps ờ-quây tu ri-đus đis-trak-shầnz đu-ring sta-đi taim.",
+      "vi": "Tôi chuyển app mạng xã hội ra xa để giảm xao nhãng lúc học.",
+      "start": 14.54,
+      "end": 19.74
+    },
+    {
+      "index": 5,
+      "text": "The goal was not to quit everything but to stay in control.",
+      "pronunciation": "đờ gâu wờz nót tu quit ev-ri-thinh bớt tu stây in kờn-trâu.",
+      "vi": "Mục tiêu không phải bỏ hết mọi thứ mà là giữ quyền kiểm soát.",
+      "start": 19.9,
+      "end": 24.73
+    },
+    {
+      "index": 6,
+      "text": "After one week, I had a healthier routine and slept earlier.",
+      "pronunciation": "áp-tờ quăn quik, ai had ờ hel-thi-ờr ru-tin en slept ơ-li-ờ.",
+      "vi": "Sau một tuần, tôi có thói quen lành mạnh hơn và ngủ sớm hơn.",
+      "start": 24.89,
+      "end": 29.82
+    },
+    {
+      "index": 7,
+      "text": "That small boundary helped me enjoy the evening without checking my phone again.",
+      "pronunciation": "đat smol bao-đờ-ri heo mi en-joy đờ iv-ning quì-thao ché-king mai phôn ờ-gen.",
+      "vi": "Ranh giới nhỏ đó giúp tôi tận hưởng buổi tối mà không kiểm tra điện thoại nữa.",
+      "start": 29.98,
+      "end": 35.74
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked my screen time and felt surprised by the number.",
+      "pronunciation": "ai chékt mai skrin taim en felt surprist bai đờ năm-bờr.",
+      "vi": "Tôi kiểm tra thời gian màn hình và bất ngờ với con số đó.",
+      "start": 0,
+      "end": 6.5
+    },
+    {
+      "index": 2,
+      "text": "I set a usage limit for the app that stole most of my evening.",
+      "pronunciation": "ai set ờ yu-sij li-mịt fo đờ áp đat stole môust ờv mai iv-ning.",
+      "vi": "Tôi đặt giới hạn sử dụng cho app lấy mất phần lớn buổi tối.",
+      "start": 6.61,
+      "end": 12.74
+    },
+    {
+      "index": 3,
+      "text": "Bedtime mode made the screen less tempting after ten.",
+      "pronunciation": "bed-taim mâu mêid đờ skrin les tempting áp-tờ ten.",
+      "vi": "Chế độ giờ ngủ làm màn hình bớt hấp dẫn sau mười giờ.",
+      "start": 12.85,
+      "end": 19.58
+    },
+    {
+      "index": 4,
+      "text": "I moved social apps away to reduce distractions during study time.",
+      "pronunciation": "ai muvd sosial áps ờ-quây tu ri-đus đis-trak-shầnz đu-ring sta-đi taim.",
+      "vi": "Tôi chuyển app mạng xã hội ra xa để giảm xao nhãng lúc học.",
+      "start": 19.69,
+      "end": 25.59
+    },
+    {
+      "index": 5,
+      "text": "The goal was not to quit everything but to stay in control.",
+      "pronunciation": "đờ gâu wờz nót tu quit ev-ri-thinh bớt tu stây in kờn-trâu.",
+      "vi": "Mục tiêu không phải bỏ hết mọi thứ mà là giữ quyền kiểm soát.",
+      "start": 25.7,
+      "end": 31.26
+    },
+    {
+      "index": 6,
+      "text": "After one week, I had a healthier routine and slept earlier.",
+      "pronunciation": "áp-tờ quăn quik, ai had ờ hel-thi-ờr ru-tin en slept ơ-li-ờ.",
+      "vi": "Sau một tuần, tôi có thói quen lành mạnh hơn và ngủ sớm hơn.",
+      "start": 31.37,
+      "end": 37.04
+    },
+    {
+      "index": 7,
+      "text": "That small boundary helped me enjoy the evening without checking my phone again.",
+      "pronunciation": "đat smol bao-đờ-ri heo mi en-joy đờ iv-ning quì-thao ché-king mai phôn ờ-gen.",
+      "vi": "Ranh giới nhỏ đó giúp tôi tận hưởng buổi tối mà không kiểm tra điện thoại nữa.",
+      "start": 37.15,
+      "end": 43.26
+    }
+  ]
+}

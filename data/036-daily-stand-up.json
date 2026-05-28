@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "036-daily-stand-up",
+  "title": "Story 036 - Họp nhanh hằng ngày",
+  "story": "stories/036-daily-stand-up.md",
+  "audio": "audio/036-daily-stand-up.mp3",
+  "duration": 18.04,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/036-daily-stand-up.mp3",
+  "durationMale": 18.04,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "At the daily stand-up, I kept my update short.",
+      "pronunciation": "at đờ đây-li stan-đấp, ai képt mai ấp-đêit soọt.",
+      "vi": "Trong buổi họp nhanh hằng ngày, tôi báo cáo thật ngắn gọn.",
+      "start": 0.02,
+      "end": 3.07
+    },
+    {
+      "index": 2,
+      "text": "I told the team what I worked on yesterday.",
+      "pronunciation": "ai tâu đờ tim quát ai quớrkt on yes-tờ-đây.",
+      "vi": "Tôi nói với cả nhóm hôm qua tôi đã làm gì.",
+      "start": 3.23,
+      "end": 5.78
+    },
+    {
+      "index": 3,
+      "text": "Then I explained what was blocking me.",
+      "pronunciation": "đen ai ích-splêind quát wờz bló-king mi.",
+      "vi": "Sau đó, tôi giải thích điều gì đang cản tôi lại.",
+      "start": 5.94,
+      "end": 8.24
+    },
+    {
+      "index": 4,
+      "text": "My lead asked one follow-up question.",
+      "pronunciation": "mai lid áskt quăn pha-lâu-ấp ques-chần.",
+      "vi": "Lead của tôi hỏi một câu hỏi theo sau.",
+      "start": 8.4,
+      "end": 11.15
+    },
+    {
+      "index": 5,
+      "text": "We agreed on one action item after the call.",
+      "pronunciation": "quy ờ-grid on quăn ác-shần ai-tầm áp-tờ đờ kol.",
+      "vi": "Chúng tôi thống nhất một việc cần làm sau cuộc gọi.",
+      "start": 11.31,
+      "end": 14.63
+    },
+    {
+      "index": 6,
+      "text": "The short meeting helped the whole team stay aligned.",
+      "pronunciation": "đờ soọt mi-ting heo đờ hâu tim stây ờ-laind.",
+      "vi": "Cuộc họp ngắn đó giúp cả nhóm giữ cùng hướng.",
+      "start": 14.79,
+      "end": 17.96
+    }
+  ],
+  "audioMale1": "audio_male_1/036-daily-stand-up.mp3",
+  "durationMale1": 22.23,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "At the daily stand-up, I kept my update short.",
+      "pronunciation": "at đờ đây-li stan-đấp, ai képt mai ấp-đêit soọt.",
+      "vi": "Trong buổi họp nhanh hằng ngày, tôi báo cáo thật ngắn gọn.",
+      "start": 0.02,
+      "end": 4.18
+    },
+    {
+      "index": 2,
+      "text": "I told the team what I worked on yesterday.",
+      "pronunciation": "ai tâu đờ tim quát ai quớrkt on yes-tờ-đây.",
+      "vi": "Tôi nói với cả nhóm hôm qua tôi đã làm gì.",
+      "start": 4.34,
+      "end": 7.41
+    },
+    {
+      "index": 3,
+      "text": "Then I explained what was blocking me.",
+      "pronunciation": "đen ai ích-splêind quát wờz bló-king mi.",
+      "vi": "Sau đó, tôi giải thích điều gì đang cản tôi lại.",
+      "start": 7.57,
+      "end": 10.38
+    },
+    {
+      "index": 4,
+      "text": "My lead asked one follow-up question.",
+      "pronunciation": "mai lid áskt quăn pha-lâu-ấp ques-chần.",
+      "vi": "Lead của tôi hỏi một câu hỏi theo sau.",
+      "start": 10.54,
+      "end": 13.83
+    },
+    {
+      "index": 5,
+      "text": "We agreed on one action item after the call.",
+      "pronunciation": "quy ờ-grid on quăn ác-shần ai-tầm áp-tờ đờ kol.",
+      "vi": "Chúng tôi thống nhất một việc cần làm sau cuộc gọi.",
+      "start": 13.99,
+      "end": 17.53
+    },
+    {
+      "index": 6,
+      "text": "The short meeting helped the whole team stay aligned.",
+      "pronunciation": "đờ soọt mi-ting heo đờ hâu tim stây ờ-laind.",
+      "vi": "Cuộc họp ngắn đó giúp cả nhóm giữ cùng hướng.",
+      "start": 17.69,
+      "end": 22.15
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "At the daily stand-up, I kept my update short.",
+      "pronunciation": "at đờ đây-li stan-đấp, ai képt mai ấp-đêit soọt.",
+      "vi": "Trong buổi họp nhanh hằng ngày, tôi báo cáo thật ngắn gọn.",
+      "start": 0.02,
+      "end": 3.66
+    },
+    {
+      "index": 2,
+      "text": "I told the team what I worked on yesterday.",
+      "pronunciation": "ai tâu đờ tim quát ai quớrkt on yes-tờ-đây.",
+      "vi": "Tôi nói với cả nhóm hôm qua tôi đã làm gì.",
+      "start": 3.82,
+      "end": 6.36
+    },
+    {
+      "index": 3,
+      "text": "Then I explained what was blocking me.",
+      "pronunciation": "đen ai ích-splêind quát wờz bló-king mi.",
+      "vi": "Sau đó, tôi giải thích điều gì đang cản tôi lại.",
+      "start": 6.52,
+      "end": 8.82
+    },
+    {
+      "index": 4,
+      "text": "My lead asked one follow-up question.",
+      "pronunciation": "mai lid áskt quăn pha-lâu-ấp ques-chần.",
+      "vi": "Lead của tôi hỏi một câu hỏi theo sau.",
+      "start": 8.98,
+      "end": 11.59
+    },
+    {
+      "index": 5,
+      "text": "We agreed on one action item after the call.",
+      "pronunciation": "quy ờ-grid on quăn ác-shần ai-tầm áp-tờ đờ kol.",
+      "vi": "Chúng tôi thống nhất một việc cần làm sau cuộc gọi.",
+      "start": 11.75,
+      "end": 14.68
+    },
+    {
+      "index": 6,
+      "text": "The short meeting helped the whole team stay aligned.",
+      "pronunciation": "đờ soọt mi-ting heo đờ hâu tim stây ờ-laind.",
+      "vi": "Cuộc họp ngắn đó giúp cả nhóm giữ cùng hướng.",
+      "start": 14.84,
+      "end": 17.96
+    }
+  ]
+}

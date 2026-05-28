@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "161-renew-passport",
+  "title": "Story 161 - Gia hạn hộ chiếu",
+  "story": "stories/161-renew-passport.md",
+  "audio": "audio/161-renew-passport.mp3",
+  "duration": 30.84,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/161-renew-passport.mp3",
+  "durationMale": 31.61,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the passport renewal before I made a final choice.",
+      "pronunciation": "ai chékt đờ passport ri-niu-ồ bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra gia hạn hộ chiếu trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.52
+    },
+    {
+      "index": 2,
+      "text": "One old photo made the situation less simple than it looked.",
+      "pronunciation": "quăn âu photo mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Ảnh cũ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.68,
+      "end": 8.59
+    },
+    {
+      "index": 3,
+      "text": "I decided to book an appointment before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu buk ờn ờ-poi-mần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định đặt lịch hẹn trước khi tiếp tục.",
+      "start": 8.75,
+      "end": 12.67
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short renewal checklist so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ri-niu-ồ chék-list sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một danh sách gia hạn ngắn để người kia hiểu tôi.",
+      "start": 12.83,
+      "end": 17.98
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the expiry date instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ ekspiri đêit in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra ngày hết hạn thay vì đoán.",
+      "start": 18.14,
+      "end": 22.32
+    },
+    {
+      "index": 6,
+      "text": "That helped me avoid last minute stress without adding extra stress.",
+      "pronunciation": "đat heo mi ờ-void last mi-nịt stres quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tránh căng thẳng sát giờ mà không thêm căng thẳng.",
+      "start": 22.48,
+      "end": 26.8
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.96,
+      "end": 31.53
+    }
+  ],
+  "audioMale1": "audio_male_1/161-renew-passport.mp3",
+  "durationMale1": 36.5,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the passport renewal before I made a final choice.",
+      "pronunciation": "ai chékt đờ passport ri-niu-ồ bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra gia hạn hộ chiếu trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.61
+    },
+    {
+      "index": 2,
+      "text": "One old photo made the situation less simple than it looked.",
+      "pronunciation": "quăn âu photo mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Ảnh cũ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.77,
+      "end": 9.19
+    },
+    {
+      "index": 3,
+      "text": "I decided to book an appointment before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu buk ờn ờ-poi-mần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định đặt lịch hẹn trước khi tiếp tục.",
+      "start": 9.35,
+      "end": 13.55
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short renewal checklist so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ri-niu-ồ chék-list sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một danh sách gia hạn ngắn để người kia hiểu tôi.",
+      "start": 13.71,
+      "end": 19.18
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the expiry date instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ ekspiri đêit in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra ngày hết hạn thay vì đoán.",
+      "start": 19.34,
+      "end": 27.1
+    },
+    {
+      "index": 6,
+      "text": "That helped me avoid last minute stress without adding extra stress.",
+      "pronunciation": "đat heo mi ờ-void last mi-nịt stres quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tránh căng thẳng sát giờ mà không thêm căng thẳng.",
+      "start": 27.26,
+      "end": 30.32
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.48,
+      "end": 36.42
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the passport renewal before I made a final choice.",
+      "pronunciation": "ai chékt đờ passport ri-niu-ồ bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra gia hạn hộ chiếu trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.86
+    },
+    {
+      "index": 2,
+      "text": "One old photo made the situation less simple than it looked.",
+      "pronunciation": "quăn âu photo mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Ảnh cũ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.02,
+      "end": 8.12
+    },
+    {
+      "index": 3,
+      "text": "I decided to book an appointment before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu buk ờn ờ-poi-mần bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định đặt lịch hẹn trước khi tiếp tục.",
+      "start": 8.28,
+      "end": 11.97
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short renewal checklist so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ri-niu-ồ chék-list sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một danh sách gia hạn ngắn để người kia hiểu tôi.",
+      "start": 12.13,
+      "end": 16.84
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the expiry date instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ ekspiri đêit in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra ngày hết hạn thay vì đoán.",
+      "start": 17,
+      "end": 20.89
+    },
+    {
+      "index": 6,
+      "text": "That helped me avoid last minute stress without adding extra stress.",
+      "pronunciation": "đat heo mi ờ-void last mi-nịt stres quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tránh căng thẳng sát giờ mà không thêm căng thẳng.",
+      "start": 21.05,
+      "end": 25.66
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.82,
+      "end": 30.76
+    }
+  ]
+}

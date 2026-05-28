@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "164-weekend-trip",
+  "title": "Story 164 - Lên chuyến đi cuối tuần",
+  "story": "stories/164-weekend-trip.md",
+  "audio": "audio/164-weekend-trip.mp3",
+  "duration": 29.62,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/164-weekend-trip.mp3",
+  "durationMale": 32.49,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the trip route before I made a final choice.",
+      "pronunciation": "ai chékt đờ trip rut bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tuyến đi trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.04
+    },
+    {
+      "index": 2,
+      "text": "One rainy forecast made the situation less simple than it looked.",
+      "pronunciation": "quăn râyni pho-kast mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Dự báo mưa làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.2,
+      "end": 8.82
+    },
+    {
+      "index": 3,
+      "text": "I decided to book the tickets before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu buk đờ tikets bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định đặt vé trước khi tiếp tục.",
+      "start": 8.98,
+      "end": 12.53
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short travel note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt travel note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú chuyến đi ngắn để người kia hiểu tôi.",
+      "start": 12.69,
+      "end": 19.86
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the departure time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ deparkhờ taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra giờ khởi hành thay vì đoán.",
+      "start": 20.02,
+      "end": 24.16
+    },
+    {
+      "index": 6,
+      "text": "That helped me adjust the travel plan without adding extra stress.",
+      "pronunciation": "đat heo mi ờ-jớst đờ travel plen quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi điều chỉnh kế hoạch đi mà không thêm căng thẳng.",
+      "start": 24.32,
+      "end": 27.73
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.89,
+      "end": 32.41
+    }
+  ],
+  "audioMale1": "audio_male_1/164-weekend-trip.mp3",
+  "durationMale1": 33.83,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the trip route before I made a final choice.",
+      "pronunciation": "ai chékt đờ trip rut bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tuyến đi trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.85
+    },
+    {
+      "index": 2,
+      "text": "One rainy forecast made the situation less simple than it looked.",
+      "pronunciation": "quăn râyni pho-kast mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Dự báo mưa làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.01,
+      "end": 9.97
+    },
+    {
+      "index": 3,
+      "text": "I decided to book the tickets before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu buk đờ tikets bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định đặt vé trước khi tiếp tục.",
+      "start": 10.13,
+      "end": 14.18
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short travel note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt travel note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú chuyến đi ngắn để người kia hiểu tôi.",
+      "start": 14.34,
+      "end": 18.78
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the departure time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ deparkhờ taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra giờ khởi hành thay vì đoán.",
+      "start": 18.94,
+      "end": 23.27
+    },
+    {
+      "index": 6,
+      "text": "That helped me adjust the travel plan without adding extra stress.",
+      "pronunciation": "đat heo mi ờ-jớst đờ travel plen quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi điều chỉnh kế hoạch đi mà không thêm căng thẳng.",
+      "start": 23.43,
+      "end": 28.14
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.3,
+      "end": 33.75
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the trip route before I made a final choice.",
+      "pronunciation": "ai chékt đờ trip rut bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tuyến đi trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.87
+    },
+    {
+      "index": 2,
+      "text": "One rainy forecast made the situation less simple than it looked.",
+      "pronunciation": "quăn râyni pho-kast mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Dự báo mưa làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.03,
+      "end": 8.13
+    },
+    {
+      "index": 3,
+      "text": "I decided to book the tickets before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu buk đờ tikets bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định đặt vé trước khi tiếp tục.",
+      "start": 8.29,
+      "end": 11.74
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short travel note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt travel note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú chuyến đi ngắn để người kia hiểu tôi.",
+      "start": 11.9,
+      "end": 16.03
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the departure time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ deparkhờ taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra giờ khởi hành thay vì đoán.",
+      "start": 16.19,
+      "end": 20.1
+    },
+    {
+      "index": 6,
+      "text": "That helped me adjust the travel plan without adding extra stress.",
+      "pronunciation": "đat heo mi ờ-jớst đờ travel plen quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi điều chỉnh kế hoạch đi mà không thêm căng thẳng.",
+      "start": 20.26,
+      "end": 24.65
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 24.81,
+      "end": 29.54
+    }
+  ]
+}

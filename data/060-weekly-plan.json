@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "060-weekly-plan",
+  "title": "Story 060 - Lên kế hoạch tuần",
+  "story": "stories/060-weekly-plan.md",
+  "audio": "audio/060-weekly-plan.mp3",
+  "duration": 30.6,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/060-weekly-plan.mp3",
+  "durationMale": 31.73,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the weekly plan so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ wikli plen sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở kế hoạch tuần để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 6.45
+    },
+    {
+      "index": 2,
+      "text": "The goal was to set priorities without losing important details.",
+      "pronunciation": "đờ gâu wờz tu set prai-o-rờ-tiz quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là đặt ưu tiên mà không làm mất các chi tiết quan trọng.",
+      "start": 6.61,
+      "end": 11.43
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the busy schedule and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ bi-zi ske-jul en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra lịch bận và hỏi ai nên xử lý tiếp.",
+      "start": 11.59,
+      "end": 16.45
+    },
+    {
+      "index": 4,
+      "text": "We agreed to move low-risk tasks before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu muv lâu-rít-sờk tát-sờks bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất dời các việc ít rủi ro trước khi có ai đi tiếp.",
+      "start": 16.61,
+      "end": 21.16
+    },
+    {
+      "index": 5,
+      "text": "I shared the weekly checkpoint after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ wikli khekpoint áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ điểm kiểm tra hằng tuần sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 21.32,
+      "end": 26.79
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us stay on track later in the day.",
+      "pronunciation": "đat smol step heo ớs stây on trék lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi giữ đúng hướng về sau trong ngày.",
+      "start": 26.95,
+      "end": 31.65
+    }
+  ],
+  "audioMale1": "audio_male_1/060-weekly-plan.mp3",
+  "durationMale1": 31.31,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the weekly plan so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ wikli plen sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở kế hoạch tuần để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 6.16
+    },
+    {
+      "index": 2,
+      "text": "The goal was to set priorities without losing important details.",
+      "pronunciation": "đờ gâu wờz tu set prai-o-rờ-tiz quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là đặt ưu tiên mà không làm mất các chi tiết quan trọng.",
+      "start": 6.32,
+      "end": 11.34
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the busy schedule and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ bi-zi ske-jul en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra lịch bận và hỏi ai nên xử lý tiếp.",
+      "start": 11.5,
+      "end": 16.29
+    },
+    {
+      "index": 4,
+      "text": "We agreed to move low-risk tasks before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu muv lâu-rít-sờk tát-sờks bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất dời các việc ít rủi ro trước khi có ai đi tiếp.",
+      "start": 16.45,
+      "end": 19.17
+    },
+    {
+      "index": 5,
+      "text": "I shared the weekly checkpoint after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ wikli khekpoint áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ điểm kiểm tra hằng tuần sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 19.33,
+      "end": 26.55
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us stay on track later in the day.",
+      "pronunciation": "đat smol step heo ớs stây on trék lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi giữ đúng hướng về sau trong ngày.",
+      "start": 26.71,
+      "end": 31.23
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the weekly plan so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ wikli plen sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở kế hoạch tuần để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.59
+    },
+    {
+      "index": 2,
+      "text": "The goal was to set priorities without losing important details.",
+      "pronunciation": "đờ gâu wờz tu set prai-o-rờ-tiz quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là đặt ưu tiên mà không làm mất các chi tiết quan trọng.",
+      "start": 5.75,
+      "end": 10.83
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the busy schedule and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ bi-zi ske-jul en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra lịch bận và hỏi ai nên xử lý tiếp.",
+      "start": 10.99,
+      "end": 15.84
+    },
+    {
+      "index": 4,
+      "text": "We agreed to move low-risk tasks before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu muv lâu-rít-sờk tát-sờks bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất dời các việc ít rủi ro trước khi có ai đi tiếp.",
+      "start": 16,
+      "end": 18.94
+    },
+    {
+      "index": 5,
+      "text": "I shared the weekly checkpoint after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ wikli khekpoint áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ điểm kiểm tra hằng tuần sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 19.1,
+      "end": 26.4
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us stay on track later in the day.",
+      "pronunciation": "đat smol step heo ớs stây on trék lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi giữ đúng hướng về sau trong ngày.",
+      "start": 26.56,
+      "end": 30.52
+    }
+  ]
+}

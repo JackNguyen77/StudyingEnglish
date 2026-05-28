@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "080-configuration",
+  "title": "Story 080 - Chỉnh configuration",
+  "story": "stories/080-configuration.md",
+  "audio": "audio/080-configuration.mp3",
+  "duration": 33.31,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/080-configuration.mp3",
+  "durationMale": 35.06,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the configuration setting in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ kờn-fig-yu-rây-shần se-ting in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả setting cấu hình bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 4.57
+    },
+    {
+      "index": 2,
+      "text": "I asked about the default value before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ đi-folt va-lyu bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về giá trị mặc định trước khi đề xuất bất cứ điều gì.",
+      "start": 4.73,
+      "end": 10.79
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the wrong behavior, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ rong bi-hâyv-yờr, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là hành vi sai, không chỉ là yêu cầu đầu tiên.",
+      "start": 10.95,
+      "end": 13.88
+    },
+    {
+      "index": 4,
+      "text": "We agreed to adjust the setting and check it with one example.",
+      "pronunciation": "quy ờ-grid tu ờ-jớst đờ se-ting en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất điều chỉnh setting và kiểm tra bằng một ví dụ.",
+      "start": 14.04,
+      "end": 20.54
+    },
+    {
+      "index": 5,
+      "text": "I wrote the change note so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ chênj note sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết ghi chú thay đổi để mọi người có thể xem cùng một quyết định.",
+      "start": 20.7,
+      "end": 25.16
+    },
+    {
+      "index": 6,
+      "text": "That helped us keep the setup simple without adding extra work.",
+      "pronunciation": "đat heo ớs kip đờ se-tấp sim-pồ quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi giữ setup đơn giản mà không thêm việc dư.",
+      "start": 25.32,
+      "end": 29.97
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 30.13,
+      "end": 34.98
+    }
+  ],
+  "audioMale1": "audio_male_1/080-configuration.mp3",
+  "durationMale1": 35.72,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the configuration setting in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ kờn-fig-yu-rây-shần se-ting in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả setting cấu hình bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 6.42
+    },
+    {
+      "index": 2,
+      "text": "I asked about the default value before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ đi-folt va-lyu bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về giá trị mặc định trước khi đề xuất bất cứ điều gì.",
+      "start": 6.58,
+      "end": 11.36
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the wrong behavior, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ rong bi-hâyv-yờr, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là hành vi sai, không chỉ là yêu cầu đầu tiên.",
+      "start": 11.52,
+      "end": 14.64
+    },
+    {
+      "index": 4,
+      "text": "We agreed to adjust the setting and check it with one example.",
+      "pronunciation": "quy ờ-grid tu ờ-jớst đờ se-ting en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất điều chỉnh setting và kiểm tra bằng một ví dụ.",
+      "start": 14.8,
+      "end": 21.39
+    },
+    {
+      "index": 5,
+      "text": "I wrote the change note so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ chênj note sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết ghi chú thay đổi để mọi người có thể xem cùng một quyết định.",
+      "start": 21.55,
+      "end": 26.22
+    },
+    {
+      "index": 6,
+      "text": "That helped us keep the setup simple without adding extra work.",
+      "pronunciation": "đat heo ớs kip đờ se-tấp sim-pồ quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi giữ setup đơn giản mà không thêm việc dư.",
+      "start": 26.38,
+      "end": 30.7
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 30.86,
+      "end": 35.64
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the configuration setting in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ kờn-fig-yu-rây-shần se-ting in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả setting cấu hình bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.74
+    },
+    {
+      "index": 2,
+      "text": "I asked about the default value before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ đi-folt va-lyu bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về giá trị mặc định trước khi đề xuất bất cứ điều gì.",
+      "start": 5.9,
+      "end": 10.1
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the wrong behavior, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ rong bi-hâyv-yờr, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là hành vi sai, không chỉ là yêu cầu đầu tiên.",
+      "start": 10.26,
+      "end": 13.1
+    },
+    {
+      "index": 4,
+      "text": "We agreed to adjust the setting and check it with one example.",
+      "pronunciation": "quy ờ-grid tu ờ-jớst đờ se-ting en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất điều chỉnh setting và kiểm tra bằng một ví dụ.",
+      "start": 13.26,
+      "end": 17.53
+    },
+    {
+      "index": 5,
+      "text": "I wrote the change note so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ chênj note sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết ghi chú thay đổi để mọi người có thể xem cùng một quyết định.",
+      "start": 17.69,
+      "end": 24.18
+    },
+    {
+      "index": 6,
+      "text": "That helped us keep the setup simple without adding extra work.",
+      "pronunciation": "đat heo ớs kip đờ se-tấp sim-pồ quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi giữ setup đơn giản mà không thêm việc dư.",
+      "start": 24.34,
+      "end": 28.14
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 28.3,
+      "end": 33.23
+    }
+  ]
+}

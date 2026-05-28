@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "235-election-turnout",
+  "title": "Story 235 - Nghe về turnout bầu cử",
+  "story": "stories/235-election-turnout.md",
+  "audio": "audio/235-election-turnout.mp3",
+  "duration": 33.89,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/235-election-turnout.mp3",
+  "durationMale": 31.51,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the voter turnout before I made a final choice.",
+      "pronunciation": "ai chékt đờ voter turnaot bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tỷ lệ cử tri đi bầu trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.31
+    },
+    {
+      "index": 2,
+      "text": "One close race made the situation less simple than it looked.",
+      "pronunciation": "quăn klose rase mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Cuộc đua sít sao làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.47,
+      "end": 8.67
+    },
+    {
+      "index": 3,
+      "text": "I decided to compare district results before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kompare distrikt results bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định so sánh kết quả các khu trước khi tiếp tục.",
+      "start": 8.83,
+      "end": 12.99
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short election note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt elekshần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú bầu cử ngắn để người kia hiểu tôi.",
+      "start": 13.15,
+      "end": 17.73
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check youth participation instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék yaoth partisipashần in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra sự tham gia của giới trẻ thay vì đoán.",
+      "start": 17.89,
+      "end": 22.43
+    },
+    {
+      "index": 6,
+      "text": "That helped me understand public mood without adding extra stress.",
+      "pronunciation": "đat heo mi ăn-đờ-stan pớ-blik mud quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hiểu tâm trạng công chúng mà không thêm căng thẳng.",
+      "start": 22.59,
+      "end": 27.07
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.23,
+      "end": 31.43
+    }
+  ],
+  "audioMale1": "audio_male_1/235-election-turnout.mp3",
+  "durationMale1": 36.34,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the voter turnout before I made a final choice.",
+      "pronunciation": "ai chékt đờ voter turnaot bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tỷ lệ cử tri đi bầu trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.51
+    },
+    {
+      "index": 2,
+      "text": "One close race made the situation less simple than it looked.",
+      "pronunciation": "quăn klose rase mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Cuộc đua sít sao làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.67,
+      "end": 9.55
+    },
+    {
+      "index": 3,
+      "text": "I decided to compare district results before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kompare distrikt results bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định so sánh kết quả các khu trước khi tiếp tục.",
+      "start": 9.71,
+      "end": 14.63
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short election note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt elekshần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú bầu cử ngắn để người kia hiểu tôi.",
+      "start": 14.79,
+      "end": 19.91
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check youth participation instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék yaoth partisipashần in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra sự tham gia của giới trẻ thay vì đoán.",
+      "start": 20.07,
+      "end": 25.2
+    },
+    {
+      "index": 6,
+      "text": "That helped me understand public mood without adding extra stress.",
+      "pronunciation": "đat heo mi ăn-đờ-stan pớ-blik mud quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hiểu tâm trạng công chúng mà không thêm căng thẳng.",
+      "start": 25.36,
+      "end": 30.68
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.84,
+      "end": 36.26
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the voter turnout before I made a final choice.",
+      "pronunciation": "ai chékt đờ voter turnaot bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tỷ lệ cử tri đi bầu trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.17
+    },
+    {
+      "index": 2,
+      "text": "One close race made the situation less simple than it looked.",
+      "pronunciation": "quăn klose rase mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Cuộc đua sít sao làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.33,
+      "end": 9.56
+    },
+    {
+      "index": 3,
+      "text": "I decided to compare district results before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kompare distrikt results bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định so sánh kết quả các khu trước khi tiếp tục.",
+      "start": 9.72,
+      "end": 14.42
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short election note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt elekshần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú bầu cử ngắn để người kia hiểu tôi.",
+      "start": 14.58,
+      "end": 19.53
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check youth participation instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék yaoth partisipashần in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra sự tham gia của giới trẻ thay vì đoán.",
+      "start": 19.69,
+      "end": 23.96
+    },
+    {
+      "index": 6,
+      "text": "That helped me understand public mood without adding extra stress.",
+      "pronunciation": "đat heo mi ăn-đờ-stan pớ-blik mud quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hiểu tâm trạng công chúng mà không thêm căng thẳng.",
+      "start": 24.12,
+      "end": 28.85
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 29.01,
+      "end": 33.81
+    }
+  ]
+}

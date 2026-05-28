@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "228-interest-rate-decision",
+  "title": "Story 228 - Nghe quyết định lãi suất",
+  "story": "stories/228-interest-rate-decision.md",
+  "audio": "audio/228-interest-rate-decision.mp3",
+  "duration": 34.95,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/228-interest-rate-decision.mp3",
+  "durationMale": 33.11,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the rate decision before I made a final choice.",
+      "pronunciation": "ai chékt đờ rêit desizhần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra quyết định lãi suất trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.78
+    },
+    {
+      "index": 2,
+      "text": "One loan pressure made the situation less simple than it looked.",
+      "pronunciation": "quăn loan pre-shờr mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Áp lực khoản vay làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.94,
+      "end": 9.07
+    },
+    {
+      "index": 3,
+      "text": "I decided to read central bank comments before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu rid sentral bank ko-ments bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định đọc comment của ngân hàng trung ương trước khi tiếp tục.",
+      "start": 9.23,
+      "end": 13.97
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short rate note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt rêit note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú lãi suất ngắn để người kia hiểu tôi.",
+      "start": 14.13,
+      "end": 18.6
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check mortgage impact instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék mortgaje impakt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra impact khoản vay nhà thay vì đoán.",
+      "start": 18.76,
+      "end": 22.88
+    },
+    {
+      "index": 6,
+      "text": "That helped me follow financial signals without adding extra stress.",
+      "pronunciation": "đat heo mi pha-lâu finansial signals quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi theo dõi tín hiệu tài chính mà không thêm căng thẳng.",
+      "start": 23.04,
+      "end": 27.67
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.83,
+      "end": 33.03
+    }
+  ],
+  "audioMale1": "audio_male_1/228-interest-rate-decision.mp3",
+  "durationMale1": 36.39,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the rate decision before I made a final choice.",
+      "pronunciation": "ai chékt đờ rêit desizhần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra quyết định lãi suất trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.82
+    },
+    {
+      "index": 2,
+      "text": "One loan pressure made the situation less simple than it looked.",
+      "pronunciation": "quăn loan pre-shờr mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Áp lực khoản vay làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.98,
+      "end": 10.11
+    },
+    {
+      "index": 3,
+      "text": "I decided to read central bank comments before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu rid sentral bank ko-ments bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định đọc comment của ngân hàng trung ương trước khi tiếp tục.",
+      "start": 10.27,
+      "end": 15.16
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short rate note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt rêit note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú lãi suất ngắn để người kia hiểu tôi.",
+      "start": 15.32,
+      "end": 20.41
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check mortgage impact instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék mortgaje impakt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra impact khoản vay nhà thay vì đoán.",
+      "start": 20.57,
+      "end": 25.23
+    },
+    {
+      "index": 6,
+      "text": "That helped me follow financial signals without adding extra stress.",
+      "pronunciation": "đat heo mi pha-lâu finansial signals quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi theo dõi tín hiệu tài chính mà không thêm căng thẳng.",
+      "start": 25.39,
+      "end": 30.56
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.72,
+      "end": 36.31
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the rate decision before I made a final choice.",
+      "pronunciation": "ai chékt đờ rêit desizhần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra quyết định lãi suất trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.8
+    },
+    {
+      "index": 2,
+      "text": "One loan pressure made the situation less simple than it looked.",
+      "pronunciation": "quăn loan pre-shờr mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Áp lực khoản vay làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.96,
+      "end": 9.45
+    },
+    {
+      "index": 3,
+      "text": "I decided to read central bank comments before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu rid sentral bank ko-ments bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định đọc comment của ngân hàng trung ương trước khi tiếp tục.",
+      "start": 9.61,
+      "end": 14.61
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short rate note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt rêit note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú lãi suất ngắn để người kia hiểu tôi.",
+      "start": 14.77,
+      "end": 19.51
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check mortgage impact instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék mortgaje impakt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra impact khoản vay nhà thay vì đoán.",
+      "start": 19.67,
+      "end": 24.28
+    },
+    {
+      "index": 6,
+      "text": "That helped me follow financial signals without adding extra stress.",
+      "pronunciation": "đat heo mi pha-lâu finansial signals quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi theo dõi tín hiệu tài chính mà không thêm căng thẳng.",
+      "start": 24.44,
+      "end": 29.69
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 29.85,
+      "end": 34.87
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "063-current-process",
+  "title": "Story 063 - Hiểu process hiện tại",
+  "story": "stories/063-current-process.md",
+  "audio": "audio/063-current-process.mp3",
+  "duration": 35.67,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/063-current-process.mp3",
+  "durationMale": 31.99,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the current process in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ kờ-rần pro-ses in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả process hiện tại bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 4.81
+    },
+    {
+      "index": 2,
+      "text": "I asked about the daily workflow before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ đây-li quớrk-flâu bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về workflow hằng ngày trước khi đề xuất bất cứ điều gì.",
+      "start": 4.97,
+      "end": 9.17
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the hidden delay, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ hi-đần đi-lây, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là độ trễ bị ẩn, không chỉ là yêu cầu đầu tiên.",
+      "start": 9.33,
+      "end": 14.17
+    },
+    {
+      "index": 4,
+      "text": "We agreed to propose a small change and check it with one example.",
+      "pronunciation": "quy ờ-grid tu prờ-pâuz ờ smol chênj en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất đề xuất thay đổi nhỏ và kiểm tra bằng một ví dụ.",
+      "start": 14.33,
+      "end": 18.73
+    },
+    {
+      "index": 5,
+      "text": "I wrote the process note so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ pro-ses note sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết ghi chú process để mọi người có thể xem cùng một quyết định.",
+      "start": 18.89,
+      "end": 23.36
+    },
+    {
+      "index": 6,
+      "text": "That helped us solve the real workflow without adding extra work.",
+      "pronunciation": "đat heo ớs solv đờ riu quớrk-flâu quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi giải đúng workflow thật mà không thêm việc dư.",
+      "start": 23.52,
+      "end": 27.46
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 27.62,
+      "end": 31.91
+    }
+  ],
+  "audioMale1": "audio_male_1/063-current-process.mp3",
+  "durationMale1": 39.67,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the current process in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ kờ-rần pro-ses in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả process hiện tại bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 6.31
+    },
+    {
+      "index": 2,
+      "text": "I asked about the daily workflow before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ đây-li quớrk-flâu bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về workflow hằng ngày trước khi đề xuất bất cứ điều gì.",
+      "start": 6.47,
+      "end": 11.44
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the hidden delay, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ hi-đần đi-lây, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là độ trễ bị ẩn, không chỉ là yêu cầu đầu tiên.",
+      "start": 11.6,
+      "end": 17.46
+    },
+    {
+      "index": 4,
+      "text": "We agreed to propose a small change and check it with one example.",
+      "pronunciation": "quy ờ-grid tu prờ-pâuz ờ smol chênj en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất đề xuất thay đổi nhỏ và kiểm tra bằng một ví dụ.",
+      "start": 17.62,
+      "end": 23.26
+    },
+    {
+      "index": 5,
+      "text": "I wrote the process note so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ pro-ses note sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết ghi chú process để mọi người có thể xem cùng một quyết định.",
+      "start": 23.42,
+      "end": 28.68
+    },
+    {
+      "index": 6,
+      "text": "That helped us solve the real workflow without adding extra work.",
+      "pronunciation": "đat heo ớs solv đờ riu quớrk-flâu quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi giải đúng workflow thật mà không thêm việc dư.",
+      "start": 28.84,
+      "end": 34.02
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 34.18,
+      "end": 39.59
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the current process in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ kờ-rần pro-ses in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả process hiện tại bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.7
+    },
+    {
+      "index": 2,
+      "text": "I asked about the daily workflow before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ đây-li quớrk-flâu bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về workflow hằng ngày trước khi đề xuất bất cứ điều gì.",
+      "start": 5.86,
+      "end": 10.44
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the hidden delay, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ hi-đần đi-lây, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là độ trễ bị ẩn, không chỉ là yêu cầu đầu tiên.",
+      "start": 10.6,
+      "end": 15.52
+    },
+    {
+      "index": 4,
+      "text": "We agreed to propose a small change and check it with one example.",
+      "pronunciation": "quy ờ-grid tu prờ-pâuz ờ smol chênj en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất đề xuất thay đổi nhỏ và kiểm tra bằng một ví dụ.",
+      "start": 15.68,
+      "end": 20.55
+    },
+    {
+      "index": 5,
+      "text": "I wrote the process note so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ pro-ses note sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết ghi chú process để mọi người có thể xem cùng một quyết định.",
+      "start": 20.71,
+      "end": 25.59
+    },
+    {
+      "index": 6,
+      "text": "That helped us solve the real workflow without adding extra work.",
+      "pronunciation": "đat heo ớs solv đờ riu quớrk-flâu quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi giải đúng workflow thật mà không thêm việc dư.",
+      "start": 25.75,
+      "end": 30.71
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 30.87,
+      "end": 35.59
+    }
+  ]
+}

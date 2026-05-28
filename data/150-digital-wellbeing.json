@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "150-digital-wellbeing",
+  "title": "Story 150 - Giữ cân bằng số",
+  "story": "stories/150-digital-wellbeing.md",
+  "audio": "audio/150-digital-wellbeing.mp3",
+  "duration": 39.46,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/150-digital-wellbeing.mp3",
+  "durationMale": 31.22,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I needed mental space after a day full of screens.",
+      "pronunciation": "ai ni-địt men-tồ spêis áp-tờ ờ đây phul ờv skrins.",
+      "vi": "Tôi cần khoảng trống tinh thần sau một ngày đầy màn hình.",
+      "start": 0.02,
+      "end": 4.17
+    },
+    {
+      "index": 2,
+      "text": "A notification break helped me stop checking every small sound.",
+      "pronunciation": "ờ nâu-tờ-fờ-kây-shần brêik heo mi stóp ché-king ev-ri smol sao(n).",
+      "vi": "Nghỉ thông báo giúp tôi ngừng kiểm tra từng âm thanh nhỏ.",
+      "start": 4.33,
+      "end": 8.6
+    },
+    {
+      "index": 3,
+      "text": "I set boundaries by keeping work apps off my home screen.",
+      "pronunciation": "ai set bao-đờ-riz bai ki-ping quớrk áps of mai hôm skrin.",
+      "vi": "Tôi đặt ranh giới bằng cách bỏ app công việc khỏi màn hình chính.",
+      "start": 8.76,
+      "end": 12.89
+    },
+    {
+      "index": 4,
+      "text": "Offline time felt strange at first, but then it felt peaceful.",
+      "pronunciation": "of-lain taim felt strênj at phớrst, bớt đen ịt felt pis-phồ.",
+      "vi": "Thời gian offline lúc đầu hơi lạ, nhưng sau đó thấy bình yên.",
+      "start": 13.05,
+      "end": 17.74
+    },
+    {
+      "index": 5,
+      "text": "At dinner, I tried to be present instead of checking updates.",
+      "pronunciation": "at đi-nờ, ai traid tu bi pre-zần in-sted ờv ché-king ấp-đêits.",
+      "vi": "Trong bữa tối, tôi cố hiện diện thay vì kiểm tra cập nhật.",
+      "start": 17.9,
+      "end": 21.84
+    },
+    {
+      "index": 6,
+      "text": "That small choice became a healthier routine by the weekend.",
+      "pronunciation": "đat smol chois bi-kêim ờ hel-thi-ờr ru-tin bai đờ wik-end.",
+      "vi": "Lựa chọn nhỏ đó trở thành thói quen lành mạnh hơn vào cuối tuần.",
+      "start": 22,
+      "end": 26.04
+    },
+    {
+      "index": 7,
+      "text": "That small boundary helped me enjoy the evening without checking my phone again.",
+      "pronunciation": "đat smol bao-đờ-ri heo mi en-joy đờ iv-ning quì-thao ché-king mai phôn ờ-gen.",
+      "vi": "Ranh giới nhỏ đó giúp tôi tận hưởng buổi tối mà không kiểm tra điện thoại nữa.",
+      "start": 26.2,
+      "end": 31.14
+    }
+  ],
+  "audioMale1": "audio_male_1/150-digital-wellbeing.mp3",
+  "durationMale1": 37.28,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I needed mental space after a day full of screens.",
+      "pronunciation": "ai ni-địt men-tồ spêis áp-tờ ờ đây phul ờv skrins.",
+      "vi": "Tôi cần khoảng trống tinh thần sau một ngày đầy màn hình.",
+      "start": 0.02,
+      "end": 5.52
+    },
+    {
+      "index": 2,
+      "text": "A notification break helped me stop checking every small sound.",
+      "pronunciation": "ờ nâu-tờ-fờ-kây-shần brêik heo mi stóp ché-king ev-ri smol sao(n).",
+      "vi": "Nghỉ thông báo giúp tôi ngừng kiểm tra từng âm thanh nhỏ.",
+      "start": 5.68,
+      "end": 9.37
+    },
+    {
+      "index": 3,
+      "text": "I set boundaries by keeping work apps off my home screen.",
+      "pronunciation": "ai set bao-đờ-riz bai ki-ping quớrk áps of mai hôm skrin.",
+      "vi": "Tôi đặt ranh giới bằng cách bỏ app công việc khỏi màn hình chính.",
+      "start": 9.53,
+      "end": 14.58
+    },
+    {
+      "index": 4,
+      "text": "Offline time felt strange at first, but then it felt peaceful.",
+      "pronunciation": "of-lain taim felt strênj at phớrst, bớt đen ịt felt pis-phồ.",
+      "vi": "Thời gian offline lúc đầu hơi lạ, nhưng sau đó thấy bình yên.",
+      "start": 14.74,
+      "end": 20.43
+    },
+    {
+      "index": 5,
+      "text": "At dinner, I tried to be present instead of checking updates.",
+      "pronunciation": "at đi-nờ, ai traid tu bi pre-zần in-sted ờv ché-king ấp-đêits.",
+      "vi": "Trong bữa tối, tôi cố hiện diện thay vì kiểm tra cập nhật.",
+      "start": 20.59,
+      "end": 26.8
+    },
+    {
+      "index": 6,
+      "text": "That small choice became a healthier routine by the weekend.",
+      "pronunciation": "đat smol chois bi-kêim ờ hel-thi-ờr ru-tin bai đờ wik-end.",
+      "vi": "Lựa chọn nhỏ đó trở thành thói quen lành mạnh hơn vào cuối tuần.",
+      "start": 26.96,
+      "end": 31
+    },
+    {
+      "index": 7,
+      "text": "That small boundary helped me enjoy the evening without checking my phone again.",
+      "pronunciation": "đat smol bao-đờ-ri heo mi en-joy đờ iv-ning quì-thao ché-king mai phôn ờ-gen.",
+      "vi": "Ranh giới nhỏ đó giúp tôi tận hưởng buổi tối mà không kiểm tra điện thoại nữa.",
+      "start": 31.16,
+      "end": 37.2
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I needed mental space after a day full of screens.",
+      "pronunciation": "ai ni-địt men-tồ spêis áp-tờ ờ đây phul ờv skrins.",
+      "vi": "Tôi cần khoảng trống tinh thần sau một ngày đầy màn hình.",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "index": 2,
+      "text": "A notification break helped me stop checking every small sound.",
+      "pronunciation": "ờ nâu-tờ-fờ-kây-shần brêik heo mi stóp ché-king ev-ri smol sao(n).",
+      "vi": "Nghỉ thông báo giúp tôi ngừng kiểm tra từng âm thanh nhỏ.",
+      "start": 5.11,
+      "end": 10.96
+    },
+    {
+      "index": 3,
+      "text": "I set boundaries by keeping work apps off my home screen.",
+      "pronunciation": "ai set bao-đờ-riz bai ki-ping quớrk áps of mai hôm skrin.",
+      "vi": "Tôi đặt ranh giới bằng cách bỏ app công việc khỏi màn hình chính.",
+      "start": 11.07,
+      "end": 16.57
+    },
+    {
+      "index": 4,
+      "text": "Offline time felt strange at first, but then it felt peaceful.",
+      "pronunciation": "of-lain taim felt strênj at phớrst, bớt đen ịt felt pis-phồ.",
+      "vi": "Thời gian offline lúc đầu hơi lạ, nhưng sau đó thấy bình yên.",
+      "start": 16.68,
+      "end": 22.18
+    },
+    {
+      "index": 5,
+      "text": "At dinner, I tried to be present instead of checking updates.",
+      "pronunciation": "at đi-nờ, ai traid tu bi pre-zần in-sted ờv ché-king ấp-đêits.",
+      "vi": "Trong bữa tối, tôi cố hiện diện thay vì kiểm tra cập nhật.",
+      "start": 22.29,
+      "end": 28.41
+    },
+    {
+      "index": 6,
+      "text": "That small choice became a healthier routine by the weekend.",
+      "pronunciation": "đat smol chois bi-kêim ờ hel-thi-ờr ru-tin bai đờ wik-end.",
+      "vi": "Lựa chọn nhỏ đó trở thành thói quen lành mạnh hơn vào cuối tuần.",
+      "start": 28.52,
+      "end": 33.98
+    },
+    {
+      "index": 7,
+      "text": "That small boundary helped me enjoy the evening without checking my phone again.",
+      "pronunciation": "đat smol bao-đờ-ri heo mi en-joy đờ iv-ning quì-thao ché-king mai phôn ờ-gen.",
+      "vi": "Ranh giới nhỏ đó giúp tôi tận hưởng buổi tối mà không kiểm tra điện thoại nữa.",
+      "start": 34.09,
+      "end": 39.46
+    }
+  ]
+}

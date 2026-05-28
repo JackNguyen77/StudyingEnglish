@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": "003-morning-rush",
+  "title": "Story 003 - Buổi sáng vội",
+  "story": "stories/003-morning-rush.md",
+  "audio": "audio/003-morning-rush.mp3",
+  "duration": 13.46,
+  "timingMethod": "manual-silence-assisted",
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I woke up late this morning.",
+      "vi": "Sáng nay tôi dậy muộn.",
+      "start": 0.02,
+      "end": 2.01,
+      "pronunciation": "ai quôk ấp lêit đis mo-ning."
+    },
+    {
+      "index": 2,
+      "text": "I had to get ready in ten minutes.",
+      "vi": "Tôi phải chuẩn bị trong mười phút.",
+      "start": 2.23,
+      "end": 4.54,
+      "pronunciation": "ai had tu gét re-đi in ten mi-nits."
+    },
+    {
+      "index": 3,
+      "text": "I grabbed my bag and looked for my keys.",
+      "vi": "Tôi chộp lấy túi và tìm chìa khóa.",
+      "start": 4.99,
+      "end": 7.6,
+      "pronunciation": "ai grábd mai bag en lúkt fo mai kiz."
+    },
+    {
+      "index": 4,
+      "text": "Then I rushed out the door.",
+      "vi": "Rồi tôi vội chạy ra khỏi cửa.",
+      "start": 7.98,
+      "end": 9.63,
+      "pronunciation": "đen ai rớsht ao đờ đo."
+    },
+    {
+      "index": 5,
+      "text": "I was running late, but I still made it on time.",
+      "vi": "Tôi bị trễ giờ, nhưng vẫn đến kịp.",
+      "start": 10.1,
+      "end": 13.2,
+      "pronunciation": "ai wờz răn-ning lêit, bớt ai stil mêid ịt on taim."
+    }
+  ],
+  "audioMale": "audio_male/003-morning-rush.mp3",
+  "durationMale": 14.28,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I woke up late this morning.",
+      "pronunciation": "ai quôk ấp lêit đis mo-ning.",
+      "vi": "Sáng nay tôi dậy muộn.",
+      "start": 0.02,
+      "end": 2.29
+    },
+    {
+      "index": 2,
+      "text": "I had to get ready in ten minutes.",
+      "pronunciation": "ai had tu gét re-đi in ten mi-nits.",
+      "vi": "Tôi phải chuẩn bị trong mười phút.",
+      "start": 2.45,
+      "end": 4.98
+    },
+    {
+      "index": 3,
+      "text": "I grabbed my bag and looked for my keys.",
+      "pronunciation": "ai grábd mai bag en lúkt fo mai kiz.",
+      "vi": "Tôi chộp lấy túi và tìm chìa khóa.",
+      "start": 5.14,
+      "end": 8.21
+    },
+    {
+      "index": 4,
+      "text": "Then I rushed out the door.",
+      "pronunciation": "đen ai rớsht ao đờ đo.",
+      "vi": "Rồi tôi vội chạy ra khỏi cửa.",
+      "start": 8.37,
+      "end": 10.29
+    },
+    {
+      "index": 5,
+      "text": "I was running late, but I still made it on time.",
+      "pronunciation": "ai wờz răn-ning lêit, bớt ai stil mêid ịt on taim.",
+      "vi": "Tôi bị trễ giờ, nhưng vẫn đến kịp.",
+      "start": 10.45,
+      "end": 14.2
+    }
+  ],
+  "audioMale1": "audio_male_1/003-morning-rush.mp3",
+  "durationMale1": 15.51,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I woke up late this morning.",
+      "pronunciation": "ai quôk ấp lêit đis mo-ning.",
+      "vi": "Sáng nay tôi dậy muộn.",
+      "start": 0.02,
+      "end": 2.54
+    },
+    {
+      "index": 2,
+      "text": "I had to get ready in ten minutes.",
+      "pronunciation": "ai had tu gét re-đi in ten mi-nits.",
+      "vi": "Tôi phải chuẩn bị trong mười phút.",
+      "start": 2.7,
+      "end": 5.29
+    },
+    {
+      "index": 3,
+      "text": "I grabbed my bag and looked for my keys.",
+      "pronunciation": "ai grábd mai bag en lúkt fo mai kiz.",
+      "vi": "Tôi chộp lấy túi và tìm chìa khóa.",
+      "start": 5.45,
+      "end": 8.88
+    },
+    {
+      "index": 4,
+      "text": "Then I rushed out the door.",
+      "pronunciation": "đen ai rớsht ao đờ đo.",
+      "vi": "Rồi tôi vội chạy ra khỏi cửa.",
+      "start": 9.04,
+      "end": 11.1
+    },
+    {
+      "index": 5,
+      "text": "I was running late, but I still made it on time.",
+      "pronunciation": "ai wờz răn-ning lêit, bớt ai stil mêid ịt on taim.",
+      "vi": "Tôi bị trễ giờ, nhưng vẫn đến kịp.",
+      "start": 11.26,
+      "end": 15.43
+    }
+  ]
+}

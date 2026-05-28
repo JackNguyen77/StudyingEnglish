@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "130-device-setup",
+  "title": "Story 130 - Cài thiết bị mới",
+  "story": "stories/130-device-setup.md",
+  "audio": "audio/130-device-setup.mp3",
+  "duration": 37.74,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/130-device-setup.mp3",
+  "durationMale": 26.95,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I tried to set up a device before my online class started.",
+      "pronunciation": "ai traid tu se-tấp ờ đi-vais bi-fo mai on-lain klass star-tịt.",
+      "vi": "Tôi cố cài thiết bị trước khi lớp online bắt đầu.",
+      "start": 0.02,
+      "end": 3.72
+    },
+    {
+      "index": 2,
+      "text": "The app told me to pair the earbuds and keep them near the phone.",
+      "pronunciation": "đờ áp tâu mi tu pe đờ ia-bớdz en kip đem niờ đờ phôn.",
+      "vi": "App bảo tôi ghép tai nghe và giữ chúng gần điện thoại.",
+      "start": 3.88,
+      "end": 7.28
+    },
+    {
+      "index": 3,
+      "text": "A software update appeared before I could test the sound.",
+      "pronunciation": "ờ sóp-quear ấp-đêit ờ-piờrd bi-fo ai kud test đờ sao.",
+      "vi": "Một bản cập nhật phần mềm hiện ra trước khi tôi kịp thử âm thanh.",
+      "start": 7.44,
+      "end": 11.59
+    },
+    {
+      "index": 4,
+      "text": "I checked the battery level because one side sounded weaker.",
+      "pronunciation": "ai chékt đờ bá-tờ-ri le-vồ bi-kóz quăn said sao-địt wiker.",
+      "vi": "Tôi kiểm tra mức pin vì một bên nghe yếu hơn.",
+      "start": 11.75,
+      "end": 14.94
+    },
+    {
+      "index": 5,
+      "text": "The connection issue disappeared after I reset Bluetooth.",
+      "pronunciation": "đờ kờ-nek-shần í-shu disappirt áp-tờ ai reset blu-tuth.",
+      "vi": "Lỗi kết nối biến mất sau khi tôi reset Bluetooth.",
+      "start": 15.1,
+      "end": 18.67
+    },
+    {
+      "index": 6,
+      "text": "Now I know how to reset the device if it acts strange again.",
+      "pronunciation": "nao ai nâu hao tu ri-set đờ đi-vais if ịt akts strênj ờ-gen.",
+      "vi": "Bây giờ tôi biết cách reset thiết bị nếu nó lại hoạt động lạ.",
+      "start": 18.83,
+      "end": 22.66
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 22.82,
+      "end": 26.87
+    }
+  ],
+  "audioMale1": "audio_male_1/130-device-setup.mp3",
+  "durationMale1": 35,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I tried to set up a device before my online class started.",
+      "pronunciation": "ai traid tu se-tấp ờ đi-vais bi-fo mai on-lain klass star-tịt.",
+      "vi": "Tôi cố cài thiết bị trước khi lớp online bắt đầu.",
+      "start": 0.02,
+      "end": 5.56
+    },
+    {
+      "index": 2,
+      "text": "The app told me to pair the earbuds and keep them near the phone.",
+      "pronunciation": "đờ áp tâu mi tu pe đờ ia-bớdz en kip đem niờ đờ phôn.",
+      "vi": "App bảo tôi ghép tai nghe và giữ chúng gần điện thoại.",
+      "start": 5.72,
+      "end": 10.59
+    },
+    {
+      "index": 3,
+      "text": "A software update appeared before I could test the sound.",
+      "pronunciation": "ờ sóp-quear ấp-đêit ờ-piờrd bi-fo ai kud test đờ sao.",
+      "vi": "Một bản cập nhật phần mềm hiện ra trước khi tôi kịp thử âm thanh.",
+      "start": 10.75,
+      "end": 14.98
+    },
+    {
+      "index": 4,
+      "text": "I checked the battery level because one side sounded weaker.",
+      "pronunciation": "ai chékt đờ bá-tờ-ri le-vồ bi-kóz quăn said sao-địt wiker.",
+      "vi": "Tôi kiểm tra mức pin vì một bên nghe yếu hơn.",
+      "start": 15.14,
+      "end": 19.66
+    },
+    {
+      "index": 5,
+      "text": "The connection issue disappeared after I reset Bluetooth.",
+      "pronunciation": "đờ kờ-nek-shần í-shu disappirt áp-tờ ai reset blu-tuth.",
+      "vi": "Lỗi kết nối biến mất sau khi tôi reset Bluetooth.",
+      "start": 19.82,
+      "end": 24.22
+    },
+    {
+      "index": 6,
+      "text": "Now I know how to reset the device if it acts strange again.",
+      "pronunciation": "nao ai nâu hao tu ri-set đờ đi-vais if ịt akts strênj ờ-gen.",
+      "vi": "Bây giờ tôi biết cách reset thiết bị nếu nó lại hoạt động lạ.",
+      "start": 24.38,
+      "end": 29.23
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 29.39,
+      "end": 34.92
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I tried to set up a device before my online class started.",
+      "pronunciation": "ai traid tu se-tấp ờ đi-vais bi-fo mai on-lain klass star-tịt.",
+      "vi": "Tôi cố cài thiết bị trước khi lớp online bắt đầu.",
+      "start": 0,
+      "end": 5.43
+    },
+    {
+      "index": 2,
+      "text": "The app told me to pair the earbuds and keep them near the phone.",
+      "pronunciation": "đờ áp tâu mi tu pe đờ ia-bớdz en kip đem niờ đờ phôn.",
+      "vi": "App bảo tôi ghép tai nghe và giữ chúng gần điện thoại.",
+      "start": 5.54,
+      "end": 12.54
+    },
+    {
+      "index": 3,
+      "text": "A software update appeared before I could test the sound.",
+      "pronunciation": "ờ sóp-quear ấp-đêit ờ-piờrd bi-fo ai kud test đờ sao.",
+      "vi": "Một bản cập nhật phần mềm hiện ra trước khi tôi kịp thử âm thanh.",
+      "start": 12.65,
+      "end": 17.22
+    },
+    {
+      "index": 4,
+      "text": "I checked the battery level because one side sounded weaker.",
+      "pronunciation": "ai chékt đờ bá-tờ-ri le-vồ bi-kóz quăn said sao-địt wiker.",
+      "vi": "Tôi kiểm tra mức pin vì một bên nghe yếu hơn.",
+      "start": 17.33,
+      "end": 21.5
+    },
+    {
+      "index": 5,
+      "text": "The connection issue disappeared after I reset Bluetooth.",
+      "pronunciation": "đờ kờ-nek-shần í-shu disappirt áp-tờ ai reset blu-tuth.",
+      "vi": "Lỗi kết nối biến mất sau khi tôi reset Bluetooth.",
+      "start": 21.61,
+      "end": 27.11
+    },
+    {
+      "index": 6,
+      "text": "Now I know how to reset the device if it acts strange again.",
+      "pronunciation": "nao ai nâu hao tu ri-set đờ đi-vais if ịt akts strênj ờ-gen.",
+      "vi": "Bây giờ tôi biết cách reset thiết bị nếu nó lại hoạt động lạ.",
+      "start": 27.22,
+      "end": 32.35
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 32.46,
+      "end": 37.74
+    }
+  ]
+}

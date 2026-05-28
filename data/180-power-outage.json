@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "180-power-outage",
+  "title": "Story 180 - Chuẩn bị khi mất điện",
+  "story": "stories/180-power-outage.md",
+  "audio": "audio/180-power-outage.mp3",
+  "duration": 30.23,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/180-power-outage.mp3",
+  "durationMale": 30.44,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the power outage before I made a final choice.",
+      "pronunciation": "ai chékt đờ paoer aotaje bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra mất điện trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.94
+    },
+    {
+      "index": 2,
+      "text": "One low battery pack made the situation less simple than it looked.",
+      "pronunciation": "quăn lâu bá-tờ-ri pak mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Pin dự phòng yếu làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.1,
+      "end": 8.87
+    },
+    {
+      "index": 3,
+      "text": "I decided to charge the devices before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu chardj đờ đi-vai-siz bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định sạc thiết bị trước khi tiếp tục.",
+      "start": 9.03,
+      "end": 13
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short emergency note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt emerjensi note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú khẩn cấp ngắn để người kia hiểu tôi.",
+      "start": 13.16,
+      "end": 17.6
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the flashlight instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ flashlâyt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra đèn pin thay vì đoán.",
+      "start": 17.76,
+      "end": 21.43
+    },
+    {
+      "index": 6,
+      "text": "That helped me stay ready without adding extra stress.",
+      "pronunciation": "đat heo mi stây re-đi quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi luôn sẵn sàng mà không thêm căng thẳng.",
+      "start": 21.59,
+      "end": 25.05
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.21,
+      "end": 30.36
+    }
+  ],
+  "audioMale1": "audio_male_1/180-power-outage.mp3",
+  "durationMale1": 34.6,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the power outage before I made a final choice.",
+      "pronunciation": "ai chékt đờ paoer aotaje bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra mất điện trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.75
+    },
+    {
+      "index": 2,
+      "text": "One low battery pack made the situation less simple than it looked.",
+      "pronunciation": "quăn lâu bá-tờ-ri pak mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Pin dự phòng yếu làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.91,
+      "end": 10.23
+    },
+    {
+      "index": 3,
+      "text": "I decided to charge the devices before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu chardj đờ đi-vai-siz bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định sạc thiết bị trước khi tiếp tục.",
+      "start": 10.39,
+      "end": 14.8
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short emergency note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt emerjensi note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú khẩn cấp ngắn để người kia hiểu tôi.",
+      "start": 14.96,
+      "end": 20.19
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the flashlight instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ flashlâyt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra đèn pin thay vì đoán.",
+      "start": 20.35,
+      "end": 24.66
+    },
+    {
+      "index": 6,
+      "text": "That helped me stay ready without adding extra stress.",
+      "pronunciation": "đat heo mi stây re-đi quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi luôn sẵn sàng mà không thêm căng thẳng.",
+      "start": 24.82,
+      "end": 28.71
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.87,
+      "end": 34.52
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the power outage before I made a final choice.",
+      "pronunciation": "ai chékt đờ paoer aotaje bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra mất điện trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.9
+    },
+    {
+      "index": 2,
+      "text": "One low battery pack made the situation less simple than it looked.",
+      "pronunciation": "quăn lâu bá-tờ-ri pak mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Pin dự phòng yếu làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.06,
+      "end": 8.32
+    },
+    {
+      "index": 3,
+      "text": "I decided to charge the devices before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu chardj đờ đi-vai-siz bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định sạc thiết bị trước khi tiếp tục.",
+      "start": 8.48,
+      "end": 12.45
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short emergency note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt emerjensi note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú khẩn cấp ngắn để người kia hiểu tôi.",
+      "start": 12.61,
+      "end": 17.42
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the flashlight instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ flashlâyt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra đèn pin thay vì đoán.",
+      "start": 17.58,
+      "end": 21.41
+    },
+    {
+      "index": 6,
+      "text": "That helped me stay ready without adding extra stress.",
+      "pronunciation": "đat heo mi stây re-đi quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi luôn sẵn sàng mà không thêm căng thẳng.",
+      "start": 21.57,
+      "end": 25.24
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.4,
+      "end": 30.15
+    }
+  ]
+}

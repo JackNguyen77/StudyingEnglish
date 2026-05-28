@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "213-housing-supply",
+  "title": "Story 213 - Hiểu nguồn cung nhà ở",
+  "story": "stories/213-housing-supply.md",
+  "audio": "audio/213-housing-supply.mp3",
+  "duration": 35.45,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/213-housing-supply.mp3",
+  "durationMale": 28.89,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the housing supply before I made a final choice.",
+      "pronunciation": "ai chékt đờ hao-zing sờ-plai bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra nguồn cung nhà ở trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.93
+    },
+    {
+      "index": 2,
+      "text": "One delayed project made the situation less simple than it looked.",
+      "pronunciation": "quăn đi-lâyd pró-jekt mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Dự án bị chậm làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.09,
+      "end": 8.34
+    },
+    {
+      "index": 3,
+      "text": "I decided to track new permits before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu trék niu permits bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi giấy phép mới trước khi tiếp tục.",
+      "start": 8.5,
+      "end": 12.41
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short housing note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt hao-zing note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú nhà ở ngắn để người kia hiểu tôi.",
+      "start": 12.57,
+      "end": 16.66
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check rental demand instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék rental đi-mand in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra nhu cầu thuê thay vì đoán.",
+      "start": 16.82,
+      "end": 20.09
+    },
+    {
+      "index": 6,
+      "text": "That helped me see the bigger picture without adding extra stress.",
+      "pronunciation": "đat heo mi si đờ bi-gờ pikkhờ quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi nhìn bức tranh lớn hơn mà không thêm căng thẳng.",
+      "start": 20.25,
+      "end": 24.08
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 24.24,
+      "end": 28.81
+    }
+  ],
+  "audioMale1": "audio_male_1/213-housing-supply.mp3",
+  "durationMale1": 36.45,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the housing supply before I made a final choice.",
+      "pronunciation": "ai chékt đờ hao-zing sờ-plai bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra nguồn cung nhà ở trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.82
+    },
+    {
+      "index": 2,
+      "text": "One delayed project made the situation less simple than it looked.",
+      "pronunciation": "quăn đi-lâyd pró-jekt mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Dự án bị chậm làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.98,
+      "end": 10.35
+    },
+    {
+      "index": 3,
+      "text": "I decided to track new permits before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu trék niu permits bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi giấy phép mới trước khi tiếp tục.",
+      "start": 10.51,
+      "end": 15.42
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short housing note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt hao-zing note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú nhà ở ngắn để người kia hiểu tôi.",
+      "start": 15.58,
+      "end": 20.71
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check rental demand instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék rental đi-mand in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra nhu cầu thuê thay vì đoán.",
+      "start": 20.87,
+      "end": 25.18
+    },
+    {
+      "index": 6,
+      "text": "That helped me see the bigger picture without adding extra stress.",
+      "pronunciation": "đat heo mi si đờ bi-gờ pikkhờ quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi nhìn bức tranh lớn hơn mà không thêm căng thẳng.",
+      "start": 25.34,
+      "end": 30.3
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.46,
+      "end": 36.37
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the housing supply before I made a final choice.",
+      "pronunciation": "ai chékt đờ hao-zing sờ-plai bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra nguồn cung nhà ở trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.69
+    },
+    {
+      "index": 2,
+      "text": "One delayed project made the situation less simple than it looked.",
+      "pronunciation": "quăn đi-lâyd pró-jekt mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Dự án bị chậm làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.85,
+      "end": 9.7
+    },
+    {
+      "index": 3,
+      "text": "I decided to track new permits before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu trék niu permits bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi giấy phép mới trước khi tiếp tục.",
+      "start": 9.86,
+      "end": 14.83
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short housing note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt hao-zing note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú nhà ở ngắn để người kia hiểu tôi.",
+      "start": 14.99,
+      "end": 20.09
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check rental demand instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék rental đi-mand in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra nhu cầu thuê thay vì đoán.",
+      "start": 20.25,
+      "end": 24.57
+    },
+    {
+      "index": 6,
+      "text": "That helped me see the bigger picture without adding extra stress.",
+      "pronunciation": "đat heo mi si đờ bi-gờ pikkhờ quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi nhìn bức tranh lớn hơn mà không thêm căng thẳng.",
+      "start": 24.73,
+      "end": 29.74
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 29.9,
+      "end": 35.37
+    }
+  ]
+}

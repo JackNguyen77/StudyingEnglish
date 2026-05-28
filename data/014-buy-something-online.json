@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "014-buy-something-online",
+  "title": "Story 014 - Mua đồ online",
+  "story": "stories/014-buy-something-online.md",
+  "audio": "audio/014-buy-something-online.mp3",
+  "duration": 23.32,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/014-buy-something-online.mp3",
+  "durationMale": 22.65,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I needed a new notebook, so I looked it up online.",
+      "pronunciation": "ai ni-địt ờ niu nâu-buk, sâu ai lúkt ịt ấp on-lain.",
+      "vi": "Tôi cần một cuốn sổ mới, nên tôi tìm nó trên mạng.",
+      "start": 0.02,
+      "end": 3.85
+    },
+    {
+      "index": 2,
+      "text": "There were too many options, and I did not want to rush into buying one.",
+      "pronunciation": "đeờ quờr tu me-ni áp-shầnz, en ai đi nót quăn tu rớ-shin-tu bai-ing quăn.",
+      "vi": "Có quá nhiều lựa chọn, và tôi không muốn vội mua đại.",
+      "start": 4.01,
+      "end": 8.27
+    },
+    {
+      "index": 3,
+      "text": "I checked the reviews and compared the prices.",
+      "pronunciation": "ai chékt đờ ri-viuz en kờm-pe(r)d đờ prai-siz.",
+      "vi": "Tôi xem đánh giá và so sánh giá.",
+      "start": 8.43,
+      "end": 11.34
+    },
+    {
+      "index": 4,
+      "text": "One notebook was cheaper, but the quality seemed questionable.",
+      "pronunciation": "quăn nâu-buk wờz chi-pờ, bớt đờ qua-lờ-ti simd ques-chờ-nờ-bồ.",
+      "vi": "Một cuốn rẻ hơn, nhưng chất lượng có vẻ đáng nghi.",
+      "start": 11.5,
+      "end": 15.78
+    },
+    {
+      "index": 5,
+      "text": "I ended up choosing the one with better reviews.",
+      "pronunciation": "ai en-đập chu-zing đờ quăn quít be-tờ ri-viuz.",
+      "vi": "Cuối cùng tôi chọn cuốn có đánh giá tốt hơn.",
+      "start": 15.94,
+      "end": 18.9
+    },
+    {
+      "index": 6,
+      "text": "It cost a little more, but I felt better about the purchase.",
+      "pronunciation": "ịt kost ờ li-đồ mo, bớt ai felt be-tờ ờ-bao đờ pớr-chờs.",
+      "vi": "Nó đắt hơn một chút, nhưng tôi thấy yên tâm hơn về món mua đó.",
+      "start": 19.06,
+      "end": 22.57
+    }
+  ],
+  "audioMale1": "audio_male_1/014-buy-something-online.mp3",
+  "durationMale1": 27.72,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I needed a new notebook, so I looked it up online.",
+      "pronunciation": "ai ni-địt ờ niu nâu-buk, sâu ai lúkt ịt ấp on-lain.",
+      "vi": "Tôi cần một cuốn sổ mới, nên tôi tìm nó trên mạng.",
+      "start": 0.02,
+      "end": 4.54
+    },
+    {
+      "index": 2,
+      "text": "There were too many options, and I did not want to rush into buying one.",
+      "pronunciation": "đeờ quờr tu me-ni áp-shầnz, en ai đi nót quăn tu rớ-shin-tu bai-ing quăn.",
+      "vi": "Có quá nhiều lựa chọn, và tôi không muốn vội mua đại.",
+      "start": 4.7,
+      "end": 11.15
+    },
+    {
+      "index": 3,
+      "text": "I checked the reviews and compared the prices.",
+      "pronunciation": "ai chékt đờ ri-viuz en kờm-pe(r)d đờ prai-siz.",
+      "vi": "Tôi xem đánh giá và so sánh giá.",
+      "start": 11.31,
+      "end": 13.87
+    },
+    {
+      "index": 4,
+      "text": "One notebook was cheaper, but the quality seemed questionable.",
+      "pronunciation": "quăn nâu-buk wờz chi-pờ, bớt đờ qua-lờ-ti simd ques-chờ-nờ-bồ.",
+      "vi": "Một cuốn rẻ hơn, nhưng chất lượng có vẻ đáng nghi.",
+      "start": 14.03,
+      "end": 19.06
+    },
+    {
+      "index": 5,
+      "text": "I ended up choosing the one with better reviews.",
+      "pronunciation": "ai en-đập chu-zing đờ quăn quít be-tờ ri-viuz.",
+      "vi": "Cuối cùng tôi chọn cuốn có đánh giá tốt hơn.",
+      "start": 19.22,
+      "end": 22.68
+    },
+    {
+      "index": 6,
+      "text": "It cost a little more, but I felt better about the purchase.",
+      "pronunciation": "ịt kost ờ li-đồ mo, bớt ai felt be-tờ ờ-bao đờ pớr-chờs.",
+      "vi": "Nó đắt hơn một chút, nhưng tôi thấy yên tâm hơn về món mua đó.",
+      "start": 22.84,
+      "end": 27.64
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I needed a new notebook, so I looked it up online.",
+      "pronunciation": "ai ni-địt ờ niu nâu-buk, sâu ai lúkt ịt ấp on-lain.",
+      "vi": "Tôi cần một cuốn sổ mới, nên tôi tìm nó trên mạng.",
+      "start": 0.02,
+      "end": 3.77
+    },
+    {
+      "index": 2,
+      "text": "There were too many options, and I did not want to rush into buying one.",
+      "pronunciation": "đeờ quờr tu me-ni áp-shầnz, en ai đi nót quăn tu rớ-shin-tu bai-ing quăn.",
+      "vi": "Có quá nhiều lựa chọn, và tôi không muốn vội mua đại.",
+      "start": 3.93,
+      "end": 8.88
+    },
+    {
+      "index": 3,
+      "text": "I checked the reviews and compared the prices.",
+      "pronunciation": "ai chékt đờ ri-viuz en kờm-pe(r)d đờ prai-siz.",
+      "vi": "Tôi xem đánh giá và so sánh giá.",
+      "start": 9.04,
+      "end": 11.37
+    },
+    {
+      "index": 4,
+      "text": "One notebook was cheaper, but the quality seemed questionable.",
+      "pronunciation": "quăn nâu-buk wờz chi-pờ, bớt đờ qua-lờ-ti simd ques-chờ-nờ-bồ.",
+      "vi": "Một cuốn rẻ hơn, nhưng chất lượng có vẻ đáng nghi.",
+      "start": 11.53,
+      "end": 15.89
+    },
+    {
+      "index": 5,
+      "text": "I ended up choosing the one with better reviews.",
+      "pronunciation": "ai en-đập chu-zing đờ quăn quít be-tờ ri-viuz.",
+      "vi": "Cuối cùng tôi chọn cuốn có đánh giá tốt hơn.",
+      "start": 16.05,
+      "end": 19.21
+    },
+    {
+      "index": 6,
+      "text": "It cost a little more, but I felt better about the purchase.",
+      "pronunciation": "ịt kost ờ li-đồ mo, bớt ai felt be-tờ ờ-bao đờ pớr-chờs.",
+      "vi": "Nó đắt hơn một chút, nhưng tôi thấy yên tâm hơn về món mua đó.",
+      "start": 19.37,
+      "end": 23.24
+    }
+  ]
+}

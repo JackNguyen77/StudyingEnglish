@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "193-sales-delivery-alignment",
+  "title": "Story 193 - Căn sales và delivery",
+  "story": "stories/193-sales-delivery-alignment.md",
+  "audio": "audio/193-sales-delivery-alignment.mp3",
+  "duration": 31.56,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/193-sales-delivery-alignment.mp3",
+  "durationMale": 30.49,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the delivery handoff before I made a final choice.",
+      "pronunciation": "ai chékt đờ đi-li-vờ-ri hen-dof bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra bàn giao delivery trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.2
+    },
+    {
+      "index": 2,
+      "text": "One sales promise made the situation less simple than it looked.",
+      "pronunciation": "quăn sêilz pro-mis mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Lời hứa từ sales làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.36,
+      "end": 8.37
+    },
+    {
+      "index": 3,
+      "text": "I decided to align the teams before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu align đờ tims bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định căn chỉnh các team trước khi tiếp tục.",
+      "start": 8.53,
+      "end": 12.18
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short delivery note for handoff so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt đi-li-vờ-ri note fo hen-dof sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú bàn giao delivery ngắn để người kia hiểu tôi.",
+      "start": 12.34,
+      "end": 17.57
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the exact scope instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ eksakt skoup in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận scope chính xác thay vì đoán.",
+      "start": 17.73,
+      "end": 21.75
+    },
+    {
+      "index": 6,
+      "text": "That helped me avoid a mismatch without adding extra stress.",
+      "pronunciation": "đat heo mi ờ-void ờ mismatkh quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tránh lệch nhau mà không thêm căng thẳng.",
+      "start": 21.91,
+      "end": 25.99
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.15,
+      "end": 30.41
+    }
+  ],
+  "audioMale1": "audio_male_1/193-sales-delivery-alignment.mp3",
+  "durationMale1": 36.04,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the delivery handoff before I made a final choice.",
+      "pronunciation": "ai chékt đờ đi-li-vờ-ri hen-dof bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra bàn giao delivery trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.93
+    },
+    {
+      "index": 2,
+      "text": "One sales promise made the situation less simple than it looked.",
+      "pronunciation": "quăn sêilz pro-mis mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Lời hứa từ sales làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.09,
+      "end": 9.65
+    },
+    {
+      "index": 3,
+      "text": "I decided to align the teams before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu align đờ tims bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định căn chỉnh các team trước khi tiếp tục.",
+      "start": 9.81,
+      "end": 14.58
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short delivery note for handoff so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt đi-li-vờ-ri note fo hen-dof sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú bàn giao delivery ngắn để người kia hiểu tôi.",
+      "start": 14.74,
+      "end": 20.63
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the exact scope instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ eksakt skoup in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận scope chính xác thay vì đoán.",
+      "start": 20.79,
+      "end": 25.81
+    },
+    {
+      "index": 6,
+      "text": "That helped me avoid a mismatch without adding extra stress.",
+      "pronunciation": "đat heo mi ờ-void ờ mismatkh quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tránh lệch nhau mà không thêm căng thẳng.",
+      "start": 25.97,
+      "end": 30.52
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.68,
+      "end": 35.96
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the delivery handoff before I made a final choice.",
+      "pronunciation": "ai chékt đờ đi-li-vờ-ri hen-dof bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra bàn giao delivery trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.07
+    },
+    {
+      "index": 2,
+      "text": "One sales promise made the situation less simple than it looked.",
+      "pronunciation": "quăn sêilz pro-mis mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Lời hứa từ sales làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.23,
+      "end": 8.49
+    },
+    {
+      "index": 3,
+      "text": "I decided to align the teams before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu align đờ tims bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định căn chỉnh các team trước khi tiếp tục.",
+      "start": 8.65,
+      "end": 12.33
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short delivery note for handoff so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt đi-li-vờ-ri note fo hen-dof sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú bàn giao delivery ngắn để người kia hiểu tôi.",
+      "start": 12.49,
+      "end": 17.88
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the exact scope instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ eksakt skoup in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận scope chính xác thay vì đoán.",
+      "start": 18.04,
+      "end": 22.44
+    },
+    {
+      "index": 6,
+      "text": "That helped me avoid a mismatch without adding extra stress.",
+      "pronunciation": "đat heo mi ờ-void ờ mismatkh quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tránh lệch nhau mà không thêm căng thẳng.",
+      "start": 22.6,
+      "end": 26.77
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.93,
+      "end": 31.48
+    }
+  ]
+}

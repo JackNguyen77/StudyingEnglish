@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "276-data-governance-policy",
+  "title": "Story 276 - Đọc data governance policy",
+  "story": "stories/276-data-governance-policy.md",
+  "audio": "audio/276-data-governance-policy.mp3",
+  "duration": 34.43,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/276-data-governance-policy.mp3",
+  "durationMale": 32.12,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the data governance policy before the meeting started.",
+      "pronunciation": "ai quókt thru đờ đây-tờ governanse po-lờ-si bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through policy data governance trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.02
+    },
+    {
+      "index": 2,
+      "text": "One unclear ownership made the decision harder than expected.",
+      "pronunciation": "quăn unklir aonership mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một ownership chưa rõ làm decision khó hơn dự kiến.",
+      "start": 5.18,
+      "end": 9.44
+    },
+    {
+      "index": 3,
+      "text": "I tried to define access rules so the team had a clearer path.",
+      "pronunciation": "ai traid tu define ak-ses rules sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố define rule access để team có hướng rõ hơn.",
+      "start": 9.6,
+      "end": 14
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short governance note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt governanse note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú governance ngắn để capture các key points.",
+      "start": 14.16,
+      "end": 18.33
+    },
+    {
+      "index": 5,
+      "text": "I also had to check retention requirements before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék retenshần requirements bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra requirement lưu trữ trước khi chúng tôi thống nhất next step.",
+      "start": 18.49,
+      "end": 22.9
+    },
+    {
+      "index": 6,
+      "text": "That helped us keep records reliable without losing momentum.",
+      "pronunciation": "đat heo ớs kip re-kờrdz reliable quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi giữ record đáng tin mà không mất momentum.",
+      "start": 23.06,
+      "end": 27.3
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 27.46,
+      "end": 32.04
+    }
+  ],
+  "audioMale1": "audio_male_1/276-data-governance-policy.mp3",
+  "durationMale1": 38.88,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the data governance policy before the meeting started.",
+      "pronunciation": "ai quókt thru đờ đây-tờ governanse po-lờ-si bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through policy data governance trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.51
+    },
+    {
+      "index": 2,
+      "text": "One unclear ownership made the decision harder than expected.",
+      "pronunciation": "quăn unklir aonership mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một ownership chưa rõ làm decision khó hơn dự kiến.",
+      "start": 5.67,
+      "end": 11.3
+    },
+    {
+      "index": 3,
+      "text": "I tried to define access rules so the team had a clearer path.",
+      "pronunciation": "ai traid tu define ak-ses rules sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố define rule access để team có hướng rõ hơn.",
+      "start": 11.46,
+      "end": 17.24
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short governance note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt governanse note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú governance ngắn để capture các key points.",
+      "start": 17.4,
+      "end": 23.08
+    },
+    {
+      "index": 5,
+      "text": "I also had to check retention requirements before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék retenshần requirements bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra requirement lưu trữ trước khi chúng tôi thống nhất next step.",
+      "start": 23.24,
+      "end": 29.15
+    },
+    {
+      "index": 6,
+      "text": "That helped us keep records reliable without losing momentum.",
+      "pronunciation": "đat heo ớs kip re-kờrdz reliable quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi giữ record đáng tin mà không mất momentum.",
+      "start": 29.31,
+      "end": 34.23
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 34.39,
+      "end": 38.8
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the data governance policy before the meeting started.",
+      "pronunciation": "ai quókt thru đờ đây-tờ governanse po-lờ-si bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through policy data governance trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.84
+    },
+    {
+      "index": 2,
+      "text": "One unclear ownership made the decision harder than expected.",
+      "pronunciation": "quăn unklir aonership mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một ownership chưa rõ làm decision khó hơn dự kiến.",
+      "start": 5,
+      "end": 10
+    },
+    {
+      "index": 3,
+      "text": "I tried to define access rules so the team had a clearer path.",
+      "pronunciation": "ai traid tu define ak-ses rules sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố define rule access để team có hướng rõ hơn.",
+      "start": 10.16,
+      "end": 15.47
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short governance note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt governanse note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú governance ngắn để capture các key points.",
+      "start": 15.63,
+      "end": 20.16
+    },
+    {
+      "index": 5,
+      "text": "I also had to check retention requirements before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék retenshần requirements bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra requirement lưu trữ trước khi chúng tôi thống nhất next step.",
+      "start": 20.32,
+      "end": 25.51
+    },
+    {
+      "index": 6,
+      "text": "That helped us keep records reliable without losing momentum.",
+      "pronunciation": "đat heo ớs kip re-kờrdz reliable quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi giữ record đáng tin mà không mất momentum.",
+      "start": 25.67,
+      "end": 30.07
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 30.23,
+      "end": 34.35
+    }
+  ]
+}

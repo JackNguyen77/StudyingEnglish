@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "072-access-issue",
+  "title": "Story 072 - Xử lý lỗi quyền truy cập",
+  "story": "stories/072-access-issue.md",
+  "audio": "audio/072-access-issue.mp3",
+  "duration": 31.71,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/072-access-issue.mp3",
+  "durationMale": 31.32,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the access issue in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ ak-ses í-shu in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả lỗi quyền truy cập bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.26
+    },
+    {
+      "index": 2,
+      "text": "I asked about the user permissions before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ yu-zờ pờr-mish-shầnz bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về quyền người dùng trước khi đề xuất bất cứ điều gì.",
+      "start": 5.42,
+      "end": 9.33
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the locked menu, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ lokt me-nyu, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là menu bị khóa, không chỉ là yêu cầu đầu tiên.",
+      "start": 9.49,
+      "end": 14.06
+    },
+    {
+      "index": 4,
+      "text": "We agreed to update the role and check it with one example.",
+      "pronunciation": "quy ờ-grid tu ấp-đêit đờ râu en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất cập nhật role và kiểm tra bằng một ví dụ.",
+      "start": 14.22,
+      "end": 18.15
+    },
+    {
+      "index": 5,
+      "text": "I wrote the permission note so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ permiszhần note sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết ghi chú permission để mọi người có thể xem cùng một quyết định.",
+      "start": 18.31,
+      "end": 22.36
+    },
+    {
+      "index": 6,
+      "text": "That helped us restore access safely without adding extra work.",
+      "pronunciation": "đat heo ớs ri-sto ak-ses safeli quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi khôi phục quyền an toàn mà không thêm việc dư.",
+      "start": 22.52,
+      "end": 26.21
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 26.37,
+      "end": 31.24
+    }
+  ],
+  "audioMale1": "audio_male_1/072-access-issue.mp3",
+  "durationMale1": 38.11,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the access issue in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ ak-ses í-shu in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả lỗi quyền truy cập bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 5.65
+    },
+    {
+      "index": 2,
+      "text": "I asked about the user permissions before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ yu-zờ pờr-mish-shầnz bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về quyền người dùng trước khi đề xuất bất cứ điều gì.",
+      "start": 5.81,
+      "end": 11.32
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the locked menu, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ lokt me-nyu, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là menu bị khóa, không chỉ là yêu cầu đầu tiên.",
+      "start": 11.48,
+      "end": 17.2
+    },
+    {
+      "index": 4,
+      "text": "We agreed to update the role and check it with one example.",
+      "pronunciation": "quy ờ-grid tu ấp-đêit đờ râu en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất cập nhật role và kiểm tra bằng một ví dụ.",
+      "start": 17.36,
+      "end": 22.35
+    },
+    {
+      "index": 5,
+      "text": "I wrote the permission note so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ permiszhần note sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết ghi chú permission để mọi người có thể xem cùng một quyết định.",
+      "start": 22.51,
+      "end": 27.73
+    },
+    {
+      "index": 6,
+      "text": "That helped us restore access safely without adding extra work.",
+      "pronunciation": "đat heo ớs ri-sto ak-ses safeli quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi khôi phục quyền an toàn mà không thêm việc dư.",
+      "start": 27.89,
+      "end": 30.77
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 30.93,
+      "end": 38.03
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the access issue in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ ak-ses í-shu in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả lỗi quyền truy cập bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 4.77
+    },
+    {
+      "index": 2,
+      "text": "I asked about the user permissions before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ yu-zờ pờr-mish-shầnz bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về quyền người dùng trước khi đề xuất bất cứ điều gì.",
+      "start": 4.93,
+      "end": 8.95
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the locked menu, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ lokt me-nyu, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là menu bị khóa, không chỉ là yêu cầu đầu tiên.",
+      "start": 9.11,
+      "end": 13.92
+    },
+    {
+      "index": 4,
+      "text": "We agreed to update the role and check it with one example.",
+      "pronunciation": "quy ờ-grid tu ấp-đêit đờ râu en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất cập nhật role và kiểm tra bằng một ví dụ.",
+      "start": 14.08,
+      "end": 17.93
+    },
+    {
+      "index": 5,
+      "text": "I wrote the permission note so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ permiszhần note sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết ghi chú permission để mọi người có thể xem cùng một quyết định.",
+      "start": 18.09,
+      "end": 22.24
+    },
+    {
+      "index": 6,
+      "text": "That helped us restore access safely without adding extra work.",
+      "pronunciation": "đat heo ớs ri-sto ak-ses safeli quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi khôi phục quyền an toàn mà không thêm việc dư.",
+      "start": 22.4,
+      "end": 27.19
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 27.35,
+      "end": 31.63
+    }
+  ]
+}

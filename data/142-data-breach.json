@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "142-data-breach",
+  "title": "Story 142 - Xử lý cảnh báo bảo mật",
+  "story": "stories/142-data-breach.md",
+  "audio": "audio/142-data-breach.mp3",
+  "duration": 39.24,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/142-data-breach.mp3",
+  "durationMale": 33.46,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I read about a data breach and checked whether my email was involved.",
+      "pronunciation": "ai rid ờ-bao ờ đây-tờ brich en chékt que-thờr mai i-mêil wờz involvt.",
+      "vi": "Tôi đọc về một vụ rò rỉ dữ liệu và kiểm tra email của mình có liên quan không.",
+      "start": 0.02,
+      "end": 4.78
+    },
+    {
+      "index": 2,
+      "text": "A suspicious email asked me to click a link and update my password.",
+      "pronunciation": "ờ sờ-spi-shờs i-mêil áskt mi tu klik ờ lingk en ấp-đêit mai password.",
+      "vi": "Một email đáng ngờ yêu cầu tôi bấm link và cập nhật mật khẩu.",
+      "start": 4.94,
+      "end": 10.01
+    },
+    {
+      "index": 3,
+      "text": "I changed passwords for the accounts that used the same old one.",
+      "pronunciation": "ai chênjd pát-sờ-quớrdz fo đờ ờ-kaonts đat yuzd đờ sêim âu quăn.",
+      "vi": "Tôi đổi mật khẩu cho những tài khoản dùng cùng mật khẩu cũ.",
+      "start": 10.17,
+      "end": 14.75
+    },
+    {
+      "index": 4,
+      "text": "Then I checked account activity and looked for anything strange.",
+      "pronunciation": "đen ai chékt ờ-kao ak-ti-vờ-ti en lúkt fo e-ni-thinh strênj.",
+      "vi": "Sau đó, tôi kiểm tra hoạt động tài khoản và tìm điều lạ.",
+      "start": 14.91,
+      "end": 19.29
+    },
+    {
+      "index": 5,
+      "text": "The security warning was scary, but it gave me clear steps.",
+      "pronunciation": "đờ sờ-kyu-rờ-ti wo(r)-ning wờz ske-ri, bớt ịt gêiv mi kliờ stepts.",
+      "vi": "Cảnh báo bảo mật hơi đáng sợ, nhưng nó cho tôi các bước rõ ràng.",
+      "start": 19.45,
+      "end": 24.05
+    },
+    {
+      "index": 6,
+      "text": "I reported the issue so the service could block the fake page.",
+      "pronunciation": "ai reportt đờ í-shu sâu đờ sờ-vịt kud blok đờ phêik pêij.",
+      "vi": "Tôi báo cáo vấn đề để dịch vụ có thể chặn trang giả.",
+      "start": 24.21,
+      "end": 28.2
+    },
+    {
+      "index": 7,
+      "text": "That backup habit made my files easier to trust the next time I needed them.",
+      "pronunciation": "đat béc-ấp ha-bit mêid mai phai-ồz i-zi-ờ tu trớst đờ nekst taim ai ni-địt đem.",
+      "vi": "Thói quen sao lưu đó làm tôi yên tâm hơn với file của mình khi cần lại.",
+      "start": 28.36,
+      "end": 33.38
+    }
+  ],
+  "audioMale1": "audio_male_1/142-data-breach.mp3",
+  "durationMale1": 36.66,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I read about a data breach and checked whether my email was involved.",
+      "pronunciation": "ai rid ờ-bao ờ đây-tờ brich en chékt que-thờr mai i-mêil wờz involvt.",
+      "vi": "Tôi đọc về một vụ rò rỉ dữ liệu và kiểm tra email của mình có liên quan không.",
+      "start": 0.02,
+      "end": 5.39
+    },
+    {
+      "index": 2,
+      "text": "A suspicious email asked me to click a link and update my password.",
+      "pronunciation": "ờ sờ-spi-shờs i-mêil áskt mi tu klik ờ lingk en ấp-đêit mai password.",
+      "vi": "Một email đáng ngờ yêu cầu tôi bấm link và cập nhật mật khẩu.",
+      "start": 5.55,
+      "end": 11.1
+    },
+    {
+      "index": 3,
+      "text": "I changed passwords for the accounts that used the same old one.",
+      "pronunciation": "ai chênjd pát-sờ-quớrdz fo đờ ờ-kaonts đat yuzd đờ sêim âu quăn.",
+      "vi": "Tôi đổi mật khẩu cho những tài khoản dùng cùng mật khẩu cũ.",
+      "start": 11.26,
+      "end": 15.8
+    },
+    {
+      "index": 4,
+      "text": "Then I checked account activity and looked for anything strange.",
+      "pronunciation": "đen ai chékt ờ-kao ak-ti-vờ-ti en lúkt fo e-ni-thinh strênj.",
+      "vi": "Sau đó, tôi kiểm tra hoạt động tài khoản và tìm điều lạ.",
+      "start": 15.96,
+      "end": 20.84
+    },
+    {
+      "index": 5,
+      "text": "The security warning was scary, but it gave me clear steps.",
+      "pronunciation": "đờ sờ-kyu-rờ-ti wo(r)-ning wờz ske-ri, bớt ịt gêiv mi kliờ stepts.",
+      "vi": "Cảnh báo bảo mật hơi đáng sợ, nhưng nó cho tôi các bước rõ ràng.",
+      "start": 21,
+      "end": 25.65
+    },
+    {
+      "index": 6,
+      "text": "I reported the issue so the service could block the fake page.",
+      "pronunciation": "ai reportt đờ í-shu sâu đờ sờ-vịt kud blok đờ phêik pêij.",
+      "vi": "Tôi báo cáo vấn đề để dịch vụ có thể chặn trang giả.",
+      "start": 25.81,
+      "end": 30.4
+    },
+    {
+      "index": 7,
+      "text": "That backup habit made my files easier to trust the next time I needed them.",
+      "pronunciation": "đat béc-ấp ha-bit mêid mai phai-ồz i-zi-ờ tu trớst đờ nekst taim ai ni-địt đem.",
+      "vi": "Thói quen sao lưu đó làm tôi yên tâm hơn với file của mình khi cần lại.",
+      "start": 30.56,
+      "end": 36.58
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I read about a data breach and checked whether my email was involved.",
+      "pronunciation": "ai rid ờ-bao ờ đây-tờ brich en chékt que-thờr mai i-mêil wờz involvt.",
+      "vi": "Tôi đọc về một vụ rò rỉ dữ liệu và kiểm tra email của mình có liên quan không.",
+      "start": 0,
+      "end": 5.12
+    },
+    {
+      "index": 2,
+      "text": "A suspicious email asked me to click a link and update my password.",
+      "pronunciation": "ờ sờ-spi-shờs i-mêil áskt mi tu klik ờ lingk en ấp-đêit mai password.",
+      "vi": "Một email đáng ngờ yêu cầu tôi bấm link và cập nhật mật khẩu.",
+      "start": 5.23,
+      "end": 11.03
+    },
+    {
+      "index": 3,
+      "text": "I changed passwords for the accounts that used the same old one.",
+      "pronunciation": "ai chênjd pát-sờ-quớrdz fo đờ ờ-kaonts đat yuzd đờ sêim âu quăn.",
+      "vi": "Tôi đổi mật khẩu cho những tài khoản dùng cùng mật khẩu cũ.",
+      "start": 11.14,
+      "end": 16.19
+    },
+    {
+      "index": 4,
+      "text": "Then I checked account activity and looked for anything strange.",
+      "pronunciation": "đen ai chékt ờ-kao ak-ti-vờ-ti en lúkt fo e-ni-thinh strênj.",
+      "vi": "Sau đó, tôi kiểm tra hoạt động tài khoản và tìm điều lạ.",
+      "start": 16.3,
+      "end": 22.26
+    },
+    {
+      "index": 5,
+      "text": "The security warning was scary, but it gave me clear steps.",
+      "pronunciation": "đờ sờ-kyu-rờ-ti wo(r)-ning wờz ske-ri, bớt ịt gêiv mi kliờ stepts.",
+      "vi": "Cảnh báo bảo mật hơi đáng sợ, nhưng nó cho tôi các bước rõ ràng.",
+      "start": 22.37,
+      "end": 27.42
+    },
+    {
+      "index": 6,
+      "text": "I reported the issue so the service could block the fake page.",
+      "pronunciation": "ai reportt đờ í-shu sâu đờ sờ-vịt kud blok đờ phêik pêij.",
+      "vi": "Tôi báo cáo vấn đề để dịch vụ có thể chặn trang giả.",
+      "start": 27.53,
+      "end": 33.24
+    },
+    {
+      "index": 7,
+      "text": "That backup habit made my files easier to trust the next time I needed them.",
+      "pronunciation": "đat béc-ấp ha-bit mêid mai phai-ồz i-zi-ờ tu trớst đờ nekst taim ai ni-địt đem.",
+      "vi": "Thói quen sao lưu đó làm tôi yên tâm hơn với file của mình khi cần lại.",
+      "start": 33.35,
+      "end": 39.24
+    }
+  ]
+}

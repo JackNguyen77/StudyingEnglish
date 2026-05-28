@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "177-home-budget",
+  "title": "Story 177 - Lập ngân sách gia đình",
+  "story": "stories/177-home-budget.md",
+  "audio": "audio/177-home-budget.mp3",
+  "duration": 30.71,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/177-home-budget.mp3",
+  "durationMale": 29.83,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the monthly budget before I made a final choice.",
+      "pronunciation": "ai chékt đờ mănth-li bớt-jịt bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra ngân sách hằng tháng trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.11
+    },
+    {
+      "index": 2,
+      "text": "One surprise expense made the situation less simple than it looked.",
+      "pronunciation": "quăn surprise ekspense mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Khoản chi bất ngờ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.27,
+      "end": 8.98
+    },
+    {
+      "index": 3,
+      "text": "I decided to cut small costs before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kớt smol kosts bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định cắt giảm chi phí nhỏ trước khi tiếp tục.",
+      "start": 9.14,
+      "end": 12.87
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short budget note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt bớt-jịt note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú ngân sách ngắn để người kia hiểu tôi.",
+      "start": 13.03,
+      "end": 17.3
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the balance instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ balanse in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra số dư thay vì đoán.",
+      "start": 17.46,
+      "end": 20.79
+    },
+    {
+      "index": 6,
+      "text": "That helped me stay within budget without adding extra stress.",
+      "pronunciation": "đat heo mi stây within bớt-jịt quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giữ trong ngân sách mà không thêm căng thẳng.",
+      "start": 20.95,
+      "end": 24.75
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 24.91,
+      "end": 29.75
+    }
+  ],
+  "audioMale1": "audio_male_1/177-home-budget.mp3",
+  "durationMale1": 33.73,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the monthly budget before I made a final choice.",
+      "pronunciation": "ai chékt đờ mănth-li bớt-jịt bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra ngân sách hằng tháng trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.86
+    },
+    {
+      "index": 2,
+      "text": "One surprise expense made the situation less simple than it looked.",
+      "pronunciation": "quăn surprise ekspense mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Khoản chi bất ngờ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.02,
+      "end": 9.98
+    },
+    {
+      "index": 3,
+      "text": "I decided to cut small costs before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kớt smol kosts bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định cắt giảm chi phí nhỏ trước khi tiếp tục.",
+      "start": 10.14,
+      "end": 14.09
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short budget note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt bớt-jịt note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú ngân sách ngắn để người kia hiểu tôi.",
+      "start": 14.25,
+      "end": 18.84
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the balance instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ balanse in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra số dư thay vì đoán.",
+      "start": 19,
+      "end": 22.64
+    },
+    {
+      "index": 6,
+      "text": "That helped me stay within budget without adding extra stress.",
+      "pronunciation": "đat heo mi stây within bớt-jịt quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giữ trong ngân sách mà không thêm căng thẳng.",
+      "start": 22.8,
+      "end": 27.92
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.08,
+      "end": 33.65
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the monthly budget before I made a final choice.",
+      "pronunciation": "ai chékt đờ mănth-li bớt-jịt bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra ngân sách hằng tháng trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.76
+    },
+    {
+      "index": 2,
+      "text": "One surprise expense made the situation less simple than it looked.",
+      "pronunciation": "quăn surprise ekspense mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Khoản chi bất ngờ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.92,
+      "end": 9.26
+    },
+    {
+      "index": 3,
+      "text": "I decided to cut small costs before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kớt smol kosts bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định cắt giảm chi phí nhỏ trước khi tiếp tục.",
+      "start": 9.42,
+      "end": 13.38
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short budget note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt bớt-jịt note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú ngân sách ngắn để người kia hiểu tôi.",
+      "start": 13.54,
+      "end": 18.23
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the balance instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ balanse in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra số dư thay vì đoán.",
+      "start": 18.39,
+      "end": 22.02
+    },
+    {
+      "index": 6,
+      "text": "That helped me stay within budget without adding extra stress.",
+      "pronunciation": "đat heo mi stây within bớt-jịt quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi giữ trong ngân sách mà không thêm căng thẳng.",
+      "start": 22.18,
+      "end": 25.89
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.05,
+      "end": 30.63
+    }
+  ]
+}

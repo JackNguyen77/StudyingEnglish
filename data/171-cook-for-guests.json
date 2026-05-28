@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "171-cook-for-guests",
+  "title": "Story 171 - Nấu ăn đãi khách",
+  "story": "stories/171-cook-for-guests.md",
+  "audio": "audio/171-cook-for-guests.mp3",
+  "duration": 29.33,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/171-cook-for-guests.mp3",
+  "durationMale": 30.33,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the dinner menu before I made a final choice.",
+      "pronunciation": "ai chékt đờ đi-nờ me-nyu bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra thực đơn bữa tối trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.72
+    },
+    {
+      "index": 2,
+      "text": "One missing ingredient made the situation less simple than it looked.",
+      "pronunciation": "quăn mis-sing ingredient mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Thiếu nguyên liệu làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.88,
+      "end": 8.38
+    },
+    {
+      "index": 3,
+      "text": "I decided to prepare the meal before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu pri-pea đờ mil bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định chuẩn bị bữa ăn trước khi tiếp tục.",
+      "start": 8.54,
+      "end": 12.69
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short cooking note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kuking note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú nấu ăn ngắn để người kia hiểu tôi.",
+      "start": 12.85,
+      "end": 16.94
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the oven time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ oven taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra thời gian lò nướng thay vì đoán.",
+      "start": 17.1,
+      "end": 20.72
+    },
+    {
+      "index": 6,
+      "text": "That helped me serve dinner calmly without adding extra stress.",
+      "pronunciation": "đat heo mi serve đi-nờ kam-li quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi dọn bữa tối bình tĩnh mà không thêm căng thẳng.",
+      "start": 20.88,
+      "end": 25.06
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.22,
+      "end": 30.25
+    }
+  ],
+  "audioMale1": "audio_male_1/171-cook-for-guests.mp3",
+  "durationMale1": 35.72,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the dinner menu before I made a final choice.",
+      "pronunciation": "ai chékt đờ đi-nờ me-nyu bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra thực đơn bữa tối trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.76
+    },
+    {
+      "index": 2,
+      "text": "One missing ingredient made the situation less simple than it looked.",
+      "pronunciation": "quăn mis-sing ingredient mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Thiếu nguyên liệu làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.92,
+      "end": 10.03
+    },
+    {
+      "index": 3,
+      "text": "I decided to prepare the meal before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu pri-pea đờ mil bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định chuẩn bị bữa ăn trước khi tiếp tục.",
+      "start": 10.19,
+      "end": 14.69
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short cooking note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kuking note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú nấu ăn ngắn để người kia hiểu tôi.",
+      "start": 14.85,
+      "end": 20.01
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the oven time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ oven taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra thời gian lò nướng thay vì đoán.",
+      "start": 20.17,
+      "end": 24.7
+    },
+    {
+      "index": 6,
+      "text": "That helped me serve dinner calmly without adding extra stress.",
+      "pronunciation": "đat heo mi serve đi-nờ kam-li quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi dọn bữa tối bình tĩnh mà không thêm căng thẳng.",
+      "start": 24.86,
+      "end": 29.85
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.01,
+      "end": 35.64
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the dinner menu before I made a final choice.",
+      "pronunciation": "ai chékt đờ đi-nờ me-nyu bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra thực đơn bữa tối trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.62
+    },
+    {
+      "index": 2,
+      "text": "One missing ingredient made the situation less simple than it looked.",
+      "pronunciation": "quăn mis-sing ingredient mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Thiếu nguyên liệu làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.78,
+      "end": 8.51
+    },
+    {
+      "index": 3,
+      "text": "I decided to prepare the meal before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu pri-pea đờ mil bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định chuẩn bị bữa ăn trước khi tiếp tục.",
+      "start": 8.67,
+      "end": 12.05
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short cooking note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kuking note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú nấu ăn ngắn để người kia hiểu tôi.",
+      "start": 12.21,
+      "end": 16.27
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the oven time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ oven taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra thời gian lò nướng thay vì đoán.",
+      "start": 16.43,
+      "end": 20.06
+    },
+    {
+      "index": 6,
+      "text": "That helped me serve dinner calmly without adding extra stress.",
+      "pronunciation": "đat heo mi serve đi-nờ kam-li quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi dọn bữa tối bình tĩnh mà không thêm căng thẳng.",
+      "start": 20.22,
+      "end": 24.62
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 24.78,
+      "end": 29.25
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "212-transport-strike",
+  "title": "Story 212 - Theo dõi đình công giao thông",
+  "story": "stories/212-transport-strike.md",
+  "audio": "audio/212-transport-strike.mp3",
+  "duration": 34.04,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/212-transport-strike.mp3",
+  "durationMale": 32.55,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the transport strike before I made a final choice.",
+      "pronunciation": "ai chékt đờ tran-spo(r)t strike bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra đình công giao thông trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.18
+    },
+    {
+      "index": 2,
+      "text": "One cancelled route made the situation less simple than it looked.",
+      "pronunciation": "quăn kansellt rut mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Tuyến bị hủy làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.34,
+      "end": 9.72
+    },
+    {
+      "index": 3,
+      "text": "I decided to follow the announcement before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu pha-lâu đờ annaonsement bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi thông báo trước khi tiếp tục.",
+      "start": 9.88,
+      "end": 14.27
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short commute note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kommute note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú đi lại ngắn để người kia hiểu tôi.",
+      "start": 14.43,
+      "end": 18.79
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check alternative routes instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék alternative raotes in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra tuyến thay thế thay vì đoán.",
+      "start": 18.95,
+      "end": 23.23
+    },
+    {
+      "index": 6,
+      "text": "That helped me plan around disruption without adding extra stress.",
+      "pronunciation": "đat heo mi plen ờ-rao đis-rớp-shần quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi lên kế hoạch quanh gián đoạn mà không thêm căng thẳng.",
+      "start": 23.39,
+      "end": 27.44
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.6,
+      "end": 32.47
+    }
+  ],
+  "audioMale1": "audio_male_1/212-transport-strike.mp3",
+  "durationMale1": 36.71,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the transport strike before I made a final choice.",
+      "pronunciation": "ai chékt đờ tran-spo(r)t strike bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra đình công giao thông trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.36
+    },
+    {
+      "index": 2,
+      "text": "One cancelled route made the situation less simple than it looked.",
+      "pronunciation": "quăn kansellt rut mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Tuyến bị hủy làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.52,
+      "end": 10.76
+    },
+    {
+      "index": 3,
+      "text": "I decided to follow the announcement before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu pha-lâu đờ annaonsement bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi thông báo trước khi tiếp tục.",
+      "start": 10.92,
+      "end": 15.65
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short commute note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kommute note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú đi lại ngắn để người kia hiểu tôi.",
+      "start": 15.81,
+      "end": 20.87
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check alternative routes instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék alternative raotes in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra tuyến thay thế thay vì đoán.",
+      "start": 21.03,
+      "end": 25.19
+    },
+    {
+      "index": 6,
+      "text": "That helped me plan around disruption without adding extra stress.",
+      "pronunciation": "đat heo mi plen ờ-rao đis-rớp-shần quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi lên kế hoạch quanh gián đoạn mà không thêm căng thẳng.",
+      "start": 25.35,
+      "end": 30.56
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.72,
+      "end": 36.63
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the transport strike before I made a final choice.",
+      "pronunciation": "ai chékt đờ tran-spo(r)t strike bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra đình công giao thông trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.14
+    },
+    {
+      "index": 2,
+      "text": "One cancelled route made the situation less simple than it looked.",
+      "pronunciation": "quăn kansellt rut mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Tuyến bị hủy làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.3,
+      "end": 9.81
+    },
+    {
+      "index": 3,
+      "text": "I decided to follow the announcement before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu pha-lâu đờ annaonsement bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định theo dõi thông báo trước khi tiếp tục.",
+      "start": 9.97,
+      "end": 14.57
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short commute note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt kommute note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú đi lại ngắn để người kia hiểu tôi.",
+      "start": 14.73,
+      "end": 19.73
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check alternative routes instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék alternative raotes in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra tuyến thay thế thay vì đoán.",
+      "start": 19.89,
+      "end": 24.28
+    },
+    {
+      "index": 6,
+      "text": "That helped me plan around disruption without adding extra stress.",
+      "pronunciation": "đat heo mi plen ờ-rao đis-rớp-shần quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi lên kế hoạch quanh gián đoạn mà không thêm căng thẳng.",
+      "start": 24.44,
+      "end": 29.3
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 29.46,
+      "end": 33.96
+    }
+  ]
+}

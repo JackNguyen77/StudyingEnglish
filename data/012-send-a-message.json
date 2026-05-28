@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "012-send-a-message",
+  "title": "Story 012 - Nhắn tin cho bạn",
+  "story": "stories/012-send-a-message.md",
+  "audio": "audio/012-send-a-message.mp3",
+  "duration": 21.77,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/012-send-a-message.mp3",
+  "durationMale": 23.11,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I needed to ask my friend about our weekend plan.",
+      "pronunciation": "ai ni-địt tu át-sờk mai phren ờ-bao ao-ờ quik-end plen.",
+      "vi": "Tôi cần hỏi bạn về kế hoạch cuối tuần.",
+      "start": 0.02,
+      "end": 4.07
+    },
+    {
+      "index": 2,
+      "text": "I typed a message, but it sounded too direct.",
+      "pronunciation": "ai taipt ờ mé-sij, bớt ịt sao-địt tu đai-rekt.",
+      "vi": "Tôi gõ một tin nhắn, nhưng nghe hơi thẳng quá.",
+      "start": 4.23,
+      "end": 7.38
+    },
+    {
+      "index": 3,
+      "text": "So I changed the wording and made it a little softer.",
+      "pronunciation": "sâu ai chênjd đờ quớr-ding en mêid ịt ờ li-đồ sof-tờ.",
+      "vi": "Nên tôi đổi cách diễn đạt và làm nó mềm hơn một chút.",
+      "start": 7.54,
+      "end": 11.24
+    },
+    {
+      "index": 4,
+      "text": "I asked if she was still free on Saturday.",
+      "pronunciation": "ai áskt if shi wờz stil fri on sa-tờ-đây.",
+      "vi": "Tôi hỏi cô ấy thứ Bảy còn rảnh không.",
+      "start": 11.4,
+      "end": 14.62
+    },
+    {
+      "index": 5,
+      "text": "She replied right away and said Saturday worked for her.",
+      "pronunciation": "shi ri-plaid rai-tờ-quây en sed sa-tờ-đây quớrkt fo hờr.",
+      "vi": "Cô ấy trả lời ngay và nói thứ Bảy ổn với cô ấy.",
+      "start": 14.78,
+      "end": 18.81
+    },
+    {
+      "index": 6,
+      "text": "We agreed to meet up in the afternoon and keep the plan simple.",
+      "pronunciation": "quy ờ-grid tu mi-tấp in đờ áp-tờ-nun en kip đờ plen sim-pồ.",
+      "vi": "Chúng tôi thống nhất gặp nhau buổi chiều và giữ kế hoạch đơn giản.",
+      "start": 18.97,
+      "end": 23.03
+    }
+  ],
+  "audioMale1": "audio_male_1/012-send-a-message.mp3",
+  "durationMale1": 25.72,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I needed to ask my friend about our weekend plan.",
+      "pronunciation": "ai ni-địt tu át-sờk mai phren ờ-bao ao-ờ quik-end plen.",
+      "vi": "Tôi cần hỏi bạn về kế hoạch cuối tuần.",
+      "start": 0.02,
+      "end": 4.04
+    },
+    {
+      "index": 2,
+      "text": "I typed a message, but it sounded too direct.",
+      "pronunciation": "ai taipt ờ mé-sij, bớt ịt sao-địt tu đai-rekt.",
+      "vi": "Tôi gõ một tin nhắn, nhưng nghe hơi thẳng quá.",
+      "start": 4.2,
+      "end": 8.14
+    },
+    {
+      "index": 3,
+      "text": "So I changed the wording and made it a little softer.",
+      "pronunciation": "sâu ai chênjd đờ quớr-ding en mêid ịt ờ li-đồ sof-tờ.",
+      "vi": "Nên tôi đổi cách diễn đạt và làm nó mềm hơn một chút.",
+      "start": 8.3,
+      "end": 12.33
+    },
+    {
+      "index": 4,
+      "text": "I asked if she was still free on Saturday.",
+      "pronunciation": "ai áskt if shi wờz stil fri on sa-tờ-đây.",
+      "vi": "Tôi hỏi cô ấy thứ Bảy còn rảnh không.",
+      "start": 12.49,
+      "end": 15.89
+    },
+    {
+      "index": 5,
+      "text": "She replied right away and said Saturday worked for her.",
+      "pronunciation": "shi ri-plaid rai-tờ-quây en sed sa-tờ-đây quớrkt fo hờr.",
+      "vi": "Cô ấy trả lời ngay và nói thứ Bảy ổn với cô ấy.",
+      "start": 16.05,
+      "end": 20.58
+    },
+    {
+      "index": 6,
+      "text": "We agreed to meet up in the afternoon and keep the plan simple.",
+      "pronunciation": "quy ờ-grid tu mi-tấp in đờ áp-tờ-nun en kip đờ plen sim-pồ.",
+      "vi": "Chúng tôi thống nhất gặp nhau buổi chiều và giữ kế hoạch đơn giản.",
+      "start": 20.74,
+      "end": 25.64
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I needed to ask my friend about our weekend plan.",
+      "pronunciation": "ai ni-địt tu át-sờk mai phren ờ-bao ao-ờ quik-end plen.",
+      "vi": "Tôi cần hỏi bạn về kế hoạch cuối tuần.",
+      "start": 0.02,
+      "end": 3.65
+    },
+    {
+      "index": 2,
+      "text": "I typed a message, but it sounded too direct.",
+      "pronunciation": "ai taipt ờ mé-sij, bớt ịt sao-địt tu đai-rekt.",
+      "vi": "Tôi gõ một tin nhắn, nhưng nghe hơi thẳng quá.",
+      "start": 3.81,
+      "end": 7
+    },
+    {
+      "index": 3,
+      "text": "So I changed the wording and made it a little softer.",
+      "pronunciation": "sâu ai chênjd đờ quớr-ding en mêid ịt ờ li-đồ sof-tờ.",
+      "vi": "Nên tôi đổi cách diễn đạt và làm nó mềm hơn một chút.",
+      "start": 7.16,
+      "end": 10.41
+    },
+    {
+      "index": 4,
+      "text": "I asked if she was still free on Saturday.",
+      "pronunciation": "ai áskt if shi wờz stil fri on sa-tờ-đây.",
+      "vi": "Tôi hỏi cô ấy thứ Bảy còn rảnh không.",
+      "start": 10.57,
+      "end": 13.42
+    },
+    {
+      "index": 5,
+      "text": "She replied right away and said Saturday worked for her.",
+      "pronunciation": "shi ri-plaid rai-tờ-quây en sed sa-tờ-đây quớrkt fo hờr.",
+      "vi": "Cô ấy trả lời ngay và nói thứ Bảy ổn với cô ấy.",
+      "start": 13.58,
+      "end": 17.37
+    },
+    {
+      "index": 6,
+      "text": "We agreed to meet up in the afternoon and keep the plan simple.",
+      "pronunciation": "quy ờ-grid tu mi-tấp in đờ áp-tờ-nun en kip đờ plen sim-pồ.",
+      "vi": "Chúng tôi thống nhất gặp nhau buổi chiều và giữ kế hoạch đơn giản.",
+      "start": 17.53,
+      "end": 21.69
+    }
+  ]
+}

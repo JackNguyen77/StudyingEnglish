@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "144-software-update",
+  "title": "Story 144 - Cập nhật phần mềm",
+  "story": "stories/144-software-update.md",
+  "audio": "audio/144-software-update.mp3",
+  "duration": 36.91,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/144-software-update.mp3",
+  "durationMale": 30.71,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "My phone said an update was available, but I was about to leave.",
+      "pronunciation": "mai phôn sed ờn ấp-đêit wờz ờ-vei-lờ-bồ, bớt ai wờz ờ-bao tu live.",
+      "vi": "Điện thoại báo có bản cập nhật, nhưng tôi sắp ra ngoài.",
+      "start": 0.02,
+      "end": 5.07
+    },
+    {
+      "index": 2,
+      "text": "I chose to install overnight so it would not interrupt work.",
+      "pronunciation": "ai chôz tu in-stol âu-vờ-nait sâu ịt quud nót interrupt quớrk.",
+      "vi": "Tôi chọn cài qua đêm để nó không làm gián đoạn công việc.",
+      "start": 5.23,
+      "end": 9.27
+    },
+    {
+      "index": 3,
+      "text": "The release notes mentioned a bug fix for the camera.",
+      "pronunciation": "đờ ri-lis nouts mentiont ờ bớg phiks fo đờ ka-mờ-rờ.",
+      "vi": "Ghi chú phát hành nhắc đến một bản sửa lỗi cho camera.",
+      "start": 9.43,
+      "end": 13.81
+    },
+    {
+      "index": 4,
+      "text": "That bug fix mattered because my video calls had been freezing.",
+      "pronunciation": "đat bớg phiks mattert bi-kóz mai vi-đi-ô kalls had bin frizing.",
+      "vi": "Bản sửa lỗi đó quan trọng vì video call của tôi hay bị đơ.",
+      "start": 13.97,
+      "end": 18.13
+    },
+    {
+      "index": 5,
+      "text": "After the download, the phone asked me to restart the phone.",
+      "pronunciation": "áp-tờ đờ daonload, đờ phôn áskt mi tu ri-start đờ phôn.",
+      "vi": "Sau khi tải xong, điện thoại yêu cầu tôi khởi động lại.",
+      "start": 18.29,
+      "end": 22.28
+    },
+    {
+      "index": 6,
+      "text": "In the morning, I checked the version and tested the camera.",
+      "pronunciation": "in đờ mo-ning, ai chékt đờ vơr-zhần en testt đờ ka-mờ-rờ.",
+      "vi": "Buổi sáng, tôi kiểm tra phiên bản và thử camera.",
+      "start": 22.44,
+      "end": 26.21
+    },
+    {
+      "index": 7,
+      "text": "That setup step made the device easier to use the next time I needed it.",
+      "pronunciation": "đat se-tấp step mêid đờ đi-vais i-zi-ờ tu use đờ nekst taim ai ni-địt ịt.",
+      "vi": "Bước cài đặt đó làm thiết bị dễ dùng hơn vào lần sau tôi cần.",
+      "start": 26.37,
+      "end": 30.63
+    }
+  ],
+  "audioMale1": "audio_male_1/144-software-update.mp3",
+  "durationMale1": 34.5,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "My phone said an update was available, but I was about to leave.",
+      "pronunciation": "mai phôn sed ờn ấp-đêit wờz ờ-vei-lờ-bồ, bớt ai wờz ờ-bao tu live.",
+      "vi": "Điện thoại báo có bản cập nhật, nhưng tôi sắp ra ngoài.",
+      "start": 0.02,
+      "end": 5
+    },
+    {
+      "index": 2,
+      "text": "I chose to install overnight so it would not interrupt work.",
+      "pronunciation": "ai chôz tu in-stol âu-vờ-nait sâu ịt quud nót interrupt quớrk.",
+      "vi": "Tôi chọn cài qua đêm để nó không làm gián đoạn công việc.",
+      "start": 5.16,
+      "end": 10.22
+    },
+    {
+      "index": 3,
+      "text": "The release notes mentioned a bug fix for the camera.",
+      "pronunciation": "đờ ri-lis nouts mentiont ờ bớg phiks fo đờ ka-mờ-rờ.",
+      "vi": "Ghi chú phát hành nhắc đến một bản sửa lỗi cho camera.",
+      "start": 10.38,
+      "end": 14.08
+    },
+    {
+      "index": 4,
+      "text": "That bug fix mattered because my video calls had been freezing.",
+      "pronunciation": "đat bớg phiks mattert bi-kóz mai vi-đi-ô kalls had bin frizing.",
+      "vi": "Bản sửa lỗi đó quan trọng vì video call của tôi hay bị đơ.",
+      "start": 14.24,
+      "end": 18.78
+    },
+    {
+      "index": 5,
+      "text": "After the download, the phone asked me to restart the phone.",
+      "pronunciation": "áp-tờ đờ daonload, đờ phôn áskt mi tu ri-start đờ phôn.",
+      "vi": "Sau khi tải xong, điện thoại yêu cầu tôi khởi động lại.",
+      "start": 18.94,
+      "end": 23.3
+    },
+    {
+      "index": 6,
+      "text": "In the morning, I checked the version and tested the camera.",
+      "pronunciation": "in đờ mo-ning, ai chékt đờ vơr-zhần en testt đờ ka-mờ-rờ.",
+      "vi": "Buổi sáng, tôi kiểm tra phiên bản và thử camera.",
+      "start": 23.46,
+      "end": 27.88
+    },
+    {
+      "index": 7,
+      "text": "That setup step made the device easier to use the next time I needed it.",
+      "pronunciation": "đat se-tấp step mêid đờ đi-vais i-zi-ờ tu use đờ nekst taim ai ni-địt ịt.",
+      "vi": "Bước cài đặt đó làm thiết bị dễ dùng hơn vào lần sau tôi cần.",
+      "start": 28.04,
+      "end": 34.42
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "My phone said an update was available, but I was about to leave.",
+      "pronunciation": "mai phôn sed ờn ấp-đêit wờz ờ-vei-lờ-bồ, bớt ai wờz ờ-bao tu live.",
+      "vi": "Điện thoại báo có bản cập nhật, nhưng tôi sắp ra ngoài.",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "index": 2,
+      "text": "I chose to install overnight so it would not interrupt work.",
+      "pronunciation": "ai chôz tu in-stol âu-vờ-nait sâu ịt quud nót interrupt quớrk.",
+      "vi": "Tôi chọn cài qua đêm để nó không làm gián đoạn công việc.",
+      "start": 6.11,
+      "end": 11.24
+    },
+    {
+      "index": 3,
+      "text": "The release notes mentioned a bug fix for the camera.",
+      "pronunciation": "đờ ri-lis nouts mentiont ờ bớg phiks fo đờ ka-mờ-rờ.",
+      "vi": "Ghi chú phát hành nhắc đến một bản sửa lỗi cho camera.",
+      "start": 11.35,
+      "end": 16.08
+    },
+    {
+      "index": 4,
+      "text": "That bug fix mattered because my video calls had been freezing.",
+      "pronunciation": "đat bớg phiks mattert bi-kóz mai vi-đi-ô kalls had bin frizing.",
+      "vi": "Bản sửa lỗi đó quan trọng vì video call của tôi hay bị đơ.",
+      "start": 16.19,
+      "end": 21.59
+    },
+    {
+      "index": 5,
+      "text": "After the download, the phone asked me to restart the phone.",
+      "pronunciation": "áp-tờ đờ daonload, đờ phôn áskt mi tu ri-start đờ phôn.",
+      "vi": "Sau khi tải xong, điện thoại yêu cầu tôi khởi động lại.",
+      "start": 21.7,
+      "end": 26.89
+    },
+    {
+      "index": 6,
+      "text": "In the morning, I checked the version and tested the camera.",
+      "pronunciation": "in đờ mo-ning, ai chékt đờ vơr-zhần en testt đờ ka-mờ-rờ.",
+      "vi": "Buổi sáng, tôi kiểm tra phiên bản và thử camera.",
+      "start": 27,
+      "end": 31.47
+    },
+    {
+      "index": 7,
+      "text": "That setup step made the device easier to use the next time I needed it.",
+      "pronunciation": "đat se-tấp step mêid đờ đi-vais i-zi-ờ tu use đờ nekst taim ai ni-địt ịt.",
+      "vi": "Bước cài đặt đó làm thiết bị dễ dùng hơn vào lần sau tôi cần.",
+      "start": 31.58,
+      "end": 36.91
+    }
+  ]
+}

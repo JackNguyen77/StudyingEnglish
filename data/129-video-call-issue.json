@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "129-video-call-issue",
+  "title": "Story 129 - Sửa lỗi video call",
+  "story": "stories/129-video-call-issue.md",
+  "audio": "audio/129-video-call-issue.mp3",
+  "duration": 37.62,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/129-video-call-issue.mp3",
+  "durationMale": 28.39,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "The video call link opened, but the room stayed blank.",
+      "pronunciation": "đờ vi-đi-ô kol lingk âu-pần, bớt đờ rum stâyd blangk.",
+      "vi": "Link gọi video mở được, nhưng phòng vẫn trống.",
+      "start": 0.02,
+      "end": 4.15
+    },
+    {
+      "index": 2,
+      "text": "A poor connection made everyone sound broken and far away.",
+      "pronunciation": "ờ puờ kờ-nek-shần mêid ev-ri-quan sao brâu-kần en far ờ-quây.",
+      "vi": "Kết nối yếu làm mọi người nghe đứt quãng và xa.",
+      "start": 4.31,
+      "end": 8.27
+    },
+    {
+      "index": 3,
+      "text": "I muted the mic while I checked the router behind me.",
+      "pronunciation": "ai mutt đờ maik quai ai chékt đờ raoter bi-hain mi.",
+      "vi": "Tôi tắt micro trong lúc kiểm tra router phía sau.",
+      "start": 8.43,
+      "end": 11.83
+    },
+    {
+      "index": 4,
+      "text": "My teammate shared the link again in case I opened the wrong one.",
+      "pronunciation": "mai tim-mêit she(r)d đờ lingk ờ-gen in kêis ai âu-pần đờ rong quăn.",
+      "vi": "Đồng đội gửi lại link phòng khi tôi mở nhầm.",
+      "start": 11.99,
+      "end": 15.99
+    },
+    {
+      "index": 5,
+      "text": "I switched to mobile data and the picture became clear.",
+      "pronunciation": "ai switkht tu mô-bồ đây-tờ en đờ pikkhờ bi-kêim kliờ.",
+      "vi": "Tôi chuyển sang dữ liệu di động và hình ảnh rõ hơn.",
+      "start": 16.15,
+      "end": 19.94
+    },
+    {
+      "index": 6,
+      "text": "After that, I rejoined the call and explained the delay.",
+      "pronunciation": "áp-tờ đat, ai rejoint đờ kol en ích-splêind đờ đi-lây.",
+      "vi": "Sau đó, tôi vào lại cuộc gọi và giải thích sự chậm trễ.",
+      "start": 20.1,
+      "end": 23.82
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 23.98,
+      "end": 28.31
+    }
+  ],
+  "audioMale1": "audio_male_1/129-video-call-issue.mp3",
+  "durationMale1": 35.83,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "The video call link opened, but the room stayed blank.",
+      "pronunciation": "đờ vi-đi-ô kol lingk âu-pần, bớt đờ rum stâyd blangk.",
+      "vi": "Link gọi video mở được, nhưng phòng vẫn trống.",
+      "start": 0.02,
+      "end": 3.84
+    },
+    {
+      "index": 2,
+      "text": "A poor connection made everyone sound broken and far away.",
+      "pronunciation": "ờ puờ kờ-nek-shần mêid ev-ri-quan sao brâu-kần en far ờ-quây.",
+      "vi": "Kết nối yếu làm mọi người nghe đứt quãng và xa.",
+      "start": 4,
+      "end": 9.01
+    },
+    {
+      "index": 3,
+      "text": "I muted the mic while I checked the router behind me.",
+      "pronunciation": "ai mutt đờ maik quai ai chékt đờ raoter bi-hain mi.",
+      "vi": "Tôi tắt micro trong lúc kiểm tra router phía sau.",
+      "start": 9.17,
+      "end": 14.95
+    },
+    {
+      "index": 4,
+      "text": "My teammate shared the link again in case I opened the wrong one.",
+      "pronunciation": "mai tim-mêit she(r)d đờ lingk ờ-gen in kêis ai âu-pần đờ rong quăn.",
+      "vi": "Đồng đội gửi lại link phòng khi tôi mở nhầm.",
+      "start": 15.11,
+      "end": 20.11
+    },
+    {
+      "index": 5,
+      "text": "I switched to mobile data and the picture became clear.",
+      "pronunciation": "ai switkht tu mô-bồ đây-tờ en đờ pikkhờ bi-kêim kliờ.",
+      "vi": "Tôi chuyển sang dữ liệu di động và hình ảnh rõ hơn.",
+      "start": 20.27,
+      "end": 24.91
+    },
+    {
+      "index": 6,
+      "text": "After that, I rejoined the call and explained the delay.",
+      "pronunciation": "áp-tờ đat, ai rejoint đờ kol en ích-splêind đờ đi-lây.",
+      "vi": "Sau đó, tôi vào lại cuộc gọi và giải thích sự chậm trễ.",
+      "start": 25.07,
+      "end": 29.94
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 30.1,
+      "end": 35.75
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "The video call link opened, but the room stayed blank.",
+      "pronunciation": "đờ vi-đi-ô kol lingk âu-pần, bớt đờ rum stâyd blangk.",
+      "vi": "Link gọi video mở được, nhưng phòng vẫn trống.",
+      "start": 0,
+      "end": 4.16
+    },
+    {
+      "index": 2,
+      "text": "A poor connection made everyone sound broken and far away.",
+      "pronunciation": "ờ puờ kờ-nek-shần mêid ev-ri-quan sao brâu-kần en far ờ-quây.",
+      "vi": "Kết nối yếu làm mọi người nghe đứt quãng và xa.",
+      "start": 4.27,
+      "end": 10.22
+    },
+    {
+      "index": 3,
+      "text": "I muted the mic while I checked the router behind me.",
+      "pronunciation": "ai mutt đờ maik quai ai chékt đờ raoter bi-hain mi.",
+      "vi": "Tôi tắt micro trong lúc kiểm tra router phía sau.",
+      "start": 10.33,
+      "end": 14.61
+    },
+    {
+      "index": 4,
+      "text": "My teammate shared the link again in case I opened the wrong one.",
+      "pronunciation": "mai tim-mêit she(r)d đờ lingk ờ-gen in kêis ai âu-pần đờ rong quăn.",
+      "vi": "Đồng đội gửi lại link phòng khi tôi mở nhầm.",
+      "start": 14.72,
+      "end": 20.45
+    },
+    {
+      "index": 5,
+      "text": "I switched to mobile data and the picture became clear.",
+      "pronunciation": "ai switkht tu mô-bồ đây-tờ en đờ pikkhờ bi-kêim kliờ.",
+      "vi": "Tôi chuyển sang dữ liệu di động và hình ảnh rõ hơn.",
+      "start": 20.56,
+      "end": 25.5
+    },
+    {
+      "index": 6,
+      "text": "After that, I rejoined the call and explained the delay.",
+      "pronunciation": "áp-tờ đat, ai rejoint đờ kol en ích-splêind đờ đi-lây.",
+      "vi": "Sau đó, tôi vào lại cuộc gọi và giải thích sự chậm trễ.",
+      "start": 25.61,
+      "end": 31.15
+    },
+    {
+      "index": 7,
+      "text": "That small change made my phone feel calmer the next time I picked it up.",
+      "pronunciation": "đat smol chênj mêid mai phôn phiu kam-mờr đờ nekst taim ai pík-tịt-tấp.",
+      "vi": "Thay đổi nhỏ đó làm điện thoại đỡ gây nhiễu hơn lần sau tôi cầm lên.",
+      "start": 31.26,
+      "end": 37.62
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "197-change-request",
+  "title": "Story 197 - Đánh giá change request",
+  "story": "stories/197-change-request.md",
+  "audio": "audio/197-change-request.mp3",
+  "duration": 31.5,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/197-change-request.mp3",
+  "durationMale": 28.28,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the change request before I made a final choice.",
+      "pronunciation": "ai chékt đờ chênj ri-quest bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra yêu cầu thay đổi trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.72
+    },
+    {
+      "index": 2,
+      "text": "One hidden impact made the situation less simple than it looked.",
+      "pronunciation": "quăn hi-đần impakt mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Tác động ẩn làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.88,
+      "end": 7.68
+    },
+    {
+      "index": 3,
+      "text": "I decided to assess the change before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu assess đờ chênj bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định đánh giá thay đổi trước khi tiếp tục.",
+      "start": 7.84,
+      "end": 11.3
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short change request note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt chênj ri-quest note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú change request ngắn để người kia hiểu tôi.",
+      "start": 11.46,
+      "end": 15.9
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the approval path instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ ờ-pru-vồ path in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận đường duyệt thay vì đoán.",
+      "start": 16.06,
+      "end": 19.91
+    },
+    {
+      "index": 6,
+      "text": "That helped me control the scope without adding extra stress.",
+      "pronunciation": "đat heo mi kờn-trâu đờ skoup quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi kiểm soát scope mà không thêm căng thẳng.",
+      "start": 20.07,
+      "end": 23.82
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 23.98,
+      "end": 28.2
+    }
+  ],
+  "audioMale1": "audio_male_1/197-change-request.mp3",
+  "durationMale1": 37.37,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the change request before I made a final choice.",
+      "pronunciation": "ai chékt đờ chênj ri-quest bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra yêu cầu thay đổi trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.82
+    },
+    {
+      "index": 2,
+      "text": "One hidden impact made the situation less simple than it looked.",
+      "pronunciation": "quăn hi-đần impakt mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Tác động ẩn làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.98,
+      "end": 10.27
+    },
+    {
+      "index": 3,
+      "text": "I decided to assess the change before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu assess đờ chênj bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định đánh giá thay đổi trước khi tiếp tục.",
+      "start": 10.43,
+      "end": 15.33
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short change request note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt chênj ri-quest note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú change request ngắn để người kia hiểu tôi.",
+      "start": 15.49,
+      "end": 21.05
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the approval path instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ ờ-pru-vồ path in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận đường duyệt thay vì đoán.",
+      "start": 21.21,
+      "end": 26.24
+    },
+    {
+      "index": 6,
+      "text": "That helped me control the scope without adding extra stress.",
+      "pronunciation": "đat heo mi kờn-trâu đờ skoup quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi kiểm soát scope mà không thêm căng thẳng.",
+      "start": 26.4,
+      "end": 31.44
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 31.6,
+      "end": 37.29
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the change request before I made a final choice.",
+      "pronunciation": "ai chékt đờ chênj ri-quest bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra yêu cầu thay đổi trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.8
+    },
+    {
+      "index": 2,
+      "text": "One hidden impact made the situation less simple than it looked.",
+      "pronunciation": "quăn hi-đần impakt mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Tác động ẩn làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.96,
+      "end": 8.22
+    },
+    {
+      "index": 3,
+      "text": "I decided to assess the change before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu assess đờ chênj bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định đánh giá thay đổi trước khi tiếp tục.",
+      "start": 8.38,
+      "end": 12.51
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short change request note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt chênj ri-quest note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú change request ngắn để người kia hiểu tôi.",
+      "start": 12.67,
+      "end": 18.01
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the approval path instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ ờ-pru-vồ path in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận đường duyệt thay vì đoán.",
+      "start": 18.17,
+      "end": 22.06
+    },
+    {
+      "index": 6,
+      "text": "That helped me control the scope without adding extra stress.",
+      "pronunciation": "đat heo mi kờn-trâu đờ skoup quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi kiểm soát scope mà không thêm căng thẳng.",
+      "start": 22.22,
+      "end": 26.29
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.45,
+      "end": 31.42
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "026-lost-wallet",
+  "title": "Story 026 - Tìm ví bị mất",
+  "story": "stories/026-lost-wallet.md",
+  "audio": "audio/026-lost-wallet.mp3",
+  "duration": 20.28,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/026-lost-wallet.mp3",
+  "durationMale": 20.9,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I could not find my wallet before leaving home.",
+      "pronunciation": "ai kud nót phain mai qua-lịt bi-fo li-ving hôm.",
+      "vi": "Tôi không tìm thấy ví trước khi ra khỏi nhà.",
+      "start": 0.02,
+      "end": 3.64
+    },
+    {
+      "index": 2,
+      "text": "I looked around the room and checked under the couch.",
+      "pronunciation": "ai lúc ờ-rao đờ rum en chékt ăn-đờ đờ kao-ch.",
+      "vi": "Tôi nhìn quanh phòng và kiểm tra dưới ghế sofa.",
+      "start": 3.8,
+      "end": 6.84
+    },
+    {
+      "index": 3,
+      "text": "Then I tried to retrace my steps from the night before.",
+      "pronunciation": "đen ai traid tu ri-trêis mai stepts phrom đờ nait bi-fo.",
+      "vi": "Rồi tôi cố nhớ lại các bước từ tối hôm trước.",
+      "start": 7,
+      "end": 10.4
+    },
+    {
+      "index": 4,
+      "text": "I realized I had left it behind on my desk.",
+      "pronunciation": "ai ri-ờ-laizd ai had left ịt bi-hain on mai desk.",
+      "vi": "Tôi nhận ra mình đã để quên nó trên bàn.",
+      "start": 10.56,
+      "end": 13.79
+    },
+    {
+      "index": 5,
+      "text": "I felt relieved when it finally showed up.",
+      "pronunciation": "ai felt ri-livd quen ịt phai-nờ-li sâud ấp.",
+      "vi": "Tôi thấy nhẹ nhõm khi cuối cùng nó xuất hiện.",
+      "start": 13.95,
+      "end": 16.44
+    },
+    {
+      "index": 6,
+      "text": "Now I always keep an eye on my wallet before I go out.",
+      "pronunciation": "nao ai ol-quâyz ki-pen ai on mai qua-lịt bi-fo ai gâu ao.",
+      "vi": "Giờ tôi luôn để mắt tới ví trước khi ra ngoài.",
+      "start": 16.6,
+      "end": 20.82
+    }
+  ],
+  "audioMale1": "audio_male_1/026-lost-wallet.mp3",
+  "durationMale1": 23.16,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I could not find my wallet before leaving home.",
+      "pronunciation": "ai kud nót phain mai qua-lịt bi-fo li-ving hôm.",
+      "vi": "Tôi không tìm thấy ví trước khi ra khỏi nhà.",
+      "start": 0.02,
+      "end": 3.6
+    },
+    {
+      "index": 2,
+      "text": "I looked around the room and checked under the couch.",
+      "pronunciation": "ai lúc ờ-rao đờ rum en chékt ăn-đờ đờ kao-ch.",
+      "vi": "Tôi nhìn quanh phòng và kiểm tra dưới ghế sofa.",
+      "start": 3.76,
+      "end": 7.57
+    },
+    {
+      "index": 3,
+      "text": "Then I tried to retrace my steps from the night before.",
+      "pronunciation": "đen ai traid tu ri-trêis mai stepts phrom đờ nait bi-fo.",
+      "vi": "Rồi tôi cố nhớ lại các bước từ tối hôm trước.",
+      "start": 7.73,
+      "end": 11.94
+    },
+    {
+      "index": 4,
+      "text": "I realized I had left it behind on my desk.",
+      "pronunciation": "ai ri-ờ-laizd ai had left ịt bi-hain on mai desk.",
+      "vi": "Tôi nhận ra mình đã để quên nó trên bàn.",
+      "start": 12.1,
+      "end": 15.73
+    },
+    {
+      "index": 5,
+      "text": "I felt relieved when it finally showed up.",
+      "pronunciation": "ai felt ri-livd quen ịt phai-nờ-li sâud ấp.",
+      "vi": "Tôi thấy nhẹ nhõm khi cuối cùng nó xuất hiện.",
+      "start": 15.89,
+      "end": 18.94
+    },
+    {
+      "index": 6,
+      "text": "Now I always keep an eye on my wallet before I go out.",
+      "pronunciation": "nao ai ol-quâyz ki-pen ai on mai qua-lịt bi-fo ai gâu ao.",
+      "vi": "Giờ tôi luôn để mắt tới ví trước khi ra ngoài.",
+      "start": 19.1,
+      "end": 23.08
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I could not find my wallet before leaving home.",
+      "pronunciation": "ai kud nót phain mai qua-lịt bi-fo li-ving hôm.",
+      "vi": "Tôi không tìm thấy ví trước khi ra khỏi nhà.",
+      "start": 0.02,
+      "end": 2.96
+    },
+    {
+      "index": 2,
+      "text": "I looked around the room and checked under the couch.",
+      "pronunciation": "ai lúc ờ-rao đờ rum en chékt ăn-đờ đờ kao-ch.",
+      "vi": "Tôi nhìn quanh phòng và kiểm tra dưới ghế sofa.",
+      "start": 3.12,
+      "end": 6.28
+    },
+    {
+      "index": 3,
+      "text": "Then I tried to retrace my steps from the night before.",
+      "pronunciation": "đen ai traid tu ri-trêis mai stepts phrom đờ nait bi-fo.",
+      "vi": "Rồi tôi cố nhớ lại các bước từ tối hôm trước.",
+      "start": 6.44,
+      "end": 10.15
+    },
+    {
+      "index": 4,
+      "text": "I realized I had left it behind on my desk.",
+      "pronunciation": "ai ri-ờ-laizd ai had left ịt bi-hain on mai desk.",
+      "vi": "Tôi nhận ra mình đã để quên nó trên bàn.",
+      "start": 10.31,
+      "end": 13.69
+    },
+    {
+      "index": 5,
+      "text": "I felt relieved when it finally showed up.",
+      "pronunciation": "ai felt ri-livd quen ịt phai-nờ-li sâud ấp.",
+      "vi": "Tôi thấy nhẹ nhõm khi cuối cùng nó xuất hiện.",
+      "start": 13.85,
+      "end": 16.63
+    },
+    {
+      "index": 6,
+      "text": "Now I always keep an eye on my wallet before I go out.",
+      "pronunciation": "nao ai ol-quâyz ki-pen ai on mai qua-lịt bi-fo ai gâu ao.",
+      "vi": "Giờ tôi luôn để mắt tới ví trước khi ra ngoài.",
+      "start": 16.79,
+      "end": 20.2
+    }
+  ]
+}

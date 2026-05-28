@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "147-map-navigation",
+  "title": "Story 147 - Đi theo bản đồ",
+  "story": "stories/147-map-navigation.md",
+  "audio": "audio/147-map-navigation.mp3",
+  "duration": 34.49,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/147-map-navigation.mp3",
+  "durationMale": 30.04,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "The map showed a route option that avoided the main road.",
+      "pronunciation": "đờ map sâud ờ rut áp-shần đat avoidt đờ mên road.",
+      "vi": "Bản đồ hiển thị lựa chọn tuyến đường tránh đường chính.",
+      "start": 0.02,
+      "end": 3.95
+    },
+    {
+      "index": 2,
+      "text": "A traffic delay added fifteen minutes to the trip.",
+      "pronunciation": "ờ tra-phik đi-lây a-địt phíp-tin mi-nits tu đờ trip.",
+      "vi": "Trễ do giao thông làm chuyến đi thêm mười lăm phút.",
+      "start": 4.11,
+      "end": 8.01
+    },
+    {
+      "index": 3,
+      "text": "I sent my estimated arrival to my friend before I left.",
+      "pronunciation": "ai sent mai es-tờ-mêi-tịt ờ-rai-vồ tu mai phren bi-fo ai left.",
+      "vi": "Tôi gửi giờ đến dự kiến cho bạn trước khi đi.",
+      "start": 8.17,
+      "end": 12.69
+    },
+    {
+      "index": 4,
+      "text": "Turn-by-turn directions helped me stay calm in a new area.",
+      "pronunciation": "tơn bai tơn đai-rek-shầnz heo mi stây kaam in ờ niu ari.",
+      "vi": "Chỉ đường từng bước giúp tôi bình tĩnh trong khu mới.",
+      "start": 12.85,
+      "end": 17.05
+    },
+    {
+      "index": 5,
+      "text": "The app had to reroute when one street was closed.",
+      "pronunciation": "đờ áp had tu ri-rut quen quăn strit wờz klost.",
+      "vi": "App phải đổi tuyến khi một con đường bị đóng.",
+      "start": 17.21,
+      "end": 20.88
+    },
+    {
+      "index": 6,
+      "text": "I saved the place so I could find it again next time.",
+      "pronunciation": "ai sêivd đờ plêis sâu ai kud phain ịt ờ-gen nekst taim.",
+      "vi": "Tôi lưu địa điểm để lần sau có thể tìm lại.",
+      "start": 21.04,
+      "end": 25.04
+    },
+    {
+      "index": 7,
+      "text": "That quick check made the trip feel smoother and less stressful.",
+      "pronunciation": "đat quík chék mêid đờ trip phiu smu-đờr en les stres-phồ.",
+      "vi": "Lần kiểm tra nhanh đó làm chuyến đi mượt hơn và bớt căng thẳng.",
+      "start": 25.2,
+      "end": 29.96
+    }
+  ],
+  "audioMale1": "audio_male_1/147-map-navigation.mp3",
+  "durationMale1": 30.79,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "The map showed a route option that avoided the main road.",
+      "pronunciation": "đờ map sâud ờ rut áp-shần đat avoidt đờ mên road.",
+      "vi": "Bản đồ hiển thị lựa chọn tuyến đường tránh đường chính.",
+      "start": 0.02,
+      "end": 4.64
+    },
+    {
+      "index": 2,
+      "text": "A traffic delay added fifteen minutes to the trip.",
+      "pronunciation": "ờ tra-phik đi-lây a-địt phíp-tin mi-nits tu đờ trip.",
+      "vi": "Trễ do giao thông làm chuyến đi thêm mười lăm phút.",
+      "start": 4.8,
+      "end": 8.23
+    },
+    {
+      "index": 3,
+      "text": "I sent my estimated arrival to my friend before I left.",
+      "pronunciation": "ai sent mai es-tờ-mêi-tịt ờ-rai-vồ tu mai phren bi-fo ai left.",
+      "vi": "Tôi gửi giờ đến dự kiến cho bạn trước khi đi.",
+      "start": 8.39,
+      "end": 13.32
+    },
+    {
+      "index": 4,
+      "text": "Turn-by-turn directions helped me stay calm in a new area.",
+      "pronunciation": "tơn bai tơn đai-rek-shầnz heo mi stây kaam in ờ niu ari.",
+      "vi": "Chỉ đường từng bước giúp tôi bình tĩnh trong khu mới.",
+      "start": 13.48,
+      "end": 17.64
+    },
+    {
+      "index": 5,
+      "text": "The app had to reroute when one street was closed.",
+      "pronunciation": "đờ áp had tu ri-rut quen quăn strit wờz klost.",
+      "vi": "App phải đổi tuyến khi một con đường bị đóng.",
+      "start": 17.8,
+      "end": 21.99
+    },
+    {
+      "index": 6,
+      "text": "I saved the place so I could find it again next time.",
+      "pronunciation": "ai sêivd đờ plêis sâu ai kud phain ịt ờ-gen nekst taim.",
+      "vi": "Tôi lưu địa điểm để lần sau có thể tìm lại.",
+      "start": 22.15,
+      "end": 26.41
+    },
+    {
+      "index": 7,
+      "text": "That quick check made the trip feel smoother and less stressful.",
+      "pronunciation": "đat quík chék mêid đờ trip phiu smu-đờr en les stres-phồ.",
+      "vi": "Lần kiểm tra nhanh đó làm chuyến đi mượt hơn và bớt căng thẳng.",
+      "start": 26.57,
+      "end": 30.71
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "The map showed a route option that avoided the main road.",
+      "pronunciation": "đờ map sâud ờ rut áp-shần đat avoidt đờ mên road.",
+      "vi": "Bản đồ hiển thị lựa chọn tuyến đường tránh đường chính.",
+      "start": 0,
+      "end": 4.93
+    },
+    {
+      "index": 2,
+      "text": "A traffic delay added fifteen minutes to the trip.",
+      "pronunciation": "ờ tra-phik đi-lây a-địt phíp-tin mi-nits tu đờ trip.",
+      "vi": "Trễ do giao thông làm chuyến đi thêm mười lăm phút.",
+      "start": 5.04,
+      "end": 9.32
+    },
+    {
+      "index": 3,
+      "text": "I sent my estimated arrival to my friend before I left.",
+      "pronunciation": "ai sent mai es-tờ-mêi-tịt ờ-rai-vồ tu mai phren bi-fo ai left.",
+      "vi": "Tôi gửi giờ đến dự kiến cho bạn trước khi đi.",
+      "start": 9.43,
+      "end": 14.73
+    },
+    {
+      "index": 4,
+      "text": "Turn-by-turn directions helped me stay calm in a new area.",
+      "pronunciation": "tơn bai tơn đai-rek-shầnz heo mi stây kaam in ờ niu ari.",
+      "vi": "Chỉ đường từng bước giúp tôi bình tĩnh trong khu mới.",
+      "start": 14.84,
+      "end": 20.74
+    },
+    {
+      "index": 5,
+      "text": "The app had to reroute when one street was closed.",
+      "pronunciation": "đờ áp had tu ri-rut quen quăn strit wờz klost.",
+      "vi": "App phải đổi tuyến khi một con đường bị đóng.",
+      "start": 20.85,
+      "end": 24.86
+    },
+    {
+      "index": 6,
+      "text": "I saved the place so I could find it again next time.",
+      "pronunciation": "ai sêivd đờ plêis sâu ai kud phain ịt ờ-gen nekst taim.",
+      "vi": "Tôi lưu địa điểm để lần sau có thể tìm lại.",
+      "start": 24.97,
+      "end": 29.65
+    },
+    {
+      "index": 7,
+      "text": "That quick check made the trip feel smoother and less stressful.",
+      "pronunciation": "đat quík chék mêid đờ trip phiu smu-đờr en les stres-phồ.",
+      "vi": "Lần kiểm tra nhanh đó làm chuyến đi mượt hơn và bớt căng thẳng.",
+      "start": 29.76,
+      "end": 34.49
+    }
+  ]
+}

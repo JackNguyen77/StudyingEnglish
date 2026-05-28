@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "056-shared-document",
+  "title": "Story 056 - Làm việc trên tài liệu chung",
+  "story": "stories/056-shared-document.md",
+  "audio": "audio/056-shared-document.mp3",
+  "duration": 28.94,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/056-shared-document.mp3",
+  "durationMale": 27.06,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the shared document so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ she(r)d đók-yu-mần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở tài liệu chung để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.31
+    },
+    {
+      "index": 2,
+      "text": "The goal was to leave comments without losing important details.",
+      "pronunciation": "đờ gâu wờz tu live ko-ments quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là để lại comment mà không làm mất các chi tiết quan trọng.",
+      "start": 5.47,
+      "end": 9.57
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the outdated section and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ aotdatt sekshần en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra phần đã cũ và hỏi ai nên xử lý tiếp.",
+      "start": 9.73,
+      "end": 14.1
+    },
+    {
+      "index": 4,
+      "text": "We agreed to update the wording before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu ấp-đêit đờ quớr-ding bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất cập nhật cách diễn đạt trước khi có ai đi tiếp.",
+      "start": 14.26,
+      "end": 17.97
+    },
+    {
+      "index": 5,
+      "text": "I shared the clear version after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ kliờ vơr-zhần áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ phiên bản rõ ràng sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 18.13,
+      "end": 22.96
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us avoid duplicate work later in the day.",
+      "pronunciation": "đat smol step heo ớs ờ-void đu-plờ-kịt quớrk lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi tránh làm trùng việc về sau trong ngày.",
+      "start": 23.12,
+      "end": 26.98
+    }
+  ],
+  "audioMale1": "audio_male_1/056-shared-document.mp3",
+  "durationMale1": 35.17,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the shared document so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ she(r)d đók-yu-mần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở tài liệu chung để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 7.22
+    },
+    {
+      "index": 2,
+      "text": "The goal was to leave comments without losing important details.",
+      "pronunciation": "đờ gâu wờz tu live ko-ments quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là để lại comment mà không làm mất các chi tiết quan trọng.",
+      "start": 7.38,
+      "end": 13.01
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the outdated section and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ aotdatt sekshần en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra phần đã cũ và hỏi ai nên xử lý tiếp.",
+      "start": 13.17,
+      "end": 18.72
+    },
+    {
+      "index": 4,
+      "text": "We agreed to update the wording before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu ấp-đêit đờ quớr-ding bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất cập nhật cách diễn đạt trước khi có ai đi tiếp.",
+      "start": 18.88,
+      "end": 23.35
+    },
+    {
+      "index": 5,
+      "text": "I shared the clear version after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ kliờ vơr-zhần áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ phiên bản rõ ràng sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 23.51,
+      "end": 29.55
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us avoid duplicate work later in the day.",
+      "pronunciation": "đat smol step heo ớs ờ-void đu-plờ-kịt quớrk lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi tránh làm trùng việc về sau trong ngày.",
+      "start": 29.71,
+      "end": 35.09
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the shared document so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ she(r)d đók-yu-mần sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở tài liệu chung để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.55
+    },
+    {
+      "index": 2,
+      "text": "The goal was to leave comments without losing important details.",
+      "pronunciation": "đờ gâu wờz tu live ko-ments quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là để lại comment mà không làm mất các chi tiết quan trọng.",
+      "start": 5.71,
+      "end": 9.72
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the outdated section and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ aotdatt sekshần en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra phần đã cũ và hỏi ai nên xử lý tiếp.",
+      "start": 9.88,
+      "end": 14.58
+    },
+    {
+      "index": 4,
+      "text": "We agreed to update the wording before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu ấp-đêit đờ quớr-ding bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất cập nhật cách diễn đạt trước khi có ai đi tiếp.",
+      "start": 14.74,
+      "end": 18.35
+    },
+    {
+      "index": 5,
+      "text": "I shared the clear version after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ kliờ vơr-zhần áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ phiên bản rõ ràng sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 18.51,
+      "end": 23.74
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us avoid duplicate work later in the day.",
+      "pronunciation": "đat smol step heo ớs ờ-void đu-plờ-kịt quớrk lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi tránh làm trùng việc về sau trong ngày.",
+      "start": 23.9,
+      "end": 28.86
+    }
+  ]
+}

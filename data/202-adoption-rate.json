@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "202-adoption-rate",
+  "title": "Story 202 - Theo dõi adoption rate",
+  "story": "stories/202-adoption-rate.md",
+  "audio": "audio/202-adoption-rate.mp3",
+  "duration": 32.44,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/202-adoption-rate.mp3",
+  "durationMale": 32.23,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the product adoption rate before I made a final choice.",
+      "pronunciation": "ai chékt đờ produkt ờ-dop-shần rêit bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tỷ lệ adoption product trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.79
+    },
+    {
+      "index": 2,
+      "text": "One low usage made the situation less simple than it looked.",
+      "pronunciation": "quăn lâu yu-sij mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Mức dùng thấp làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.95,
+      "end": 9.16
+    },
+    {
+      "index": 3,
+      "text": "I decided to review user behavior before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ri-viu yu-zờ bi-hâyv-yờr bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định xem lại hành vi user trước khi tiếp tục.",
+      "start": 9.32,
+      "end": 13.47
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short adoption note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ờ-dop-shần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú adoption ngắn để người kia hiểu tôi.",
+      "start": 13.63,
+      "end": 18.35
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the active users instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ aktive yu-zờrz in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra user active thay vì đoán.",
+      "start": 18.51,
+      "end": 22.61
+    },
+    {
+      "index": 6,
+      "text": "That helped me improve daily use without adding extra stress.",
+      "pronunciation": "đat heo mi im-pruuv đây-li use quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi cải thiện sử dụng hằng ngày mà không thêm căng thẳng.",
+      "start": 22.77,
+      "end": 27.02
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.18,
+      "end": 32.15
+    }
+  ],
+  "audioMale1": "audio_male_1/202-adoption-rate.mp3",
+  "durationMale1": 38.29,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the product adoption rate before I made a final choice.",
+      "pronunciation": "ai chékt đờ produkt ờ-dop-shần rêit bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tỷ lệ adoption product trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.52
+    },
+    {
+      "index": 2,
+      "text": "One low usage made the situation less simple than it looked.",
+      "pronunciation": "quăn lâu yu-sij mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Mức dùng thấp làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.68,
+      "end": 10.23
+    },
+    {
+      "index": 3,
+      "text": "I decided to review user behavior before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ri-viu yu-zờ bi-hâyv-yờr bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định xem lại hành vi user trước khi tiếp tục.",
+      "start": 10.39,
+      "end": 15.28
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short adoption note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ờ-dop-shần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú adoption ngắn để người kia hiểu tôi.",
+      "start": 15.44,
+      "end": 20.89
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the active users instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ aktive yu-zờrz in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra user active thay vì đoán.",
+      "start": 21.05,
+      "end": 28.46
+    },
+    {
+      "index": 6,
+      "text": "That helped me improve daily use without adding extra stress.",
+      "pronunciation": "đat heo mi im-pruuv đây-li use quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi cải thiện sử dụng hằng ngày mà không thêm căng thẳng.",
+      "start": 28.62,
+      "end": 32.12
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 32.28,
+      "end": 38.21
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the product adoption rate before I made a final choice.",
+      "pronunciation": "ai chékt đờ produkt ờ-dop-shần rêit bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra tỷ lệ adoption product trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.95
+    },
+    {
+      "index": 2,
+      "text": "One low usage made the situation less simple than it looked.",
+      "pronunciation": "quăn lâu yu-sij mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Mức dùng thấp làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.11,
+      "end": 9.55
+    },
+    {
+      "index": 3,
+      "text": "I decided to review user behavior before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu ri-viu yu-zờ bi-hâyv-yờr bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định xem lại hành vi user trước khi tiếp tục.",
+      "start": 9.71,
+      "end": 13.93
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short adoption note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt ờ-dop-shần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú adoption ngắn để người kia hiểu tôi.",
+      "start": 14.09,
+      "end": 18.87
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the active users instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ aktive yu-zờrz in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra user active thay vì đoán.",
+      "start": 19.03,
+      "end": 22.9
+    },
+    {
+      "index": 6,
+      "text": "That helped me improve daily use without adding extra stress.",
+      "pronunciation": "đat heo mi im-pruuv đây-li use quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi cải thiện sử dụng hằng ngày mà không thêm căng thẳng.",
+      "start": 23.06,
+      "end": 27.07
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.23,
+      "end": 32.36
+    }
+  ]
+}

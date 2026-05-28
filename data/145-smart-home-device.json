@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "145-smart-home-device",
+  "title": "Story 145 - Điều khiển thiết bị nhà",
+  "story": "stories/145-smart-home-device.md",
+  "audio": "audio/145-smart-home-device.mp3",
+  "duration": 37.62,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/145-smart-home-device.mp3",
+  "durationMale": 29.67,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I connected the smart speaker because my hands were full.",
+      "pronunciation": "ai kờ-nek-tịt đờ smart spi-kờr bi-kóz mai hands quờr phul.",
+      "vi": "Tôi kết nối loa thông minh vì tay đang bận.",
+      "start": 0.02,
+      "end": 3.61
+    },
+    {
+      "index": 2,
+      "text": "The first voice command worked, but the second one failed.",
+      "pronunciation": "đờ phớrst vois kờ-mand quớrkt, bớt đờ sekond quăn fâyld.",
+      "vi": "Lệnh giọng nói đầu tiên hoạt động, nhưng lệnh thứ hai thất bại.",
+      "start": 3.77,
+      "end": 7.74
+    },
+    {
+      "index": 3,
+      "text": "I changed the device name so it was easier to say.",
+      "pronunciation": "ai chênjd đờ đi-vais nêim sâu ịt wờz i-zi-ờ tu sâi.",
+      "vi": "Tôi đổi tên thiết bị để dễ nói hơn.",
+      "start": 7.9,
+      "end": 11.61
+    },
+    {
+      "index": 4,
+      "text": "A connection drop made the lights turn off for a few seconds.",
+      "pronunciation": "ờ kờ-nek-shần drop mêid đờ lâyts tơn of fo ờ phiu se-kầnz.",
+      "vi": "Mất kết nối làm đèn tắt trong vài giây.",
+      "start": 11.77,
+      "end": 15.95
+    },
+    {
+      "index": 5,
+      "text": "Later, I used my phone to turn off remotely before leaving home.",
+      "pronunciation": "lêi-tờ, ai yuzd mai phôn tu tơn of ri-mout-li bi-fo li-ving hôm.",
+      "vi": "Sau đó, tôi dùng điện thoại để tắt từ xa trước khi rời nhà.",
+      "start": 16.11,
+      "end": 20.47
+    },
+    {
+      "index": 6,
+      "text": "If the command failed again, I would check the app first.",
+      "pronunciation": "if đờ kờ-mand fâyld ờ-gen, ai quud chék đi áp phớrst.",
+      "vi": "Nếu lệnh lại thất bại, tôi sẽ kiểm tra app trước.",
+      "start": 20.63,
+      "end": 24.66
+    },
+    {
+      "index": 7,
+      "text": "That setup step made the device easier to use the next time I needed it.",
+      "pronunciation": "đat se-tấp step mêid đờ đi-vais i-zi-ờ tu use đờ nekst taim ai ni-địt ịt.",
+      "vi": "Bước cài đặt đó làm thiết bị dễ dùng hơn vào lần sau tôi cần.",
+      "start": 24.82,
+      "end": 29.59
+    }
+  ],
+  "audioMale1": "audio_male_1/145-smart-home-device.mp3",
+  "durationMale1": 33.46,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I connected the smart speaker because my hands were full.",
+      "pronunciation": "ai kờ-nek-tịt đờ smart spi-kờr bi-kóz mai hands quờr phul.",
+      "vi": "Tôi kết nối loa thông minh vì tay đang bận.",
+      "start": 0.02,
+      "end": 4.78
+    },
+    {
+      "index": 2,
+      "text": "The first voice command worked, but the second one failed.",
+      "pronunciation": "đờ phớrst vois kờ-mand quớrkt, bớt đờ sekond quăn fâyld.",
+      "vi": "Lệnh giọng nói đầu tiên hoạt động, nhưng lệnh thứ hai thất bại.",
+      "start": 4.94,
+      "end": 9.03
+    },
+    {
+      "index": 3,
+      "text": "I changed the device name so it was easier to say.",
+      "pronunciation": "ai chênjd đờ đi-vais nêim sâu ịt wờz i-zi-ờ tu sâi.",
+      "vi": "Tôi đổi tên thiết bị để dễ nói hơn.",
+      "start": 9.19,
+      "end": 13.42
+    },
+    {
+      "index": 4,
+      "text": "A connection drop made the lights turn off for a few seconds.",
+      "pronunciation": "ờ kờ-nek-shần drop mêid đờ lâyts tơn of fo ờ phiu se-kầnz.",
+      "vi": "Mất kết nối làm đèn tắt trong vài giây.",
+      "start": 13.58,
+      "end": 17.81
+    },
+    {
+      "index": 5,
+      "text": "Later, I used my phone to turn off remotely before leaving home.",
+      "pronunciation": "lêi-tờ, ai yuzd mai phôn tu tơn of ri-mout-li bi-fo li-ving hôm.",
+      "vi": "Sau đó, tôi dùng điện thoại để tắt từ xa trước khi rời nhà.",
+      "start": 17.97,
+      "end": 22.97
+    },
+    {
+      "index": 6,
+      "text": "If the command failed again, I would check the app first.",
+      "pronunciation": "if đờ kờ-mand fâyld ờ-gen, ai quud chék đi áp phớrst.",
+      "vi": "Nếu lệnh lại thất bại, tôi sẽ kiểm tra app trước.",
+      "start": 23.13,
+      "end": 27.45
+    },
+    {
+      "index": 7,
+      "text": "That setup step made the device easier to use the next time I needed it.",
+      "pronunciation": "đat se-tấp step mêid đờ đi-vais i-zi-ờ tu use đờ nekst taim ai ni-địt ịt.",
+      "vi": "Bước cài đặt đó làm thiết bị dễ dùng hơn vào lần sau tôi cần.",
+      "start": 27.61,
+      "end": 33.38
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I connected the smart speaker because my hands were full.",
+      "pronunciation": "ai kờ-nek-tịt đờ smart spi-kờr bi-kóz mai hands quờr phul.",
+      "vi": "Tôi kết nối loa thông minh vì tay đang bận.",
+      "start": 0,
+      "end": 5.48
+    },
+    {
+      "index": 2,
+      "text": "The first voice command worked, but the second one failed.",
+      "pronunciation": "đờ phớrst vois kờ-mand quớrkt, bớt đờ sekond quăn fâyld.",
+      "vi": "Lệnh giọng nói đầu tiên hoạt động, nhưng lệnh thứ hai thất bại.",
+      "start": 5.59,
+      "end": 11.1
+    },
+    {
+      "index": 3,
+      "text": "I changed the device name so it was easier to say.",
+      "pronunciation": "ai chênjd đờ đi-vais nêim sâu ịt wờz i-zi-ờ tu sâi.",
+      "vi": "Tôi đổi tên thiết bị để dễ nói hơn.",
+      "start": 11.21,
+      "end": 16.15
+    },
+    {
+      "index": 4,
+      "text": "A connection drop made the lights turn off for a few seconds.",
+      "pronunciation": "ờ kờ-nek-shần drop mêid đờ lâyts tơn of fo ờ phiu se-kầnz.",
+      "vi": "Mất kết nối làm đèn tắt trong vài giây.",
+      "start": 16.26,
+      "end": 21.66
+    },
+    {
+      "index": 5,
+      "text": "Later, I used my phone to turn off remotely before leaving home.",
+      "pronunciation": "lêi-tờ, ai yuzd mai phôn tu tơn of ri-mout-li bi-fo li-ving hôm.",
+      "vi": "Sau đó, tôi dùng điện thoại để tắt từ xa trước khi rời nhà.",
+      "start": 21.77,
+      "end": 27.33
+    },
+    {
+      "index": 6,
+      "text": "If the command failed again, I would check the app first.",
+      "pronunciation": "if đờ kờ-mand fâyld ờ-gen, ai quud chék đi áp phớrst.",
+      "vi": "Nếu lệnh lại thất bại, tôi sẽ kiểm tra app trước.",
+      "start": 27.44,
+      "end": 32.12
+    },
+    {
+      "index": 7,
+      "text": "That setup step made the device easier to use the next time I needed it.",
+      "pronunciation": "đat se-tấp step mêid đờ đi-vais i-zi-ờ tu use đờ nekst taim ai ni-địt ịt.",
+      "vi": "Bước cài đặt đó làm thiết bị dễ dùng hơn vào lần sau tôi cần.",
+      "start": 32.23,
+      "end": 37.62
+    }
+  ]
+}

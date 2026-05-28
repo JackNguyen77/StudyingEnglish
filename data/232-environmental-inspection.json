@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "232-environmental-inspection",
+  "title": "Story 232 - Theo dõi kiểm tra môi trường",
+  "story": "stories/232-environmental-inspection.md",
+  "audio": "audio/232-environmental-inspection.mp3",
+  "duration": 29.46,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/232-environmental-inspection.mp3",
+  "durationMale": 30.65,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the environmental inspection before I made a final choice.",
+      "pronunciation": "ai chékt đờ en-vai-rần-men-tồ inspekshần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra kiểm tra môi trường trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.41
+    },
+    {
+      "index": 2,
+      "text": "One pollution concern made the situation less simple than it looked.",
+      "pronunciation": "quăn pollushần kờn-sơn mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Mối lo ô nhiễm làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.57,
+      "end": 8.96
+    },
+    {
+      "index": 3,
+      "text": "I decided to collect evidence before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kollekt e-vờ-đầnss bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định thu thập bằng chứng trước khi tiếp tục.",
+      "start": 9.12,
+      "end": 12.66
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short inspection note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt inspekshần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú kiểm tra ngắn để người kia hiểu tôi.",
+      "start": 12.82,
+      "end": 17.27
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check factory records instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék faktori re-kờrdz in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra record nhà máy thay vì đoán.",
+      "start": 17.43,
+      "end": 21.6
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect the river without adding extra stress.",
+      "pronunciation": "đat heo mi protekt đờ river quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bảo vệ con sông mà không thêm căng thẳng.",
+      "start": 21.76,
+      "end": 25.44
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.6,
+      "end": 30.57
+    }
+  ],
+  "audioMale1": "audio_male_1/232-environmental-inspection.mp3",
+  "durationMale1": 37.22,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the environmental inspection before I made a final choice.",
+      "pronunciation": "ai chékt đờ en-vai-rần-men-tồ inspekshần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra kiểm tra môi trường trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.52
+    },
+    {
+      "index": 2,
+      "text": "One pollution concern made the situation less simple than it looked.",
+      "pronunciation": "quăn pollushần kờn-sơn mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Mối lo ô nhiễm làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.68,
+      "end": 10.88
+    },
+    {
+      "index": 3,
+      "text": "I decided to collect evidence before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kollekt e-vờ-đầnss bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định thu thập bằng chứng trước khi tiếp tục.",
+      "start": 11.04,
+      "end": 15.78
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short inspection note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt inspekshần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú kiểm tra ngắn để người kia hiểu tôi.",
+      "start": 15.94,
+      "end": 21.48
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check factory records instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék faktori re-kờrdz in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra record nhà máy thay vì đoán.",
+      "start": 21.64,
+      "end": 26.27
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect the river without adding extra stress.",
+      "pronunciation": "đat heo mi protekt đờ river quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bảo vệ con sông mà không thêm căng thẳng.",
+      "start": 26.43,
+      "end": 30.87
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 31.03,
+      "end": 37.14
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the environmental inspection before I made a final choice.",
+      "pronunciation": "ai chékt đờ en-vai-rần-men-tồ inspekshần bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra kiểm tra môi trường trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.98
+    },
+    {
+      "index": 2,
+      "text": "One pollution concern made the situation less simple than it looked.",
+      "pronunciation": "quăn pollushần kờn-sơn mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Mối lo ô nhiễm làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.14,
+      "end": 8.14
+    },
+    {
+      "index": 3,
+      "text": "I decided to collect evidence before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kollekt e-vờ-đầnss bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định thu thập bằng chứng trước khi tiếp tục.",
+      "start": 8.3,
+      "end": 12.02
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short inspection note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt inspekshần note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú kiểm tra ngắn để người kia hiểu tôi.",
+      "start": 12.18,
+      "end": 16.53
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check factory records instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék faktori re-kờrdz in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra record nhà máy thay vì đoán.",
+      "start": 16.69,
+      "end": 20.26
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect the river without adding extra stress.",
+      "pronunciation": "đat heo mi protekt đờ river quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bảo vệ con sông mà không thêm căng thẳng.",
+      "start": 20.42,
+      "end": 24.38
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 24.54,
+      "end": 29.38
+    }
+  ]
+}

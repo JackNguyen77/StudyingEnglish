@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "011-check-the-weather",
+  "title": "Story 011 - Xem thời tiết trước khi ra ngoài",
+  "story": "stories/011-check-the-weather.md",
+  "audio": "audio/011-check-the-weather.mp3",
+  "duration": 22.66,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/011-check-the-weather.mp3",
+  "durationMale": 22.7,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before I left the house, I checked the weather on my phone.",
+      "pronunciation": "bi-fo ai left đờ hao, ai chékt đờ que-thờ on mai phôn.",
+      "vi": "Trước khi ra khỏi nhà, tôi xem thời tiết trên điện thoại.",
+      "start": 0.02,
+      "end": 3.87
+    },
+    {
+      "index": 2,
+      "text": "The forecast said it might rain later in the afternoon.",
+      "pronunciation": "đờ pho-kast sed ịt mait rein lêi-tờ in đờ áp-tờ-nun.",
+      "vi": "Dự báo nói chiều muộn có thể mưa.",
+      "start": 4.03,
+      "end": 8.53
+    },
+    {
+      "index": 3,
+      "text": "At first, the sky looked clear, so I almost ignored it.",
+      "pronunciation": "at phớrst, đờ skai lúkt kliờ, sâu ai ol-mâust ig-no(r)d ịt.",
+      "vi": "Lúc đầu trời trông quang đãng, nên tôi suýt bỏ qua.",
+      "start": 8.69,
+      "end": 11.97
+    },
+    {
+      "index": 4,
+      "text": "But I brought a small umbrella just in case.",
+      "pronunciation": "bớt ai brot ờ smol ăm-brel-lờ jớst in kêis.",
+      "vi": "Nhưng tôi mang theo một cây dù nhỏ cho chắc.",
+      "start": 12.13,
+      "end": 15.47
+    },
+    {
+      "index": 5,
+      "text": "On my way home, it started pouring.",
+      "pronunciation": "on mai quây hôm, ịt star-tịt po-ring.",
+      "vi": "Trên đường về nhà, trời bắt đầu mưa như trút.",
+      "start": 15.63,
+      "end": 18.86
+    },
+    {
+      "index": 6,
+      "text": "I was glad I had planned ahead instead of getting soaked.",
+      "pronunciation": "ai wờz glad ai had plend ờ-hed in-sted ờv ge-ting sâukt.",
+      "vi": "Tôi mừng vì đã chuẩn bị trước thay vì bị ướt sũng.",
+      "start": 19.02,
+      "end": 22.62
+    }
+  ],
+  "audioMale1": "audio_male_1/011-check-the-weather.mp3",
+  "durationMale1": 26.39,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before I left the house, I checked the weather on my phone.",
+      "pronunciation": "bi-fo ai left đờ hao, ai chékt đờ que-thờ on mai phôn.",
+      "vi": "Trước khi ra khỏi nhà, tôi xem thời tiết trên điện thoại.",
+      "start": 0.02,
+      "end": 5.1
+    },
+    {
+      "index": 2,
+      "text": "The forecast said it might rain later in the afternoon.",
+      "pronunciation": "đờ pho-kast sed ịt mait rein lêi-tờ in đờ áp-tờ-nun.",
+      "vi": "Dự báo nói chiều muộn có thể mưa.",
+      "start": 5.26,
+      "end": 9.11
+    },
+    {
+      "index": 3,
+      "text": "At first, the sky looked clear, so I almost ignored it.",
+      "pronunciation": "at phớrst, đờ skai lúkt kliờ, sâu ai ol-mâust ig-no(r)d ịt.",
+      "vi": "Lúc đầu trời trông quang đãng, nên tôi suýt bỏ qua.",
+      "start": 9.27,
+      "end": 14.68
+    },
+    {
+      "index": 4,
+      "text": "But I brought a small umbrella just in case.",
+      "pronunciation": "bớt ai brot ờ smol ăm-brel-lờ jớst in kêis.",
+      "vi": "Nhưng tôi mang theo một cây dù nhỏ cho chắc.",
+      "start": 14.84,
+      "end": 18.37
+    },
+    {
+      "index": 5,
+      "text": "On my way home, it started pouring.",
+      "pronunciation": "on mai quây hôm, ịt star-tịt po-ring.",
+      "vi": "Trên đường về nhà, trời bắt đầu mưa như trút.",
+      "start": 18.53,
+      "end": 21.81
+    },
+    {
+      "index": 6,
+      "text": "I was glad I had planned ahead instead of getting soaked.",
+      "pronunciation": "ai wờz glad ai had plend ờ-hed in-sted ờv ge-ting sâukt.",
+      "vi": "Tôi mừng vì đã chuẩn bị trước thay vì bị ướt sũng.",
+      "start": 21.97,
+      "end": 26.31
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before I left the house, I checked the weather on my phone.",
+      "pronunciation": "bi-fo ai left đờ hao, ai chékt đờ que-thờ on mai phôn.",
+      "vi": "Trước khi ra khỏi nhà, tôi xem thời tiết trên điện thoại.",
+      "start": 0.02,
+      "end": 4.1
+    },
+    {
+      "index": 2,
+      "text": "The forecast said it might rain later in the afternoon.",
+      "pronunciation": "đờ pho-kast sed ịt mait rein lêi-tờ in đờ áp-tờ-nun.",
+      "vi": "Dự báo nói chiều muộn có thể mưa.",
+      "start": 4.26,
+      "end": 7.78
+    },
+    {
+      "index": 3,
+      "text": "At first, the sky looked clear, so I almost ignored it.",
+      "pronunciation": "at phớrst, đờ skai lúkt kliờ, sâu ai ol-mâust ig-no(r)d ịt.",
+      "vi": "Lúc đầu trời trông quang đãng, nên tôi suýt bỏ qua.",
+      "start": 7.94,
+      "end": 12.42
+    },
+    {
+      "index": 4,
+      "text": "But I brought a small umbrella just in case.",
+      "pronunciation": "bớt ai brot ờ smol ăm-brel-lờ jớst in kêis.",
+      "vi": "Nhưng tôi mang theo một cây dù nhỏ cho chắc.",
+      "start": 12.58,
+      "end": 15.67
+    },
+    {
+      "index": 5,
+      "text": "On my way home, it started pouring.",
+      "pronunciation": "on mai quây hôm, ịt star-tịt po-ring.",
+      "vi": "Trên đường về nhà, trời bắt đầu mưa như trút.",
+      "start": 15.83,
+      "end": 18.66
+    },
+    {
+      "index": 6,
+      "text": "I was glad I had planned ahead instead of getting soaked.",
+      "pronunciation": "ai wờz glad ai had plend ờ-hed in-sted ờv ge-ting sâukt.",
+      "vi": "Tôi mừng vì đã chuẩn bị trước thay vì bị ướt sũng.",
+      "start": 18.82,
+      "end": 22.58
+    }
+  ]
+}

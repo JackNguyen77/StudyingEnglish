@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "047-handoff",
+  "title": "Story 047 - Bàn giao công việc",
+  "story": "stories/047-handoff.md",
+  "audio": "audio/047-handoff.mp3",
+  "duration": 29.77,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/047-handoff.mp3",
+  "durationMale": 30.34,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the handoff note so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ hen-dof note sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở ghi chú bàn giao để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.24
+    },
+    {
+      "index": 2,
+      "text": "The goal was to take over the task without losing important details.",
+      "pronunciation": "đờ gâu wờz tu têik âu-vờ đờ tát-sờk quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là tiếp quản công việc mà không làm mất các chi tiết quan trọng.",
+      "start": 5.4,
+      "end": 10.25
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the current blocker and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ kờ-rần bló-kờr en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra điểm đang chặn và hỏi ai nên xử lý tiếp.",
+      "start": 10.41,
+      "end": 15.35
+    },
+    {
+      "index": 4,
+      "text": "We agreed to leave clear notes before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu live kliờ nouts bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất để lại ghi chú rõ trước khi có ai đi tiếp.",
+      "start": 15.51,
+      "end": 19.65
+    },
+    {
+      "index": 5,
+      "text": "I shared the last test result after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ last test ri-zờlt áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ kết quả test cuối sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 19.81,
+      "end": 25.46
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us avoid confusion later in the day.",
+      "pronunciation": "đat smol step heo ớs ờ-void konfuzhần lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi tránh nhầm lẫn về sau trong ngày.",
+      "start": 25.62,
+      "end": 30.26
+    }
+  ],
+  "audioMale1": "audio_male_1/047-handoff.mp3",
+  "durationMale1": 32.28,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the handoff note so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ hen-dof note sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở ghi chú bàn giao để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.99
+    },
+    {
+      "index": 2,
+      "text": "The goal was to take over the task without losing important details.",
+      "pronunciation": "đờ gâu wờz tu têik âu-vờ đờ tát-sờk quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là tiếp quản công việc mà không làm mất các chi tiết quan trọng.",
+      "start": 6.15,
+      "end": 11.15
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the current blocker and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ kờ-rần bló-kờr en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra điểm đang chặn và hỏi ai nên xử lý tiếp.",
+      "start": 11.31,
+      "end": 16.23
+    },
+    {
+      "index": 4,
+      "text": "We agreed to leave clear notes before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu live kliờ nouts bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất để lại ghi chú rõ trước khi có ai đi tiếp.",
+      "start": 16.39,
+      "end": 20.88
+    },
+    {
+      "index": 5,
+      "text": "I shared the last test result after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ last test ri-zờlt áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ kết quả test cuối sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 21.04,
+      "end": 27.31
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us avoid confusion later in the day.",
+      "pronunciation": "đat smol step heo ớs ờ-void konfuzhần lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi tránh nhầm lẫn về sau trong ngày.",
+      "start": 27.47,
+      "end": 32.2
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Before the call, I opened the handoff note so the team could see the context.",
+      "pronunciation": "bi-fo đờ kol, ai âu-pần đờ hen-dof note sâu đờ tim kud si đờ kón-tekst.",
+      "vi": "Trước cuộc gọi, tôi mở ghi chú bàn giao để cả nhóm thấy bối cảnh.",
+      "start": 0.02,
+      "end": 5.43
+    },
+    {
+      "index": 2,
+      "text": "The goal was to take over the task without losing important details.",
+      "pronunciation": "đờ gâu wờz tu têik âu-vờ đờ tát-sờk quì-thao losing im-po-tần đi-têuz.",
+      "vi": "Mục tiêu là tiếp quản công việc mà không làm mất các chi tiết quan trọng.",
+      "start": 5.59,
+      "end": 10.1
+    },
+    {
+      "index": 3,
+      "text": "I pointed out the current blocker and asked who should handle it next.",
+      "pronunciation": "ai poin-tịt ao đờ kờ-rần bló-kờr en áskt hu shud hen-đồ ịt nekst.",
+      "vi": "Tôi chỉ ra điểm đang chặn và hỏi ai nên xử lý tiếp.",
+      "start": 10.26,
+      "end": 15.09
+    },
+    {
+      "index": 4,
+      "text": "We agreed to leave clear notes before anyone moved forward.",
+      "pronunciation": "quy ờ-grid tu live kliờ nouts bi-fo anyone muvd pho-quờrd.",
+      "vi": "Chúng tôi thống nhất để lại ghi chú rõ trước khi có ai đi tiếp.",
+      "start": 15.25,
+      "end": 19.5
+    },
+    {
+      "index": 5,
+      "text": "I shared the last test result after the meeting so the next person had a starting point.",
+      "pronunciation": "ai she(r)d đờ last test ri-zờlt áp-tờ đờ mi-ting sâu đờ nekst pơ-sần had ờ sta-ting poin.",
+      "vi": "Tôi chia sẻ kết quả test cuối sau cuộc họp để người tiếp theo có điểm bắt đầu.",
+      "start": 19.66,
+      "end": 25.37
+    },
+    {
+      "index": 6,
+      "text": "That small step helped us avoid confusion later in the day.",
+      "pronunciation": "đat smol step heo ớs ờ-void konfuzhần lêi-tờ in đờ đây.",
+      "vi": "Bước nhỏ đó giúp chúng tôi tránh nhầm lẫn về sau trong ngày.",
+      "start": 25.53,
+      "end": 29.69
+    }
+  ]
+}

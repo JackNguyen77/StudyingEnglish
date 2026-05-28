@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "143-privacy-choice",
+  "title": "Story 143 - Chọn quyền riêng tư",
+  "story": "stories/143-privacy-choice.md",
+  "audio": "audio/143-privacy-choice.mp3",
+  "duration": 36,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/143-privacy-choice.mp3",
+  "durationMale": 30.12,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "The app showed a privacy choice before I created an account.",
+      "pronunciation": "đờ áp sâud ờ prai-vờ-si chois bi-fo ai kri-ây-tịt ờn ờ-kao.",
+      "vi": "App hiển thị lựa chọn quyền riêng tư trước khi tôi tạo tài khoản.",
+      "start": 0.02,
+      "end": 4.11
+    },
+    {
+      "index": 2,
+      "text": "I did not want to share personal information that the app did not need.",
+      "pronunciation": "ai đi nót quăn tu share pơ-sờ-nồ in-fờ-mây-shần đat đờ áp đi nót nid.",
+      "vi": "Tôi không muốn chia sẻ thông tin cá nhân mà app không cần.",
+      "start": 4.27,
+      "end": 8.94
+    },
+    {
+      "index": 3,
+      "text": "The data collection note explained what the company would save.",
+      "pronunciation": "đờ đây-tờ kờ-lek-shần note ích-splêind quát đờ kompani quud sêiv.",
+      "vi": "Ghi chú thu thập dữ liệu giải thích công ty sẽ lưu gì.",
+      "start": 9.1,
+      "end": 13.05
+    },
+    {
+      "index": 4,
+      "text": "I chose to opt out of tracking for ads.",
+      "pronunciation": "ai chôz tu opt ao ờv tra-king fo adz.",
+      "vi": "Tôi chọn từ chối tham gia theo dõi quảng cáo.",
+      "start": 13.21,
+      "end": 16.33
+    },
+    {
+      "index": 5,
+      "text": "The privacy policy was long, so I looked for the plain summary.",
+      "pronunciation": "đờ prai-vờ-si po-lờ-si wờz long, sâu ai lúkt fo đờ plâyn săm-mờ-ri.",
+      "vi": "Chính sách quyền riêng tư rất dài, nên tôi tìm bản tóm tắt dễ hiểu.",
+      "start": 16.49,
+      "end": 21.26
+    },
+    {
+      "index": 6,
+      "text": "Later, I opened settings to manage consent again.",
+      "pronunciation": "lêi-tờ, ai âu-pần settings tu ma-nij kờn-sent ờ-gen.",
+      "vi": "Sau đó, tôi mở cài đặt để quản lý lại sự đồng ý.",
+      "start": 21.42,
+      "end": 25.05
+    },
+    {
+      "index": 7,
+      "text": "That backup habit made my files easier to trust the next time I needed them.",
+      "pronunciation": "đat béc-ấp ha-bit mêid mai phai-ồz i-zi-ờ tu trớst đờ nekst taim ai ni-địt đem.",
+      "vi": "Thói quen sao lưu đó làm tôi yên tâm hơn với file của mình khi cần lại.",
+      "start": 25.21,
+      "end": 30.04
+    }
+  ],
+  "audioMale1": "audio_male_1/143-privacy-choice.mp3",
+  "durationMale1": 35.62,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "The app showed a privacy choice before I created an account.",
+      "pronunciation": "đờ áp sâud ờ prai-vờ-si chois bi-fo ai kri-ây-tịt ờn ờ-kao.",
+      "vi": "App hiển thị lựa chọn quyền riêng tư trước khi tôi tạo tài khoản.",
+      "start": 0.02,
+      "end": 5.43
+    },
+    {
+      "index": 2,
+      "text": "I did not want to share personal information that the app did not need.",
+      "pronunciation": "ai đi nót quăn tu share pơ-sờ-nồ in-fờ-mây-shần đat đờ áp đi nót nid.",
+      "vi": "Tôi không muốn chia sẻ thông tin cá nhân mà app không cần.",
+      "start": 5.59,
+      "end": 10.89
+    },
+    {
+      "index": 3,
+      "text": "The data collection note explained what the company would save.",
+      "pronunciation": "đờ đây-tờ kờ-lek-shần note ích-splêind quát đờ kompani quud sêiv.",
+      "vi": "Ghi chú thu thập dữ liệu giải thích công ty sẽ lưu gì.",
+      "start": 11.05,
+      "end": 15.86
+    },
+    {
+      "index": 4,
+      "text": "I chose to opt out of tracking for ads.",
+      "pronunciation": "ai chôz tu opt ao ờv tra-king fo adz.",
+      "vi": "Tôi chọn từ chối tham gia theo dõi quảng cáo.",
+      "start": 16.02,
+      "end": 19.73
+    },
+    {
+      "index": 5,
+      "text": "The privacy policy was long, so I looked for the plain summary.",
+      "pronunciation": "đờ prai-vờ-si po-lờ-si wờz long, sâu ai lúkt fo đờ plâyn săm-mờ-ri.",
+      "vi": "Chính sách quyền riêng tư rất dài, nên tôi tìm bản tóm tắt dễ hiểu.",
+      "start": 19.89,
+      "end": 24.9
+    },
+    {
+      "index": 6,
+      "text": "Later, I opened settings to manage consent again.",
+      "pronunciation": "lêi-tờ, ai âu-pần settings tu ma-nij kờn-sent ờ-gen.",
+      "vi": "Sau đó, tôi mở cài đặt để quản lý lại sự đồng ý.",
+      "start": 25.06,
+      "end": 29.4
+    },
+    {
+      "index": 7,
+      "text": "That backup habit made my files easier to trust the next time I needed them.",
+      "pronunciation": "đat béc-ấp ha-bit mêid mai phai-ồz i-zi-ờ tu trớst đờ nekst taim ai ni-địt đem.",
+      "vi": "Thói quen sao lưu đó làm tôi yên tâm hơn với file của mình khi cần lại.",
+      "start": 29.56,
+      "end": 35.54
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "The app showed a privacy choice before I created an account.",
+      "pronunciation": "đờ áp sâud ờ prai-vờ-si chois bi-fo ai kri-ây-tịt ờn ờ-kao.",
+      "vi": "App hiển thị lựa chọn quyền riêng tư trước khi tôi tạo tài khoản.",
+      "start": 0,
+      "end": 4.5
+    },
+    {
+      "index": 2,
+      "text": "I did not want to share personal information that the app did not need.",
+      "pronunciation": "ai đi nót quăn tu share pơ-sờ-nồ in-fờ-mây-shần đat đờ áp đi nót nid.",
+      "vi": "Tôi không muốn chia sẻ thông tin cá nhân mà app không cần.",
+      "start": 4.61,
+      "end": 10.22
+    },
+    {
+      "index": 3,
+      "text": "The data collection note explained what the company would save.",
+      "pronunciation": "đờ đây-tờ kờ-lek-shần note ích-splêind quát đờ kompani quud sêiv.",
+      "vi": "Ghi chú thu thập dữ liệu giải thích công ty sẽ lưu gì.",
+      "start": 10.33,
+      "end": 14.99
+    },
+    {
+      "index": 4,
+      "text": "I chose to opt out of tracking for ads.",
+      "pronunciation": "ai chôz tu opt ao ờv tra-king fo adz.",
+      "vi": "Tôi chọn từ chối tham gia theo dõi quảng cáo.",
+      "start": 15.1,
+      "end": 20
+    },
+    {
+      "index": 5,
+      "text": "The privacy policy was long, so I looked for the plain summary.",
+      "pronunciation": "đờ prai-vờ-si po-lờ-si wờz long, sâu ai lúkt fo đờ plâyn săm-mờ-ri.",
+      "vi": "Chính sách quyền riêng tư rất dài, nên tôi tìm bản tóm tắt dễ hiểu.",
+      "start": 20.11,
+      "end": 25.7
+    },
+    {
+      "index": 6,
+      "text": "Later, I opened settings to manage consent again.",
+      "pronunciation": "lêi-tờ, ai âu-pần settings tu ma-nij kờn-sent ờ-gen.",
+      "vi": "Sau đó, tôi mở cài đặt để quản lý lại sự đồng ý.",
+      "start": 25.81,
+      "end": 30.44
+    },
+    {
+      "index": 7,
+      "text": "That backup habit made my files easier to trust the next time I needed them.",
+      "pronunciation": "đat béc-ấp ha-bit mêid mai phai-ồz i-zi-ờ tu trớst đờ nekst taim ai ni-địt đem.",
+      "vi": "Thói quen sao lưu đó làm tôi yên tâm hơn với file của mình khi cần lại.",
+      "start": 30.55,
+      "end": 36
+    }
+  ]
+}

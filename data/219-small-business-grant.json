@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "219-small-business-grant",
+  "title": "Story 219 - Đọc về grant cho doanh nghiệp nhỏ",
+  "story": "stories/219-small-business-grant.md",
+  "audio": "audio/219-small-business-grant.mp3",
+  "duration": 32.44,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/219-small-business-grant.mp3",
+  "durationMale": 32.44,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the business grant before I made a final choice.",
+      "pronunciation": "ai chékt đờ biz-nịt grant bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra grant doanh nghiệp trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5
+    },
+    {
+      "index": 2,
+      "text": "One application deadline made the situation less simple than it looked.",
+      "pronunciation": "quăn applikashần đét-lain mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Hạn nộp hồ sơ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.16,
+      "end": 9.39
+    },
+    {
+      "index": 3,
+      "text": "I decided to prepare the paperwork before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu pri-pea đờ paperwork bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định chuẩn bị giấy tờ trước khi tiếp tục.",
+      "start": 9.55,
+      "end": 14.96
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short grant note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt grant note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú grant ngắn để người kia hiểu tôi.",
+      "start": 15.12,
+      "end": 19.19
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check eligibility rules instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék elijibiliti rules in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra điều kiện đủ thay vì đoán.",
+      "start": 19.35,
+      "end": 23.33
+    },
+    {
+      "index": 6,
+      "text": "That helped me support small firms without adding extra stress.",
+      "pronunciation": "đat heo mi sờ-po(r)t smol firms quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hỗ trợ doanh nghiệp nhỏ mà không thêm căng thẳng.",
+      "start": 23.49,
+      "end": 27.87
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.03,
+      "end": 32.36
+    }
+  ],
+  "audioMale1": "audio_male_1/219-small-business-grant.mp3",
+  "durationMale1": 37.06,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the business grant before I made a final choice.",
+      "pronunciation": "ai chékt đờ biz-nịt grant bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra grant doanh nghiệp trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.27
+    },
+    {
+      "index": 2,
+      "text": "One application deadline made the situation less simple than it looked.",
+      "pronunciation": "quăn applikashần đét-lain mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Hạn nộp hồ sơ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.43,
+      "end": 10.73
+    },
+    {
+      "index": 3,
+      "text": "I decided to prepare the paperwork before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu pri-pea đờ paperwork bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định chuẩn bị giấy tờ trước khi tiếp tục.",
+      "start": 10.89,
+      "end": 15.76
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short grant note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt grant note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú grant ngắn để người kia hiểu tôi.",
+      "start": 15.92,
+      "end": 20.89
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check eligibility rules instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék elijibiliti rules in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra điều kiện đủ thay vì đoán.",
+      "start": 21.05,
+      "end": 25.69
+    },
+    {
+      "index": 6,
+      "text": "That helped me support small firms without adding extra stress.",
+      "pronunciation": "đat heo mi sờ-po(r)t smol firms quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hỗ trợ doanh nghiệp nhỏ mà không thêm căng thẳng.",
+      "start": 25.85,
+      "end": 30.89
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 31.05,
+      "end": 36.98
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the business grant before I made a final choice.",
+      "pronunciation": "ai chékt đờ biz-nịt grant bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra grant doanh nghiệp trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.79
+    },
+    {
+      "index": 2,
+      "text": "One application deadline made the situation less simple than it looked.",
+      "pronunciation": "quăn applikashần đét-lain mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Hạn nộp hồ sơ làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.95,
+      "end": 8.48
+    },
+    {
+      "index": 3,
+      "text": "I decided to prepare the paperwork before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu pri-pea đờ paperwork bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định chuẩn bị giấy tờ trước khi tiếp tục.",
+      "start": 8.64,
+      "end": 13.34
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short grant note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt grant note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú grant ngắn để người kia hiểu tôi.",
+      "start": 13.5,
+      "end": 17.71
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check eligibility rules instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék elijibiliti rules in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra điều kiện đủ thay vì đoán.",
+      "start": 17.87,
+      "end": 22.4
+    },
+    {
+      "index": 6,
+      "text": "That helped me support small firms without adding extra stress.",
+      "pronunciation": "đat heo mi sờ-po(r)t smol firms quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi hỗ trợ doanh nghiệp nhỏ mà không thêm căng thẳng.",
+      "start": 22.56,
+      "end": 27.39
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.55,
+      "end": 32.36
+    }
+  ]
+}

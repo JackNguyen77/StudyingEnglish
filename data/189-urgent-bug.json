@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "189-urgent-bug",
+  "title": "Story 189 - Triage bug khẩn cấp",
+  "story": "stories/189-urgent-bug.md",
+  "audio": "audio/189-urgent-bug.mp3",
+  "duration": 32.55,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/189-urgent-bug.mp3",
+  "durationMale": 28.23,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the urgent bug before I made a final choice.",
+      "pronunciation": "ai chékt đờ ơ-jần bug bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra bug khẩn cấp trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.8
+    },
+    {
+      "index": 2,
+      "text": "One broken workflow made the situation less simple than it looked.",
+      "pronunciation": "quăn brâu-kần quớrk-flâu mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Workflow bị hỏng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.96,
+      "end": 7.97
+    },
+    {
+      "index": 3,
+      "text": "I decided to triage the issue before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu triaje đờ í-shu bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định triage vấn đề trước khi tiếp tục.",
+      "start": 8.13,
+      "end": 11.91
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short bug note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt bug note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú bug ngắn để người kia hiểu tôi.",
+      "start": 12.07,
+      "end": 16.05
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the impact instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ impakt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận impact thay vì đoán.",
+      "start": 16.21,
+      "end": 19.78
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect the customer without adding extra stress.",
+      "pronunciation": "đat heo mi protekt đờ kớs-tờ-mờr quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bảo vệ khách hàng mà không thêm căng thẳng.",
+      "start": 19.94,
+      "end": 23.85
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 24.01,
+      "end": 28.15
+    }
+  ],
+  "audioMale1": "audio_male_1/189-urgent-bug.mp3",
+  "durationMale1": 36.61,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the urgent bug before I made a final choice.",
+      "pronunciation": "ai chékt đờ ơ-jần bug bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra bug khẩn cấp trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.05
+    },
+    {
+      "index": 2,
+      "text": "One broken workflow made the situation less simple than it looked.",
+      "pronunciation": "quăn brâu-kần quớrk-flâu mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Workflow bị hỏng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.21,
+      "end": 10.03
+    },
+    {
+      "index": 3,
+      "text": "I decided to triage the issue before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu triaje đờ í-shu bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định triage vấn đề trước khi tiếp tục.",
+      "start": 10.19,
+      "end": 15.22
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short bug note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt bug note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú bug ngắn để người kia hiểu tôi.",
+      "start": 15.38,
+      "end": 20.64
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the impact instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ impakt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận impact thay vì đoán.",
+      "start": 20.8,
+      "end": 25.28
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect the customer without adding extra stress.",
+      "pronunciation": "đat heo mi protekt đờ kớs-tờ-mờr quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bảo vệ khách hàng mà không thêm căng thẳng.",
+      "start": 25.44,
+      "end": 30.38
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.54,
+      "end": 36.53
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the urgent bug before I made a final choice.",
+      "pronunciation": "ai chékt đờ ơ-jần bug bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra bug khẩn cấp trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.33
+    },
+    {
+      "index": 2,
+      "text": "One broken workflow made the situation less simple than it looked.",
+      "pronunciation": "quăn brâu-kần quớrk-flâu mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Workflow bị hỏng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.49,
+      "end": 9.53
+    },
+    {
+      "index": 3,
+      "text": "I decided to triage the issue before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu triaje đờ í-shu bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định triage vấn đề trước khi tiếp tục.",
+      "start": 9.69,
+      "end": 13.77
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short bug note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt bug note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú bug ngắn để người kia hiểu tôi.",
+      "start": 13.93,
+      "end": 18.6
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the impact instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ impakt in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận impact thay vì đoán.",
+      "start": 18.76,
+      "end": 22.84
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect the customer without adding extra stress.",
+      "pronunciation": "đat heo mi protekt đờ kớs-tờ-mờr quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi bảo vệ khách hàng mà không thêm căng thẳng.",
+      "start": 23,
+      "end": 27.47
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.63,
+      "end": 32.47
+    }
+  ]
+}

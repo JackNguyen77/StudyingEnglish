@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "102-supply-issue",
+  "title": "Story 102 - Hiểu vấn đề nguồn cung",
+  "story": "stories/102-supply-issue.md",
+  "audio": "audio/102-supply-issue.mp3",
+  "duration": 29.01,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/102-supply-issue.mp3",
+  "durationMale": 30.05,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "A short report described the supply issue in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ sờ-plai í-shu in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả vấn đề nguồn cung bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 5.02
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the delayed shipment, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ đi-lâyd ship-mần, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là lô hàng bị trễ, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 5.18,
+      "end": 11.16
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the low supply because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ lâu sờ-plai bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về nguồn cung thấp vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 11.32,
+      "end": 15.86
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the backup source as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ béc-ấp so(r)s as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến nguồn dự phòng như một chi tiết quan trọng.",
+      "start": 16.02,
+      "end": 20.34
+    },
+    {
+      "index": 5,
+      "text": "Experts said the delivery schedule would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ đi-li-vờ-ri ske-jul quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói lịch giao hàng sẽ quan trọng trong vài tháng tới.",
+      "start": 20.5,
+      "end": 24.77
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand the shortage risk instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan đờ so-tij rít-sờk in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu rủi ro thiếu hàng thay vì chỉ đọc tiêu đề.",
+      "start": 24.93,
+      "end": 29.97
+    }
+  ],
+  "audioMale1": "audio_male_1/102-supply-issue.mp3",
+  "durationMale1": 35.81,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "A short report described the supply issue in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ sờ-plai í-shu in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả vấn đề nguồn cung bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 6.01
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the delayed shipment, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ đi-lâyd ship-mần, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là lô hàng bị trễ, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 6.17,
+      "end": 12.36
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the low supply because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ lâu sờ-plai bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về nguồn cung thấp vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 12.52,
+      "end": 18.91
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the backup source as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ béc-ấp so(r)s as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến nguồn dự phòng như một chi tiết quan trọng.",
+      "start": 19.07,
+      "end": 23.03
+    },
+    {
+      "index": 5,
+      "text": "Experts said the delivery schedule would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ đi-li-vờ-ri ske-jul quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói lịch giao hàng sẽ quan trọng trong vài tháng tới.",
+      "start": 23.19,
+      "end": 28.22
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand the shortage risk instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan đờ so-tij rít-sờk in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu rủi ro thiếu hàng thay vì chỉ đọc tiêu đề.",
+      "start": 28.38,
+      "end": 35.73
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "A short report described the supply issue in clear and simple language.",
+      "pronunciation": "ờ soọt ri-po(r)t đi-skraibd đờ sờ-plai í-shu in kliờ en sim-pồ leng-gwịj.",
+      "vi": "Một bản tin ngắn mô tả vấn đề nguồn cung bằng ngôn ngữ rõ và đơn giản.",
+      "start": 0.02,
+      "end": 4.73
+    },
+    {
+      "index": 2,
+      "text": "The main reason was the delayed shipment, but the details were more complex than the headline.",
+      "pronunciation": "đờ mên ri-zần wờz đờ đi-lâyd ship-mần, bớt đờ đi-têuz quờr mo kóm-pleks đen đờ hed-lain.",
+      "vi": "Lý do chính là lô hàng bị trễ, nhưng chi tiết phức tạp hơn tiêu đề.",
+      "start": 4.89,
+      "end": 10.3
+    },
+    {
+      "index": 3,
+      "text": "People were worried about the low supply because it could change daily life.",
+      "pronunciation": "pi-pồ quờr quơ-rid ờ-bao đờ lâu sờ-plai bi-kóz ịt kud chênj đây-li laif.",
+      "vi": "Mọi người lo về nguồn cung thấp vì nó có thể thay đổi đời sống hằng ngày.",
+      "start": 10.46,
+      "end": 15.1
+    },
+    {
+      "index": 4,
+      "text": "The report also mentioned the backup source as an important detail.",
+      "pronunciation": "đờ ri-po(r)t ol-sâu mentiont đờ béc-ấp so(r)s as ờn im-po-tần đi-têu.",
+      "vi": "Bản tin cũng nhắc đến nguồn dự phòng như một chi tiết quan trọng.",
+      "start": 15.26,
+      "end": 19.42
+    },
+    {
+      "index": 5,
+      "text": "Experts said the delivery schedule would matter over the next few months.",
+      "pronunciation": "ek-spờrts sed đờ đi-li-vờ-ri ske-jul quud ma-tờr âu-vờ đờ nekst phiu mănths.",
+      "vi": "Các chuyên gia nói lịch giao hàng sẽ quan trọng trong vài tháng tới.",
+      "start": 19.58,
+      "end": 23.8
+    },
+    {
+      "index": 6,
+      "text": "The story helped me understand the shortage risk instead of only reading the headline.",
+      "pronunciation": "đờ sto-ri heo mi ăn-đờ-stan đờ so-tij rít-sờk in-sted ờv âu-li ri-ding đờ hed-lain.",
+      "vi": "Câu chuyện giúp tôi hiểu rủi ro thiếu hàng thay vì chỉ đọc tiêu đề.",
+      "start": 23.96,
+      "end": 28.93
+    }
+  ]
+}

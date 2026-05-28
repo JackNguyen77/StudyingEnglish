@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "241-public-budget-review",
+  "title": "Story 241 - Rà soát ngân sách công",
+  "story": "stories/241-public-budget-review.md",
+  "audio": "audio/241-public-budget-review.mp3",
+  "duration": 30.84,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/241-public-budget-review.mp3",
+  "durationMale": 32.72,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I listened to the public budget review before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ pớ-blik bớt-jịt ri-viu bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe rà soát ngân sách công trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.44
+    },
+    {
+      "index": 2,
+      "text": "One budget shortfall made the update harder to explain.",
+      "pronunciation": "quăn bớt-jịt shortfall mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một khoản hụt ngân sách làm phần update khó giải thích hơn.",
+      "start": 4.6,
+      "end": 8.82
+    },
+    {
+      "index": 3,
+      "text": "I tried to compare spending options instead of reacting too quickly.",
+      "pronunciation": "ai traid tu kompare spen-ding áp-shầnz in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố so sánh các lựa chọn chi tiêu thay vì phản ứng quá vội.",
+      "start": 8.98,
+      "end": 13.52
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short budget review note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt bớt-jịt ri-viu note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú rà soát ngân sách ngắn để các facts rõ ràng.",
+      "start": 13.68,
+      "end": 18.32
+    },
+    {
+      "index": 5,
+      "text": "I also had to check service priorities before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék sờ-vịt prai-o-rờ-tiz bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra ưu tiên dịch vụ trước khi lặp lại claim đó.",
+      "start": 18.48,
+      "end": 23.12
+    },
+    {
+      "index": 6,
+      "text": "That helped me explain the trade off without making the conversation tense.",
+      "pronunciation": "đat heo mi eksplâyn đờ trade of quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giải thích sự đánh đổi mà không làm cuộc trao đổi căng thẳng.",
+      "start": 23.28,
+      "end": 27.94
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 28.1,
+      "end": 32.64
+    }
+  ],
+  "audioMale1": "audio_male_1/241-public-budget-review.mp3",
+  "durationMale1": 36.55,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I listened to the public budget review before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ pớ-blik bớt-jịt ri-viu bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe rà soát ngân sách công trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 5.68
+    },
+    {
+      "index": 2,
+      "text": "One budget shortfall made the update harder to explain.",
+      "pronunciation": "quăn bớt-jịt shortfall mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một khoản hụt ngân sách làm phần update khó giải thích hơn.",
+      "start": 5.84,
+      "end": 10.2
+    },
+    {
+      "index": 3,
+      "text": "I tried to compare spending options instead of reacting too quickly.",
+      "pronunciation": "ai traid tu kompare spen-ding áp-shầnz in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố so sánh các lựa chọn chi tiêu thay vì phản ứng quá vội.",
+      "start": 10.36,
+      "end": 15.63
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short budget review note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt bớt-jịt ri-viu note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú rà soát ngân sách ngắn để các facts rõ ràng.",
+      "start": 15.79,
+      "end": 20.95
+    },
+    {
+      "index": 5,
+      "text": "I also had to check service priorities before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék sờ-vịt prai-o-rờ-tiz bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra ưu tiên dịch vụ trước khi lặp lại claim đó.",
+      "start": 21.11,
+      "end": 26.1
+    },
+    {
+      "index": 6,
+      "text": "That helped me explain the trade off without making the conversation tense.",
+      "pronunciation": "đat heo mi eksplâyn đờ trade of quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giải thích sự đánh đổi mà không làm cuộc trao đổi căng thẳng.",
+      "start": 26.26,
+      "end": 31.55
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 31.71,
+      "end": 36.47
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I listened to the public budget review before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ pớ-blik bớt-jịt ri-viu bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe rà soát ngân sách công trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.08
+    },
+    {
+      "index": 2,
+      "text": "One budget shortfall made the update harder to explain.",
+      "pronunciation": "quăn bớt-jịt shortfall mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một khoản hụt ngân sách làm phần update khó giải thích hơn.",
+      "start": 4.24,
+      "end": 7.94
+    },
+    {
+      "index": 3,
+      "text": "I tried to compare spending options instead of reacting too quickly.",
+      "pronunciation": "ai traid tu kompare spen-ding áp-shầnz in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố so sánh các lựa chọn chi tiêu thay vì phản ứng quá vội.",
+      "start": 8.1,
+      "end": 12.36
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short budget review note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt bớt-jịt ri-viu note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú rà soát ngân sách ngắn để các facts rõ ràng.",
+      "start": 12.52,
+      "end": 17.02
+    },
+    {
+      "index": 5,
+      "text": "I also had to check service priorities before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék sờ-vịt prai-o-rờ-tiz bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra ưu tiên dịch vụ trước khi lặp lại claim đó.",
+      "start": 17.18,
+      "end": 21.89
+    },
+    {
+      "index": 6,
+      "text": "That helped me explain the trade off without making the conversation tense.",
+      "pronunciation": "đat heo mi eksplâyn đờ trade of quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giải thích sự đánh đổi mà không làm cuộc trao đổi căng thẳng.",
+      "start": 22.05,
+      "end": 26.8
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 26.96,
+      "end": 30.76
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "021-doctor-appointment",
+  "title": "Story 021 - Đi khám",
+  "story": "stories/021-doctor-appointment.md",
+  "audio": "audio/021-doctor-appointment.mp3",
+  "duration": 22.61,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/021-doctor-appointment.mp3",
+  "durationMale": 21.83,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I had been feeling under the weather for a few days.",
+      "pronunciation": "ai had bin phi-ling ăn-đờ đờ que-thờ fo ờ phiu đâyz.",
+      "vi": "Tôi thấy không khỏe vài ngày rồi.",
+      "start": 0.02,
+      "end": 3.91
+    },
+    {
+      "index": 2,
+      "text": "So I made an appointment at a small clinic.",
+      "pronunciation": "sâu ai mêid ờn ờ-poi-mần at ờ smol kli-nik.",
+      "vi": "Nên tôi đặt lịch hẹn ở một phòng khám nhỏ.",
+      "start": 4.07,
+      "end": 7.32
+    },
+    {
+      "index": 3,
+      "text": "When I arrived, I checked in at the front desk.",
+      "pronunciation": "quen ai ờ-raivd, ai chékt in at đờ phrớnt desk.",
+      "vi": "Khi đến nơi, tôi làm thủ tục ở quầy lễ tân.",
+      "start": 7.48,
+      "end": 10.56
+    },
+    {
+      "index": 4,
+      "text": "The nurse asked me to fill out a short form.",
+      "pronunciation": "đờ nớrs áskt mi tu phi-lao ờ soọt foom.",
+      "vi": "Y tá bảo tôi điền một mẫu ngắn.",
+      "start": 10.72,
+      "end": 13.68
+    },
+    {
+      "index": 5,
+      "text": "After the doctor saw me, he told me to rest and drink more water.",
+      "pronunciation": "áp-tờ đờ đók-tờ so mi, hi tâu mi tu rest en dringk mo quo-đờ.",
+      "vi": "Sau khi bác sĩ khám, ông ấy bảo tôi nghỉ ngơi và uống thêm nước.",
+      "start": 13.84,
+      "end": 18.29
+    },
+    {
+      "index": 6,
+      "text": "He also said I should follow up if I did not feel better.",
+      "pronunciation": "hi ol-sâu sed ai shud pha-lâu-ấp if ai đi nót phiu be-tờ.",
+      "vi": "Ông ấy cũng nói tôi nên tái kiểm tra nếu không thấy khá hơn.",
+      "start": 18.45,
+      "end": 21.75
+    }
+  ],
+  "audioMale1": "audio_male_1/021-doctor-appointment.mp3",
+  "durationMale1": 24.95,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I had been feeling under the weather for a few days.",
+      "pronunciation": "ai had bin phi-ling ăn-đờ đờ que-thờ fo ờ phiu đâyz.",
+      "vi": "Tôi thấy không khỏe vài ngày rồi.",
+      "start": 0.02,
+      "end": 3.65
+    },
+    {
+      "index": 2,
+      "text": "So I made an appointment at a small clinic.",
+      "pronunciation": "sâu ai mêid ờn ờ-poi-mần at ờ smol kli-nik.",
+      "vi": "Nên tôi đặt lịch hẹn ở một phòng khám nhỏ.",
+      "start": 3.81,
+      "end": 7.1
+    },
+    {
+      "index": 3,
+      "text": "When I arrived, I checked in at the front desk.",
+      "pronunciation": "quen ai ờ-raivd, ai chékt in at đờ phrớnt desk.",
+      "vi": "Khi đến nơi, tôi làm thủ tục ở quầy lễ tân.",
+      "start": 7.26,
+      "end": 11.19
+    },
+    {
+      "index": 4,
+      "text": "The nurse asked me to fill out a short form.",
+      "pronunciation": "đờ nớrs áskt mi tu phi-lao ờ soọt foom.",
+      "vi": "Y tá bảo tôi điền một mẫu ngắn.",
+      "start": 11.35,
+      "end": 15.03
+    },
+    {
+      "index": 5,
+      "text": "After the doctor saw me, he told me to rest and drink more water.",
+      "pronunciation": "áp-tờ đờ đók-tờ so mi, hi tâu mi tu rest en dringk mo quo-đờ.",
+      "vi": "Sau khi bác sĩ khám, ông ấy bảo tôi nghỉ ngơi và uống thêm nước.",
+      "start": 15.19,
+      "end": 20.5
+    },
+    {
+      "index": 6,
+      "text": "He also said I should follow up if I did not feel better.",
+      "pronunciation": "hi ol-sâu sed ai shud pha-lâu-ấp if ai đi nót phiu be-tờ.",
+      "vi": "Ông ấy cũng nói tôi nên tái kiểm tra nếu không thấy khá hơn.",
+      "start": 20.66,
+      "end": 24.87
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I had been feeling under the weather for a few days.",
+      "pronunciation": "ai had bin phi-ling ăn-đờ đờ que-thờ fo ờ phiu đâyz.",
+      "vi": "Tôi thấy không khỏe vài ngày rồi.",
+      "start": 0.02,
+      "end": 3.9
+    },
+    {
+      "index": 2,
+      "text": "So I made an appointment at a small clinic.",
+      "pronunciation": "sâu ai mêid ờn ờ-poi-mần at ờ smol kli-nik.",
+      "vi": "Nên tôi đặt lịch hẹn ở một phòng khám nhỏ.",
+      "start": 4.06,
+      "end": 6.92
+    },
+    {
+      "index": 3,
+      "text": "When I arrived, I checked in at the front desk.",
+      "pronunciation": "quen ai ờ-raivd, ai chékt in at đờ phrớnt desk.",
+      "vi": "Khi đến nơi, tôi làm thủ tục ở quầy lễ tân.",
+      "start": 7.08,
+      "end": 10.56
+    },
+    {
+      "index": 4,
+      "text": "The nurse asked me to fill out a short form.",
+      "pronunciation": "đờ nớrs áskt mi tu phi-lao ờ soọt foom.",
+      "vi": "Y tá bảo tôi điền một mẫu ngắn.",
+      "start": 10.72,
+      "end": 13.61
+    },
+    {
+      "index": 5,
+      "text": "After the doctor saw me, he told me to rest and drink more water.",
+      "pronunciation": "áp-tờ đờ đók-tờ so mi, hi tâu mi tu rest en dringk mo quo-đờ.",
+      "vi": "Sau khi bác sĩ khám, ông ấy bảo tôi nghỉ ngơi và uống thêm nước.",
+      "start": 13.77,
+      "end": 18.96
+    },
+    {
+      "index": 6,
+      "text": "He also said I should follow up if I did not feel better.",
+      "pronunciation": "hi ol-sâu sed ai shud pha-lâu-ấp if ai đi nót phiu be-tờ.",
+      "vi": "Ông ấy cũng nói tôi nên tái kiểm tra nếu không thấy khá hơn.",
+      "start": 19.12,
+      "end": 22.53
+    }
+  ]
+}

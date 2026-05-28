@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "255-airport-delay-update",
+  "title": "Story 255 - Theo dõi update delay sân bay",
+  "story": "stories/255-airport-delay-update.md",
+  "audio": "audio/255-airport-delay-update.mp3",
+  "duration": 32.39,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/255-airport-delay-update.mp3",
+  "durationMale": 29.62,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I listened to the airport delay update before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ e(r)-po(r)t đi-lây ấp-đêit bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe update delay sân bay trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.15
+    },
+    {
+      "index": 2,
+      "text": "One staff shortage made the update harder to explain.",
+      "pronunciation": "quăn staf so-tij mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một thiếu nhân sự làm phần update khó giải thích hơn.",
+      "start": 4.31,
+      "end": 7.76
+    },
+    {
+      "index": 3,
+      "text": "I tried to reroute connecting passengers instead of reacting too quickly.",
+      "pronunciation": "ai traid tu ri-rut konnekting passenjers in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố đổi route cho khách nối chuyến thay vì phản ứng quá vội.",
+      "start": 7.92,
+      "end": 12.42
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short delay update note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt đi-lây ấp-đêit note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú update delay ngắn để các facts rõ ràng.",
+      "start": 12.58,
+      "end": 16.68
+    },
+    {
+      "index": 5,
+      "text": "I also had to check gate changes before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék gêit chên-jiz bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra thay đổi gate trước khi lặp lại claim đó.",
+      "start": 16.84,
+      "end": 20.82
+    },
+    {
+      "index": 6,
+      "text": "That helped me reduce travel confusion without making the conversation tense.",
+      "pronunciation": "đat heo mi ri-đus travel konfuzhần quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giảm rối cho hành khách mà không làm cuộc trao đổi căng thẳng.",
+      "start": 20.98,
+      "end": 25.74
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 25.9,
+      "end": 29.54
+    }
+  ],
+  "audioMale1": "audio_male_1/255-airport-delay-update.mp3",
+  "durationMale1": 38.05,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I listened to the airport delay update before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ e(r)-po(r)t đi-lây ấp-đêit bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe update delay sân bay trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 5.51
+    },
+    {
+      "index": 2,
+      "text": "One staff shortage made the update harder to explain.",
+      "pronunciation": "quăn staf so-tij mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một thiếu nhân sự làm phần update khó giải thích hơn.",
+      "start": 5.67,
+      "end": 10.41
+    },
+    {
+      "index": 3,
+      "text": "I tried to reroute connecting passengers instead of reacting too quickly.",
+      "pronunciation": "ai traid tu ri-rut konnekting passenjers in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố đổi route cho khách nối chuyến thay vì phản ứng quá vội.",
+      "start": 10.57,
+      "end": 16.44
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short delay update note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt đi-lây ấp-đêit note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú update delay ngắn để các facts rõ ràng.",
+      "start": 16.6,
+      "end": 21.75
+    },
+    {
+      "index": 5,
+      "text": "I also had to check gate changes before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék gêit chên-jiz bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra thay đổi gate trước khi lặp lại claim đó.",
+      "start": 21.91,
+      "end": 26.65
+    },
+    {
+      "index": 6,
+      "text": "That helped me reduce travel confusion without making the conversation tense.",
+      "pronunciation": "đat heo mi ri-đus travel konfuzhần quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giảm rối cho hành khách mà không làm cuộc trao đổi căng thẳng.",
+      "start": 26.81,
+      "end": 32.51
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 32.67,
+      "end": 37.97
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I listened to the airport delay update before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ e(r)-po(r)t đi-lây ấp-đêit bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe update delay sân bay trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.89
+    },
+    {
+      "index": 2,
+      "text": "One staff shortage made the update harder to explain.",
+      "pronunciation": "quăn staf so-tij mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một thiếu nhân sự làm phần update khó giải thích hơn.",
+      "start": 5.05,
+      "end": 8.42
+    },
+    {
+      "index": 3,
+      "text": "I tried to reroute connecting passengers instead of reacting too quickly.",
+      "pronunciation": "ai traid tu ri-rut konnekting passenjers in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố đổi route cho khách nối chuyến thay vì phản ứng quá vội.",
+      "start": 8.58,
+      "end": 13.64
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short delay update note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt đi-lây ấp-đêit note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú update delay ngắn để các facts rõ ràng.",
+      "start": 13.8,
+      "end": 18.73
+    },
+    {
+      "index": 5,
+      "text": "I also had to check gate changes before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék gêit chên-jiz bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra thay đổi gate trước khi lặp lại claim đó.",
+      "start": 18.89,
+      "end": 23.04
+    },
+    {
+      "index": 6,
+      "text": "That helped me reduce travel confusion without making the conversation tense.",
+      "pronunciation": "đat heo mi ri-đus travel konfuzhần quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giảm rối cho hành khách mà không làm cuộc trao đổi căng thẳng.",
+      "start": 23.2,
+      "end": 28.09
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 28.25,
+      "end": 32.31
+    }
+  ]
+}

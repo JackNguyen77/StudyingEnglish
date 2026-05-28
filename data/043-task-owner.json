@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "043-task-owner",
+  "title": "Story 043 - Chốt người phụ trách",
+  "story": "stories/043-task-owner.md",
+  "audio": "audio/043-task-owner.mp3",
+  "duration": 32.33,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/043-task-owner.mp3",
+  "durationMale": 31.32,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "During a short call, we noticed that two people were waiting for someone else to start.",
+      "pronunciation": "đu-ring ờ soọt kol, quy nâu-tist đat tu pi-pồ quờr quây-ting fo sắm-quan els tu staart.",
+      "vi": "Trong một cuộc gọi ngắn, chúng tôi nhận ra rằng hai người đang chờ người khác bắt đầu.",
+      "start": 0.02,
+      "end": 5.55
+    },
+    {
+      "index": 2,
+      "text": "I paused the discussion and asked who would handle the upload screen.",
+      "pronunciation": "ai pozd đờ đis-kớ-shần en áskt hu quud hen-đồ đi ấp-lâu skrin.",
+      "vi": "Tôi tạm dừng phần thảo luận và hỏi ai sẽ phụ trách màn hình upload.",
+      "start": 5.71,
+      "end": 10.16
+    },
+    {
+      "index": 3,
+      "text": "That question helped us avoid a promise that sounded clear but was too risky.",
+      "pronunciation": "đat quesshần heo ớs ờ-void ờ pro-mis đat sao-địt kliờ bớt wờz tu rís-ki.",
+      "vi": "Câu hỏi đó giúp chúng tôi tránh một lời hứa nghe có vẻ rõ ràng nhưng lại quá rủi ro.",
+      "start": 10.32,
+      "end": 15.59
+    },
+    {
+      "index": 4,
+      "text": "A teammate raised one concern from testing, and we adjusted the order of work.",
+      "pronunciation": "ờ tim-mêit rêizd quăn kờn-sơn phrom tes-ting, en quy ờ-jớs-tịt đờ o-dờ ờv quớrk.",
+      "vi": "Một đồng đội nêu một điểm lo từ testing, và chúng tôi điều chỉnh thứ tự công việc.",
+      "start": 15.75,
+      "end": 20.68
+    },
+    {
+      "index": 5,
+      "text": "After the call, I added each name beside a task so nobody had to guess the plan.",
+      "pronunciation": "áp-tờ đờ kol, ai a-địt ich name bi-sai ờ tát-sờk sâu nâu-bờ-đi had tu ges đờ plen.",
+      "vi": "Sau cuộc gọi, tôi thêm tên từng người bên cạnh từng task để không ai phải đoán kế hoạch.",
+      "start": 20.84,
+      "end": 26.43
+    },
+    {
+      "index": 6,
+      "text": "The team left with a cleaner path and fewer details to chase later.",
+      "pronunciation": "đờ tim left quít ờ kli-nờ path en phiu-ờr đi-têuz tu chêis lêi-tờ.",
+      "vi": "Cả nhóm rời đi với một hướng làm việc rõ hơn và ít chi tiết phải hỏi lại sau hơn.",
+      "start": 26.59,
+      "end": 31.24
+    }
+  ],
+  "audioMale1": "audio_male_1/043-task-owner.mp3",
+  "durationMale1": 36.45,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "During a short call, we noticed that two people were waiting for someone else to start.",
+      "pronunciation": "đu-ring ờ soọt kol, quy nâu-tist đat tu pi-pồ quờr quây-ting fo sắm-quan els tu staart.",
+      "vi": "Trong một cuộc gọi ngắn, chúng tôi nhận ra rằng hai người đang chờ người khác bắt đầu.",
+      "start": 0.02,
+      "end": 6.63
+    },
+    {
+      "index": 2,
+      "text": "I paused the discussion and asked who would handle the upload screen.",
+      "pronunciation": "ai pozd đờ đis-kớ-shần en áskt hu quud hen-đồ đi ấp-lâu skrin.",
+      "vi": "Tôi tạm dừng phần thảo luận và hỏi ai sẽ phụ trách màn hình upload.",
+      "start": 6.79,
+      "end": 11.66
+    },
+    {
+      "index": 3,
+      "text": "That question helped us avoid a promise that sounded clear but was too risky.",
+      "pronunciation": "đat quesshần heo ớs ờ-void ờ pro-mis đat sao-địt kliờ bớt wờz tu rís-ki.",
+      "vi": "Câu hỏi đó giúp chúng tôi tránh một lời hứa nghe có vẻ rõ ràng nhưng lại quá rủi ro.",
+      "start": 11.82,
+      "end": 17.59
+    },
+    {
+      "index": 4,
+      "text": "A teammate raised one concern from testing, and we adjusted the order of work.",
+      "pronunciation": "ờ tim-mêit rêizd quăn kờn-sơn phrom tes-ting, en quy ờ-jớs-tịt đờ o-dờ ờv quớrk.",
+      "vi": "Một đồng đội nêu một điểm lo từ testing, và chúng tôi điều chỉnh thứ tự công việc.",
+      "start": 17.75,
+      "end": 23.67
+    },
+    {
+      "index": 5,
+      "text": "After the call, I added each name beside a task so nobody had to guess the plan.",
+      "pronunciation": "áp-tờ đờ kol, ai a-địt ich name bi-sai ờ tát-sờk sâu nâu-bờ-đi had tu ges đờ plen.",
+      "vi": "Sau cuộc gọi, tôi thêm tên từng người bên cạnh từng task để không ai phải đoán kế hoạch.",
+      "start": 23.83,
+      "end": 30.74
+    },
+    {
+      "index": 6,
+      "text": "The team left with a cleaner path and fewer details to chase later.",
+      "pronunciation": "đờ tim left quít ờ kli-nờ path en phiu-ờr đi-têuz tu chêis lêi-tờ.",
+      "vi": "Cả nhóm rời đi với một hướng làm việc rõ hơn và ít chi tiết phải hỏi lại sau hơn.",
+      "start": 30.9,
+      "end": 36.37
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "During a short call, we noticed that two people were waiting for someone else to start.",
+      "pronunciation": "đu-ring ờ soọt kol, quy nâu-tist đat tu pi-pồ quờr quây-ting fo sắm-quan els tu staart.",
+      "vi": "Trong một cuộc gọi ngắn, chúng tôi nhận ra rằng hai người đang chờ người khác bắt đầu.",
+      "start": 0.02,
+      "end": 5.97
+    },
+    {
+      "index": 2,
+      "text": "I paused the discussion and asked who would handle the upload screen.",
+      "pronunciation": "ai pozd đờ đis-kớ-shần en áskt hu quud hen-đồ đi ấp-lâu skrin.",
+      "vi": "Tôi tạm dừng phần thảo luận và hỏi ai sẽ phụ trách màn hình upload.",
+      "start": 6.13,
+      "end": 10.86
+    },
+    {
+      "index": 3,
+      "text": "That question helped us avoid a promise that sounded clear but was too risky.",
+      "pronunciation": "đat quesshần heo ớs ờ-void ờ pro-mis đat sao-địt kliờ bớt wờz tu rís-ki.",
+      "vi": "Câu hỏi đó giúp chúng tôi tránh một lời hứa nghe có vẻ rõ ràng nhưng lại quá rủi ro.",
+      "start": 11.02,
+      "end": 16.28
+    },
+    {
+      "index": 4,
+      "text": "A teammate raised one concern from testing, and we adjusted the order of work.",
+      "pronunciation": "ờ tim-mêit rêizd quăn kờn-sơn phrom tes-ting, en quy ờ-jớs-tịt đờ o-dờ ờv quớrk.",
+      "vi": "Một đồng đội nêu một điểm lo từ testing, và chúng tôi điều chỉnh thứ tự công việc.",
+      "start": 16.44,
+      "end": 21.54
+    },
+    {
+      "index": 5,
+      "text": "After the call, I added each name beside a task so nobody had to guess the plan.",
+      "pronunciation": "áp-tờ đờ kol, ai a-địt ich name bi-sai ờ tát-sờk sâu nâu-bờ-đi had tu ges đờ plen.",
+      "vi": "Sau cuộc gọi, tôi thêm tên từng người bên cạnh từng task để không ai phải đoán kế hoạch.",
+      "start": 21.7,
+      "end": 27.68
+    },
+    {
+      "index": 6,
+      "text": "The team left with a cleaner path and fewer details to chase later.",
+      "pronunciation": "đờ tim left quít ờ kli-nờ path en phiu-ờr đi-têuz tu chêis lêi-tờ.",
+      "vi": "Cả nhóm rời đi với một hướng làm việc rõ hơn và ít chi tiết phải hỏi lại sau hơn.",
+      "start": 27.84,
+      "end": 32.25
+    }
+  ]
+}

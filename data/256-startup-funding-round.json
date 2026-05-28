@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "256-startup-funding-round",
+  "title": "Story 256 - Đọc tin funding startup",
+  "story": "stories/256-startup-funding-round.md",
+  "audio": "audio/256-startup-funding-round.mp3",
+  "duration": 31.11,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/256-startup-funding-round.mp3",
+  "durationMale": 32.12,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I listened to the startup funding round before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ startup phăn-ding raond bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe vòng funding startup trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.81
+    },
+    {
+      "index": 2,
+      "text": "One cash runway made the update harder to explain.",
+      "pronunciation": "quăn kash runwâi mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một thời gian runway tiền mặt làm phần update khó giải thích hơn.",
+      "start": 4.97,
+      "end": 9.02
+    },
+    {
+      "index": 3,
+      "text": "I tried to review growth targets instead of reacting too quickly.",
+      "pronunciation": "ai traid tu ri-viu graoth tarjets in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố xem lại mục tiêu tăng trưởng thay vì phản ứng quá vội.",
+      "start": 9.18,
+      "end": 13.64
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short funding round note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt phăn-ding raond note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú vòng funding ngắn để các facts rõ ràng.",
+      "start": 13.8,
+      "end": 18.24
+    },
+    {
+      "index": 5,
+      "text": "I also had to check investor terms before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék investor terms bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra điều khoản investor trước khi lặp lại claim đó.",
+      "start": 18.4,
+      "end": 22.94
+    },
+    {
+      "index": 6,
+      "text": "That helped me plan the next phase without making the conversation tense.",
+      "pronunciation": "đat heo mi plen đờ nekst phase quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi lên giai đoạn tiếp theo mà không làm cuộc trao đổi căng thẳng.",
+      "start": 23.1,
+      "end": 27.86
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 28.02,
+      "end": 32.04
+    }
+  ],
+  "audioMale1": "audio_male_1/256-startup-funding-round.mp3",
+  "durationMale1": 36.5,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I listened to the startup funding round before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ startup phăn-ding raond bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe vòng funding startup trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 5.33
+    },
+    {
+      "index": 2,
+      "text": "One cash runway made the update harder to explain.",
+      "pronunciation": "quăn kash runwâi mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một thời gian runway tiền mặt làm phần update khó giải thích hơn.",
+      "start": 5.49,
+      "end": 10.07
+    },
+    {
+      "index": 3,
+      "text": "I tried to review growth targets instead of reacting too quickly.",
+      "pronunciation": "ai traid tu ri-viu graoth tarjets in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố xem lại mục tiêu tăng trưởng thay vì phản ứng quá vội.",
+      "start": 10.23,
+      "end": 15.28
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short funding round note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt phăn-ding raond note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú vòng funding ngắn để các facts rõ ràng.",
+      "start": 15.44,
+      "end": 21.02
+    },
+    {
+      "index": 5,
+      "text": "I also had to check investor terms before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék investor terms bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra điều khoản investor trước khi lặp lại claim đó.",
+      "start": 21.18,
+      "end": 26.24
+    },
+    {
+      "index": 6,
+      "text": "That helped me plan the next phase without making the conversation tense.",
+      "pronunciation": "đat heo mi plen đờ nekst phase quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi lên giai đoạn tiếp theo mà không làm cuộc trao đổi căng thẳng.",
+      "start": 26.4,
+      "end": 31.71
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 31.87,
+      "end": 36.42
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I listened to the startup funding round before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ startup phăn-ding raond bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe vòng funding startup trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.74
+    },
+    {
+      "index": 2,
+      "text": "One cash runway made the update harder to explain.",
+      "pronunciation": "quăn kash runwâi mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một thời gian runway tiền mặt làm phần update khó giải thích hơn.",
+      "start": 4.9,
+      "end": 8.68
+    },
+    {
+      "index": 3,
+      "text": "I tried to review growth targets instead of reacting too quickly.",
+      "pronunciation": "ai traid tu ri-viu graoth tarjets in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố xem lại mục tiêu tăng trưởng thay vì phản ứng quá vội.",
+      "start": 8.84,
+      "end": 12.91
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short funding round note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt phăn-ding raond note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú vòng funding ngắn để các facts rõ ràng.",
+      "start": 13.07,
+      "end": 17.79
+    },
+    {
+      "index": 5,
+      "text": "I also had to check investor terms before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék investor terms bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra điều khoản investor trước khi lặp lại claim đó.",
+      "start": 17.95,
+      "end": 22.21
+    },
+    {
+      "index": 6,
+      "text": "That helped me plan the next phase without making the conversation tense.",
+      "pronunciation": "đat heo mi plen đờ nekst phase quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi lên giai đoạn tiếp theo mà không làm cuộc trao đổi căng thẳng.",
+      "start": 22.37,
+      "end": 26.91
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 27.07,
+      "end": 31.03
+    }
+  ]
+}

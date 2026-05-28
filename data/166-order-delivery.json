@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "166-order-delivery",
+  "title": "Story 166 - Đặt đồ giao tận nơi",
+  "story": "stories/166-order-delivery.md",
+  "audio": "audio/166-order-delivery.mp3",
+  "duration": 31.94,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/166-order-delivery.mp3",
+  "durationMale": 32.39,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the delivery address before I made a final choice.",
+      "pronunciation": "ai chékt đờ đi-li-vờ-ri address bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra địa chỉ giao hàng trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.04
+    },
+    {
+      "index": 2,
+      "text": "One wrong gate made the situation less simple than it looked.",
+      "pronunciation": "quăn rong gêit mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Cổng sai làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.2,
+      "end": 9.68
+    },
+    {
+      "index": 3,
+      "text": "I decided to contact the driver before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kon-takt đờ driver bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định liên hệ tài xế trước khi tiếp tục.",
+      "start": 9.84,
+      "end": 14.48
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short delivery message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt đi-li-vờ-ri mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn giao hàng ngắn để người kia hiểu tôi.",
+      "start": 14.64,
+      "end": 19.64
+    },
+    {
+      "index": 5,
+      "text": "I also needed to share my location instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu share mai lokashần in-sted ờv guessing.",
+      "vi": "Tôi cũng cần chia sẻ vị trí thay vì đoán.",
+      "start": 19.8,
+      "end": 23.48
+    },
+    {
+      "index": 6,
+      "text": "That helped me receive the order without adding extra stress.",
+      "pronunciation": "đat heo mi reseive đờ o-dờ quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi nhận đơn hàng mà không thêm căng thẳng.",
+      "start": 23.64,
+      "end": 27.59
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.75,
+      "end": 32.31
+    }
+  ],
+  "audioMale1": "audio_male_1/166-order-delivery.mp3",
+  "durationMale1": 35.27,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the delivery address before I made a final choice.",
+      "pronunciation": "ai chékt đờ đi-li-vờ-ri address bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra địa chỉ giao hàng trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 5.22
+    },
+    {
+      "index": 2,
+      "text": "One wrong gate made the situation less simple than it looked.",
+      "pronunciation": "quăn rong gêit mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Cổng sai làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.38,
+      "end": 10.53
+    },
+    {
+      "index": 3,
+      "text": "I decided to contact the driver before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kon-takt đờ driver bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định liên hệ tài xế trước khi tiếp tục.",
+      "start": 10.69,
+      "end": 15.08
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short delivery message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt đi-li-vờ-ri mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn giao hàng ngắn để người kia hiểu tôi.",
+      "start": 15.24,
+      "end": 20.46
+    },
+    {
+      "index": 5,
+      "text": "I also needed to share my location instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu share mai lokashần in-sted ờv guessing.",
+      "vi": "Tôi cũng cần chia sẻ vị trí thay vì đoán.",
+      "start": 20.62,
+      "end": 24.62
+    },
+    {
+      "index": 6,
+      "text": "That helped me receive the order without adding extra stress.",
+      "pronunciation": "đat heo mi reseive đờ o-dờ quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi nhận đơn hàng mà không thêm căng thẳng.",
+      "start": 24.78,
+      "end": 29.46
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 29.62,
+      "end": 35.19
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the delivery address before I made a final choice.",
+      "pronunciation": "ai chékt đờ đi-li-vờ-ri address bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra địa chỉ giao hàng trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.27
+    },
+    {
+      "index": 2,
+      "text": "One wrong gate made the situation less simple than it looked.",
+      "pronunciation": "quăn rong gêit mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Cổng sai làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.43,
+      "end": 8.81
+    },
+    {
+      "index": 3,
+      "text": "I decided to contact the driver before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu kon-takt đờ driver bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định liên hệ tài xế trước khi tiếp tục.",
+      "start": 8.97,
+      "end": 12.94
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short delivery message so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt đi-li-vờ-ri mé-sij sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một tin nhắn giao hàng ngắn để người kia hiểu tôi.",
+      "start": 13.1,
+      "end": 18.01
+    },
+    {
+      "index": 5,
+      "text": "I also needed to share my location instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu share mai lokashần in-sted ờv guessing.",
+      "vi": "Tôi cũng cần chia sẻ vị trí thay vì đoán.",
+      "start": 18.17,
+      "end": 22.24
+    },
+    {
+      "index": 6,
+      "text": "That helped me receive the order without adding extra stress.",
+      "pronunciation": "đat heo mi reseive đờ o-dờ quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi nhận đơn hàng mà không thêm căng thẳng.",
+      "start": 22.4,
+      "end": 26.48
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.64,
+      "end": 31.86
+    }
+  ]
+}

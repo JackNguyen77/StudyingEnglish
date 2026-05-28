@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "082-integration",
+  "title": "Story 082 - Kiểm tra integration",
+  "story": "stories/082-integration.md",
+  "audio": "audio/082-integration.mp3",
+  "duration": 29.78,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/082-integration.mp3",
+  "durationMale": 33.88,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the system integration in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ sis-tầm in-tờ-grây-shần in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả integration hệ thống bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 4.96
+    },
+    {
+      "index": 2,
+      "text": "I asked about the connection test before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ kờ-nek-shần test bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về bài test kết nối trước khi đề xuất bất cứ điều gì.",
+      "start": 5.12,
+      "end": 8.71
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the failed response, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ fâyld ri-spons, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là response bị fail, không chỉ là yêu cầu đầu tiên.",
+      "start": 8.87,
+      "end": 13.92
+    },
+    {
+      "index": 4,
+      "text": "We agreed to retry the request and check it with one example.",
+      "pronunciation": "quy ờ-grid tu retri đờ ri-quest en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất thử lại request và kiểm tra bằng một ví dụ.",
+      "start": 14.08,
+      "end": 18.48
+    },
+    {
+      "index": 5,
+      "text": "I wrote the error log so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ e-rờ log sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết log lỗi để mọi người có thể xem cùng một quyết định.",
+      "start": 18.64,
+      "end": 25.24
+    },
+    {
+      "index": 6,
+      "text": "That helped us find the root cause without adding extra work.",
+      "pronunciation": "đat heo ớs phain đờ rut kause quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi tìm nguyên nhân gốc mà không thêm việc dư.",
+      "start": 25.4,
+      "end": 29.6
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 29.76,
+      "end": 33.8
+    }
+  ],
+  "audioMale1": "audio_male_1/082-integration.mp3",
+  "durationMale1": 36.5,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the system integration in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ sis-tầm in-tờ-grây-shần in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả integration hệ thống bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 4.49
+    },
+    {
+      "index": 2,
+      "text": "I asked about the connection test before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ kờ-nek-shần test bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về bài test kết nối trước khi đề xuất bất cứ điều gì.",
+      "start": 4.65,
+      "end": 8.95
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the failed response, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ fâyld ri-spons, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là response bị fail, không chỉ là yêu cầu đầu tiên.",
+      "start": 9.11,
+      "end": 14.73
+    },
+    {
+      "index": 4,
+      "text": "We agreed to retry the request and check it with one example.",
+      "pronunciation": "quy ờ-grid tu retri đờ ri-quest en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất thử lại request và kiểm tra bằng một ví dụ.",
+      "start": 14.89,
+      "end": 19.48
+    },
+    {
+      "index": 5,
+      "text": "I wrote the error log so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ e-rờ log sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết log lỗi để mọi người có thể xem cùng một quyết định.",
+      "start": 19.64,
+      "end": 26.49
+    },
+    {
+      "index": 6,
+      "text": "That helped us find the root cause without adding extra work.",
+      "pronunciation": "đat heo ớs phain đờ rut kause quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi tìm nguyên nhân gốc mà không thêm việc dư.",
+      "start": 26.65,
+      "end": 31.26
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 31.42,
+      "end": 36.42
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "During the call, the customer described the system integration in simple words.",
+      "pronunciation": "đu-ring đờ kol, đờ kớs-tờ-mờr đi-skraibd đờ sis-tầm in-tờ-grây-shần in sim-pồ quớrdz.",
+      "vi": "Trong cuộc gọi, khách hàng mô tả integration hệ thống bằng những từ đơn giản.",
+      "start": 0.02,
+      "end": 4.78
+    },
+    {
+      "index": 2,
+      "text": "I asked about the connection test before I suggested anything.",
+      "pronunciation": "ai áskt ờ-bao đờ kờ-nek-shần test bi-fo ai sờ-jes-tịt e-ni-thinh.",
+      "vi": "Tôi hỏi về bài test kết nối trước khi đề xuất bất cứ điều gì.",
+      "start": 4.94,
+      "end": 8.4
+    },
+    {
+      "index": 3,
+      "text": "The real problem was the failed response, not only the first request.",
+      "pronunciation": "đờ riu pro-blầm wờz đờ fâyld ri-spons, nót âu-li đờ phớrst ri-quest.",
+      "vi": "Vấn đề thật là response bị fail, không chỉ là yêu cầu đầu tiên.",
+      "start": 8.56,
+      "end": 13.15
+    },
+    {
+      "index": 4,
+      "text": "We agreed to retry the request and check it with one example.",
+      "pronunciation": "quy ờ-grid tu retri đờ ri-quest en chék ịt quít quăn ig-zam-pồ.",
+      "vi": "Chúng tôi thống nhất thử lại request và kiểm tra bằng một ví dụ.",
+      "start": 13.31,
+      "end": 17.28
+    },
+    {
+      "index": 5,
+      "text": "I wrote the error log so everyone could review the same decision.",
+      "pronunciation": "ai râu đờ e-rờ log sâu ev-ri-quan kud ri-viu đờ sêim desizhần.",
+      "vi": "Tôi viết log lỗi để mọi người có thể xem cùng một quyết định.",
+      "start": 17.44,
+      "end": 21.51
+    },
+    {
+      "index": 6,
+      "text": "That helped us find the root cause without adding extra work.",
+      "pronunciation": "đat heo ớs phain đờ rut kause quì-thao adding ek-strờ quớrk.",
+      "vi": "Điều đó giúp chúng tôi tìm nguyên nhân gốc mà không thêm việc dư.",
+      "start": 21.67,
+      "end": 25.53
+    },
+    {
+      "index": 7,
+      "text": "By the end of the call, the next step felt clear to both sides.",
+      "pronunciation": "bai đi end ờv đờ kol, đờ nekst step felt kliờ tu both sides.",
+      "vi": "Đến cuối cuộc gọi, bước tiếp theo rõ ràng với cả hai bên.",
+      "start": 25.69,
+      "end": 29.7
+    }
+  ]
+}

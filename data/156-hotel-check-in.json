@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "156-hotel-check-in",
+  "title": "Story 156 - Nhận phòng khách sạn",
+  "story": "stories/156-hotel-check-in.md",
+  "audio": "audio/156-hotel-check-in.mp3",
+  "duration": 30.7,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/156-hotel-check-in.mp3",
+  "durationMale": 33.11,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the hotel booking before I made a final choice.",
+      "pronunciation": "ai chékt đờ hotel buking bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra đặt phòng khách sạn trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.87
+    },
+    {
+      "index": 2,
+      "text": "One noisy room made the situation less simple than it looked.",
+      "pronunciation": "quăn noisi rum mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phòng ồn làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5.03,
+      "end": 9.34
+    },
+    {
+      "index": 3,
+      "text": "I decided to ask for a quieter room before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu át-sờk fo ờ quieter rum bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định hỏi phòng yên tĩnh hơn trước khi tiếp tục.",
+      "start": 9.5,
+      "end": 14.08
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short front desk note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt phrớnt desk note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú lễ tân ngắn để người kia hiểu tôi.",
+      "start": 14.24,
+      "end": 19.57
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the breakfast time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ brikfast taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận giờ ăn sáng thay vì đoán.",
+      "start": 19.73,
+      "end": 23.8
+    },
+    {
+      "index": 6,
+      "text": "That helped me enjoy the stay without adding extra stress.",
+      "pronunciation": "đat heo mi en-joy đờ stây quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tận hưởng kỳ nghỉ mà không thêm căng thẳng.",
+      "start": 23.96,
+      "end": 28.31
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.47,
+      "end": 33.03
+    }
+  ],
+  "audioMale1": "audio_male_1/156-hotel-check-in.mp3",
+  "durationMale1": 35.38,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the hotel booking before I made a final choice.",
+      "pronunciation": "ai chékt đờ hotel buking bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra đặt phòng khách sạn trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.84
+    },
+    {
+      "index": 2,
+      "text": "One noisy room made the situation less simple than it looked.",
+      "pronunciation": "quăn noisi rum mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phòng ồn làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 5,
+      "end": 9.25
+    },
+    {
+      "index": 3,
+      "text": "I decided to ask for a quieter room before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu át-sờk fo ờ quieter rum bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định hỏi phòng yên tĩnh hơn trước khi tiếp tục.",
+      "start": 9.41,
+      "end": 14.69
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short front desk note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt phrớnt desk note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú lễ tân ngắn để người kia hiểu tôi.",
+      "start": 14.85,
+      "end": 19.91
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the breakfast time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ brikfast taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận giờ ăn sáng thay vì đoán.",
+      "start": 20.07,
+      "end": 24.7
+    },
+    {
+      "index": 6,
+      "text": "That helped me enjoy the stay without adding extra stress.",
+      "pronunciation": "đat heo mi en-joy đờ stây quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tận hưởng kỳ nghỉ mà không thêm căng thẳng.",
+      "start": 24.86,
+      "end": 29.31
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 29.47,
+      "end": 35.3
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the hotel booking before I made a final choice.",
+      "pronunciation": "ai chékt đờ hotel buking bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra đặt phòng khách sạn trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 3.61
+    },
+    {
+      "index": 2,
+      "text": "One noisy room made the situation less simple than it looked.",
+      "pronunciation": "quăn noisi rum mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Phòng ồn làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 3.77,
+      "end": 7.82
+    },
+    {
+      "index": 3,
+      "text": "I decided to ask for a quieter room before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu át-sờk fo ờ quieter rum bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định hỏi phòng yên tĩnh hơn trước khi tiếp tục.",
+      "start": 7.98,
+      "end": 12.26
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short front desk note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt phrớnt desk note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú lễ tân ngắn để người kia hiểu tôi.",
+      "start": 12.42,
+      "end": 17.35
+    },
+    {
+      "index": 5,
+      "text": "I also needed to confirm the breakfast time instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu kờn-phơrm đờ brikfast taim in-sted ờv guessing.",
+      "vi": "Tôi cũng cần xác nhận giờ ăn sáng thay vì đoán.",
+      "start": 17.51,
+      "end": 21.48
+    },
+    {
+      "index": 6,
+      "text": "That helped me enjoy the stay without adding extra stress.",
+      "pronunciation": "đat heo mi en-joy đờ stây quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi tận hưởng kỳ nghỉ mà không thêm căng thẳng.",
+      "start": 21.64,
+      "end": 25.5
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 25.66,
+      "end": 30.62
+    }
+  ]
+}

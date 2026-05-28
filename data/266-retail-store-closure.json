@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "266-retail-store-closure",
+  "title": "Story 266 - Nghe tin cửa hàng đóng cửa",
+  "story": "stories/266-retail-store-closure.md",
+  "audio": "audio/266-retail-store-closure.mp3",
+  "duration": 33.27,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/266-retail-store-closure.mp3",
+  "durationMale": 31.94,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I listened to the retail store closure before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ retâyl sto klozhờ bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe cửa hàng retail đóng cửa trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.54
+    },
+    {
+      "index": 2,
+      "text": "One falling foot traffic made the update harder to explain.",
+      "pronunciation": "quăn falling fut tra-phik mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một lượng khách đi bộ giảm làm phần update khó giải thích hơn.",
+      "start": 4.7,
+      "end": 9.02
+    },
+    {
+      "index": 3,
+      "text": "I tried to talk to affected staff instead of reacting too quickly.",
+      "pronunciation": "ai traid tu talk tu affektt staf in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố nói chuyện với staff bị ảnh hưởng thay vì phản ứng quá vội.",
+      "start": 9.18,
+      "end": 14.01
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short closure update note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt klozhờ ấp-đêit note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú update closure ngắn để các facts rõ ràng.",
+      "start": 14.17,
+      "end": 18.98
+    },
+    {
+      "index": 5,
+      "text": "I also had to check lease obligations before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék lise obligations bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra obligation hợp đồng thuê trước khi lặp lại claim đó.",
+      "start": 19.14,
+      "end": 23.28
+    },
+    {
+      "index": 6,
+      "text": "That helped me limit business disruption without making the conversation tense.",
+      "pronunciation": "đat heo mi li-mịt biz-nịt đis-rớp-shần quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giới hạn gián đoạn kinh doanh mà không làm cuộc trao đổi căng thẳng.",
+      "start": 23.44,
+      "end": 28.08
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 28.24,
+      "end": 31.86
+    }
+  ],
+  "audioMale1": "audio_male_1/266-retail-store-closure.mp3",
+  "durationMale1": 37.83,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I listened to the retail store closure before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ retâyl sto klozhờ bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe cửa hàng retail đóng cửa trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 5.6
+    },
+    {
+      "index": 2,
+      "text": "One falling foot traffic made the update harder to explain.",
+      "pronunciation": "quăn falling fut tra-phik mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một lượng khách đi bộ giảm làm phần update khó giải thích hơn.",
+      "start": 5.76,
+      "end": 10.99
+    },
+    {
+      "index": 3,
+      "text": "I tried to talk to affected staff instead of reacting too quickly.",
+      "pronunciation": "ai traid tu talk tu affektt staf in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố nói chuyện với staff bị ảnh hưởng thay vì phản ứng quá vội.",
+      "start": 11.15,
+      "end": 16.43
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short closure update note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt klozhờ ấp-đêit note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú update closure ngắn để các facts rõ ràng.",
+      "start": 16.59,
+      "end": 21.64
+    },
+    {
+      "index": 5,
+      "text": "I also had to check lease obligations before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék lise obligations bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra obligation hợp đồng thuê trước khi lặp lại claim đó.",
+      "start": 21.8,
+      "end": 27.02
+    },
+    {
+      "index": 6,
+      "text": "That helped me limit business disruption without making the conversation tense.",
+      "pronunciation": "đat heo mi li-mịt biz-nịt đis-rớp-shần quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giới hạn gián đoạn kinh doanh mà không làm cuộc trao đổi căng thẳng.",
+      "start": 27.18,
+      "end": 32.76
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 32.92,
+      "end": 37.75
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I listened to the retail store closure before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ retâyl sto klozhờ bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe cửa hàng retail đóng cửa trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 5
+    },
+    {
+      "index": 2,
+      "text": "One falling foot traffic made the update harder to explain.",
+      "pronunciation": "quăn falling fut tra-phik mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một lượng khách đi bộ giảm làm phần update khó giải thích hơn.",
+      "start": 5.16,
+      "end": 9.6
+    },
+    {
+      "index": 3,
+      "text": "I tried to talk to affected staff instead of reacting too quickly.",
+      "pronunciation": "ai traid tu talk tu affektt staf in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố nói chuyện với staff bị ảnh hưởng thay vì phản ứng quá vội.",
+      "start": 9.76,
+      "end": 14.69
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short closure update note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt klozhờ ấp-đêit note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú update closure ngắn để các facts rõ ràng.",
+      "start": 14.85,
+      "end": 19.52
+    },
+    {
+      "index": 5,
+      "text": "I also had to check lease obligations before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék lise obligations bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra obligation hợp đồng thuê trước khi lặp lại claim đó.",
+      "start": 19.68,
+      "end": 23.99
+    },
+    {
+      "index": 6,
+      "text": "That helped me limit business disruption without making the conversation tense.",
+      "pronunciation": "đat heo mi li-mịt biz-nịt đis-rớp-shần quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi giới hạn gián đoạn kinh doanh mà không làm cuộc trao đổi căng thẳng.",
+      "start": 24.15,
+      "end": 28.97
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 29.13,
+      "end": 33.19
+    }
+  ]
+}

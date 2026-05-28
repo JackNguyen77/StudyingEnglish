@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "275-product-pricing-review",
+  "title": "Story 275 - Review pricing sản phẩm",
+  "story": "stories/275-product-pricing-review.md",
+  "audio": "audio/275-product-pricing-review.mp3",
+  "duration": 31.93,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/275-product-pricing-review.mp3",
+  "durationMale": 31.88,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I walked through the product pricing review before the meeting started.",
+      "pronunciation": "ai quókt thru đờ produkt prising ri-viu bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through review pricing sản phẩm trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.37
+    },
+    {
+      "index": 2,
+      "text": "One price sensitivity made the decision harder than expected.",
+      "pronunciation": "quăn prise sensitiviti mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một độ nhạy về giá làm decision khó hơn dự kiến.",
+      "start": 4.53,
+      "end": 7.87
+    },
+    {
+      "index": 3,
+      "text": "I tried to compare package tiers so the team had a clearer path.",
+      "pronunciation": "ai traid tu kompare pa-kij tiers sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố so sánh tier package để team có hướng rõ hơn.",
+      "start": 8.03,
+      "end": 13.05
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short pricing review note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt prising ri-viu note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú review pricing ngắn để capture các key points.",
+      "start": 13.21,
+      "end": 17.65
+    },
+    {
+      "index": 5,
+      "text": "I also had to check competitor offers before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék kompetitor offers bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra offer đối thủ trước khi chúng tôi thống nhất next step.",
+      "start": 17.81,
+      "end": 22.43
+    },
+    {
+      "index": 6,
+      "text": "That helped us defend the value story without losing momentum.",
+      "pronunciation": "đat heo ớs defend đờ va-lyu sto-ri quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi bảo vệ câu chuyện value mà không mất momentum.",
+      "start": 22.59,
+      "end": 27.25
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 27.41,
+      "end": 31.8
+    }
+  ],
+  "audioMale1": "audio_male_1/275-product-pricing-review.mp3",
+  "durationMale1": 35.77,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I walked through the product pricing review before the meeting started.",
+      "pronunciation": "ai quókt thru đờ produkt prising ri-viu bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through review pricing sản phẩm trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 5.38
+    },
+    {
+      "index": 2,
+      "text": "One price sensitivity made the decision harder than expected.",
+      "pronunciation": "quăn prise sensitiviti mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một độ nhạy về giá làm decision khó hơn dự kiến.",
+      "start": 5.54,
+      "end": 10.58
+    },
+    {
+      "index": 3,
+      "text": "I tried to compare package tiers so the team had a clearer path.",
+      "pronunciation": "ai traid tu kompare pa-kij tiers sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố so sánh tier package để team có hướng rõ hơn.",
+      "start": 10.74,
+      "end": 15.99
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short pricing review note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt prising ri-viu note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú review pricing ngắn để capture các key points.",
+      "start": 16.15,
+      "end": 21.14
+    },
+    {
+      "index": 5,
+      "text": "I also had to check competitor offers before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék kompetitor offers bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra offer đối thủ trước khi chúng tôi thống nhất next step.",
+      "start": 21.3,
+      "end": 26.5
+    },
+    {
+      "index": 6,
+      "text": "That helped us defend the value story without losing momentum.",
+      "pronunciation": "đat heo ớs defend đờ va-lyu sto-ri quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi bảo vệ câu chuyện value mà không mất momentum.",
+      "start": 26.66,
+      "end": 31.02
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 31.18,
+      "end": 35.69
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I walked through the product pricing review before the meeting started.",
+      "pronunciation": "ai quókt thru đờ produkt prising ri-viu bi-fo đờ mi-ting star-tịt.",
+      "vi": "Tôi walk through review pricing sản phẩm trước khi meeting bắt đầu.",
+      "start": 0.02,
+      "end": 4.09
+    },
+    {
+      "index": 2,
+      "text": "One price sensitivity made the decision harder than expected.",
+      "pronunciation": "quăn prise sensitiviti mêid đờ desizhần harder đen ích-spek-tịt.",
+      "vi": "Một độ nhạy về giá làm decision khó hơn dự kiến.",
+      "start": 4.25,
+      "end": 8.52
+    },
+    {
+      "index": 3,
+      "text": "I tried to compare package tiers so the team had a clearer path.",
+      "pronunciation": "ai traid tu kompare pa-kij tiers sâu đờ tim had ờ kliờ-rờ path.",
+      "vi": "Tôi cố so sánh tier package để team có hướng rõ hơn.",
+      "start": 8.68,
+      "end": 13.26
+    },
+    {
+      "index": 4,
+      "text": "Then I sent a short pricing review note to capture the key points.",
+      "pronunciation": "đen ai sent ờ soọt prising ri-viu note tu kapkhờ đờ ki poin.",
+      "vi": "Sau đó tôi gửi một ghi chú review pricing ngắn để capture các key points.",
+      "start": 13.42,
+      "end": 18.28
+    },
+    {
+      "index": 5,
+      "text": "I also had to check competitor offers before we agreed on the next step.",
+      "pronunciation": "ai ol-sâu had tu chék kompetitor offers bi-fo quy ờ-grid on đờ nekst step.",
+      "vi": "Tôi cũng phải kiểm tra offer đối thủ trước khi chúng tôi thống nhất next step.",
+      "start": 18.44,
+      "end": 23.17
+    },
+    {
+      "index": 6,
+      "text": "That helped us defend the value story without losing momentum.",
+      "pronunciation": "đat heo ớs defend đờ va-lyu sto-ri quì-thao losing momentum.",
+      "vi": "Việc đó giúp chúng tôi bảo vệ câu chuyện value mà không mất momentum.",
+      "start": 23.33,
+      "end": 27.7
+    },
+    {
+      "index": 7,
+      "text": "By the end, the discussion felt sharper and more honest.",
+      "pronunciation": "bai đi end, đờ đis-kớ-shần felt sharper en mo ó-nist.",
+      "vi": "Cuối cùng, phần discussion sắc hơn và thật hơn.",
+      "start": 27.86,
+      "end": 31.85
+    }
+  ]
+}

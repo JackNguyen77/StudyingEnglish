@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "046-time-estimate",
+  "title": "Story 046 - Ước lượng thời gian",
+  "story": "stories/046-time-estimate.md",
+  "audio": "audio/046-time-estimate.mp3",
+  "duration": 33.45,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/046-time-estimate.mp3",
+  "durationMale": 31.73,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I opened the project channel and saw that a small change touched three screens.",
+      "pronunciation": "ai âu-pần đờ pró-jekt chen-nồ en so đat ờ smol chênj tớcht thri skrinz.",
+      "vi": "Tôi mở channel dự án và thấy rằng một thay đổi nhỏ chạm tới ba màn hình.",
+      "start": 0.02,
+      "end": 5.92
+    },
+    {
+      "index": 2,
+      "text": "Instead of replying too fast, I checked the old ticket before estimating the work.",
+      "pronunciation": "in-sted ờv ri-plai-ing tu fast, ai chékt đờ âu ti-kịt bi-fo es-tờ-mêi-ting đờ quớrk.",
+      "vi": "Thay vì trả lời quá nhanh, tôi kiểm tra ticket cũ trước khi ước lượng công việc.",
+      "start": 6.08,
+      "end": 11.14
+    },
+    {
+      "index": 3,
+      "text": "The change looked simple, but each screen had a different rule.",
+      "pronunciation": "đờ chênj lúkt sim-pồ, bớt ich skrin had ờ dif-rần rul.",
+      "vi": "Thay đổi đó trông đơn giản, nhưng mỗi màn hình có một rule khác nhau.",
+      "start": 11.3,
+      "end": 15.44
+    },
+    {
+      "index": 4,
+      "text": "I gave a range instead of a promise and explained what could affect the timing.",
+      "pronunciation": "ai gêiv ờ rêinj in-sted ờv ờ pro-mis en ích-splêind quát kud ờ-fekt đờ tai-ming.",
+      "vi": "Tôi đưa ra một khoảng ước lượng thay vì một lời hứa và giải thích điều gì có thể ảnh hưởng thời gian.",
+      "start": 15.6,
+      "end": 21.09
+    },
+    {
+      "index": 5,
+      "text": "The client appreciated the honest estimate and asked us to start with the safest screen.",
+      "pronunciation": "đờ klai-ờnt ờ-pri-shi-ây-tịt đờ ó-nist es-tờ-mịt en áskt ớs tu staart quít đờ sây-fờst skrin.",
+      "vi": "Khách hàng đánh giá cao ước lượng thực tế đó và yêu cầu chúng tôi bắt đầu với màn hình an toàn nhất.",
+      "start": 21.25,
+      "end": 26.79
+    },
+    {
+      "index": 6,
+      "text": "That reply kept the conversation clear and gave the team room to plan.",
+      "pronunciation": "đat ri-plai képt đờ kon-vờ-sây-shần kliờ en gêiv đờ tim rum tu plen.",
+      "vi": "Câu trả lời đó giữ cuộc trao đổi rõ ràng và cho cả nhóm khoảng trống để lên kế hoạch.",
+      "start": 26.95,
+      "end": 31.65
+    }
+  ],
+  "audioMale1": "audio_male_1/046-time-estimate.mp3",
+  "durationMale1": 38.72,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I opened the project channel and saw that a small change touched three screens.",
+      "pronunciation": "ai âu-pần đờ pró-jekt chen-nồ en so đat ờ smol chênj tớcht thri skrinz.",
+      "vi": "Tôi mở channel dự án và thấy rằng một thay đổi nhỏ chạm tới ba màn hình.",
+      "start": 0.02,
+      "end": 7.27
+    },
+    {
+      "index": 2,
+      "text": "Instead of replying too fast, I checked the old ticket before estimating the work.",
+      "pronunciation": "in-sted ờv ri-plai-ing tu fast, ai chékt đờ âu ti-kịt bi-fo es-tờ-mêi-ting đờ quớrk.",
+      "vi": "Thay vì trả lời quá nhanh, tôi kiểm tra ticket cũ trước khi ước lượng công việc.",
+      "start": 7.43,
+      "end": 13.97
+    },
+    {
+      "index": 3,
+      "text": "The change looked simple, but each screen had a different rule.",
+      "pronunciation": "đờ chênj lúkt sim-pồ, bớt ich skrin had ờ dif-rần rul.",
+      "vi": "Thay đổi đó trông đơn giản, nhưng mỗi màn hình có một rule khác nhau.",
+      "start": 14.13,
+      "end": 18.41
+    },
+    {
+      "index": 4,
+      "text": "I gave a range instead of a promise and explained what could affect the timing.",
+      "pronunciation": "ai gêiv ờ rêinj in-sted ờv ờ pro-mis en ích-splêind quát kud ờ-fekt đờ tai-ming.",
+      "vi": "Tôi đưa ra một khoảng ước lượng thay vì một lời hứa và giải thích điều gì có thể ảnh hưởng thời gian.",
+      "start": 18.57,
+      "end": 24.73
+    },
+    {
+      "index": 5,
+      "text": "The client appreciated the honest estimate and asked us to start with the safest screen.",
+      "pronunciation": "đờ klai-ờnt ờ-pri-shi-ây-tịt đờ ó-nist es-tờ-mịt en áskt ớs tu staart quít đờ sây-fờst skrin.",
+      "vi": "Khách hàng đánh giá cao ước lượng thực tế đó và yêu cầu chúng tôi bắt đầu với màn hình an toàn nhất.",
+      "start": 24.89,
+      "end": 32.03
+    },
+    {
+      "index": 6,
+      "text": "That reply kept the conversation clear and gave the team room to plan.",
+      "pronunciation": "đat ri-plai képt đờ kon-vờ-sây-shần kliờ en gêiv đờ tim rum tu plen.",
+      "vi": "Câu trả lời đó giữ cuộc trao đổi rõ ràng và cho cả nhóm khoảng trống để lên kế hoạch.",
+      "start": 32.19,
+      "end": 38.64
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I opened the project channel and saw that a small change touched three screens.",
+      "pronunciation": "ai âu-pần đờ pró-jekt chen-nồ en so đat ờ smol chênj tớcht thri skrinz.",
+      "vi": "Tôi mở channel dự án và thấy rằng một thay đổi nhỏ chạm tới ba màn hình.",
+      "start": 0.02,
+      "end": 5.71
+    },
+    {
+      "index": 2,
+      "text": "Instead of replying too fast, I checked the old ticket before estimating the work.",
+      "pronunciation": "in-sted ờv ri-plai-ing tu fast, ai chékt đờ âu ti-kịt bi-fo es-tờ-mêi-ting đờ quớrk.",
+      "vi": "Thay vì trả lời quá nhanh, tôi kiểm tra ticket cũ trước khi ước lượng công việc.",
+      "start": 5.87,
+      "end": 11.69
+    },
+    {
+      "index": 3,
+      "text": "The change looked simple, but each screen had a different rule.",
+      "pronunciation": "đờ chênj lúkt sim-pồ, bớt ich skrin had ờ dif-rần rul.",
+      "vi": "Thay đổi đó trông đơn giản, nhưng mỗi màn hình có một rule khác nhau.",
+      "start": 11.85,
+      "end": 16.01
+    },
+    {
+      "index": 4,
+      "text": "I gave a range instead of a promise and explained what could affect the timing.",
+      "pronunciation": "ai gêiv ờ rêinj in-sted ờv ờ pro-mis en ích-splêind quát kud ờ-fekt đờ tai-ming.",
+      "vi": "Tôi đưa ra một khoảng ước lượng thay vì một lời hứa và giải thích điều gì có thể ảnh hưởng thời gian.",
+      "start": 16.17,
+      "end": 21.83
+    },
+    {
+      "index": 5,
+      "text": "The client appreciated the honest estimate and asked us to start with the safest screen.",
+      "pronunciation": "đờ klai-ờnt ờ-pri-shi-ây-tịt đờ ó-nist es-tờ-mịt en áskt ớs tu staart quít đờ sây-fờst skrin.",
+      "vi": "Khách hàng đánh giá cao ước lượng thực tế đó và yêu cầu chúng tôi bắt đầu với màn hình an toàn nhất.",
+      "start": 21.99,
+      "end": 28.36
+    },
+    {
+      "index": 6,
+      "text": "That reply kept the conversation clear and gave the team room to plan.",
+      "pronunciation": "đat ri-plai képt đờ kon-vờ-sây-shần kliờ en gêiv đờ tim rum tu plen.",
+      "vi": "Câu trả lời đó giữ cuộc trao đổi rõ ràng và cho cả nhóm khoảng trống để lên kế hoạch.",
+      "start": 28.52,
+      "end": 33.37
+    }
+  ]
+}

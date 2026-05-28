@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "006-try-a-recipe",
+  "title": "Story 006 - Thử một công thức nấu ăn",
+  "story": "stories/006-try-a-recipe.md",
+  "audio": "audio/006-try-a-recipe.mp3",
+  "duration": 16.12,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/006-try-a-recipe.mp3",
+  "durationMale": 16.84,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I came across a simple recipe online.",
+      "pronunciation": "ai kêim ờ-kros ờ sim-pồ re-sờ-pi on-lain.",
+      "vi": "Tôi tình cờ thấy một công thức đơn giản trên mạng.",
+      "start": 0.02,
+      "end": 3.32
+    },
+    {
+      "index": 2,
+      "text": "It looked easy, so I decided to give it a try.",
+      "pronunciation": "ịt lúkt i-zi, sâu ai đi-sai-địt tu gi-vit ờ trai.",
+      "vi": "Nó trông dễ, nên tôi quyết định thử.",
+      "start": 3.48,
+      "end": 7.14
+    },
+    {
+      "index": 3,
+      "text": "I followed the steps, but I messed up the sauce.",
+      "pronunciation": "ai pha-lâud đờ stepts, bớt ai mest ấp đờ sos.",
+      "vi": "Tôi làm theo các bước, nhưng làm hỏng phần sốt.",
+      "start": 7.3,
+      "end": 9.06
+    },
+    {
+      "index": 4,
+      "text": "I almost gave up.",
+      "pronunciation": "ai ol-mâust gêi-vấp.",
+      "vi": "Tôi suýt bỏ cuộc.",
+      "start": 9.22,
+      "end": 11.1
+    },
+    {
+      "index": 5,
+      "text": "In the end, the dish turned out better than I expected.",
+      "pronunciation": "in đờ end, đờ đish tơnd ao be-tờ đen ai ích-spek-tịt.",
+      "vi": "Cuối cùng, món ăn ngon hơn tôi nghĩ.",
+      "start": 11.26,
+      "end": 14.04
+    },
+    {
+      "index": 6,
+      "text": "It was worth the effort.",
+      "pronunciation": "ịt wờz quớrth đi e-phờrt.",
+      "vi": "Nó đáng công bỏ ra.",
+      "start": 14.2,
+      "end": 16.76
+    }
+  ],
+  "audioMale1": "audio_male_1/006-try-a-recipe.mp3",
+  "durationMale1": 18.56,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I came across a simple recipe online.",
+      "pronunciation": "ai kêim ờ-kros ờ sim-pồ re-sờ-pi on-lain.",
+      "vi": "Tôi tình cờ thấy một công thức đơn giản trên mạng.",
+      "start": 0.02,
+      "end": 3.08
+    },
+    {
+      "index": 2,
+      "text": "It looked easy, so I decided to give it a try.",
+      "pronunciation": "ịt lúkt i-zi, sâu ai đi-sai-địt tu gi-vit ờ trai.",
+      "vi": "Nó trông dễ, nên tôi quyết định thử.",
+      "start": 3.24,
+      "end": 6.94
+    },
+    {
+      "index": 3,
+      "text": "I followed the steps, but I messed up the sauce.",
+      "pronunciation": "ai pha-lâud đờ stepts, bớt ai mest ấp đờ sos.",
+      "vi": "Tôi làm theo các bước, nhưng làm hỏng phần sốt.",
+      "start": 7.1,
+      "end": 10.84
+    },
+    {
+      "index": 4,
+      "text": "I almost gave up.",
+      "pronunciation": "ai ol-mâust gêi-vấp.",
+      "vi": "Tôi suýt bỏ cuộc.",
+      "start": 11,
+      "end": 12.68
+    },
+    {
+      "index": 5,
+      "text": "In the end, the dish turned out better than I expected.",
+      "pronunciation": "in đờ end, đờ đish tơnd ao be-tờ đen ai ích-spek-tịt.",
+      "vi": "Cuối cùng, món ăn ngon hơn tôi nghĩ.",
+      "start": 12.84,
+      "end": 16.68
+    },
+    {
+      "index": 6,
+      "text": "It was worth the effort.",
+      "pronunciation": "ịt wờz quớrth đi e-phờrt.",
+      "vi": "Nó đáng công bỏ ra.",
+      "start": 16.84,
+      "end": 18.48
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I came across a simple recipe online.",
+      "pronunciation": "ai kêim ờ-kros ờ sim-pồ re-sờ-pi on-lain.",
+      "vi": "Tôi tình cờ thấy một công thức đơn giản trên mạng.",
+      "start": 0.02,
+      "end": 2.72
+    },
+    {
+      "index": 2,
+      "text": "It looked easy, so I decided to give it a try.",
+      "pronunciation": "ịt lúkt i-zi, sâu ai đi-sai-địt tu gi-vit ờ trai.",
+      "vi": "Nó trông dễ, nên tôi quyết định thử.",
+      "start": 2.88,
+      "end": 5.89
+    },
+    {
+      "index": 3,
+      "text": "I followed the steps, but I messed up the sauce.",
+      "pronunciation": "ai pha-lâud đờ stepts, bớt ai mest ấp đờ sos.",
+      "vi": "Tôi làm theo các bước, nhưng làm hỏng phần sốt.",
+      "start": 6.05,
+      "end": 9.33
+    },
+    {
+      "index": 4,
+      "text": "I almost gave up.",
+      "pronunciation": "ai ol-mâust gêi-vấp.",
+      "vi": "Tôi suýt bỏ cuộc.",
+      "start": 9.49,
+      "end": 10.89
+    },
+    {
+      "index": 5,
+      "text": "In the end, the dish turned out better than I expected.",
+      "pronunciation": "in đờ end, đờ đish tơnd ao be-tờ đen ai ích-spek-tịt.",
+      "vi": "Cuối cùng, món ăn ngon hơn tôi nghĩ.",
+      "start": 11.05,
+      "end": 14.33
+    },
+    {
+      "index": 6,
+      "text": "It was worth the effort.",
+      "pronunciation": "ịt wờz quớrth đi e-phờrt.",
+      "vi": "Nó đáng công bỏ ra.",
+      "start": 14.49,
+      "end": 16.04
+    }
+  ]
+}

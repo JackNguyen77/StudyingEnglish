@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "131-ai-assistant",
+  "title": "Story 131 - Hỏi AI cho rõ",
+  "story": "stories/131-ai-assistant.md",
+  "audio": "audio/131-ai-assistant.mp3",
+  "duration": 40.67,
+  "timingMethod": "sentence-level-tts",
+  "audioMale": "audio_male/131-ai-assistant.mp3",
+  "durationMale": 35.11,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I used an AI assistant to draft a reply, not to copy it blindly.",
+      "pronunciation": "ai yuzd ờn ây-ai ờ-sis-tần tu đráft ờ ri-plai, nót tu ká-pi ịt blindli.",
+      "vi": "Tôi dùng trợ lý AI để nháp câu trả lời, không phải chép mù quáng.",
+      "start": 0.02,
+      "end": 6.55
+    },
+    {
+      "index": 2,
+      "text": "I learned to ask a clear question before expecting a useful answer.",
+      "pronunciation": "ai lơrnd tu át-sờk ờ kliờ ques-chần bi-fo ekspekting ờ yus-phồ an-sờ.",
+      "vi": "Tôi học cách hỏi câu rõ trước khi mong có câu trả lời hữu ích.",
+      "start": 6.71,
+      "end": 11.68
+    },
+    {
+      "index": 3,
+      "text": "The tool helped me rewrite the message in a calmer tone.",
+      "pronunciation": "đờ tul heo mi ri-rait đờ mé-sij in ờ kam-mờr toun.",
+      "vi": "Công cụ giúp tôi viết lại tin nhắn với giọng bình tĩnh hơn.",
+      "start": 11.84,
+      "end": 15.95
+    },
+    {
+      "index": 4,
+      "text": "I checked the tone because the first version sounded too cold.",
+      "pronunciation": "ai chékt đờ toun bi-kóz đờ phớrst vơr-zhần sao-địt tu kold.",
+      "vi": "Tôi kiểm tra giọng điệu vì bản đầu nghe quá lạnh.",
+      "start": 16.11,
+      "end": 20.59
+    },
+    {
+      "index": 5,
+      "text": "I made sure to keep the original meaning after the rewrite.",
+      "pronunciation": "ai mêid shua tu kip đi ờ-ri-jờ-nồ mi-ning áp-tờ đờ rewrite.",
+      "vi": "Tôi đảm bảo giữ nghĩa ban đầu sau khi viết lại.",
+      "start": 20.75,
+      "end": 24.67
+    },
+    {
+      "index": 6,
+      "text": "Before sending it, I reviewed the answer and changed two words.",
+      "pronunciation": "bi-fo sending ịt, ai ri-viud đờ an-sờ en chênjd tu quớrdz.",
+      "vi": "Trước khi gửi, tôi xem lại câu trả lời và đổi hai từ.",
+      "start": 24.83,
+      "end": 29.71
+    },
+    {
+      "index": 7,
+      "text": "That small habit made the tool feel useful without taking over my thinking.",
+      "pronunciation": "đat smol ha-bit mêid đờ tul phiu yus-phồ quì-thao têi-king âu-vờ mai thing-king.",
+      "vi": "Thói quen nhỏ đó làm công cụ hữu ích mà không thay tôi suy nghĩ.",
+      "start": 29.87,
+      "end": 35.03
+    }
+  ],
+  "audioMale1": "audio_male_1/131-ai-assistant.mp3",
+  "durationMale1": 40.44,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I used an AI assistant to draft a reply, not to copy it blindly.",
+      "pronunciation": "ai yuzd ờn ây-ai ờ-sis-tần tu đráft ờ ri-plai, nót tu ká-pi ịt blindli.",
+      "vi": "Tôi dùng trợ lý AI để nháp câu trả lời, không phải chép mù quáng.",
+      "start": 0.02,
+      "end": 7.08
+    },
+    {
+      "index": 2,
+      "text": "I learned to ask a clear question before expecting a useful answer.",
+      "pronunciation": "ai lơrnd tu át-sờk ờ kliờ ques-chần bi-fo ekspekting ờ yus-phồ an-sờ.",
+      "vi": "Tôi học cách hỏi câu rõ trước khi mong có câu trả lời hữu ích.",
+      "start": 7.24,
+      "end": 12.91
+    },
+    {
+      "index": 3,
+      "text": "The tool helped me rewrite the message in a calmer tone.",
+      "pronunciation": "đờ tul heo mi ri-rait đờ mé-sij in ờ kam-mờr toun.",
+      "vi": "Công cụ giúp tôi viết lại tin nhắn với giọng bình tĩnh hơn.",
+      "start": 13.07,
+      "end": 18.36
+    },
+    {
+      "index": 4,
+      "text": "I checked the tone because the first version sounded too cold.",
+      "pronunciation": "ai chékt đờ toun bi-kóz đờ phớrst vơr-zhần sao-địt tu kold.",
+      "vi": "Tôi kiểm tra giọng điệu vì bản đầu nghe quá lạnh.",
+      "start": 18.52,
+      "end": 23.7
+    },
+    {
+      "index": 5,
+      "text": "I made sure to keep the original meaning after the rewrite.",
+      "pronunciation": "ai mêid shua tu kip đi ờ-ri-jờ-nồ mi-ning áp-tờ đờ rewrite.",
+      "vi": "Tôi đảm bảo giữ nghĩa ban đầu sau khi viết lại.",
+      "start": 23.86,
+      "end": 28.47
+    },
+    {
+      "index": 6,
+      "text": "Before sending it, I reviewed the answer and changed two words.",
+      "pronunciation": "bi-fo sending ịt, ai ri-viud đờ an-sờ en chênjd tu quớrdz.",
+      "vi": "Trước khi gửi, tôi xem lại câu trả lời và đổi hai từ.",
+      "start": 28.63,
+      "end": 34.02
+    },
+    {
+      "index": 7,
+      "text": "That small habit made the tool feel useful without taking over my thinking.",
+      "pronunciation": "đat smol ha-bit mêid đờ tul phiu yus-phồ quì-thao têi-king âu-vờ mai thing-king.",
+      "vi": "Thói quen nhỏ đó làm công cụ hữu ích mà không thay tôi suy nghĩ.",
+      "start": 34.18,
+      "end": 40.36
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I used an AI assistant to draft a reply, not to copy it blindly.",
+      "pronunciation": "ai yuzd ờn ây-ai ờ-sis-tần tu đráft ờ ri-plai, nót tu ká-pi ịt blindli.",
+      "vi": "Tôi dùng trợ lý AI để nháp câu trả lời, không phải chép mù quáng.",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "index": 2,
+      "text": "I learned to ask a clear question before expecting a useful answer.",
+      "pronunciation": "ai lơrnd tu át-sờk ờ kliờ ques-chần bi-fo ekspekting ờ yus-phồ an-sờ.",
+      "vi": "Tôi học cách hỏi câu rõ trước khi mong có câu trả lời hữu ích.",
+      "start": 6.11,
+      "end": 11.51
+    },
+    {
+      "index": 3,
+      "text": "The tool helped me rewrite the message in a calmer tone.",
+      "pronunciation": "đờ tul heo mi ri-rait đờ mé-sij in ờ kam-mờr toun.",
+      "vi": "Công cụ giúp tôi viết lại tin nhắn với giọng bình tĩnh hơn.",
+      "start": 11.62,
+      "end": 16.85
+    },
+    {
+      "index": 4,
+      "text": "I checked the tone because the first version sounded too cold.",
+      "pronunciation": "ai chékt đờ toun bi-kóz đờ phớrst vơr-zhần sao-địt tu kold.",
+      "vi": "Tôi kiểm tra giọng điệu vì bản đầu nghe quá lạnh.",
+      "start": 16.96,
+      "end": 22.63
+    },
+    {
+      "index": 5,
+      "text": "I made sure to keep the original meaning after the rewrite.",
+      "pronunciation": "ai mêid shua tu kip đi ờ-ri-jờ-nồ mi-ning áp-tờ đờ rewrite.",
+      "vi": "Tôi đảm bảo giữ nghĩa ban đầu sau khi viết lại.",
+      "start": 22.74,
+      "end": 27.37
+    },
+    {
+      "index": 6,
+      "text": "Before sending it, I reviewed the answer and changed two words.",
+      "pronunciation": "bi-fo sending ịt, ai ri-viud đờ an-sờ en chênjd tu quớrdz.",
+      "vi": "Trước khi gửi, tôi xem lại câu trả lời và đổi hai từ.",
+      "start": 27.48,
+      "end": 33.99
+    },
+    {
+      "index": 7,
+      "text": "That small habit made the tool feel useful without taking over my thinking.",
+      "pronunciation": "đat smol ha-bit mêid đờ tul phiu yus-phồ quì-thao têi-king âu-vờ mai thing-king.",
+      "vi": "Thói quen nhỏ đó làm công cụ hữu ích mà không thay tôi suy nghĩ.",
+      "start": 34.1,
+      "end": 40.67
+    }
+  ]
+}

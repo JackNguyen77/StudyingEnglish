@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "243-hospital-capacity-plan",
+  "title": "Story 243 - Đọc kế hoạch capacity bệnh viện",
+  "story": "stories/243-hospital-capacity-plan.md",
+  "audio": "audio/243-hospital-capacity-plan.mp3",
+  "duration": 33.27,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/243-hospital-capacity-plan.mp3",
+  "durationMale": 31.38,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I listened to the hospital capacity plan before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ hospital kapasiti plen bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe kế hoạch capacity bệnh viện trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 4.83
+    },
+    {
+      "index": 2,
+      "text": "One bed shortage made the update harder to explain.",
+      "pronunciation": "quăn bed so-tij mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một thiếu giường bệnh làm phần update khó giải thích hơn.",
+      "start": 4.99,
+      "end": 8.61
+    },
+    {
+      "index": 3,
+      "text": "I tried to adjust staffing levels instead of reacting too quickly.",
+      "pronunciation": "ai traid tu ờ-jớst staffing le-vồz in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố điều chỉnh mức nhân sự thay vì phản ứng quá vội.",
+      "start": 8.77,
+      "end": 13.07
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short capacity planning note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt kapasiti planning note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú planning capacity ngắn để các facts rõ ràng.",
+      "start": 13.23,
+      "end": 17.9
+    },
+    {
+      "index": 5,
+      "text": "I also had to check patient flow before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék pây-shần flâu bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra luồng bệnh nhân trước khi lặp lại claim đó.",
+      "start": 18.06,
+      "end": 21.91
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect urgent care without making the conversation tense.",
+      "pronunciation": "đat heo mi protekt ơ-jần kare quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi bảo vệ chăm sóc khẩn cấp mà không làm cuộc trao đổi căng thẳng.",
+      "start": 22.07,
+      "end": 26.72
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 26.88,
+      "end": 31.3
+    }
+  ],
+  "audioMale1": "audio_male_1/243-hospital-capacity-plan.mp3",
+  "durationMale1": 37.56,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I listened to the hospital capacity plan before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ hospital kapasiti plen bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe kế hoạch capacity bệnh viện trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 5.44
+    },
+    {
+      "index": 2,
+      "text": "One bed shortage made the update harder to explain.",
+      "pronunciation": "quăn bed so-tij mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một thiếu giường bệnh làm phần update khó giải thích hơn.",
+      "start": 5.6,
+      "end": 10.32
+    },
+    {
+      "index": 3,
+      "text": "I tried to adjust staffing levels instead of reacting too quickly.",
+      "pronunciation": "ai traid tu ờ-jớst staffing le-vồz in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố điều chỉnh mức nhân sự thay vì phản ứng quá vội.",
+      "start": 10.48,
+      "end": 16.1
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short capacity planning note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt kapasiti planning note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú planning capacity ngắn để các facts rõ ràng.",
+      "start": 16.26,
+      "end": 22.04
+    },
+    {
+      "index": 5,
+      "text": "I also had to check patient flow before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék pây-shần flâu bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra luồng bệnh nhân trước khi lặp lại claim đó.",
+      "start": 22.2,
+      "end": 27.09
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect urgent care without making the conversation tense.",
+      "pronunciation": "đat heo mi protekt ơ-jần kare quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi bảo vệ chăm sóc khẩn cấp mà không làm cuộc trao đổi căng thẳng.",
+      "start": 27.25,
+      "end": 32.83
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 32.99,
+      "end": 37.48
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I listened to the hospital capacity plan before I shared my view.",
+      "pronunciation": "ai lis-sần tu đờ hospital kapasiti plen bi-fo ai she(r)d mai viu.",
+      "vi": "Tôi nghe kế hoạch capacity bệnh viện trước khi chia sẻ góc nhìn của mình.",
+      "start": 0.02,
+      "end": 5.16
+    },
+    {
+      "index": 2,
+      "text": "One bed shortage made the update harder to explain.",
+      "pronunciation": "quăn bed so-tij mêid đờ ấp-đêit harder tu eksplâyn.",
+      "vi": "Một thiếu giường bệnh làm phần update khó giải thích hơn.",
+      "start": 5.32,
+      "end": 9.17
+    },
+    {
+      "index": 3,
+      "text": "I tried to adjust staffing levels instead of reacting too quickly.",
+      "pronunciation": "ai traid tu ờ-jớst staffing le-vồz in-sted ờv rikting tu quík-li.",
+      "vi": "Tôi cố điều chỉnh mức nhân sự thay vì phản ứng quá vội.",
+      "start": 9.33,
+      "end": 14.45
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short capacity planning note so the facts stayed clear.",
+      "pronunciation": "đen ai râu ờ soọt kapasiti planning note sâu đờ fakts stâyd kliờ.",
+      "vi": "Sau đó tôi viết một ghi chú planning capacity ngắn để các facts rõ ràng.",
+      "start": 14.61,
+      "end": 19.53
+    },
+    {
+      "index": 5,
+      "text": "I also had to check patient flow before I repeated the claim.",
+      "pronunciation": "ai ol-sâu had tu chék pây-shần flâu bi-fo ai ri-pi-tịt đờ klâym.",
+      "vi": "Tôi cũng phải kiểm tra luồng bệnh nhân trước khi lặp lại claim đó.",
+      "start": 19.69,
+      "end": 23.73
+    },
+    {
+      "index": 6,
+      "text": "That helped me protect urgent care without making the conversation tense.",
+      "pronunciation": "đat heo mi protekt ơ-jần kare quì-thao making đờ konversashần tense.",
+      "vi": "Việc đó giúp tôi bảo vệ chăm sóc khẩn cấp mà không làm cuộc trao đổi căng thẳng.",
+      "start": 23.89,
+      "end": 28.78
+    },
+    {
+      "index": 7,
+      "text": "By the end, I could explain the issue in plain English.",
+      "pronunciation": "bai đi end, ai kud eksplâyn đờ í-shu in plâyn ing-glish.",
+      "vi": "Cuối cùng, tôi có thể giải thích vấn đề bằng tiếng Anh đơn giản.",
+      "start": 28.94,
+      "end": 33.19
+    }
+  ]
+}

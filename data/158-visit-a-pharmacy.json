@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "158-visit-a-pharmacy",
+  "title": "Story 158 - Mua thuốc ở nhà thuốc",
+  "story": "stories/158-visit-a-pharmacy.md",
+  "audio": "audio/158-visit-a-pharmacy.mp3",
+  "duration": 33.94,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/158-visit-a-pharmacy.mp3",
+  "durationMale": 30.55,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the medicine label before I made a final choice.",
+      "pronunciation": "ai chékt đờ medisine lây-bồ bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra nhãn thuốc trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.08
+    },
+    {
+      "index": 2,
+      "text": "One allergy warning made the situation less simple than it looked.",
+      "pronunciation": "quăn allerji wo(r)-ning mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Cảnh báo dị ứng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.24,
+      "end": 8.7
+    },
+    {
+      "index": 3,
+      "text": "I decided to ask the pharmacist before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu át-sờk đờ pharmasist bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định hỏi dược sĩ trước khi tiếp tục.",
+      "start": 8.86,
+      "end": 12.97
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short dosage note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt dosaje note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú liều dùng ngắn để người kia hiểu tôi.",
+      "start": 13.13,
+      "end": 17.82
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the instructions instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ instruktions in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra hướng dẫn thay vì đoán.",
+      "start": 17.98,
+      "end": 21.88
+    },
+    {
+      "index": 6,
+      "text": "That helped me take it safely without adding extra stress.",
+      "pronunciation": "đat heo mi têik ịt safeli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi dùng thuốc an toàn mà không thêm căng thẳng.",
+      "start": 22.04,
+      "end": 25.85
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 26.01,
+      "end": 30.47
+    }
+  ],
+  "audioMale1": "audio_male_1/158-visit-a-pharmacy.mp3",
+  "durationMale1": 36.12,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the medicine label before I made a final choice.",
+      "pronunciation": "ai chékt đờ medisine lây-bồ bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra nhãn thuốc trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.83
+    },
+    {
+      "index": 2,
+      "text": "One allergy warning made the situation less simple than it looked.",
+      "pronunciation": "quăn allerji wo(r)-ning mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Cảnh báo dị ứng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.99,
+      "end": 10.01
+    },
+    {
+      "index": 3,
+      "text": "I decided to ask the pharmacist before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu át-sờk đờ pharmasist bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định hỏi dược sĩ trước khi tiếp tục.",
+      "start": 10.17,
+      "end": 14.84
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short dosage note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt dosaje note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú liều dùng ngắn để người kia hiểu tôi.",
+      "start": 15,
+      "end": 20.79
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the instructions instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ instruktions in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra hướng dẫn thay vì đoán.",
+      "start": 20.95,
+      "end": 25.69
+    },
+    {
+      "index": 6,
+      "text": "That helped me take it safely without adding extra stress.",
+      "pronunciation": "đat heo mi têik ịt safeli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi dùng thuốc an toàn mà không thêm căng thẳng.",
+      "start": 25.85,
+      "end": 30.23
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 30.39,
+      "end": 36.04
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the medicine label before I made a final choice.",
+      "pronunciation": "ai chékt đờ medisine lây-bồ bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra nhãn thuốc trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.59
+    },
+    {
+      "index": 2,
+      "text": "One allergy warning made the situation less simple than it looked.",
+      "pronunciation": "quăn allerji wo(r)-ning mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Cảnh báo dị ứng làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.75,
+      "end": 9.4
+    },
+    {
+      "index": 3,
+      "text": "I decided to ask the pharmacist before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu át-sờk đờ pharmasist bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định hỏi dược sĩ trước khi tiếp tục.",
+      "start": 9.56,
+      "end": 13.85
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short dosage note so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt dosaje note sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một ghi chú liều dùng ngắn để người kia hiểu tôi.",
+      "start": 14.01,
+      "end": 19.55
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check the instructions instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék đờ instruktions in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra hướng dẫn thay vì đoán.",
+      "start": 19.71,
+      "end": 24.13
+    },
+    {
+      "index": 6,
+      "text": "That helped me take it safely without adding extra stress.",
+      "pronunciation": "đat heo mi têik ịt safeli quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi dùng thuốc an toàn mà không thêm căng thẳng.",
+      "start": 24.29,
+      "end": 28.75
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.91,
+      "end": 33.86
+    }
+  ]
+}

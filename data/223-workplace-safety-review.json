@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "223-workplace-safety-review",
+  "title": "Story 223 - Nghe review an toàn lao động",
+  "story": "stories/223-workplace-safety-review.md",
+  "audio": "audio/223-workplace-safety-review.mp3",
+  "duration": 33.06,
+  "timingMethod": "silence-assisted-estimated",
+  "audioMale": "audio_male/223-workplace-safety-review.mp3",
+  "durationMale": 32.6,
+  "sentencesMale": [
+    {
+      "index": 1,
+      "text": "I checked the safety review before I made a final choice.",
+      "pronunciation": "ai chékt đờ safeti ri-viu bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra review an toàn trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.55
+    },
+    {
+      "index": 2,
+      "text": "One workplace incident made the situation less simple than it looked.",
+      "pronunciation": "quăn workplase insident mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Sự cố nơi làm việc làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.71,
+      "end": 9.11
+    },
+    {
+      "index": 3,
+      "text": "I decided to inspect the site before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu inspekt đờ site bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định kiểm tra hiện trường trước khi tiếp tục.",
+      "start": 9.27,
+      "end": 12.9
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short safety report so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt safeti ri-po(r)t sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một báo cáo an toàn ngắn để người kia hiểu tôi.",
+      "start": 13.06,
+      "end": 18.04
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check training records instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék trây-ning re-kờrdz in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra record training thay vì đoán.",
+      "start": 18.2,
+      "end": 22.35
+    },
+    {
+      "index": 6,
+      "text": "That helped me prevent future accidents without adding extra stress.",
+      "pronunciation": "đat heo mi pri-vent phiu-chờ aksidents quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi ngăn tai nạn sau này mà không thêm căng thẳng.",
+      "start": 22.51,
+      "end": 27.36
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 27.52,
+      "end": 32.52
+    }
+  ],
+  "audioMale1": "audio_male_1/223-workplace-safety-review.mp3",
+  "durationMale1": 35.17,
+  "sentencesMale1": [
+    {
+      "index": 1,
+      "text": "I checked the safety review before I made a final choice.",
+      "pronunciation": "ai chékt đờ safeti ri-viu bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra review an toàn trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.59
+    },
+    {
+      "index": 2,
+      "text": "One workplace incident made the situation less simple than it looked.",
+      "pronunciation": "quăn workplase insident mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Sự cố nơi làm việc làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.75,
+      "end": 9.87
+    },
+    {
+      "index": 3,
+      "text": "I decided to inspect the site before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu inspekt đờ site bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định kiểm tra hiện trường trước khi tiếp tục.",
+      "start": 10.03,
+      "end": 14.38
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short safety report so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt safeti ri-po(r)t sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một báo cáo an toàn ngắn để người kia hiểu tôi.",
+      "start": 14.54,
+      "end": 19.89
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check training records instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék trây-ning re-kờrdz in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra record training thay vì đoán.",
+      "start": 20.05,
+      "end": 24.35
+    },
+    {
+      "index": 6,
+      "text": "That helped me prevent future accidents without adding extra stress.",
+      "pronunciation": "đat heo mi pri-vent phiu-chờ aksidents quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi ngăn tai nạn sau này mà không thêm căng thẳng.",
+      "start": 24.51,
+      "end": 29.46
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 29.62,
+      "end": 35.09
+    }
+  ],
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I checked the safety review before I made a final choice.",
+      "pronunciation": "ai chékt đờ safeti ri-viu bi-fo ai mêid ờ phai-nồ chois.",
+      "vi": "Tôi kiểm tra review an toàn trước khi chốt lựa chọn cuối.",
+      "start": 0.02,
+      "end": 4.54
+    },
+    {
+      "index": 2,
+      "text": "One workplace incident made the situation less simple than it looked.",
+      "pronunciation": "quăn workplase insident mêid đờ situashần les sim-pồ đen ịt lúkt.",
+      "vi": "Sự cố nơi làm việc làm tình huống kém đơn giản hơn vẻ ban đầu.",
+      "start": 4.7,
+      "end": 9.69
+    },
+    {
+      "index": 3,
+      "text": "I decided to inspect the site before I moved forward.",
+      "pronunciation": "ai đi-sai-địt tu inspekt đờ site bi-fo ai muvd pho-quờrd.",
+      "vi": "Tôi quyết định kiểm tra hiện trường trước khi tiếp tục.",
+      "start": 9.85,
+      "end": 14.13
+    },
+    {
+      "index": 4,
+      "text": "Then I wrote a short safety report so the other person understood me.",
+      "pronunciation": "đen ai râu ờ soọt safeti ri-po(r)t sâu đờ other pơ-sần ăn-đờ-stud mi.",
+      "vi": "Sau đó tôi viết một báo cáo an toàn ngắn để người kia hiểu tôi.",
+      "start": 14.29,
+      "end": 18.77
+    },
+    {
+      "index": 5,
+      "text": "I also needed to check training records instead of guessing.",
+      "pronunciation": "ai ol-sâu ni-địt tu chék trây-ning re-kờrdz in-sted ờv guessing.",
+      "vi": "Tôi cũng cần kiểm tra record training thay vì đoán.",
+      "start": 18.93,
+      "end": 23.07
+    },
+    {
+      "index": 6,
+      "text": "That helped me prevent future accidents without adding extra stress.",
+      "pronunciation": "đat heo mi pri-vent phiu-chờ aksidents quì-thao adding ek-strờ stres.",
+      "vi": "Việc đó giúp tôi ngăn tai nạn sau này mà không thêm căng thẳng.",
+      "start": 23.23,
+      "end": 28.16
+    },
+    {
+      "index": 7,
+      "text": "By the end, the whole situation felt calmer and easier to handle.",
+      "pronunciation": "bai đi end, đờ hâu situashần felt kam-mờr en i-zi-ờ tu hen-đồ.",
+      "vi": "Cuối cùng, cả tình huống bình tĩnh hơn và dễ xử lý hơn.",
+      "start": 28.32,
+      "end": 32.98
+    }
+  ]
+}
